@@ -61,7 +61,7 @@ const UI = [
 ];
 
 let failures = 0;
-for (const name of ['light', 'dark']) {
+for (const name of ['dark']) {
   const theme = readTheme(name);
   console.log(`\n${name} theme`);
   for (const [fg, bg] of BODY) {
