@@ -68,9 +68,8 @@ for (const b of lib.books) {
 out.push('');
 
 out.push('-- Sparks --------------------------------------------------------------------');
-out.push('-- Replaced per book so a rebuild that drops or reorders a spark stays consistent.');
+out.push('-- Upserted per spark so rebuilds preserve user saves and reading history.');
 for (const b of lib.books) {
-  out.push(`delete from public.sparks where book_id = ${q(b.id)};`);
   const values = b.sparks.map((s, i) =>
     `  (${[
       q(s.id), q(b.id), i + 1, q(s.hook), q(s.insight), q(s.why), q(s.apply), q(s.format),
@@ -80,7 +79,7 @@ for (const b of lib.books) {
   out.push(
     'insert into public.sparks (id, book_id, position, hook, insight, why, apply, format, carousel, tags) values'
   );
-  out.push(values.join(',\n') + ';');
+  out.push(values.join(',\n') + ' on conflict (id) do update set position = excluded.position, hook = excluded.hook, insight = excluded.insight, why = excluded.why, apply = excluded.apply, format = excluded.format, carousel = excluded.carousel, tags = excluded.tags;');
 }
 out.push('');
 out.push('commit;');

@@ -120,6 +120,7 @@ export function SessionProvider({ children }: { children: React.ReactNode }) {
     (sparkId: string) => {
       if (seen.includes(sparkId) || pendingViews.current.has(sparkId)) return;
       pendingViews.current.add(sparkId);
+      setSeen((prev) => [...prev, sparkId]);
       setActivity((prev) => {
         const key = today();
         const next = { days: { ...prev.days, [key]: (prev.days[key] ?? 0) + 1 } };
