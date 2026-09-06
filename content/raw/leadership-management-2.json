@@ -1177,11 +1177,33 @@
         "insight": "Groups that recover tend to rebuild three things together. People take responsibility for outcomes rather than for effort. They work across boundaries instead of defending them. And they start proposing things without being asked. Each supports the others: accountability without collaboration produces defensive silos, collaboration without accountability produces pleasant meetings and no results, and initiative without either burns out the few people who still try.",
         "why": "The three map onto the three symptoms of decline: blame, isolation and passivity. Fixing one alone leaves the other two to regenerate the spiral, which is why partial turnarounds relapse.",
         "apply": "Score your team one to five on each of the three this week, then pick the lowest and design one visible change against it.",
-        "format": "single",
+        "format": "carousel",
         "tags": [
           "accountability",
           "collaboration",
           "initiative"
+        ],
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Put responsibility back on outcomes",
+            "body": "Shift the question in reviews from how hard people worked to what actually happened. Responsibility for a result is what ends the search for someone to blame."
+          },
+          {
+            "step": 2,
+            "title": "Force work across the boundary",
+            "body": "Give one important problem to a group drawn from two teams that currently avoid each other, with a shared deadline. Cooperation restarts through work, not through workshops."
+          },
+          {
+            "step": 3,
+            "title": "Make proposing safe again",
+            "body": "Ask for suggestions in public, adopt one visibly within a fortnight, and credit the person by name. Initiative returns only when people see it survive contact with management."
+          },
+          {
+            "step": 4,
+            "title": "Check all three together",
+            "body": "Score the group on each leg every month. Lifting one while the other two stay flat is how partial turnarounds relapse into the same spiral within a year."
+          }
         ]
       },
       {
@@ -1934,6 +1956,660 @@
       "year_verified": true,
       "confidence": "high",
       "notes": "First published 2016 by Viking. Several supporting studies are small or observational, and one prominent pitching example is a single company anecdote; both flagged in the sparks. All prose original."
+    }
+  },
+  {
+    "id": "reinventing-organizations",
+    "title": "Reinventing Organizations",
+    "subtitle": "A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness",
+    "author": "Frederic Laloux",
+    "year": 2014,
+    "category": "leadership-management",
+    "subcategory": "self-management",
+    "tags": [
+      "self-management",
+      "org-design",
+      "decentralisation",
+      "purpose",
+      "hierarchy",
+      "culture"
+    ],
+    "difficulty": "challenging",
+    "read_time_min": 13,
+    "why_it_matters": "It documented organisations running at real scale with no managers, and described the specific machinery that makes that possible rather than treating it as a philosophy. It is the reference point for almost every self-management experiment since.",
+    "crux": {
+      "headline": "Remove the managers and you must replace what they did",
+      "body": "Hierarchies do a lot of unglamorous work: allocating resources, resolving disputes, setting pay, deciding who does what. Organisations that operate without managers have not deleted those functions, they have rebuilt each one as an explicit process that anybody can run. Where that machinery exists, self-management is startlingly effective. Where it does not, removing the hierarchy simply hands power to whoever is most confident, with none of the accountability a manager carried."
+    },
+    "sparks": [
+      {
+        "id": "reinventing-organizations-s01",
+        "hook": "A nursing organisation of thousands runs with no managers and small local teams.",
+        "insight": "The most convincing example is unglamorous: community nurses in the Netherlands, organised into small teams that plan their own rosters, choose their own patients, hire their own colleagues and handle their own budget, supported by a tiny head office and regional coaches with no authority over them. Nurses spend more time with patients and less on coordination. It is not a thought experiment or a startup with thirty people. It is regulated healthcare at national scale.",
+        "why": "The case matters because it is in a sector with strict compliance requirements, which is where sceptics usually say self-management cannot work. It is still a single organisation with a distinctive founder.",
+        "apply": "Take one team and give it control of a real decision it currently escalates, such as its own schedule or its own tool budget, for one quarter.",
+        "format": "single",
+        "tags": [
+          "self-management",
+          "teams",
+          "autonomy"
+        ]
+      },
+      {
+        "id": "reinventing-organizations-s02",
+        "hook": "Anyone can make any decision, as long as they ask the people it will hit.",
+        "insight": "The central mechanism in most self-managing organisations is a rule about advice rather than approval. You may decide anything within your reach, including spending significant money, provided you first consult everyone materially affected and everyone with real expertise. You must genuinely take the advice seriously and you do not have to follow it. The result is that decisions get made close to the information, while the consultation supplies the coordination a hierarchy would otherwise have imposed.",
+        "why": "The rule works because it separates two things hierarchy bundles together: the need for information from many people, and the need for one person to be accountable. Consensus fails because it merges them again.",
+        "apply": "Pick one decision type you currently approve. Replace approval with a written requirement to seek advice from three named roles.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Name the decider",
+            "body": "One person carries the decision and its consequences. This is the opposite of consensus, and getting it wrong is why most flat structures stall in endless discussion."
+          },
+          {
+            "step": 2,
+            "title": "Identify who must be asked",
+            "body": "Everyone materially affected and everyone with genuine expertise. Not everyone with an opinion, and not only the people likely to agree with you."
+          },
+          {
+            "step": 3,
+            "title": "Record the advice",
+            "body": "Write down what you were told and what you decided to do about it. The record is what makes the process trustworthy and what makes it reviewable afterwards."
+          },
+          {
+            "step": 4,
+            "title": "Decide and own it",
+            "body": "You are free to go against every piece of advice you received. You are not free to skip asking, and you carry the outcome either way."
+          }
+        ],
+        "tags": [
+          "decision-making",
+          "autonomy",
+          "self-management"
+        ]
+      },
+      {
+        "id": "reinventing-organizations-s03",
+        "hook": "Self-managing does not mean unstructured. It usually means more written rules.",
+        "insight": "The picture people have is of an organisation with no process. The reality is the reverse: because there is no manager to arbitrate, everything a manager would have decided informally has to be written down. How conflict is escalated, how pay is set, how someone is removed from a team, how a colleague commits to what they will deliver. These organisations tend to have more explicit process than a conventional one, just distributed rather than concentrated.",
+        "why": "Where a manager exists, ambiguity is resolved by their judgement. Remove the manager without replacing the judgement with a stated process and the ambiguity is resolved by whoever is loudest.",
+        "apply": "Before removing any layer of management, write down the five decisions that layer currently makes and who will make each instead.",
+        "format": "single",
+        "tags": [
+          "org-design",
+          "process",
+          "self-management"
+        ]
+      },
+      {
+        "id": "reinventing-organizations-s04",
+        "hook": "Conflict has to have a process, or it just goes to whoever has the most allies.",
+        "insight": "Without a boss to escalate to, disagreement needs an explicit route. The pattern in these organisations is a staged one: the two people talk directly first, then bring in a mutually agreed colleague as a mediator, then a small panel, and only then an owner or founder. Nobody may complain about a colleague to a third party outside this route. It sounds bureaucratic and it is what stops an organisation without managers turning into a popularity contest.",
+        "why": "Informal power fills any vacuum left by formal power. A stated conflict process is the main defence against that, because it gives the less socially connected person somewhere to go.",
+        "apply": "Write your conflict route on one page and publish it, including the rule that grievances go to the person concerned first.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Go direct first",
+            "body": "The person with the problem raises it with the person concerned, privately, within a short and stated window. Talking about someone before talking to them is the practice being outlawed."
+          },
+          {
+            "step": 2,
+            "title": "Bring in one mediator",
+            "body": "If that fails, both choose a colleague they trust. The mediator does not rule on the substance, they hold the conversation together until an agreement exists."
+          },
+          {
+            "step": 3,
+            "title": "Convene a small panel",
+            "body": "Still stuck, and a few respected colleagues hear it. Their recommendation carries weight through reputation rather than authority, which is usually enough."
+          },
+          {
+            "step": 4,
+            "title": "Reserve the final step",
+            "body": "Only then does a founder or owner step in, and rarely. Making this the last resort rather than the first is what keeps the earlier steps meaningful."
+          }
+        ],
+        "tags": [
+          "conflict",
+          "process",
+          "fairness"
+        ]
+      },
+      {
+        "id": "reinventing-organizations-s05",
+        "hook": "Colleagues can set each other's commitments better than a manager can.",
+        "insight": "In several of these organisations, each person negotiates a written agreement each year with the colleagues they actually work with: what they will deliver, what they are accountable for, what the others can expect. Nobody in a distant office writes it. The people who depend on the work do. It is far more specific than a job description because it is made by people who will notice immediately if it is not honoured, and it is renegotiated when the work changes.",
+        "why": "Accountability to a manager is accountability to one person's attention. Accountability to the colleagues whose work depends on yours is continuous, informed and much harder to game.",
+        "apply": "Have each person write what their three closest collaborators can expect from them, then have those collaborators sign or challenge it.",
+        "format": "single",
+        "tags": [
+          "accountability",
+          "commitments",
+          "peers"
+        ]
+      },
+      {
+        "id": "reinventing-organizations-s06",
+        "hook": "Detailed budgets and forecasts are mostly a control system wearing a planning costume.",
+        "insight": "Much of the annual planning cycle exists so that a centre can hold a periphery to account, not because anyone believes the numbers. Organisations that drop it replace prediction with responsiveness: shorter cycles, teams that can reallocate their own resources, and a rough sense of direction instead of a defended twelve-month figure. The cost is that senior people lose an illusion of control. The benefit is that nobody spends a month producing a forecast everybody knows is fiction.",
+        "why": "Detailed long-horizon forecasts in uncertain environments are consistently poor, and the effort spent producing them is large. The gain is real where the environment moves fast and small where it does not.",
+        "apply": "Cut one planning artefact this cycle and replace it with a monthly review of what actually changed and what you will do differently.",
+        "format": "single",
+        "tags": [
+          "planning",
+          "budgets",
+          "control"
+        ]
+      },
+      {
+        "id": "reinventing-organizations-s07",
+        "hook": "Removing hierarchy does not remove power. It hides it.",
+        "insight": "This is the strongest criticism of the whole approach and it deserves saying plainly. A structure with no formal authority still has influence, and influence flows to the confident, the long-tenured, the well-connected and the founder. The difference is that formal power can be named, appealed and removed, while informal power cannot. Self-management works where the process is explicit enough to give quieter people a route in, and fails badly where flatness is a slogan.",
+        "why": "This critique long predates the book and has been made repeatedly about leaderless movements. Some highly publicised corporate experiments in flat structure have run into exactly this problem and partly reversed.",
+        "apply": "Ask the three least senior people who really decides things here. If the answer differs from your org chart, your structure is informal power in disguise.",
+        "format": "single",
+        "tags": [
+          "power",
+          "hierarchy",
+          "critique"
+        ]
+      },
+      {
+        "id": "reinventing-organizations-s08",
+        "hook": "These structures survive only while the owner genuinely wants them to.",
+        "insight": "In almost every documented case, the practices depend on a founder, chief executive or board that holds the line when things get difficult. A change of ownership, a bad year, or an incoming leader who finds the whole thing indulgent, and the organisation reverts within a couple of years. That is not a footnote. It means self-management is not yet a structure that protects itself, and anyone adopting it should know how fragile it is to a single personnel change at the top.",
+        "why": "Organisational forms persist when they are locked into ownership, law or incentives. These are held in place mostly by conviction, which is the least durable of the three.",
+        "apply": "If you are building this, write into your governing documents which practices require a supermajority to change, before you need the protection.",
+        "format": "single",
+        "tags": [
+          "governance",
+          "fragility",
+          "leadership"
+        ]
+      },
+      {
+        "id": "reinventing-organizations-s09",
+        "hook": "Bringing your whole self to work is a real gain and a real risk.",
+        "insight": "Many of these organisations run practices designed to let people be less professionally armoured: opening meetings with a round where everyone says how they actually are, meeting rooms with explicit norms, time set aside for reflection. When it works, people stop spending energy on performance and problems surface earlier. When it goes wrong, it becomes an expectation to disclose, and a person who prefers to keep work and life separate is quietly marked as not committed.",
+        "why": "The gain and the risk share one mechanism: reducing the distance between the private person and the work persona. Make participation genuinely optional or the practice becomes a new conformity.",
+        "apply": "Add a two-minute opening round to one meeting, make passing explicitly acceptable, and check after a month whether anyone felt obliged.",
+        "format": "single",
+        "tags": [
+          "wholeness",
+          "meetings",
+          "culture"
+        ]
+      },
+      {
+        "id": "reinventing-organizations-s10",
+        "hook": "Twelve organisations, all chosen because they worked. That is not evidence.",
+        "insight": "The research method here is to find organisations already succeeding with these practices and describe them in detail. There is no comparison group and no count of the firms that tried the same thing and collapsed, so the book cannot tell you the odds. The descriptions are genuinely valuable as an existence proof and as a source of mechanisms you can borrow. They cannot tell you that this approach outperforms a well-run conventional company.",
+        "why": "Selecting cases on the outcome is the classic survivorship problem, and the developmental stage model that frames the book comes from a body of thought that is philosophical rather than empirically established.",
+        "apply": "Borrow one mechanism rather than the whole model. Run it in a single team for two quarters and measure something you already track.",
+        "format": "single",
+        "tags": [
+          "evidence",
+          "survivorship",
+          "honesty"
+        ]
+      }
+    ],
+    "actions": [
+      "Replace approval with an advice requirement for one class of decision, naming who must be consulted and requiring the advice be recorded.",
+      "Write and publish a staged conflict process, starting with the rule that a complaint goes to the person concerned before it goes to anyone else.",
+      "Before removing any management layer, list every decision that layer makes and name explicitly who or what process will make each one instead.",
+      "Pilot one borrowed mechanism in a single team for two quarters and compare it against a metric you were already tracking."
+    ],
+    "if_you_liked": [
+      "team-of-teams",
+      "turn-the-ship-around",
+      "no-rules-rules"
+    ],
+    "not_for_you_if": "You want comparative evidence rather than admiring case studies, or you are put off by a developmental framework drawn from integral philosophy rather than research.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2014, self-published by Nelson Parker; an illustrated edition followed in 2016. Case selection is on the outcome and the stage model is philosophical rather than empirical; both flagged in spark ten. All prose original."
+    }
+  },
+  {
+    "id": "the-great-ceo-within",
+    "title": "The Great CEO Within",
+    "subtitle": "The Tactical Guide to Company Building",
+    "author": "Matt Mochary",
+    "year": 2019,
+    "category": "leadership-management",
+    "subcategory": "founder-operations",
+    "tags": [
+      "founders",
+      "operations",
+      "meetings",
+      "feedback",
+      "delegation",
+      "hiring"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 10,
+    "why_it_matters": "It is the operating manual most fast-growing startup founders are quietly handed, covering the unglamorous machinery of running a company: what to write down, who owns what, and how meetings and feedback actually work.",
+    "crux": {
+      "headline": "Get it out of your head and onto a page someone owns",
+      "body": "Most of what goes wrong in a growing company is not strategic. It is that important things live only in someone's memory, nobody is unambiguously responsible for them, and problems recirculate because they were never converted into a standing rule. Writing down goals, issues, owners and decisions is not administration. It is the mechanism that lets an organisation hold more than one person's working memory, which is the actual constraint on how fast it can grow."
+    },
+    "sparks": [
+      {
+        "id": "the-great-ceo-within-s01",
+        "hook": "If it only exists in your head, the company cannot grow past you.",
+        "insight": "Founders carry an enormous amount in memory: who is unhappy, what was promised, which decision is pending, what the plan actually is. That works until roughly the point it stops, and it stops without warning. Writing things down looks like overhead and functions as capacity. Once goals, decisions, owners and open problems are in a place everyone can read, other people can act without asking you, and you stop being the routing layer through which all coordination has to pass.",
+        "why": "The constraint on a growing organisation is usually shared context, not talent. Written artefacts are the cheapest way to give many people the same context at once.",
+        "apply": "Create one document this week listing the company's current top goals, who owns each, and the open questions. Share it with everyone.",
+        "format": "single",
+        "tags": [
+          "writing",
+          "clarity",
+          "scaling"
+        ]
+      },
+      {
+        "id": "the-great-ceo-within-s02",
+        "hook": "Every recurring function needs exactly one name against it.",
+        "insight": "In a young company, work gets done by whoever notices, which is efficient at ten people and disastrous at forty. Make a list of everything that must happen repeatedly, from security reviews to customer onboarding to paying invoices, and put a single human name beside each. Two names means nobody. No name means you. The exercise is dull and it surfaces, within an hour, three or four important things nobody has been doing at all.",
+        "why": "Diffusion of responsibility is well established: the more people who could act, the less likely any specific one does. A single named owner removes the ambiguity that produces the diffusion.",
+        "apply": "List every recurring responsibility in your company on one sheet and put one name against each. Publish the gaps you find.",
+        "format": "single",
+        "tags": [
+          "ownership",
+          "accountability",
+          "operations"
+        ]
+      },
+      {
+        "id": "the-great-ceo-within-s03",
+        "hook": "Keep a running list of problems, and convert each one into a rule.",
+        "insight": "Most teams solve the same problem repeatedly because they fix the instance and never write the standard. Keep a visible list of open issues. For each, get to what actually caused it rather than what triggered it, agree a rule that would prevent the class of problem, name an owner, and only then close it. The list becomes the company's institutional memory, and the rate at which it shrinks is a better health measure than most dashboards.",
+        "why": "Fixing instances scales linearly with problems, while fixing classes scales with categories, which are far fewer. The discipline is in refusing to close an item without a stated standard.",
+        "apply": "Start an issues document today. Add every problem raised this week, and do not close any without a written rule and an owner.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Write the issue plainly",
+            "body": "One sentence describing what went wrong, with no blame and no proposed solution yet. Getting it visible is most of the work, because unwritten problems recur invisibly."
+          },
+          {
+            "step": 2,
+            "title": "Find the cause behind the cause",
+            "body": "Ask why until the answer is about a process rather than a person. If the final answer is that someone was careless, you have not gone far enough."
+          },
+          {
+            "step": 3,
+            "title": "Write a standard",
+            "body": "State the rule that would have prevented this whole class of problem. It must be specific enough that a new joiner could follow it without asking anyone."
+          },
+          {
+            "step": 4,
+            "title": "Assign and close",
+            "body": "One owner, one date, then close the item. An issues list that only grows teaches people that raising things achieves nothing."
+          }
+        ],
+        "tags": [
+          "problem-solving",
+          "process",
+          "operations"
+        ]
+      },
+      {
+        "id": "the-great-ceo-within-s04",
+        "hook": "If you have a problem with someone, you may only discuss it with them.",
+        "insight": "The default in most companies is to complain about a colleague to a third party, usually a manager, who then relays a softened version. Everyone involved feels reasonable and nothing improves, because the person concerned never hears the real thing. A simple rule fixes an enormous amount: raise it with the person directly, and if you bring it to a manager, their job is to coach you to have that conversation rather than to have it for you.",
+        "why": "Relayed complaints lose specificity, remove the chance to correct a misunderstanding, and teach people that avoidance works. The rule only holds if managers refuse to be the intermediary.",
+        "apply": "Next time someone brings you a complaint about a colleague, ask what they will say to that person and when, then follow up on the date.",
+        "format": "single",
+        "tags": [
+          "communication",
+          "conflict",
+          "culture"
+        ]
+      },
+      {
+        "id": "the-great-ceo-within-s05",
+        "hook": "Feedback delayed to the review cycle is feedback wasted.",
+        "insight": "The useful moment for a correction is within a day of the thing happening, in private, and framed around what you observed rather than what it says about the person. Ask whether they want it first, which sounds like a formality and materially changes how it is received. Save it for a quarterly form and three things go wrong: the detail is gone, the person has repeated the behaviour thirty times, and the conversation becomes about the rating rather than the work.",
+        "why": "Specific, immediate feedback is easier to act on and much harder to dispute, because both people remember the incident. Delay converts a coaching moment into a verdict.",
+        "apply": "Give one piece of specific feedback within twenty-four hours this week, in private, starting with what you observed and asking permission first.",
+        "format": "single",
+        "tags": [
+          "feedback",
+          "coaching",
+          "management"
+        ]
+      },
+      {
+        "id": "the-great-ceo-within-s06",
+        "hook": "You do not have a meeting problem. You have four meetings pretending to be one.",
+        "insight": "A single weekly leadership meeting cannot do coordination, metrics review, hard decisions and long-range thinking. Give each its own rhythm and rules. Short and daily to prevent collisions. Weekly for numbers, blockers and tactical calls. Monthly or quarterly for the small number of decisions that need genuine argument and preparation. Annually, away from the building, for the direction. Every meeting also needs a written agenda beforehand and decisions recorded afterwards, or it does not count.",
+        "why": "Different decisions need different preparation and depth. Combined into one slot, the urgent items reliably crowd out the important ones because they carry a date.",
+        "apply": "Split your leadership meeting by purpose this month, require a written agenda before each, and record every decision with an owner.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Daily, and short",
+            "body": "A few minutes to surface blockers and avoid collisions. No presentations, no problem solving. If it runs long, someone has brought the wrong kind of item."
+          },
+          {
+            "step": 2,
+            "title": "Weekly, on the numbers",
+            "body": "Review the small set of metrics you agreed matter, work through blockers, and make tactical calls. Anything needing an hour of thought gets deferred, not squeezed."
+          },
+          {
+            "step": 3,
+            "title": "Monthly, on the hard things",
+            "body": "One or two genuinely difficult questions with a written brief circulated in advance. Reading time at the start beats a presentation nobody can interrogate."
+          },
+          {
+            "step": 4,
+            "title": "Yearly, out of the building",
+            "body": "Direction, people and how the leadership team itself is working. Away from the office, with enough time that the awkward topic actually comes up."
+          }
+        ],
+        "tags": [
+          "meetings",
+          "cadence",
+          "operations"
+        ]
+      },
+      {
+        "id": "the-great-ceo-within-s07",
+        "hook": "Track what drains you, then hand those things to someone who finds them easy.",
+        "insight": "Go through a fortnight of your calendar and mark each block as energising or draining. The pattern is usually stark, and the draining blocks are frequently things another person would enjoy and do better. Delegation framed as capacity management rarely happens, because you can always argue you have time. Framed as energy, it becomes obvious: you are spending your scarcest resource on work that is cheap for someone else, and doing your actual job badly as a result.",
+        "why": "Time can be stretched and attention cannot. Energy is a better proxy for what you can sustain, though this is a practitioner heuristic rather than a measured finding.",
+        "apply": "Mark two weeks of calendar blocks as energising or draining, then hand over the three biggest drains within a month.",
+        "format": "single",
+        "tags": [
+          "delegation",
+          "energy",
+          "founders"
+        ]
+      },
+      {
+        "id": "the-great-ceo-within-s08",
+        "hook": "Write the scorecard before you meet a single candidate.",
+        "insight": "Interviewing without a written definition of the role means you evaluate candidates against each other and against your mood, and you end up hiring the most impressive person rather than the right one. Write down what this person must accomplish in the first year, which competencies that requires, and how you would recognise each. Then interview against the document. It feels bureaucratic and it is the single cheapest improvement most companies can make to their hiring.",
+        "why": "A fixed standard set before you meet anyone limits how much your first impression reshapes the criteria afterwards, which is the main failure mode in unstructured hiring.",
+        "apply": "For your next open role, write the outcomes and competencies first, circulate them to the panel, and score against them individually before discussing.",
+        "format": "single",
+        "tags": [
+          "hiring",
+          "interviewing",
+          "process"
+        ]
+      },
+      {
+        "id": "the-great-ceo-within-s09",
+        "hook": "Reference checks are the highest-signal step and the one everyone skips.",
+        "insight": "By the time you are checking references, you want the hire to work, so the calls get delegated or done as a formality with people the candidate chose. Done properly they are the most predictive hour in the process: talk to former managers and peers, ask what the person needs to be great, ask where they would rank them among people they have worked with, and listen carefully to hesitation. The awkward pause carries more information than the answer that follows it.",
+        "why": "References are a check on the same evidence from people with no incentive to impress you, which is the main thing an interview cannot provide. The weakness is that candidates supply the list.",
+        "apply": "Do two reference calls yourself for your next hire, ask for the name of one person the candidate did not list, and note every hesitation.",
+        "format": "single",
+        "tags": [
+          "hiring",
+          "references",
+          "judgement"
+        ]
+      },
+      {
+        "id": "the-great-ceo-within-s10",
+        "hook": "This is a coach's playbook from one industry, not a body of evidence.",
+        "insight": "Everything here is distilled from advising venture-funded technology companies, mostly in one region, mostly young and well capitalised. There is no research behind it and no comparison with companies that did the opposite. That is not a reason to ignore it, because practical heuristics from someone who has seen hundreds of similar situations are genuinely useful. It is a reason to test each one against your own context rather than importing the whole system.",
+        "why": "Practices tuned to abundant capital, fast growth and a young workforce transfer badly to organisations with none of those. Knowing the origin lets you predict which parts will not fit.",
+        "apply": "Pick the three practices here that fit your constraints, adopt those properly, and write down why you are rejecting the rest.",
+        "format": "single",
+        "tags": [
+          "evidence",
+          "context",
+          "honesty"
+        ]
+      }
+    ],
+    "actions": [
+      "Build a single shared document holding current goals, owners and open questions, and update it in the same meeting every week.",
+      "List every recurring responsibility in the organisation with exactly one name against each, and fix the gaps the list reveals.",
+      "Start an issues list where nothing is closed without a written standard and a named owner, and review it weekly.",
+      "Rewrite your hiring process to start with a written scorecard and to include two reference calls you make personally."
+    ],
+    "if_you_liked": [
+      "high-output-management",
+      "the-hard-thing-about-hard-things",
+      "measure-what-matters"
+    ],
+    "not_for_you_if": "You want research rather than one coach's accumulated heuristics, or you run an organisation unlike a venture-funded technology startup, where much of this does not transfer.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2019, developed from the author's coaching notes and freely circulated online before print. No evidence base beyond practitioner experience, flagged in spark ten. All prose original."
+    }
+  },
+  {
+    "id": "work-rules",
+    "title": "Work Rules!",
+    "subtitle": "Insights from Inside Google That Will Transform How You Live and Lead",
+    "author": "Laszlo Bock",
+    "year": 2015,
+    "category": "leadership-management",
+    "subcategory": "people-operations",
+    "tags": [
+      "hiring",
+      "people-operations",
+      "performance",
+      "pay",
+      "culture",
+      "management"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It opened up one large company's people practices in unusual detail, including what failed, and made the case for running human resources on evidence rather than tradition. Structured hiring became mainstream partly because of it.",
+    "crux": {
+      "headline": "Spend on selection, not on fixing people later",
+      "body": "Most organisations invest heavily in training and performance management, and treat hiring as a hurdle to clear quickly so the work can start. Reverse the emphasis. Getting the selection right is far cheaper than remediation, and the practices that improve it are unglamorous: the same questions for every candidate, decisions taken by a group rather than the hiring manager alone, and a standard nobody is allowed to lower because the role is urgent."
+    },
+    "sparks": [
+      {
+        "id": "work-rules-s01",
+        "hook": "Take the hiring decision away from the hiring manager.",
+        "insight": "The manager who needs the role filled is the worst-placed person to hold the standard, because they carry the pain of the vacancy and none of the long-term cost of a poor hire. Moving the decision to a group that includes people outside the team, using written evidence from the interviews, slows things down and raises the bar. It also removes the single most common failure in hiring: a manager under pressure quietly deciding that this candidate will do.",
+        "why": "The pressure to fill a role is immediate and personal while the cost of a weak hire is deferred and shared, so the incentives on a hiring manager are structurally misaligned.",
+        "apply": "Add one person from outside the team to your next hiring decision, and require written interview evidence before anyone states an opinion.",
+        "format": "single",
+        "tags": [
+          "hiring",
+          "decision-making",
+          "standards"
+        ]
+      },
+      {
+        "id": "work-rules-s02",
+        "hook": "Ask every candidate the same questions, or you are just comparing conversations.",
+        "insight": "Unstructured interviews feel informative and mostly measure whether you enjoyed talking to someone. A structured interview uses the same defined questions for every candidate, tied to what the job needs, with a scoring guide describing what a weak and a strong answer look like. It is duller for the interviewer and considerably more accurate. The comparison only works because everyone was asked the same thing, which is exactly what the free-flowing conversation destroys.",
+        "why": "Structured interviews outperform unstructured ones across decades of research. Note that the headline validity figures from the older meta-analyses were revised downward after methodological corrections, though the ranking held.",
+        "apply": "Write four job-specific questions with a scoring guide, use them for every candidate in your next hire, and score before you discuss.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Define what the job needs",
+            "body": "Two or three capabilities the role genuinely requires, described in terms of what the person would have to do. Generic qualities like drive are not assessable."
+          },
+          {
+            "step": 2,
+            "title": "Fix the questions",
+            "body": "Write them once and use them for everyone. Ask about specific past situations and about how they would handle a real problem from the job."
+          },
+          {
+            "step": 3,
+            "title": "Write the scoring guide",
+            "body": "Describe in advance what a weak, adequate and strong answer contains. Doing this after the interview means writing the standard around the candidate you liked."
+          },
+          {
+            "step": 4,
+            "title": "Score alone, then meet",
+            "body": "Every interviewer records their scores and evidence before hearing anyone else. Discussion first produces agreement, not accuracy, because the confident voice anchors the room."
+          }
+        ],
+        "tags": [
+          "hiring",
+          "interviewing",
+          "structure"
+        ]
+      },
+      {
+        "id": "work-rules-s03",
+        "hook": "After about four interviews you are mostly burning the candidate's patience.",
+        "insight": "Adding interviewers keeps feeling safer, so processes grow until good candidates drop out from exhaustion. Google's own analysis of its notoriously long process found the predictive value flattened after a small number of interviews, and the extra rounds bought almost nothing while costing weeks and lost candidates. Speed is not a compromise on quality here. A shorter process with structure beats a long one without it, and it wins you the people who had other offers.",
+        "why": "Each additional interview measures much the same thing as the last, so the information gained falls sharply while the cost to the candidate keeps rising linearly.",
+        "apply": "Count the interviews in your current process. Cut it to four structured ones and measure your offer acceptance rate over the next quarter.",
+        "format": "single",
+        "tags": [
+          "hiring",
+          "speed",
+          "process"
+        ]
+      },
+      {
+        "id": "work-rules-s04",
+        "hook": "Separate the pay conversation from the growth conversation, by months if you can.",
+        "insight": "When money and a rating are on the table, people are managing a negotiation, not listening to coaching. Every developmental point you make is being decoded for what it means about the number. Splitting them, so that the conversation about how someone can get better happens at a completely different time from the one about compensation, costs nothing and makes the first conversation possible at all. Most companies combine them for administrative convenience and lose the coaching entirely.",
+        "why": "The stakes in the pay conversation dominate attention, so feedback delivered alongside it is processed as justification rather than as advice. Time separation is the simplest available fix.",
+        "apply": "Move your development conversations several months away from your pay cycle, and say explicitly at the start that no money is being decided.",
+        "format": "single",
+        "tags": [
+          "performance",
+          "pay",
+          "coaching"
+        ]
+      },
+      {
+        "id": "work-rules-s05",
+        "hook": "In many roles, paying everyone similarly is what drives your best people out.",
+        "insight": "Where individual contribution varies enormously, compressing pay into a narrow band means the strongest performers are subsidising the average ones and can tell. Paying them far more than the band suggests feels unfair and is a more accurate reflection of what they produce. This only works under two conditions: the role must genuinely have that spread, and your measurement of contribution has to be trustworthy. Where either fails, wide pay differences are corrosive rather than motivating.",
+        "why": "Output in many roles is heavily skewed rather than normally distributed, so equal treatment of unequal contribution is itself a distortion. The caveat about measurement quality is doing a lot of work here.",
+        "apply": "Look at your top performers' pay against the band. If the gap does not reflect the gap in contribution, take the case to your compensation process.",
+        "format": "single",
+        "tags": [
+          "pay",
+          "performance",
+          "retention"
+        ]
+      },
+      {
+        "id": "work-rules-s06",
+        "hook": "Study your best people the way you would study a defect.",
+        "insight": "Organisations investigate failure thoroughly and success barely at all. The people producing exceptional results are doing something specific and usually cannot articulate it, because it feels obvious to them. Go and find out. Sit with them, watch the sequence, ask what they do that colleagues do not. Then teach it. This is a cheaper source of improvement than any external training programme, and it also tells you what your job descriptions have been getting wrong.",
+        "why": "The practices that produce excellent results are local and often invisible to the person using them. Extracting them requires observation, because asking alone returns generic answers.",
+        "apply": "Pick your two strongest performers, spend an hour watching how they actually work, and write down the three things nobody else is doing.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Identify both tails",
+            "body": "Your very best and the people genuinely struggling. The middle needs less attention than either, and it is where most management time currently goes."
+          },
+          {
+            "step": 2,
+            "title": "Observe rather than interview",
+            "body": "Watch the best do the work. What they tell you when asked is usually a rationalisation. The useful detail is in the sequence and what they skip."
+          },
+          {
+            "step": 3,
+            "title": "Teach it as a practice",
+            "body": "Turn what you found into something specific others can copy this week, not a principle. A checklist or a template beats a slide about behaviours."
+          },
+          {
+            "step": 4,
+            "title": "Help the strugglers early",
+            "body": "Treat the bottom as a training and placement problem first. Most improve substantially, and the ones who do not have had a fair and documented chance."
+          }
+        ],
+        "tags": [
+          "performance",
+          "learning",
+          "management"
+        ]
+      },
+      {
+        "id": "work-rules-s07",
+        "hook": "Managers matter, and what good ones do is unglamorous.",
+        "insight": "An internal effort to test whether managers made any measurable difference found that they did, and then went looking for what the well-rated ones actually did. The list was disappointingly ordinary: hold regular one to ones, coach rather than direct, take an interest in careers, avoid micromanaging, be technically credible enough to help. No charisma, no vision. The value of the exercise was not the list but the fact that it was derived from the company's own data rather than assumed.",
+        "why": "Honest caveat: the analysis was internal, built largely on employee survey ratings, and never independently reproduced. The behaviours are sensible and the causal claim behind them is weaker than the retelling suggests.",
+        "apply": "Ask your team to rate you anonymously on those few behaviours, then pick the lowest one and work on it in the open.",
+        "format": "single",
+        "tags": [
+          "management",
+          "coaching",
+          "evidence"
+        ]
+      },
+      {
+        "id": "work-rules-s08",
+        "hook": "Small changes to defaults beat large changes to policy.",
+        "insight": "Telling people to do something well produces a memo. Changing what happens automatically produces behaviour. A checklist that arrives in a manager's inbox the day before someone starts, a default retirement contribution, a reminder timed to the moment a decision is actually made. These are cheap, easy to test properly against a control group, and they work on the enormous number of behaviours that fail from friction and forgetting rather than from unwillingness.",
+        "why": "Most behaviour at work is driven by what is easiest at the moment of action. Changing the default changes the outcome without requiring anyone to be persuaded of anything.",
+        "apply": "Pick one process people routinely forget, send an automated prompt at the exact moment it is needed, and compare the next quarter against the last.",
+        "format": "single",
+        "tags": [
+          "nudges",
+          "defaults",
+          "operations"
+        ]
+      },
+      {
+        "id": "work-rules-s09",
+        "hook": "Give people more freedom than is comfortable, and be specific about the limits.",
+        "insight": "The argument is that if you have hired carefully, treating adults like adults returns more than controlling them does: open information, freedom over how work gets done, real influence over decisions that affect them. The part that gets forgotten is that this only works alongside a very high selection bar and unambiguous standards. Freedom given to a team assembled without care produces drift, and the companies that copied the freedom without copying the selection got exactly that.",
+        "why": "The two halves are a package. Autonomy raises output where capability and standards are already high and lowers it where they are not, which is why partial imitation of this model fails so often.",
+        "apply": "Choose one control you impose out of habit, remove it for a quarter, and state clearly what standard still has to be met without it.",
+        "format": "single",
+        "tags": [
+          "autonomy",
+          "trust",
+          "culture"
+        ]
+      },
+      {
+        "id": "work-rules-s10",
+        "hook": "One company, extraordinary margins, and a queue of applicants. Adjust accordingly.",
+        "insight": "These practices come from an organisation with unusual profitability, a vast applicant pool and a workforce concentrated in one profession. That combination makes an expensive hiring process rational and generous benefits affordable in a way they may not be for you. The company has also since abandoned or heavily revised several practices described here. Take the reasoning, which travels, and be sceptical of the specific mechanisms, which were tuned to conditions you probably do not share.",
+        "why": "Single-organisation case evidence cannot separate what worked from what the context permitted. That the same company later changed some of these practices is itself useful information.",
+        "apply": "Before copying any practice here, write what it assumes about your margins, your applicant pool and your workforce. Reject the ones that fail the test.",
+        "format": "single",
+        "tags": [
+          "evidence",
+          "context",
+          "honesty"
+        ]
+      }
+    ],
+    "actions": [
+      "Convert your interview process to a fixed set of job-specific questions with a written scoring guide, and require individual scores before any group discussion.",
+      "Move the hiring decision from the hiring manager alone to a small group that includes someone outside the team.",
+      "Separate your development conversations from your pay cycle by several months, and say at the start of each which one it is.",
+      "Spend an hour observing each of your two strongest performers, then turn what you find into something specific the rest of the team can copy."
+    ],
+    "if_you_liked": [
+      "first-break-all-the-rules",
+      "no-rules-rules",
+      "high-output-management"
+    ],
+    "not_for_you_if": "You want practices that transfer to a small or resource-constrained organisation without adaptation, or you distrust conclusions drawn from a single unusually profitable company.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2015 by Twelve. Evidence is largely internal to one company and partly survey-based; the limits and later reversals are flagged in sparks seven and ten. All prose original."
     }
   }
 ]

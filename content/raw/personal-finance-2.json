@@ -1701,6 +1701,141 @@
     }
   },
   {
+    "id": "the-two-income-trap",
+    "title": "The Two-Income Trap",
+    "subtitle": "Why Middle-Class Mothers and Fathers Are Going Broke",
+    "author": "Elizabeth Warren and Amelia Warren Tyagi",
+    "year": 2003,
+    "category": "personal-finance",
+    "subcategory": "household-finance",
+    "tags": ["family-finances", "fixed-costs", "housing", "debt", "financial-risk"],
+    "difficulty": "moderate",
+    "read_time_min": 11,
+    "why_it_matters": "It took bankruptcy court records rather than opinion and found the middle-class money story was wrong. Families were not overspending on luxuries. They had committed two incomes to fixed bills and left themselves no reserve when one income stopped.",
+    "crux": {
+      "headline": "Two incomes, no spare one",
+      "body": "A generation ago a household ran on one income and held a second earner in reserve. If illness or redundancy hit, that person went to work and the family survived. Today both incomes are committed to a mortgage bought for the school catchment, childcare, two cars and health cover, none of which can be cut quickly. The family looks richer and is far more fragile, because the backup plan was spent before the crisis arrived."
+    },
+    "sparks": [
+      {
+        "id": "the-two-income-trap-s01",
+        "hook": "Adding a second income made families less safe, not more.",
+        "insight": "When one earner supported a household, the other adult was an unused reserve. Job loss or a long illness was survivable because someone could start earning. Once both adults work and both salaries are committed to bills that cannot be cancelled, the reserve is gone. The household has more money coming in and less protection, and the failure only becomes visible when one of the two incomes stops.",
+        "why": "The fragility comes from committed spending, not from income. A family spending both salaries on fixed obligations has no slack, while a family living on one salary has a whole second one in hand.",
+        "apply": "Work out whether your household could cover its fixed bills on the larger income alone, and write down the gap if it cannot.",
+        "format": "single",
+        "tags": ["fragility", "family-finances"]
+      },
+      {
+        "id": "the-two-income-trap-s02",
+        "hook": "Families were not going broke on luxuries. The bills had changed.",
+        "insight": "The standard explanation for middle-class debt is overspending on small pleasures. Comparing what families actually bought across a generation showed the opposite pattern: less on clothing, food and household goods, and far more on housing, childcare, transport, health cover and taxes. Those are the costs you cannot economise your way out of, which is why the advice to cut treats misses the mechanism entirely.",
+        "why": "The data came from spending surveys and bankruptcy filings rather than anecdote. The costs that grew are structural and mostly not discretionary, which is what makes the popular explanation both wrong and comforting.",
+        "apply": "Split last year's spending into fixed obligations and genuine choices, and see which side has actually been growing.",
+        "format": "single",
+        "tags": ["fixed-costs", "spending-myths"]
+      },
+      {
+        "id": "the-two-income-trap-s03",
+        "hook": "You are not bidding on a house. You are bidding on a school place.",
+        "insight": "When school quality is tied to where you live, the price of a home includes the price of the school attached to it. Parents then compete for a limited number of good catchments by borrowing more, which raises prices without improving any school. The result is a bidding war that families experience as a housing decision and that behaves like an auction with no cap and no losing bid that feels acceptable.",
+        "why": "The mechanism is strongest where public school funding and admission are tied to residence. Where school choice is not geographic, housing costs are driven by other forces.",
+        "apply": "Write down what portion of your housing budget is buying a school catchment, then check whether the alternative routes to that outcome are cheaper.",
+        "format": "single",
+        "tags": ["housing", "schools"]
+      },
+      {
+        "id": "the-two-income-trap-s04",
+        "hook": "Most bankruptcies are not spending stories. They are three events.",
+        "insight": "Court records show the same triggers repeatedly: losing a job, a serious illness in the family, and marital breakdown. These are not failures of budgeting, and they arrive without warning to households that looked comfortable the year before. Reading financial collapse as a character problem is inaccurate and expensive, because it points people at the wrong defence. The defence that works is slack, insurance and low committed costs.",
+        "why": "Bankruptcy research by Warren and colleagues established the pattern, though the widely quoted proportions attributed to medical causes have been challenged on methodology. The three triggers themselves are not seriously disputed.",
+        "apply": "Check that you hold income protection and adequate health cover before optimising anything about investments or budgeting.",
+        "format": "single",
+        "tags": ["bankruptcy", "risk"]
+      },
+      {
+        "id": "the-two-income-trap-s05",
+        "hook": "Your fragility is a ratio, and you can calculate it tonight.",
+        "insight": "What determines whether a shock destroys a household is not income but the share of that income already promised. A family spending sixty percent of take-home pay on obligations can absorb a lot. A family at ninety-five percent is one bad month from borrowing, regardless of how large the salaries are. The number is easy to work out, unfamiliar to most people, and more predictive than any budgeting habit.",
+        "why": "Fixed costs cannot be reduced quickly, so they set the size of the shock you can survive. Discretionary spending, the part everyone focuses on, is the part that can actually be cut in a crisis.",
+        "apply": "Run the four steps below and write your committed-cost percentage on the same page as your savings balance.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "List what cannot be stopped", "body": "Mortgage or rent, childcare, insurance, loan repayments, utilities, transport to work. These continue whether or not you have a job next month." },
+          { "step": 2, "title": "Divide by take-home pay", "body": "Committed costs as a percentage of household income after tax. Below about sixty percent gives room to move; above eighty leaves almost none." },
+          { "step": 3, "title": "Test one income", "body": "Repeat the calculation using only the larger salary. This is the number that tells you what happens if the other one stops for six months." },
+          { "step": 4, "title": "Attack the largest commitment", "body": "If the ratio is uncomfortable, only the big items move it: housing, childcare arrangements, car finance. Cancelling subscriptions changes the second decimal place." }
+        ],
+        "tags": ["fixed-costs", "stress-test"]
+      },
+      {
+        "id": "the-two-income-trap-s06",
+        "hook": "The second salary is smaller than it looks. Do the subtraction.",
+        "insight": "A second income arrives with costs attached: childcare, commuting, a second car, work clothes, more convenience food, and a higher tax rate applied to the household. What is left can be a modest fraction of the headline salary. That does not mean the second earner should stop, since careers compound and independence matters. It means the decision should be made with the real number rather than the gross one, and that the real number is often startling.",
+        "why": "The calculation is about the marginal effect on household finances, not the value of a career. Long career breaks carry large lifetime costs that the annual arithmetic misses entirely.",
+        "apply": "Calculate the net contribution of the second income after childcare, commuting, tax and work costs, then decide with that figure visible.",
+        "format": "single",
+        "tags": ["childcare", "work-decisions"]
+      },
+      {
+        "id": "the-two-income-trap-s07",
+        "hook": "Credit is easiest to get at the exact moment it is most dangerous.",
+        "insight": "Lenders became very good at extending credit to families already under strain, because a borrower who carries a balance for years is more profitable than one who repays quickly. From inside the household, borrowing looks like the bridge across a bad month. From the lender's side it is the beginning of a long, high-margin relationship. The offer arriving during a crisis is not a rescue and should not be read as one.",
+        "why": "Consumer lending deregulation in the United States removed most interest-rate ceilings, which made lending to higher-risk borrowers profitable rather than prohibited. Rules differ elsewhere but the incentive is the same.",
+        "apply": "Decide now, in writing, what you would do in a three-month income gap, and make borrowing the last item on that list.",
+        "format": "single",
+        "tags": ["credit", "lending"]
+      },
+      {
+        "id": "the-two-income-trap-s08",
+        "hook": "Buy the house one income can carry, not the one two incomes can reach.",
+        "insight": "The strongest protection available to a two-earner household is to commit only one salary to the immovable bills. The second then funds savings, investment and childcare, and can disappear for a year without threatening the house. It buys a smaller property than the bank would approve, in a less contested catchment, and it converts the household from fragile to shock-resistant in a single decision.",
+        "why": "This inverts the usual approach, where lenders size the mortgage against both incomes and the household treats that maximum as a target. The lender is managing their risk, not yours.",
+        "apply": "Before your next mortgage application, set your own cap at what the larger single salary could service comfortably.",
+        "format": "single",
+        "tags": ["mortgage", "resilience"]
+      },
+      {
+        "id": "the-two-income-trap-s09",
+        "hook": "Build the family finances so one income can go missing for a year.",
+        "insight": "Fragility is designed in slowly, through a series of individually reasonable decisions, and it can be designed out the same way. Each choice about housing, cars, childcare and insurance either adds a fixed obligation or leaves room. Making that trade-off explicit, once, at each decision point, produces a household that survives redundancy or illness without a crisis, which is a different thing from a household that simply earns more.",
+        "why": "Resilience comes from the structure of commitments rather than from the size of income. High earners with high fixed costs fail in the same way as anyone else, only later and more expensively.",
+        "apply": "Work through the four steps below with your partner and change one commitment this year.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Size housing to one salary", "body": "Set the mortgage or rent against the larger income alone. This single decision does more for household resilience than every other item combined." },
+          { "step": 2, "title": "Keep childcare flexible", "body": "Prefer arrangements you can change at a few months' notice over ones locked in for years, so a job loss does not force two simultaneous upheavals." },
+          { "step": 3, "title": "Insure the earners", "body": "Income protection and life cover on both adults, sized against the committed bills rather than a round number. This is the part households postpone longest." },
+          { "step": 4, "title": "Bank the second income", "body": "Route as much of the second salary as possible into savings and investments. It stays available and it stops the household adapting to spending it." }
+        ],
+        "tags": ["planning", "resilience"]
+      },
+      {
+        "id": "the-two-income-trap-s10",
+        "hook": "Some of this is your budget. Some of it is the price of a school place.",
+        "insight": "Household choices matter and they do not set the cost of childcare, healthcare or a home in a decent catchment. Treating every squeezed family as financially careless is both wrong and convenient, because it directs attention away from the costs doing the damage. Do the personal part seriously, and keep the distinction clear, so that a structural problem does not get absorbed as private shame.",
+        "why": "The authors' policy proposals, including school choice mechanisms to break the housing and schooling link, remain contested. The diagnosis of where the money went has held up better than the prescriptions.",
+        "apply": "Separate your financial pressures into what your decisions control and what prices control, and spend your energy on the first list.",
+        "format": "single",
+        "tags": ["structural", "honesty"]
+      }
+    ],
+    "actions": [
+      "Calculate your committed costs as a percentage of take-home pay, then repeat the calculation using only the larger income.",
+      "Work out the true net contribution of the second income after childcare, commuting, work costs and the household tax rate.",
+      "Check that both earners hold income protection and life cover sized against the bills that cannot be cancelled.",
+      "Set your own borrowing cap at what one salary could service, and treat the lender's maximum as irrelevant to the decision."
+    ],
+    "if_you_liked": ["your-money-or-your-life", "the-millionaire-next-door", "the-index-card"],
+    "not_for_you_if": "You want personal tactics rather than analysis, or you need advice outside the American context of health costs, bankruptcy law and school funding.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2003 by Basic Books; Elizabeth Warren was then a Harvard law professor. Medical-bankruptcy proportions from the associated research have been contested; flagged in the record. All prose original."
+    }
+  },
+  {
     "id": "same-as-ever",
     "title": "Same as Ever",
     "subtitle": "A Guide to What Never Changes",
@@ -1905,6 +2040,141 @@
       "year_verified": true,
       "confidence": "high",
       "notes": "Published November 2023 by Harriman House. The stability-breeds-instability idea is attributed to Hyman Minsky in the record. Arguments are essayistic and story-led; noted as a caveat. All prose original."
+    }
+  },
+  {
+    "id": "scarcity",
+    "title": "Scarcity",
+    "subtitle": "Why Having Too Little Means So Much",
+    "author": "Sendhil Mullainathan and Eldar Shafir",
+    "year": 2013,
+    "category": "personal-finance",
+    "subcategory": "money-behaviour",
+    "tags": ["poverty", "decision-making", "budgeting", "attention", "debt"],
+    "difficulty": "moderate",
+    "read_time_min": 11,
+    "why_it_matters": "It reframed bad money decisions as a consequence of having too little rather than a cause of it. Shortage of money, or of time, changes how anyone thinks, which explains behaviour that looks careless from the outside and feels inevitable from inside.",
+    "crux": {
+      "headline": "Not having enough changes how you think",
+      "body": "Shortage captures attention. That focus is genuinely useful in the short term, which is why deadlines produce work and a tight month produces careful shopping. The cost is everything outside the immediate problem: long-term plans, small maintenance tasks, patience with your family. Scarcity taxes the mental capacity you would need to escape it, so the same person makes worse decisions when short of money or time than when comfortable."
+    },
+    "sparks": [
+      {
+        "id": "scarcity-s01",
+        "hook": "Shortage sharpens you and blinds you at the same time.",
+        "insight": "When something is short, your attention locks onto it. People with little money shop more accurately than the wealthy and know exactly what things cost. People with a deadline tomorrow get more done than in the previous month. That focus is real and useful. What it takes is everything outside the frame: the appointment you miss, the form you forget, the slower plan that would have solved the problem permanently.",
+        "why": "Attention is limited, so a strong focus on one thing necessarily means neglect of others. The neglected items are usually the ones with no deadline, which is why they are also the ones that compound.",
+        "apply": "Name the one thing outside your current tunnel that will cost most if you keep ignoring it, and book a time for it this week.",
+        "format": "single",
+        "tags": ["attention", "tunneling"]
+      },
+      {
+        "id": "scarcity-s02",
+        "hook": "Worrying about money uses the same mind you need to manage money.",
+        "insight": "Financial strain runs constantly in the background: which bill to delay, whether the card will clear, how to cover the repair. That background processing occupies real mental capacity, so less is available for everything else, including planning, patience and complicated forms. The effect is not about intelligence or willpower. It is closer to trying to think clearly while short of sleep, and it lifts when the pressure lifts.",
+        "why": "The original experiments, including a shopping-centre study and fieldwork with Indian sugarcane farmers before and after harvest, reported sizeable effects. Later replication attempts have been mixed, so treat the magnitude as unsettled and the direction as plausible.",
+        "apply": "Move your hardest financial decisions to a moment when the pressure is lower, such as just after payday rather than the day before.",
+        "format": "single",
+        "tags": ["bandwidth", "cognitive-load"]
+      },
+      {
+        "id": "scarcity-s03",
+        "hook": "Poverty is a situation people are in, not a type of person.",
+        "insight": "The same individual behaves differently when squeezed and when comfortable, which means the behaviour belongs to the circumstance rather than the character. This matters practically, because if shortage causes poor decisions rather than only resulting from them, then reducing the shortage improves the decisions. It also explains why advice built on the assumption of a calm, well-resourced reader tends to fail exactly the people it is aimed at.",
+        "why": "The claim is about causation running in both directions, not about denying that decisions matter. It predicts that the same person improves when the pressure is relieved, which is testable and broadly consistent with the evidence.",
+        "apply": "When someone in difficulty makes a decision you find baffling, ask what is occupying their attention before you assess their judgement.",
+        "format": "single",
+        "tags": ["poverty", "judgement"]
+      },
+      {
+        "id": "scarcity-s04",
+        "hook": "Slack is what lets you be wrong cheaply.",
+        "insight": "Someone with room in their budget can forget a bill, buy the wrong size, or take a slow route without consequence. The same mistakes made without slack trigger a fee, an overdraft, a missed shift. It is not that people with less money make more errors; it is that identical errors cost them far more. This is why small buffers of money and time are worth more than their size suggests, and why removing them makes everything harder.",
+        "why": "Slack absorbs variance. Without it, every unexpected event converts directly into a cost, and those costs then consume the resources that would have rebuilt the buffer.",
+        "apply": "Create the smallest useful buffer you can this month, even a hundred pounds, and treat it as insurance against fees rather than as savings.",
+        "format": "single",
+        "tags": ["slack", "buffers"]
+      },
+      {
+        "id": "scarcity-s05",
+        "hook": "Build slack on purpose, because nothing else will leave you any.",
+        "insight": "Both money and time get filled to capacity unless someone deliberately reserves room. A diary booked end to end has no space for the meeting that overruns, and a budget spent to the last pound has no space for the dentist. Reserving capacity feels wasteful in advance and looks obvious afterwards. It is the single structural change that makes a household or a schedule stop lurching from one emergency to the next.",
+        "why": "Systems without buffers transmit every disturbance directly to the next commitment, which is how one late train or one repair bill produces a week of consequences.",
+        "apply": "Follow the four steps below and protect one buffer of money and one of time this week.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Reserve money first", "body": "Move a fixed sum into a separate account on payday and treat it as already spent. A buffer left as whatever remains at month end is never actually there." },
+          { "step": 2, "title": "Reserve time the same way", "body": "Block empty slots in the week before anything else is booked. They will fill with overrun and small tasks, which is exactly what they are for." },
+          { "step": 3, "title": "Stop booking to capacity", "body": "Plan to about eighty percent of what you could theoretically fit, in both budget and calendar. The last twenty percent is what absorbs reality." },
+          { "step": 4, "title": "Defend it from good reasons", "body": "There will always be a sensible use for the buffer. Spending it converts a resilient plan into a fragile one, usually a week before you needed it." }
+        ],
+        "tags": ["slack", "planning"]
+      },
+      {
+        "id": "scarcity-s06",
+        "hook": "Borrowing to end today's shortage guarantees tomorrow's is worse.",
+        "insight": "Under pressure, the loan that clears this week's crisis is compelling and the repayment sits outside the tunnel. Next month arrives with the same bills plus the repayment, so the shortage is larger and the next loan more necessary. This is how a trap forms without any single foolish decision in it. Each step is locally reasonable, and the sequence is what does the damage.",
+        "why": "The pattern is well documented in short-term and payday lending, where repeat borrowing rather than one-off use accounts for the bulk of the business.",
+        "apply": "Before borrowing to solve a shortfall, write next month's budget including the repayment, and see whether it balances.",
+        "format": "single",
+        "tags": ["debt", "scarcity-trap"]
+      },
+      {
+        "id": "scarcity-s07",
+        "hook": "Being short of time does the same thing to you as being short of money.",
+        "insight": "The mechanism is not specific to money. A busy person tunnels on the urgent task and drops maintenance, relationships and planning, then pays for it later with a bigger problem. That is why professionals with high incomes recognise the description immediately. It also means the fixes transfer: reserve capacity, reduce the number of things demanding vigilance, and handle the important-but-not-urgent items on a schedule rather than when they become fires.",
+        "why": "The same limited attention is being competed for in both cases, which is why time-poor and money-poor people report similar patterns of neglect despite completely different circumstances.",
+        "apply": "Pick the maintenance task you have deferred longest, personal or financial, and put it in the diary before the urgent work.",
+        "format": "single",
+        "tags": ["time-scarcity", "busyness"]
+      },
+      {
+        "id": "scarcity-s08",
+        "hook": "Design your money for the tired, distracted version of you.",
+        "insight": "Most financial plans assume attention you will not have during the months they most need to work. The fix is to remove decisions rather than add discipline: automatic transfers, default contributions, direct debits, one setup that runs for years. Every step requiring you to remember something is a step that fails in a difficult week, which is precisely the week the plan was built for.",
+        "why": "Defaults and automation reliably outperform reminders and education in savings programmes, because they do not draw on the capacity that pressure takes away.",
+        "apply": "Find one financial task you currently do manually each month and convert it into a standing instruction today.",
+        "format": "single",
+        "tags": ["automation", "defaults"]
+      },
+      {
+        "id": "scarcity-s09",
+        "hook": "You do not think your way out of a spiral. You buy back capacity.",
+        "insight": "When everything is urgent, the instinct is to try harder, which spends the resource already exhausted. The route out is to reduce what demands attention. Cancel or postpone something real, convert recurring decisions into automatic ones, get one buffer in place, and then spend the reclaimed capacity on the single item that would end the cycle rather than manage it. The order matters, because planning done inside a spiral is usually wasted.",
+        "why": "Reducing load frees attention, and attention is what long-term decisions require. Attempting the strategic work first, while still juggling, is the version that keeps failing.",
+        "apply": "Run the four steps below when you notice you are firefighting rather than deciding.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Write every fire down", "body": "Get all of it out of your head onto one page. Juggling is expensive precisely because holding the list costs more than reading it." },
+          { "step": 2, "title": "Drop or delay one thing", "body": "Something real has to go, not something trivial. The goal is to reduce load, and only a genuine commitment leaving actually reduces it." },
+          { "step": 3, "title": "Automate a recurring decision", "body": "Convert a monthly choice into a standing instruction: a transfer, a direct debit, a repeat order. Each one permanently removes something from your attention." },
+          { "step": 4, "title": "Spend the capacity once", "body": "Use the space you just bought on the one action that ends a recurring problem, not on catching up. Catching up returns you to the same position." }
+        ],
+        "tags": ["overwhelm", "recovery"]
+      },
+      {
+        "id": "scarcity-s10",
+        "hook": "Advice written for calm people fails the people who need it most.",
+        "insight": "Standard financial guidance assumes a reader with attention to spare: compare accounts, plan ahead, resist temptation, fill in forms. Under real pressure those instructions are close to useless, which is why programmes that reduce effort tend to work while those that add information tend not to. If you are helping someone, remove steps and deadlines instead of explaining harder. If you are the one under pressure, choose the simplest version rather than the optimal one.",
+        "why": "Interventions that simplify enrolment, prefill forms or shift deadlines consistently outperform financial education alone. The effect sizes vary, and the general direction is one of the more robust findings in the area.",
+        "apply": "Cut one step out of a financial process you keep failing to complete, and accept the simpler version rather than the ideal one.",
+        "format": "single",
+        "tags": ["financial-advice", "simplicity"]
+      }
+    ],
+    "actions": [
+      "Move a fixed buffer into a separate account on payday and treat it as spent, so mistakes stop costing fees.",
+      "Convert one manual monthly financial decision into a standing instruction that runs without your attention.",
+      "Block empty capacity in your week and budget deliberately, planning to about eighty percent rather than to the limit.",
+      "Choose the hardest financial decisions you face and schedule them for a low-pressure moment rather than a deadline."
+    ],
+    "if_you_liked": ["the-psychology-of-money", "nudge", "thinking-fast-and-slow"],
+    "not_for_you_if": "You want budgeting tactics or investment guidance. This explains why money decisions go wrong under pressure rather than telling you what to buy.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2013 by Times Books; authors are an economist and a psychologist. Replication of the headline bandwidth studies has been mixed and the record says so. All prose original."
     }
   },
   {
