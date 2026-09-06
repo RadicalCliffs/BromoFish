@@ -1,0 +1,1723 @@
+[
+  {
+    "id": "readers-digest-complete-do-it-yourself-manual",
+    "title": "Reader's Digest Complete Do-It-Yourself Manual",
+    "subtitle": null,
+    "author": "Reader's Digest",
+    "year": 1973,
+    "category": "how-to-diy",
+    "subcategory": "home-repair",
+    "tags": [
+      "home-repair",
+      "tools",
+      "plumbing",
+      "electrical",
+      "maintenance",
+      "carpentry"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 12,
+    "why_it_matters": "It put a competent tradesperson's working sequence for hundreds of household jobs onto one shelf, at a time when most people had nobody to ask. Generations learned that a leaking tap or a dead socket is a diagnosable problem, not a phone call.",
+    "crux": {
+      "headline": "Most repairs are diagnosis, not skill",
+      "body": "Almost every household failure has a short list of causes, and the list is knowable. A dripping tap is a worn washer or a pitted seat. A dead socket is a tripped breaker, a loose terminal or a failed device. Work the list in order, cheapest and most likely first, and confirm each step before moving on. The tools are ordinary. What separates a fixed thing from a botched one is the order you work in, and knowing which jobs to hand to a qualified trade."
+    },
+    "sparks": [
+      {
+        "id": "readers-digest-complete-do-it-yourself-manual-s01",
+        "hook": "Switching the power off is not the same as knowing it is off.",
+        "insight": "Every electrical job starts the same way. Kill the circuit at the consumer unit or breaker panel, then test at the exact point you are about to touch, using a voltage tester you have just proved works on a live circuit. Labels lie, previous owners rewire things, and a badly fitted switch can break the neutral instead of the live conductor. The test takes ten seconds. Assuming costs you everything. Do the same with water: close the isolating valve, then open the tap to prove the flow has actually stopped.",
+        "why": "Circuits are frequently mislabelled and non-standard wiring is common in older houses. A tester proves the conductor in front of you is dead. A switch position only proves what somebody once intended.",
+        "apply": "Buy a two-pole voltage tester, and prove it on a known live outlet before and after every test so you never trust a tester that is silently faulty.",
+        "format": "single",
+        "tags": [
+          "electrical",
+          "safety"
+        ]
+      },
+      {
+        "id": "readers-digest-complete-do-it-yourself-manual-s02",
+        "hook": "Spend one Saturday labelling the fuse box and save every future emergency.",
+        "insight": "Most homes have a breaker panel labelled by whoever built it, in handwriting nobody can read, describing rooms that have since been knocked through. Fixing this is a two-person afternoon. One person switches a breaker, the other walks the house with a lamp or a socket tester and writes down what died. You end up with a map that turns a panicked midnight fault into a thirty-second isolation. It is the highest-value hour of maintenance in the whole house.",
+        "why": "Emergency isolation is only fast if you already know which switch to throw. Every minute spent guessing at a live fault is a minute the hazard stays energised and the water keeps arriving.",
+        "apply": "Label the panel this weekend with a lamp and a helper, then photograph the finished panel and keep the picture on your phone.",
+        "format": "single",
+        "tags": [
+          "electrical",
+          "preparation"
+        ]
+      },
+      {
+        "id": "readers-digest-complete-do-it-yourself-manual-s03",
+        "hook": "Find the main water stopcock before the day you need it.",
+        "insight": "The most expensive household failure is water, because it keeps arriving. Every home has a main stop valve, and most have local isolating valves under sinks and behind toilets. Find all of them, close each one fully and open it again so it does not seize, and hang a tag on the main. A valve that has not moved in fifteen years will often refuse to move at the moment you need it, which is how a burst supply pipe becomes a ruined ceiling.",
+        "why": "Older gate valves seize when left untouched for years, and the failure only reveals itself under pressure. Exercising them once a year is the cheapest insurance in the house.",
+        "apply": "Walk the house this week, close and reopen every isolating valve you can find, and tie a bright tag to the main stop so anyone can locate it.",
+        "format": "single",
+        "tags": [
+          "plumbing",
+          "maintenance"
+        ]
+      },
+      {
+        "id": "readers-digest-complete-do-it-yourself-manual-s04",
+        "hook": "A good patch is invisible because of what you did before the filler.",
+        "insight": "Repairing a hole in a wall is mostly preparation and patience. Cut the ragged edge back to sound material, back the hole so the filler has something to sit on, then build up in thin coats rather than one thick one. Deep filler shrinks, cracks and sags. Each coat should extend a little wider than the last so the repair feathers out into flat wall instead of standing proud. Sand between coats, prime the patch, then paint, because bare filler drinks paint and shows as a dull ghost.",
+        "why": "Fillers and plasters shrink as they cure, so a single deep fill always pulls back from the surface. Thin layers cure evenly, and the feathered edge is what defeats the eye under raking light.",
+        "apply": "On your next patch, commit to three thin coats across three sessions rather than one thick fill, and prime the repair before the topcoat.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Cut back to sound edges",
+            "body": "Trim away crumbling plaster and loose paper until you have firm material all round. A patch is only as stable as the edge you bond it to."
+          },
+          {
+            "step": 2,
+            "title": "Give the hole a backing",
+            "body": "Fit a board, a mesh or an offcut behind larger holes so the filler has support. Filler bridging thin air cracks the first time the wall is knocked."
+          },
+          {
+            "step": 3,
+            "title": "Build in thin coats",
+            "body": "Apply several shallow layers, letting each dry fully. Deep fills shrink, sink and leave a dished shadow you will see whenever light rakes across the wall."
+          },
+          {
+            "step": 4,
+            "title": "Feather and prime",
+            "body": "Sand each coat a little wider than the last, then prime the repair. Unprimed filler absorbs paint differently from the wall and shows through as a matt patch."
+          }
+        ],
+        "tags": [
+          "decorating",
+          "walls"
+        ]
+      },
+      {
+        "id": "readers-digest-complete-do-it-yourself-manual-s05",
+        "hook": "Painting is nine parts preparation, and the paint knows it.",
+        "insight": "A paint finish records everything underneath it. Grease, dust, flaking edges and glossy old paint all show through, and no number of coats will hide them. Wash the surface, scrape and sand whatever is loose, fill and prime the bare patches, then cut in the edges before you roll. The actual painting is the short, satisfying part. People who hate decorating usually hate it because they skipped straight to the fun bit and are now looking at the result.",
+        "why": "Adhesion depends on a clean, keyed, absorbent surface. Paint that cannot grip lifts at the edges within a year, regardless of how expensive the tin was.",
+        "apply": "Set a timer and spend the first full hour of any painting job cleaning, sanding and filling before you open a tin of paint.",
+        "format": "single",
+        "tags": [
+          "painting",
+          "decorating"
+        ]
+      },
+      {
+        "id": "readers-digest-complete-do-it-yourself-manual-s06",
+        "hook": "The screw did not fail. The thing you screwed it into did.",
+        "insight": "Most fixings that pull out of a wall were not the wrong screws, they were the wrong anchors. Solid masonry, hollow plasterboard, timber studs and tile all need different hardware, and the shelf that collapsed almost always went into plasterboard on a plain friction plug. Find the stud where you can. Where you cannot, use a fixing designed to spread the load behind the board, and match the load rating to the weight rather than hoping. Heavy things belong on structure, not on skin.",
+        "why": "Plasterboard has very little pull-out strength on its own. Load-rated hollow-wall anchors work by clamping the back of the board, which is a completely different mechanism from a friction plug in masonry.",
+        "apply": "Before hanging anything heavy, find the studs with a detector or by tapping and probing, and mark them in pencil so you fix into timber.",
+        "format": "single",
+        "tags": [
+          "fixings",
+          "walls",
+          "tools"
+        ]
+      },
+      {
+        "id": "readers-digest-complete-do-it-yourself-manual-s07",
+        "hook": "A dripping tap is usually a coin-sized part you can carry in a pocket.",
+        "insight": "Traditional taps close by pressing a rubber washer onto a metal seat. When the washer hardens or the seat corrodes, water sneaks past and drips. The repair is short: isolate the supply, open the tap to drain the pressure, take the head off, swap the washer, and inspect the seat for pitting while it is exposed. Mixer cartridges work differently and get replaced whole. Either way it is a part swap, and the only hard bit is identifying which type of tap you own.",
+        "why": "The drip is mechanical wear at a single sealing face, not a fault in the plumbing behind it. That is why the same repair works on taps decades apart in age.",
+        "apply": "Photograph the tap and its brand before the shop trip, and buy two washers or cartridges so the spare already lives in your toolbox.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Isolate and drain",
+            "body": "Close the isolating valve under the basin, or the main stop, then open the tap fully so the pipe drops to zero pressure before you take anything apart."
+          },
+          {
+            "step": 2,
+            "title": "Open the head",
+            "body": "Prise off the cap, remove the retaining screw and lift the handle, then unscrew the headgear while holding the tap body so you do not twist the pipework."
+          },
+          {
+            "step": 3,
+            "title": "Swap the washer",
+            "body": "Undo the small nut at the base of the headgear, fit a new washer of the same size, and check the seat for pitting or scale while you can see it."
+          },
+          {
+            "step": 4,
+            "title": "Rebuild and test",
+            "body": "Reassemble in reverse, open the isolating valve slowly, and run the tap to clear air and grit before checking the joints for any weeping."
+          }
+        ],
+        "tags": [
+          "plumbing",
+          "repair"
+        ]
+      },
+      {
+        "id": "readers-digest-complete-do-it-yourself-manual-s08",
+        "hook": "The blockage is nearly always in the bend you can reach with a bucket.",
+        "insight": "Under every sink is a U-shaped trap holding water to block drain smells, and that bend is where hair, grease and food collect. Put a bucket underneath, loosen the connectors by hand or with slip-joint pliers, take the trap off and clean it out. That solves most slow sinks in twenty minutes with no chemicals at all. Caustic drain openers sit in the pipe, attack some plastics and metals, and make things far worse for whoever opens the trap afterwards, which is usually you.",
+        "why": "The trap is the narrowest and most turbulent point in the waste run, so debris settles there first. Chemicals attack a blockage without removing it, and the residue stays in the pipe.",
+        "apply": "Keep a cheap bucket and a pair of slip-joint pliers under the sink, and clear the trap yourself before you buy any drain product.",
+        "format": "single",
+        "tags": [
+          "plumbing",
+          "drains"
+        ]
+      },
+      {
+        "id": "readers-digest-complete-do-it-yourself-manual-s09",
+        "hook": "A blunt blade is more dangerous than a sharp one, every single time.",
+        "insight": "A sharp chisel or knife cuts where you aim it under light pressure. A blunt one needs force, skids off the surface, and travels in an unplanned direction with your body weight behind it. The same logic runs through the whole workshop: sharp drill bits, clean saw teeth, a plane with a keen iron. Keeping edges sharp is not a purist's hobby. It is the single change that most reduces both injuries and ruined work. Learn to hone before you learn to buy.",
+        "why": "Force is what makes a tool unpredictable. A keen edge does the work with pressure you can control, so a slip carries less energy and travels a shorter distance.",
+        "apply": "Buy one combination sharpening stone and hone your chisels and kitchen knives on it monthly until the motion is automatic.",
+        "format": "single",
+        "tags": [
+          "tools",
+          "safety",
+          "sharpening"
+        ]
+      },
+      {
+        "id": "readers-digest-complete-do-it-yourself-manual-s10",
+        "hook": "The most dangerous tool in the house has no motor and no blade.",
+        "insight": "Ladders cause serious harm because they fail in a way that gives you no time to react. Set the base on firm, level ground at a sensible angle. Tie or foot the ladder for anything more than a couple of steps. Keep your hips inside the stiles instead of stretching sideways, and move the ladder rather than reaching. Never stand on the top rungs of a leaning ladder. None of this is fussiness: falls from quite modest heights regularly cause life-changing injuries.",
+        "why": "A fall is over before you can respond, so every ladder precaution is preventive rather than corrective. Overreaching is the usual failure mode because it moves your centre of mass outside the base.",
+        "apply": "Before every climb, check that the footing is firm and level, and hold the rule that you climb down and move the ladder rather than lean out.",
+        "format": "single",
+        "tags": [
+          "safety",
+          "ladders"
+        ]
+      }
+    ],
+    "actions": [
+      "Assemble a first tool kit that covers most jobs: claw hammer, screwdrivers, adjustable spanner, slip-joint pliers, tape measure, spirit level, utility knife and a two-pole voltage tester.",
+      "Spend one afternoon mapping and labelling the breaker panel and every isolating valve in the house, then photograph both and keep the pictures on your phone.",
+      "Pick the smallest annoying fault in your home and fix it this week, following the diagnostic order rather than replacing the whole fitting.",
+      "Write your own honest limit list: the jobs you will attempt, and the gas, structural and consumer-unit work you will always hand to a qualified trade."
+    ],
+    "if_you_liked": [
+      "understanding-wood",
+      "home-comforts",
+      "shop-class-as-soulcraft"
+    ],
+    "not_for_you_if": "You rent, have nowhere to store tools, or want current building-regulation detail. A general manual gives sequence and principle, not the code that applies where you live.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 1973 and revised repeatedly since, with regional editions differing on wiring and plumbing standards. Always check work against local regulations. All prose here is original."
+    }
+  },
+  {
+    "id": "salt-fat-acid-heat",
+    "title": "Salt, Fat, Acid, Heat",
+    "subtitle": "Mastering the Elements of Good Cooking",
+    "author": "Samin Nosrat",
+    "year": 2017,
+    "category": "how-to-diy",
+    "subcategory": "cooking-fundamentals",
+    "tags": [
+      "cooking",
+      "seasoning",
+      "technique",
+      "kitchen-skills",
+      "flavour"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "It reframed cooking as four variables rather than thousands of recipes, and gave home cooks a way to fix a dish by tasting instead of by looking things up. The principle-first approach reset how cooking gets taught.",
+    "crux": {
+      "headline": "Four variables decide whether food tastes good",
+      "body": "Salt, fat, acid and heat sit behind nearly every decision in a kitchen. Salt makes flavour legible, fat carries it and sets texture, acid stops richness from flattening the palate, and heat determines what the ingredients become. Learn what each one does and you stop needing a recipe to tell you what is wrong. You taste, name the element that is missing, and add it."
+    },
+    "sparks": [
+      {
+        "id": "salt-fat-acid-heat-s01",
+        "hook": "Under-seasoned food is not bland. It is unfinished.",
+        "insight": "Salt does not simply make food salty. It suppresses bitterness, sharpens sweetness and makes the other flavours in a dish readable, which is why a properly salted soup tastes more of itself rather than more of salt. Most home cooking disappoints for one reason: it is timid with salt at every stage, then over-salted at the table, where the crystals sit on the surface instead of inside the food. The fix is not more salt overall. It is salt earlier, in layers.",
+        "why": "Salt dissolved through a dish reaches every bite and changes how the tongue reads other tastes. Surface salt hits first and fades, which is why it registers as saltiness rather than as flavour.",
+        "apply": "Salt each stage as you go, the water, the onions, the sauce, and taste after every addition rather than seasoning once at the end.",
+        "format": "single",
+        "tags": [
+          "salt",
+          "seasoning"
+        ]
+      },
+      {
+        "id": "salt-fat-acid-heat-s02",
+        "hook": "Salt needs time to get where it is going.",
+        "insight": "Salt moves slowly into food. Sprinkle it on a chicken breast as it hits the pan and it is still sitting on the outside when you eat it. Salt the same chicken hours ahead and it draws moisture out, dissolves, then travels back in as seasoned brine, so the meat is flavoured all the way through and holds water better as it cooks. The rule scales: big dense things need hours or a day, delicate things need minutes. Timing matters as much as quantity.",
+        "why": "Diffusion through muscle is slow and depends on both time and thickness. This is the same mechanism as brining, without needing a bucket of salted water.",
+        "apply": "Salt meat the night before, or at minimum an hour ahead, and leave it uncovered in the fridge so the surface dries for better browning.",
+        "format": "single",
+        "tags": [
+          "salt",
+          "meat",
+          "planning"
+        ]
+      },
+      {
+        "id": "salt-fat-acid-heat-s03",
+        "hook": "Fat is not one flavour. It is four different textures.",
+        "insight": "The same fat produces crisp, creamy, flaky or light results depending entirely on how you use it. Hot oil dehydrates a surface and makes it crisp. Fat broken into droplets through liquid makes a sauce creamy. Solid fat kept in cold lumps between layers of dough makes pastry flaky. Fat whipped with sugar traps air and makes cake light. Choosing a fat is therefore a texture decision before it is a taste one, and the temperature you keep it at decides which texture you get.",
+        "why": "Each texture depends on the physical state of the fat: hot and liquid, emulsified into droplets, cold and solid, or aerated. Same ingredient, four completely different jobs.",
+        "apply": "Before cooking, name the texture you want, then set the fat's temperature to match it: hot for crisp, cold for flaky, room temperature for aerated.",
+        "format": "single",
+        "tags": [
+          "fat",
+          "texture"
+        ]
+      },
+      {
+        "id": "salt-fat-acid-heat-s04",
+        "hook": "When a dish tastes heavy or dull, it is usually short of acid.",
+        "insight": "Acid does the opposite job to fat. Fat coats the palate and richness accumulates until every mouthful tastes the same. Acid cuts through and resets the tongue, which is why the fifth bite stays as interesting as the first. That is the work being done by the lemon on fried fish, the vinegar in a stew and the pickle on the side. If a dish tastes flat but is already properly salted, reach for something sour before you reach for more salt.",
+        "why": "Sourness stimulates saliva and contrasts with fat, so it restores the palate between bites. Missing acid is the most common uncorrected fault in home cooking.",
+        "apply": "Keep a lemon and a decent vinegar within arm's reach of the stove, and taste for acid every single time you taste for salt.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Taste for salt first",
+            "body": "Correct the seasoning before anything else. A dish that seems to want acid but is actually under-salted just ends up sour and still flat."
+          },
+          {
+            "step": 2,
+            "title": "Add acid in drops",
+            "body": "Acid is powerful and hard to reverse. Add a small squeeze, stir, taste, repeat. You want a lift you notice, not a sourness you can name."
+          },
+          {
+            "step": 3,
+            "title": "Match the source to the dish",
+            "body": "Vinegar, citrus, yoghurt, wine, tomatoes and pickles all deliver acid with different flavours. Pick one that belongs in the dish, not the sharpest thing you own."
+          },
+          {
+            "step": 4,
+            "title": "Save some for the end",
+            "body": "Heat drives off the bright volatile notes of citrus and wine. Cook with some acid for depth, then finish with a fresh squeeze off the heat for lift."
+          }
+        ],
+        "tags": [
+          "acid",
+          "balance",
+          "tasting"
+        ]
+      },
+      {
+        "id": "salt-fat-acid-heat-s05",
+        "hook": "High heat and low heat are not speeds. They are different outcomes.",
+        "insight": "Heat decides what a food becomes, not merely how fast it gets there. High heat drives moisture off the surface and browns it, producing crust and roasted flavour. Gentle heat lets the inside cook evenly without tightening the outside. Most kitchen disappointments are a mismatch: a stew boiled hard until the meat turns stringy, a steak on a pan that never got hot enough to brown, vegetables steamed grey in a crowded roasting tin. Pick the outcome first, then set the heat that produces it.",
+        "why": "Browning needs a dry surface hotter than boiling point. Even cooking needs a gradient gentle enough for the centre to catch up. A single setting cannot deliver both at once.",
+        "apply": "Before you turn the hob on, say out loud whether you want browning or gentleness, then set the heat and the crowding of the pan to match.",
+        "format": "single",
+        "tags": [
+          "heat",
+          "technique"
+        ]
+      },
+      {
+        "id": "salt-fat-acid-heat-s06",
+        "hook": "The recipe cannot taste the food. You are the only instrument.",
+        "insight": "Every ingredient varies. Tomatoes differ in acidity by season, salt differs in crystal size, stock differs in strength, and your stove is not the one the recipe was written on. So a recipe is a starting hypothesis rather than a set of instructions to follow blind. Taste at every stage, and when something is off, ask which of the four elements is missing instead of guessing. That habit is what turns somebody who follows recipes into somebody who cooks.",
+        "why": "A recipe encodes one cook's ingredients on one day in one kitchen. Tasting is the feedback loop that corrects for everything the written version cannot know about yours.",
+        "apply": "Put a spoon rest by the hob, taste at every stage, and name which of salt, fat, acid or heat the dish still needs before you adjust anything.",
+        "format": "single",
+        "tags": [
+          "tasting",
+          "technique"
+        ]
+      },
+      {
+        "id": "salt-fat-acid-heat-s07",
+        "hook": "Season the water and you season the food from the inside out.",
+        "insight": "Anything cooked in liquid takes its seasoning from that liquid. Pasta, potatoes, beans, rice and vegetables all absorb water as they cook, so unsalted water gives you a food that can only be seasoned on the surface afterwards, which never tastes the same. Salt the water until it tastes seasoned rather than following a number, because pan sizes and salt crystals vary wildly. Most of that salt goes down the drain, and the fraction that goes into the food is the entire point.",
+        "why": "Water is absorbed during cooking and carries dissolved salt into the interior. Salt applied to the surface afterwards sits on the outside and reads as a separate taste.",
+        "apply": "Taste your pasta and vegetable water before the food goes in, and salt it until it is pleasantly seasoned rather than until a recipe says a spoonful.",
+        "format": "single",
+        "tags": [
+          "salt",
+          "pasta",
+          "technique"
+        ]
+      },
+      {
+        "id": "salt-fat-acid-heat-s08",
+        "hook": "A teaspoon of salt is not a fixed amount of salt.",
+        "insight": "Salt is sold in crystals of wildly different sizes, so a spoon measures volume rather than saltiness. Fine table salt packs densely, while flaky and coarse crystals trap air, so the same spoon holds far less actual salt. Between a fine salt and a light flaked one the difference can approach double. That is why a recipe written for one salt makes a dish inedible when made with another. Weighing solves it. Otherwise pick one salt, use it for everything, and learn its spoon by taste.",
+        "why": "The measurement is by volume but the seasoning is by mass, and crystal shape decides how much mass fits into a spoon. Nothing about the salt itself has changed.",
+        "apply": "Choose one everyday salt, keep it in an open bowl by the hob so you can pinch by feel, and weigh it when a recipe result really matters.",
+        "format": "single",
+        "tags": [
+          "salt",
+          "measurement"
+        ]
+      },
+      {
+        "id": "salt-fat-acid-heat-s09",
+        "hook": "Nothing tastes wrong for a hundred reasons. It tastes wrong for four.",
+        "insight": "When a dish disappoints, resist the urge to add more of everything. Run the four elements as a checklist, in order. Is it under-salted, so nothing is legible? Is it thin and unsatisfying, so it wants fat? Is it heavy and monotonous, so it wants acid? Or was it cooked at the wrong heat, in which case seasoning cannot rescue the texture and you learn it for next time. Three of the four are fixable at the stove in under a minute.",
+        "why": "Diagnosis beats addition. Adding ingredients at random usually muddies a dish, while naming the missing element lets one small correction do all the work.",
+        "apply": "Next time something tastes off, run the four questions in order out loud before you add a single thing to the pan.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Check salt",
+            "body": "Taste a spoonful. If the flavours are all present but muted, it is salt. Add a small pinch, stir it through, wait, then taste again before adding more."
+          },
+          {
+            "step": 2,
+            "title": "Check fat",
+            "body": "If it tastes thin, sharp or unsatisfying in the mouth, it wants fat. A spoonful of oil, butter, cream or yoghurt stirred in changes the body immediately."
+          },
+          {
+            "step": 3,
+            "title": "Check acid",
+            "body": "If it is rich but dull, and the fifth bite bores you, add a squeeze of lemon or a splash of vinegar. This is the correction people miss most often."
+          },
+          {
+            "step": 4,
+            "title": "Accept the heat verdict",
+            "body": "Texture faults come from heat and cannot be seasoned away. Note what went wrong and change the pan, the crowding or the flame next time instead."
+          }
+        ],
+        "tags": [
+          "troubleshooting",
+          "tasting"
+        ]
+      },
+      {
+        "id": "salt-fat-acid-heat-s10",
+        "hook": "Cook the same dish five times and you will never need the recipe again.",
+        "insight": "Repetition, not variety, is how cooking gets learned. Making something new every night means you are permanently at the beginner stage of everything. Cook one roast chicken, one vinaigrette, one braise and one simple soup over and over and you start to notice what changed, what your oven does, how the meat felt when it was ready. After a handful of rounds the recipe becomes a reference for quantities and the technique lives in your hands, which is where cooking becomes fast.",
+        "why": "Skill comes from repeated trials with feedback. Constant novelty gives you a great many first attempts and no second ones, so nothing ever consolidates.",
+        "apply": "Pick four dishes to be yours this season and cook each one weekly, changing only a single variable at a time.",
+        "format": "single",
+        "tags": [
+          "practice",
+          "skill-building"
+        ]
+      }
+    ],
+    "actions": [
+      "Cook the same roast chicken once a week for a month, changing one variable each time, such as salting time, oven heat or pan choice, and write down what changed.",
+      "Salt every protein at least an hour before cooking for two weeks, then compare it honestly against your usual last-minute seasoning.",
+      "Put a lemon, a good vinegar, flaky salt and a decent olive oil within reach of the hob so finishing a dish involves no walking.",
+      "Taste and correct three dishes this week using the four-element checklist, naming the missing element out loud before you add anything."
+    ],
+    "if_you_liked": [
+      "the-food-lab",
+      "on-food-and-cooking",
+      "how-to-cook-everything"
+    ],
+    "not_for_you_if": "You want precise recipes with exact weights and timings, or you already cook confidently by feel and are looking for advanced technique rather than foundations.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2017 by Simon and Schuster, illustrated by Wendy MacNaughton, and later adapted into a television series. All prose here is original."
+    }
+  },
+  {
+    "id": "the-food-lab",
+    "title": "The Food Lab",
+    "subtitle": "Better Home Cooking Through Science",
+    "author": "J. Kenji López-Alt",
+    "year": 2015,
+    "category": "how-to-diy",
+    "subcategory": "kitchen-science",
+    "tags": [
+      "cooking",
+      "food-science",
+      "technique",
+      "testing",
+      "kitchen-skills"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 13,
+    "why_it_matters": "It tested the kitchen rules everyone repeated and published the ones that failed, replacing inherited lore with measurements any home cook could repeat. A generation of cooks learned to ask for evidence rather than tradition.",
+    "crux": {
+      "headline": "Cook to temperature, not to time",
+      "body": "Food does not care how long it has been in the oven. It responds to the temperature it reaches and how fast it got there. Once you accept that, a thermometer replaces guesswork, the recipe's timings become a rough guide, and most kitchen failures collapse into two questions: what temperature does this need to reach, and what is happening to the surface while it gets there. Test the rules you inherited, because several of them are wrong."
+    },
+    "sparks": [
+      {
+        "id": "the-food-lab-s01",
+        "hook": "Searing meat does not seal in the juices. It never did.",
+        "insight": "The idea that a hot crust locks moisture inside is one of the most repeated claims in cooking, and it is false. Weigh a steak before and after and the seared one loses at least as much liquid as the unseared one, because the crust is porous and the heat is actively driving moisture out. Searing is still worth doing, but for the flavour and texture of the browned surface, not for juiciness. Knowing why you do something is what lets you decide when to skip it.",
+        "why": "The claim traces back to a nineteenth-century chemist's speculation and has failed every weighing test since. Browning creates flavour compounds. It does not create a waterproof layer.",
+        "apply": "Sear for crust and flavour, and control juiciness with the finishing temperature and a rest instead, both checked with a thermometer.",
+        "format": "single",
+        "tags": [
+          "meat",
+          "myths",
+          "searing"
+        ]
+      },
+      {
+        "id": "the-food-lab-s02",
+        "hook": "The best steak you will cook starts in the oven, not the pan.",
+        "insight": "A thick steak cooked entirely in a hot pan ends up with a grey band of overdone meat under the crust, because the outside has to overshoot badly for the middle to arrive. Reverse the order. Warm the steak gently in a low oven until the centre is a little below your target, then sear it hard and fast in a very hot pan. The interior cooks evenly edge to edge, the crust forms in a minute or two because the surface is already dry, and the timing is far more forgiving.",
+        "why": "A low oven creates a shallow temperature gradient, so the centre catches up without cooking the edges past it. A dry, pre-warmed surface also browns faster, which shortens the searing window.",
+        "apply": "Try a reverse sear on a thick steak this week: low oven with a probe in the meat, then under two minutes a side in a very hot dry pan.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Salt and dry",
+            "body": "Season the steak and leave it uncovered on a rack in the fridge for a few hours. A dry surface browns far faster than a wet one when it hits the pan."
+          },
+          {
+            "step": 2,
+            "title": "Warm it low and slow",
+            "body": "Set the oven low and put the steak on a rack with a probe in the thickest part. Aim to stop a little below your final target temperature."
+          },
+          {
+            "step": 3,
+            "title": "Blot and preheat",
+            "body": "Take it out, blot the surface completely dry, and let the pan get properly hot. Any surface water has to boil off before browning can even begin."
+          },
+          {
+            "step": 4,
+            "title": "Sear hard and briefly",
+            "body": "Into a very hot pan with a high smoke point fat, a short burst per side, turning often. You want colour, not further cooking of the interior."
+          }
+        ],
+        "tags": [
+          "steak",
+          "technique",
+          "meat"
+        ]
+      },
+      {
+        "id": "the-food-lab-s03",
+        "hook": "The most useful thing in a kitchen costs less than a good knife.",
+        "insight": "Timings in recipes are estimates built on somebody else's oven, pan and starting temperature. An instant-read thermometer replaces all of that with a fact. It tells you when chicken is safely done rather than overcooked to be sure, when bread is baked through, when a custard is about to split, and when oil has reached frying temperature. Almost every home cook overcooks protein, and almost all of that is a measurement problem rather than a skill problem.",
+        "why": "Doneness is a temperature state, not an elapsed time. Every variable a recipe cannot control, including thickness, starting temperature, pan mass and oven calibration, is absorbed by measuring the food itself.",
+        "apply": "Buy a fast instant-read thermometer and use it on every piece of meat for a month, until you can predict the reading before you probe.",
+        "format": "single",
+        "tags": [
+          "thermometer",
+          "tools",
+          "doneness"
+        ]
+      },
+      {
+        "id": "the-food-lab-s04",
+        "hook": "Safe chicken is not one number. It is a temperature held for a time.",
+        "insight": "The familiar advice to cook poultry to a fixed internal temperature is a shortcut for instant safety. Pasteurisation is really a combination of heat and time, and lower temperatures held for longer achieve the same reduction in bacteria. That is why sous-vide chicken can be both safe and juicy while a breast cooked hard to the instant number is dry. Home cooks without accurate temperature control should stick to the published instant figure. Understanding why it exists is what lets you do better once you can hold a temperature.",
+        "why": "Bacterial kill is a rate process, so holding time compensates for lower heat. Published instant temperatures are the conservative endpoint for cooks who cannot guarantee an accurate hold.",
+        "apply": "Use the published instant temperature for poultry unless you can hold a precise lower temperature for the full time a tested pasteurisation table specifies.",
+        "format": "single",
+        "tags": [
+          "food-safety",
+          "poultry",
+          "temperature"
+        ]
+      },
+      {
+        "id": "the-food-lab-s05",
+        "hook": "Resting meat works, but not for the reason you were told.",
+        "insight": "Cut a steak straight off the heat and juice runs everywhere. Cut the same steak after a rest and it mostly stays put. The usual explanation, that the juices redistribute back through the meat, is loose at best. What actually happens is simpler: the meat cools, the fibres relax their grip, and the liquid inside becomes thicker and less mobile, so less of it escapes when you cut. Either way a rest costs nothing, and the difference on the board is easy to see for yourself.",
+        "why": "The effect is largely about temperature and viscosity rather than migration. It is one of the rare kitchen rules where the advice is right even though the popular explanation is shaky.",
+        "apply": "Rest thick cuts on a warm plate before slicing, and prove it once by cutting half straight away and comparing what pools on the board.",
+        "format": "single",
+        "tags": [
+          "meat",
+          "resting",
+          "myths"
+        ]
+      },
+      {
+        "id": "the-food-lab-s06",
+        "hook": "Your vegetables are grey because the pan was full, not because the oven is bad.",
+        "insight": "Browning cannot begin until the surface is dry and above boiling point. Pile food into a pan and the water it releases has nowhere to go, so the pan fills with steam and everything sits at the temperature of boiling water while turning limp. Give each piece space, use a bigger tray or two trays, get the pan hot before the food goes in, and dry the food first. The recipe was not wrong. The tray was too small.",
+        "why": "Evaporating water absorbs an enormous amount of energy and pins the surface at boiling point, so no browning reaction can start until that moisture has gone.",
+        "apply": "Split any roasting job across two trays rather than crowding one, and pat vegetables and meat dry before they go into the oven.",
+        "format": "single",
+        "tags": [
+          "roasting",
+          "browning",
+          "technique"
+        ]
+      },
+      {
+        "id": "the-food-lab-s07",
+        "hook": "Cook it twice, change one thing, and you own the answer.",
+        "insight": "Most kitchen arguments can be settled in an afternoon. Make two batches, change exactly one variable, and taste them side by side without knowing which is which. That is how you find out whether soaking beans matters for your beans, whether the expensive butter earns its price, or whether a step in your family recipe does anything at all. It also protects you from the biggest source of kitchen nonsense, which is confidently repeating a rule nobody has tested since it was invented.",
+        "why": "A side-by-side comparison controls for the ingredients, the equipment and the day. Without a control you are comparing today's dish against a memory, which is unreliable.",
+        "apply": "Pick one rule you follow without knowing why, and run a two-batch side-by-side test this weekend, tasting them blind.",
+        "format": "single",
+        "tags": [
+          "testing",
+          "method",
+          "experiments"
+        ]
+      },
+      {
+        "id": "the-food-lab-s08",
+        "hook": "Eggs are a protein clock, and it runs faster than you think.",
+        "insight": "Egg proteins set across a narrow band of temperature, and once they pass it they squeeze together and push out water. That is why overcooked scrambled eggs sit in a puddle and an overcooked custard splits. The whole technique is heat control: gentler heat, constant movement, and stopping before the eggs look done, because they keep cooking in the pan. Take them off while they still look slightly underdone and let the residual heat finish the job.",
+        "why": "Coagulation happens over a short temperature range, and past it the protein network contracts and expels moisture. Residual pan heat easily carries the eggs through that range after you stop cooking.",
+        "apply": "Cook scrambled eggs on medium-low, stir constantly, and take the pan off the heat while they still look a little wet and loose.",
+        "format": "single",
+        "tags": [
+          "eggs",
+          "heat-control",
+          "protein"
+        ]
+      },
+      {
+        "id": "the-food-lab-s09",
+        "hook": "Crispness is just a surface that has run out of water.",
+        "insight": "Anything crisp, whether a roast potato, chicken skin, fried tofu or the crust of a grilled cheese, is a surface that has been dried and then browned. Water is the enemy at every stage, so the technique always has the same shape. Remove surface moisture before cooking, give the food room so steam escapes, use enough hot fat to carry heat into the surface, and never cover or stack it afterwards. Once you see crispness as a moisture problem you can fix it in any dish.",
+        "why": "Crust formation only begins once surface water has evaporated, and any steam trapped afterwards will soften a finished crust within a few minutes.",
+        "apply": "Dry the surface of anything you want crisp, then rest it on a wire rack rather than a plate so steam can escape underneath.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Dry the surface",
+            "body": "Pat the food dry, or leave it uncovered in the fridge for a few hours. A drier skin browns faster because less energy is spent boiling water away."
+          },
+          {
+            "step": 2,
+            "title": "Rough it up",
+            "body": "Parboiled potatoes shaken in the pan, or a light floured coating, create more surface area. More surface means more crust and more places for hot fat to work."
+          },
+          {
+            "step": 3,
+            "title": "Give it heat and space",
+            "body": "Use a hot pan or oven and leave gaps between pieces. Crowding traps steam, and steam pins the surface at boiling point where nothing can brown."
+          },
+          {
+            "step": 4,
+            "title": "Never trap the steam",
+            "body": "Rest finished food uncovered on a rack. A crisp thing left on a plate or under foil steams itself soft in the time it takes to serve."
+          }
+        ],
+        "tags": [
+          "crispness",
+          "technique",
+          "browning"
+        ]
+      },
+      {
+        "id": "the-food-lab-s10",
+        "hook": "Most kitchen gadgets solve a problem you do not actually have.",
+        "insight": "Tested against ordinary tools, a great deal of specialist kitchen equipment turns out to make no measurable difference to the food. A heavy pan that holds its heat, a sharp knife, a thermometer, a wire rack and a large baking sheet will out-perform a drawer of single-purpose devices. The test before buying is simple: what physical variable does this control that I cannot already control, and can I taste the difference in a side-by-side comparison.",
+        "why": "Cooking outcomes depend on a small number of physical variables, mainly heat transfer, moisture, surface area and temperature. Equipment only helps if it controls one of them better than what you own.",
+        "apply": "Before your next kitchen purchase, name the physical variable it controls, and if you cannot, spend the money on a thermometer or a sharpening stone instead.",
+        "format": "single",
+        "tags": [
+          "equipment",
+          "tools",
+          "spending"
+        ]
+      }
+    ],
+    "actions": [
+      "Buy an instant-read thermometer and cook every piece of meat to a measured temperature for one month, ignoring the timings printed in recipes.",
+      "Run one side-by-side test on a rule you currently follow blindly, changing a single variable and tasting the two results without knowing which is which.",
+      "Reverse-sear a thick steak, then cook another the traditional way, and compare the two cross-sections for the grey overcooked band.",
+      "Re-tray one crowded roasting job across two sheets and note the difference in browning before you blame your oven."
+    ],
+    "if_you_liked": [
+      "on-food-and-cooking",
+      "salt-fat-acid-heat",
+      "how-to-cook-everything"
+    ],
+    "not_for_you_if": "You want quick weeknight recipes without explanation, or you find long technical digressions about why a method works tiring rather than interesting.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2015 by W. W. Norton, growing out of a long-running recipe-testing column. All prose here is original."
+    }
+  },
+  {
+    "id": "on-food-and-cooking",
+    "title": "On Food and Cooking",
+    "subtitle": "The Science and Lore of the Kitchen",
+    "author": "Harold McGee",
+    "year": 1984,
+    "category": "how-to-diy",
+    "subcategory": "kitchen-science",
+    "tags": [
+      "food-science",
+      "cooking",
+      "chemistry",
+      "ingredients",
+      "kitchen-skills"
+    ],
+    "difficulty": "challenging",
+    "read_time_min": 14,
+    "why_it_matters": "It made food science legible to cooks and gave chefs a vocabulary for what they had only felt, seeding decades of modernist cooking. It remains the reference other kitchen writers check before they publish.",
+    "crux": {
+      "headline": "Cooking is chemistry you can taste",
+      "body": "Every technique in a kitchen is doing something specific to proteins, starches, sugars, fats and water. Heat unfolds proteins so they bind. Sugars and amino acids react to make brown flavour. Starch granules swell and burst. Fat and water can be forced into a stable mixture. Learn the handful of processes underneath and the thousands of rules you were taught collapse into a few you can reason from."
+    },
+    "sparks": [
+      {
+        "id": "on-food-and-cooking-s01",
+        "hook": "Browning is two different reactions, and only one is about sugar.",
+        "insight": "Roast flavour comes mostly from a reaction between sugars and amino acids that produces hundreds of new aroma compounds, giving you the smell of toast, seared meat and coffee. Caramelisation is a separate process in which sugar breaks down on its own at higher temperatures, giving the flavour of caramel and burnt sugar. They often happen together but they need different conditions, which is why a brush of milk or egg helps a crust brown, and why sugar alone in a dry pan behaves differently.",
+        "why": "The two reactions need different ingredients and different temperatures. Knowing which one you want tells you whether to add protein, add sugar, raise the heat or dry the surface.",
+        "apply": "When something browns too slowly, add a protein source such as milk or an egg wash to the surface rather than simply raising the heat.",
+        "format": "single",
+        "tags": [
+          "maillard",
+          "browning",
+          "chemistry"
+        ]
+      },
+      {
+        "id": "on-food-and-cooking-s02",
+        "hook": "Add lemon to green vegetables at the last second or they turn olive.",
+        "insight": "The green in vegetables comes from chlorophyll, and chlorophyll loses the magnesium atom at its centre in acidic conditions, turning a dull olive-brown. Cooking green beans or broccoli in a covered pot traps the vegetable's own acids and does exactly the same thing. So cook green vegetables briefly, in plenty of water, uncovered so the volatile acids escape, and add the lemon or vinegar only once they are on the plate. The colour is not cosmetic. It tracks how long they have been abused by heat.",
+        "why": "Acid displaces the magnesium at the centre of the chlorophyll molecule, producing a brown-green compound instead. The change is chemical and it cannot be reversed.",
+        "apply": "Cook green vegetables uncovered in plenty of boiling water and dress them with acid only after they have left the pan.",
+        "format": "single",
+        "tags": [
+          "vegetables",
+          "colour",
+          "chemistry"
+        ]
+      },
+      {
+        "id": "on-food-and-cooking-s03",
+        "hook": "Oil and water can be forced to live together, if you go slowly.",
+        "insight": "A mayonnaise or a vinaigrette is oil broken into droplets so small they stay suspended in water instead of floating back together. Two things make that work: adding the oil slowly enough for the mixing to break each drop, and having a molecule present that likes both oil and water and sits at the boundary, such as egg yolk, mustard or the proteins in cream. A split sauce is not ruined. It is oil that has clumped, and it can usually be rebuilt by starting again and adding the broken mixture in slowly.",
+        "why": "Emulsifiers lower the tension at the oil and water boundary so droplets resist merging. Speed matters because unbroken oil can arrive faster than the whisking can divide it.",
+        "apply": "Add oil to a dressing a few drops at a time while whisking, and put a teaspoon of mustard in first as insurance against splitting.",
+        "format": "single",
+        "tags": [
+          "emulsion",
+          "sauces",
+          "technique"
+        ]
+      },
+      {
+        "id": "on-food-and-cooking-s04",
+        "hook": "Tough meat gets tender by dissolving, not by softening.",
+        "insight": "Muscle protein and connective tissue respond to heat in opposite ways. The muscle fibres tighten and squeeze out moisture as they get hotter, which is why a lean steak dries out when overcooked. The collagen in hard-working cuts slowly converts to gelatin, but only with sustained time at temperature. That is the whole reason braising exists: you accept some drying of the fibres in order to buy hours of collagen conversion, and the gelatin that results is what makes the meat feel succulent.",
+        "why": "Collagen conversion depends on time as well as heat, so tough cuts need hours where tender cuts need minutes. Cooking them the same way fails in both directions.",
+        "apply": "Match the method to the cut: fast, hot and brief for lean muscle, long and gentle in liquid for anything that worked hard on the animal.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Read the cut",
+            "body": "Hard-working muscles such as shoulder, shin and cheek are full of collagen. Lightly used muscles such as loin have little. The anatomy tells you the method."
+          },
+          {
+            "step": 2,
+            "title": "Brown before liquid",
+            "body": "Dry the surface and brown the meat before any liquid goes in. Once the pan has liquid in it the surface cannot exceed boiling point, so browning stops."
+          },
+          {
+            "step": 3,
+            "title": "Hold, do not boil",
+            "body": "Keep the pot at a bare tremble. A hard boil tightens the fibres and shreds the meat without converting collagen any faster than a gentle one."
+          },
+          {
+            "step": 4,
+            "title": "Give it hours",
+            "body": "Tenderness arrives on collagen's schedule, not yours. Test with a fork rather than a clock, and expect a long stretch where the meat feels worse before it turns."
+          }
+        ],
+        "tags": [
+          "meat",
+          "braising",
+          "collagen"
+        ]
+      },
+      {
+        "id": "on-food-and-cooking-s05",
+        "hook": "Flour only thickens a sauce after the starch granules burst.",
+        "insight": "Starch grains are tight packages that do nothing until enough heat and water swell them open. Once they burst they release long molecules that tangle and thicken the liquid around them. That is why a sauce thickens suddenly rather than gradually, why it must be brought properly up to heat, and why lumps form when dry flour meets hot liquid and the outside gelatinises before the inside is even wet. Mix the starch with cold liquid or fat first and the problem disappears.",
+        "why": "Gelatinisation happens over a specific temperature range and needs water inside the granule. A lump is simply a dry core sealed behind a gelatinised skin.",
+        "apply": "Slurry any starch in cold liquid before it meets the pan, then bring the sauce to a proper simmer so the thickening actually completes.",
+        "format": "single",
+        "tags": [
+          "starch",
+          "sauces",
+          "thickening"
+        ]
+      },
+      {
+        "id": "on-food-and-cooking-s06",
+        "hook": "Egg proteins set in stages, which is why one egg makes so many dishes.",
+        "insight": "Different proteins in an egg unfold and bond at different temperatures, and the white sets before the yolk. That single fact explains a poached egg with a firm white and a liquid centre, a custard that thickens and then curdles a few degrees later, and the difference between soft and hard boiling. Cooking eggs is therefore an exercise in stopping at the right point on a scale, and the margin between perfect and ruined is narrower than most other foods allow.",
+        "why": "Coagulation is temperature-specific for each protein, so the outcome tracks the peak temperature reached rather than the cooking time. A few degrees changes the dish entirely.",
+        "apply": "Cook custards over gentle heat with a thermometer, and pull them off before they look thick, since they carry on setting in the pan.",
+        "format": "single",
+        "tags": [
+          "eggs",
+          "protein",
+          "temperature"
+        ]
+      },
+      {
+        "id": "on-food-and-cooking-s07",
+        "hook": "Salted water makes meat juicier, which sounds like it should not work.",
+        "insight": "Soaking meat in salted water, or salting it well in advance, does two things. Salt draws moisture out at first, and then the salty liquid is reabsorbed. More usefully, salt loosens the protein structure so the muscle holds on to more water when it cooks and contracts. The result is meat that loses less liquid on the heat, which reads on the plate as juiciness. It also seasons the interior, which surface salt applied at the pan can never do in the time available.",
+        "why": "Salt disrupts the protein filaments so they retain water rather than expelling it as they tighten. The seasoning effect is diffusion, which needs hours rather than minutes.",
+        "apply": "Salt lean poultry or pork several hours ahead and leave it uncovered in the fridge, instead of soaking it in a bucket of brine.",
+        "format": "single",
+        "tags": [
+          "salt",
+          "brining",
+          "meat"
+        ]
+      },
+      {
+        "id": "on-food-and-cooking-s08",
+        "hook": "Most of what you call taste is actually happening in your nose.",
+        "insight": "The tongue detects only a handful of qualities: sweet, salty, sour, bitter, savoury and a few others. Everything else that makes a food identifiable is aroma, sensed by receptors reached through the back of the throat as you chew. That is why food is dull with a blocked nose, why a lid trapping steam changes a dish, and why heating drives off the delicate top notes of herbs and citrus. Much of cooking is the management of volatile molecules and when you choose to release them.",
+        "why": "Aroma compounds are volatile, so heat and time steadily drive them off. This is the mechanism behind adding delicate herbs late and woody ones early.",
+        "apply": "Split your herbs: cook the woody ones in from the start, and stir the soft ones through off the heat seconds before serving.",
+        "format": "single",
+        "tags": [
+          "flavour",
+          "aroma",
+          "herbs"
+        ]
+      },
+      {
+        "id": "on-food-and-cooking-s09",
+        "hook": "Kneading is not mixing. It is building a structure.",
+        "insight": "Wheat flour contains proteins that, once wet, link into an elastic network. Working the dough aligns and extends that network so it can trap the gas the yeast produces, which is what makes bread rise rather than spread. Too little development and the loaf collapses. Too much and the dough tightens and tears. Time can do a great deal of the work for you, since a wet dough left alone develops structure on its own, which is why long slow methods with minimal handling produce good bread.",
+        "why": "Gluten forms when two wheat proteins hydrate and bond together. The network can be built by mechanical work or, more slowly, by hydration and time alone.",
+        "apply": "Try a slow dough: mix, rest for twenty minutes before kneading, and let time do part of the work instead of adding more effort.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Hydrate first",
+            "body": "Mix flour and water and let it sit before adding anything else. The proteins need water before they can bond, and the rest does part of the kneading for free."
+          },
+          {
+            "step": 2,
+            "title": "Develop the network",
+            "body": "Knead, stretch or fold until the dough turns from ragged to smooth and stretches without tearing. That change in feel is the structure forming."
+          },
+          {
+            "step": 3,
+            "title": "Let it ferment",
+            "body": "Yeast makes gas and acids that flavour the crumb and soften the dough. A cool, slow fermentation gives far more flavour than a fast warm rise."
+          },
+          {
+            "step": 4,
+            "title": "Shape with tension",
+            "body": "Shaping builds a taut skin that holds gas in and directs the rise upward. A slack shape spreads sideways in the oven however good the dough was."
+          }
+        ],
+        "tags": [
+          "bread",
+          "gluten",
+          "baking"
+        ]
+      },
+      {
+        "id": "on-food-and-cooking-s10",
+        "hook": "Half the kitchen rules you were taught are unexamined inheritance.",
+        "insight": "A striking number of confident cooking rules turn out to have no mechanism behind them: that searing seals in juices, that a bean pot must never be salted early, that oil in the pasta water stops sticking, that alcohol fully cooks off in a sauce. Some are simply wrong, and some are true only under narrow conditions nobody mentions. The useful posture is not cynicism but curiosity: ask what would physically have to be happening for the rule to be true, then check whether it is.",
+        "why": "Kitchen lore is transmitted socially and rarely tested, so errors persist for generations. Asking for a mechanism filters most of them out very quickly.",
+        "apply": "Write down three cooking rules you follow without knowing why, then look for the mechanism behind each one before you follow it again.",
+        "format": "single",
+        "tags": [
+          "myths",
+          "evidence",
+          "critical-thinking"
+        ]
+      }
+    ],
+    "actions": [
+      "Pick one dish you cook often and work out which physical process it depends on, whether protein setting, starch swelling, browning or emulsion, then adjust the method to serve it.",
+      "Cook green vegetables uncovered in plenty of water for a week and add acid only at the table, then judge whether colour and flavour changed.",
+      "Make a mayonnaise by hand, split it deliberately, then rebuild it, so you understand emulsions by feel rather than by reading about them.",
+      "List the cooking rules your family taught you, find the mechanism for each one, and keep only the rules that survive the question."
+    ],
+    "if_you_liked": [
+      "the-food-lab",
+      "salt-fat-acid-heat",
+      "how-to-cook-everything"
+    ],
+    "not_for_you_if": "You want recipes rather than a reference. It is something to consult on a question, and reading it front to back demands a real appetite for chemistry.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 1984. The substantially rewritten second edition appeared in 2004 and is the one most cooks now cite. All prose here is original."
+    }
+  },
+  {
+    "id": "how-to-cook-everything",
+    "title": "How to Cook Everything",
+    "subtitle": "Simple Recipes for Great Food",
+    "author": "Mark Bittman",
+    "year": 1998,
+    "category": "how-to-diy",
+    "subcategory": "cooking-fundamentals",
+    "tags": [
+      "cooking",
+      "recipes",
+      "kitchen-basics",
+      "weeknight-cooking",
+      "technique"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 10,
+    "why_it_matters": "It rebuilt the all-purpose kitchen reference for people who cook on weeknights, organising food by method and variation rather than by tradition. It made a large repertoire reachable without specialist equipment or ingredients.",
+    "crux": {
+      "headline": "Learn methods, then vary the ingredients",
+      "body": "A cook who knows twenty recipes can make twenty dishes. A cook who knows five methods, such as roast, braise, sauté, simmer and dress, can make hundreds, because every method accepts dozens of ingredients. Learn the master version of each until it needs no reading, then treat every new recipe as that same method with different things in it. Repertoire grows by substitution, not by collecting."
+    },
+    "sparks": [
+      {
+        "id": "how-to-cook-everything-s01",
+        "hook": "Stop collecting recipes. Start collecting methods.",
+        "insight": "Recipes are single instances of something more general. Roasting a chicken and roasting a joint of pork are the same procedure with different timings. A vinaigrette and a marinade are the same ratio pointed at different jobs. If you learn the method and the handful of things that change with the ingredient, mainly density, fat content and size, then a new recipe becomes an easy variation rather than a fresh act of memorisation. This is why experienced cooks rarely open a book.",
+        "why": "Methods transfer across ingredients and recipes do not. Learning at the level of the method gives a far higher return on every hour you spend practising.",
+        "apply": "Choose one method this month, whether roasting, braising or sautéing, and cook it with six different ingredients before moving on.",
+        "format": "single",
+        "tags": [
+          "method",
+          "learning",
+          "repertoire"
+        ]
+      },
+      {
+        "id": "how-to-cook-everything-s02",
+        "hook": "One recipe you can vary beats ten you can only follow.",
+        "insight": "The most useful thing to write in a notebook is not a recipe but a template: the base version, plus the two or three places where a swap works. A tomato sauce becomes twenty sauces at the point where the aromatics go in. A frittata becomes whatever is in the fridge. Once a dish is written as a base plus its variables, cooking stops depending on shopping to a list and starts depending on what you actually have in the house.",
+        "why": "Variation points are the places where a dish tolerates change without breaking. Naming them turns one recipe into a family of dishes you can cook from an ordinary fridge.",
+        "apply": "Rewrite your three favourite recipes as a base plus a list of legitimate swaps, then cook one of the swaps this week.",
+        "format": "single",
+        "tags": [
+          "recipes",
+          "improvisation"
+        ]
+      },
+      {
+        "id": "how-to-cook-everything-s03",
+        "hook": "A good pantry means you can cook dinner without shopping.",
+        "insight": "Cooking regularly stalls in the same place: it is seven o'clock and you would have to go out. A pantry solves that. Keep the durable things that turn scraps into meals, such as a starch, tinned beans, tinned tomatoes, stock, onions, good oil, an acid, a hard cheese and eggs, and there is always dinner without a plan. The point is not to own many ingredients. It is to own the specific handful that recombine into most meals.",
+        "why": "Most weeknight failures are logistical rather than culinary. A stocked shelf removes the exact decision point at which people give up and order food instead.",
+        "apply": "Write your ten-item core pantry list, buy the gaps this week, and restock any item on the day you open the last one.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Pick a starch and a protein",
+            "body": "Dried pasta, rice or noodles, plus tinned beans, eggs or tinned fish. Between them these make a meal on their own on the worst evenings."
+          },
+          {
+            "step": 2,
+            "title": "Add a base and an acid",
+            "body": "Tinned tomatoes, onions and garlic build almost any sauce, and vinegar or lemon finishes it. Those four turn plain starch into an actual dish."
+          },
+          {
+            "step": 3,
+            "title": "Keep fat and salt worth using",
+            "body": "One decent oil, butter, a hard cheese and a flaky salt. Finishing ingredients do more for a simple dish than any number of exotic jars."
+          },
+          {
+            "step": 4,
+            "title": "Restock on opening",
+            "body": "Add an item to the list the moment you break into the last one. A pantry only works if it is never actually out of the six things that matter."
+          }
+        ],
+        "tags": [
+          "pantry",
+          "planning",
+          "weeknight"
+        ]
+      },
+      {
+        "id": "how-to-cook-everything-s04",
+        "hook": "You need far fewer kitchen tools than the shops would like.",
+        "insight": "A well-equipped kitchen is small: a sharp knife, a board, a heavy pan, a large pot, a baking sheet, a colander, a mixing bowl, tongs and a wooden spoon. Almost everything else is a convenience that occupies drawer space and gets used twice a year. Buy fewer things and buy them heavier, because a thin pan makes cooking harder in ways beginners tend to blame on themselves. Skill compensates for missing equipment far better than equipment compensates for missing skill.",
+        "why": "Heavy pans hold heat, so they recover when cold food goes in and cook evenly. Most single-purpose gadgets simply replicate something a knife and a bowl already do.",
+        "apply": "Empty one kitchen drawer, keep only what you have used in the past six months, and put the money you save towards one heavy pan.",
+        "format": "single",
+        "tags": [
+          "equipment",
+          "tools",
+          "kitchen-basics"
+        ]
+      },
+      {
+        "id": "how-to-cook-everything-s05",
+        "hook": "Read the whole recipe before you touch a single pan.",
+        "insight": "Half of all kitchen panic comes from discovering a step too late: the dough needed to rest overnight, the oven should have been on twenty minutes ago, the onions were supposed to be cut before the pan went on. Read the entire recipe, gather what you need, and do the cutting first. It feels like a delay and it is the opposite. Cooking becomes calm and the printed timings finally work, because they were written assuming your ingredients were already prepared.",
+        "why": "Recipes assume the preparation is done and only count active cooking time. Reading ahead surfaces every hidden wait before it turns into an emergency.",
+        "apply": "Read the recipe twice and lay out every ingredient prepped in bowls before you turn on any heat, for the next five dishes you cook.",
+        "format": "single",
+        "tags": [
+          "preparation",
+          "technique",
+          "weeknight"
+        ]
+      },
+      {
+        "id": "how-to-cook-everything-s06",
+        "hook": "One dressing you make yourself replaces every bottle in the fridge.",
+        "insight": "A vinaigrette is oil, acid, salt and something to hold them together, mixed in a rough proportion you adjust by tasting. Made in a jar it takes two minutes, costs a fraction of bottled dressing, and tastes better because nothing has had to survive a shelf. It also teaches balance in miniature: too sharp and you add oil, too flat and you add acid or salt. Learn it once and salads stop being a chore and start being a way to use up vegetables.",
+        "why": "The ratio is adjustable rather than fixed, because vinegars differ in strength. Tasting and correcting is the real technique, and it transfers straight into sauces.",
+        "apply": "Make a jar of vinaigrette tonight by taste, adjusting oil and acid until it is right, and keep it in the fridge door for the week.",
+        "format": "single",
+        "tags": [
+          "dressing",
+          "balance",
+          "salads"
+        ]
+      },
+      {
+        "id": "how-to-cook-everything-s07",
+        "hook": "The best weeknight dish is usually whatever is about to go off.",
+        "insight": "Meal planning that starts with a recipe generates shopping, waste and friction. Planning that starts with the fridge generates dinner. Look at what will not survive another three days, decide which method suits it, whether roast, soup, frittata, stir-fry or sauce, and let the recipe be an afterthought. This is how professional kitchens think about produce, and it is the fastest route to cooking more often, because it takes the trip to the shop off the critical path.",
+        "why": "Both waste and effort come from the gap between what you bought and what you planned. Cooking from what is on hand closes that gap and shortens the decision.",
+        "apply": "Before deciding on dinner, open the fridge and pick the ingredient closest to spoiling, then choose a method that suits it.",
+        "format": "single",
+        "tags": [
+          "weeknight",
+          "waste",
+          "planning"
+        ]
+      },
+      {
+        "id": "how-to-cook-everything-s08",
+        "hook": "Slow chopping is a grip problem, not a speed problem.",
+        "insight": "People chop slowly because they are chopping unsafely and their body knows it. The fix is mechanical: a sharp knife, a board that cannot slide, a claw-shaped guiding hand with the fingertips tucked behind the knuckles, and a rocking motion that keeps the tip on the board. Speed then arrives on its own with repetition. Nobody needs restaurant speed at home, but a confident grip makes cooking less tiring, which is the difference between cooking twice a week and cooking five times.",
+        "why": "Blunt knives need force and skid off curved surfaces, so caution is entirely rational. Correcting the setup removes the reason to be slow rather than demanding bravery.",
+        "apply": "Put a damp cloth under your board, sharpen your knife, and practise the claw grip on a bag of onions until it stops feeling strange.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Anchor the board",
+            "body": "Lay a damp cloth or a piece of grippy mat under the board. A board that slides makes every other correction impossible and is the main hazard."
+          },
+          {
+            "step": 2,
+            "title": "Sharpen before you start",
+            "body": "A keen edge bites exactly where you place it. A dull one skates across skins and needs force, which is precisely what makes a slip dangerous."
+          },
+          {
+            "step": 3,
+            "title": "Make a claw",
+            "body": "Curl the fingertips of your guiding hand under and let your knuckles rest against the flat of the blade. The knife then has a wall it cannot cross."
+          },
+          {
+            "step": 4,
+            "title": "Rock, do not chop",
+            "body": "Keep the tip in contact with the board and use the curve of the blade. Lifting the whole knife each time is slower and much less accurate."
+          }
+        ],
+        "tags": [
+          "knife-skills",
+          "safety",
+          "technique"
+        ]
+      },
+      {
+        "id": "how-to-cook-everything-s09",
+        "hook": "Good ingredients need less doing to them, not more.",
+        "insight": "There is a persistent belief that effort equals quality in cooking, so a simple dish feels like cheating. In practice the opposite holds. A ripe tomato with salt and oil beats the same tomato buried under six other ingredients. Complexity is usually compensation for ingredients that cannot stand on their own. The real skill is knowing when to stop, which is much harder than knowing what to add, and it is the difference between a cook who is trying and a cook who is confident.",
+        "why": "Every added ingredient competes for the same palate. When the base ingredient is genuinely good, additions mostly subtract from whatever made it worth buying.",
+        "apply": "Cook one meal this week using no more than five ingredients, and spend the money you save on better versions of those five.",
+        "format": "single",
+        "tags": [
+          "simplicity",
+          "ingredients"
+        ]
+      },
+      {
+        "id": "how-to-cook-everything-s10",
+        "hook": "Cooking gets easy at about the fiftieth time, not the fifth.",
+        "insight": "The reason cooking feels like work is that most people do it rarely enough to stay permanently unpractised. Everything is slow: the chopping, the finding, the cleaning, the deciding. Cook four or five nights a week for a couple of months and the same meal takes half the time, because the decisions have become automatic and the kitchen has arranged itself around how you actually work. Frequency, rather than ambition, is what makes home cooking sustainable.",
+        "why": "Fluency comes from repetition under mild time pressure. Cooking only occasionally keeps every sub-skill at beginner speed, which is exactly why it stays exhausting.",
+        "apply": "Commit to cooking four dinners a week for a month, keeping the dishes deliberately simple so that frequency does not collapse.",
+        "format": "single",
+        "tags": [
+          "practice",
+          "habit",
+          "weeknight"
+        ]
+      }
+    ],
+    "actions": [
+      "Choose five master dishes to be your permanent repertoire and cook each of them at least four times before adding anything new.",
+      "Build a ten-item pantry list and hold the rule that you restock an item on the day you open the last one.",
+      "Clear your kitchen down to the tools you have used in the past six months and buy one heavy pan with the savings.",
+      "Cook from the fridge for two weeks: pick the ingredient closest to spoiling first, then choose the method that suits it."
+    ],
+    "if_you_liked": [
+      "salt-fat-acid-heat",
+      "the-food-lab",
+      "on-food-and-cooking"
+    ],
+    "not_for_you_if": "You want cuisine-specific depth or restaurant technique. It is a broad general reference, and specialists will find the treatment of their own favourite cuisine thin.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 1998 by Macmillan, with substantially revised later editions. All prose here is original."
+    }
+  },
+  {
+    "id": "understanding-wood",
+    "title": "Understanding Wood",
+    "subtitle": "A Craftsman's Guide to Wood Technology",
+    "author": "R. Bruce Hoadley",
+    "year": 1980,
+    "category": "how-to-diy",
+    "subcategory": "woodworking",
+    "tags": [
+      "woodworking",
+      "materials",
+      "craft",
+      "joinery",
+      "furniture",
+      "tools"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It gave woodworkers the physics of their own material, so joints that fail, panels that split and finishes that lift stopped being bad luck. Most modern furniture-making advice traces its reasoning back to it.",
+    "crux": {
+      "headline": "Wood is never finished moving",
+      "body": "Wood is a bundle of cells that absorbs and releases water with the humidity around it, swelling and shrinking across the grain every season for as long as the object exists. Almost every failure in woodwork, whether the split panel, the sticking drawer, the cracked tabletop or the lifted veneer, is a design that tried to stop that movement. Good work does not fight it. It allows for it."
+    },
+    "sparks": [
+      {
+        "id": "understanding-wood-s01",
+        "hook": "Wood swells and shrinks across the grain but almost never along it.",
+        "insight": "A board changes width with the seasons and effectively does not change length. That single asymmetry explains most of traditional joinery. A wide tabletop can move a noticeable amount across its width between a damp summer and a dry heated winter, while its length stays put. So tops are fastened with slotted holes or buttons that let them slide, panels float loose in grooved frames, and rigid cross-grain glue joints over any width are avoided. Once you know the direction of movement, the rules stop being arbitrary.",
+        "why": "The cells run lengthwise and change very little in that direction, while water enters and leaves the cell walls sideways. The result is large cross-grain movement and negligible movement along the grain.",
+        "apply": "Before building anything wide, mark the direction of grain movement on your drawing and design a fixing that lets the wood slide.",
+        "format": "single",
+        "tags": [
+          "wood-movement",
+          "design",
+          "joinery"
+        ]
+      },
+      {
+        "id": "understanding-wood-s02",
+        "hook": "A board cups away from the heart of the tree, every time.",
+        "insight": "Wood shrinks roughly twice as much along the growth rings as it does across them. In a flatsawn board the rings run in a curve, so the two faces shrink by different amounts and the board cups away from the side that faced the centre of the tree. Look at the end grain of any board and you can predict which way it will curve as it dries. Quartersawn boards, where the rings run close to perpendicular to the face, move much less in width and stay flatter, which is why they cost more.",
+        "why": "Tangential shrinkage is about double radial shrinkage in most species. The curved rings in a flatsawn board therefore pull the two faces unequally as moisture leaves the wood.",
+        "apply": "Read the end grain of every board before you cut, and orient the face that grew nearest the bark where cupping will do the least harm.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Look at the end grain",
+            "body": "Turn the board on its end and find the curve of the growth rings. The centre of that curve points back towards where the heart of the tree was."
+          },
+          {
+            "step": 2,
+            "title": "Predict the cup",
+            "body": "The face nearer the heart shrinks less, so the board curls away from it. You can call the direction of the cup before the board ever moves."
+          },
+          {
+            "step": 3,
+            "title": "Alternate or restrain",
+            "body": "In a glued panel you can alternate the rings board to board to break one big cup into small ripples, or keep them aligned and hold the panel flat with a frame."
+          },
+          {
+            "step": 4,
+            "title": "Buy quartersawn where it counts",
+            "body": "For a wide door panel or a top that must stay flat, rings running edge to edge move roughly half as much across the width of the board."
+          }
+        ],
+        "tags": [
+          "grain",
+          "cupping",
+          "board-selection"
+        ]
+      },
+      {
+        "id": "understanding-wood-s03",
+        "hook": "Buy the timber weeks before you need it and let it live indoors.",
+        "insight": "Wood settles at a moisture content that matches the humidity around it, and a heated house is far drier than a timber yard or a garage. Bring boards home, sticker them with spacers so air reaches every face, and leave them in the room where the finished piece will live for a couple of weeks or more. If you build with wood that has not settled, it will shrink after assembly and the joints will open. The waiting is not patience for its own sake. It decides whether the piece survives its first winter.",
+        "why": "Wood moves towards equilibrium with the surrounding humidity, and heated interior air is usually much drier than storage conditions. Building before it settles guarantees shrinkage after assembly.",
+        "apply": "Sticker new boards in the destination room for at least two weeks, and check them with a moisture meter before you cut any joints.",
+        "format": "single",
+        "tags": [
+          "moisture",
+          "timber",
+          "preparation"
+        ]
+      },
+      {
+        "id": "understanding-wood-s04",
+        "hook": "Glue holds end grain badly, which is the whole reason joinery exists.",
+        "insight": "Glue bonds well to the long sides of wood cells and poorly to their open ends, where it soaks in and starves the joint. That is why butting two pieces end to end and gluing them produces a joint that snaps under hand pressure, and why every traditional joint, whether mortise and tenon, dovetail, lap or bridle, works by creating long-grain gluing surfaces and mechanical interlock instead. When a joint needs strength, ask where the long-grain contact is. If there is none, the joint is decorative.",
+        "why": "End grain absorbs adhesive into the open cell cavities, leaving too little at the interface, and offers no mechanical resistance. A good long-grain glue joint is typically stronger than the surrounding wood.",
+        "apply": "Sketch any joint before cutting it and shade the long-grain gluing faces. If the shaded area is small, add a tenon, a spline or dowels.",
+        "format": "single",
+        "tags": [
+          "joinery",
+          "glue",
+          "strength"
+        ]
+      },
+      {
+        "id": "understanding-wood-s05",
+        "hook": "Gluing one board rigidly across another is a crack you have scheduled.",
+        "insight": "If a long-grain piece is glued rigidly across the width of another, one of them will try to move with the seasons and the other will not allow it. Something has to give, and it is usually the wood rather than the glue. Breadboard ends, wide cleats and rigidly glued battens all fail this way, sometimes years later. The traditional solutions all allow slip: pins in slotted holes, a tenon glued only at the centre, buttons running in a groove. Rigid is not the same as strong.",
+        "why": "Wood movement generates very large forces, easily enough to split a board when restrained. Designs that allow controlled slip survive, while designs that resist movement store stress until something fails.",
+        "apply": "Wherever two pieces cross the grain, glue or fix the centre and slot the outer fastenings so the wood can move without splitting.",
+        "format": "single",
+        "tags": [
+          "wood-movement",
+          "design",
+          "failure"
+        ]
+      },
+      {
+        "id": "understanding-wood-s06",
+        "hook": "Tearout is not a sharpness problem. It is a direction problem.",
+        "insight": "Cutting a board is like stroking an animal: one direction lies down smoothly and the other lifts. When a blade or plane iron runs against the rise of the grain, it levers fibres up ahead of the cut and tears them out below the surface. The cure is to read the grain on the edge of the board and cut the other way, or to reduce the depth of cut so the fibres stay supported. Sharpening helps, but no edge is sharp enough to rescue a cut taken in the wrong direction.",
+        "why": "Fibres slope relative to the surface, so a cut taken against the slope levers them up rather than severing them cleanly. Direction determines whether the fibre is supported during the cut.",
+        "apply": "Before planing or routing, look along the edge of the board to find the grain slope, and pencil an arrow for the safe cutting direction.",
+        "format": "single",
+        "tags": [
+          "grain",
+          "planing",
+          "technique"
+        ]
+      },
+      {
+        "id": "understanding-wood-s07",
+        "hook": "No finish seals wood. It only slows the water down.",
+        "insight": "Finishes are often sold as though they waterproof timber. They do not. Every common finish is permeable to water vapour, and film thickness only changes the rate at which moisture moves in and out. That has two consequences. Seasonal movement still happens under any finish, so you must design for it regardless. And you should finish every surface of a panel, including the hidden underside of a tabletop, because coating one face only means that face exchanges moisture faster than the other, and the board warps.",
+        "why": "Finishes behave as vapour retarders rather than vapour barriers. Unequal coating creates unequal moisture exchange between the two faces, which is a common and entirely avoidable cause of warping.",
+        "apply": "Finish both faces and all edges of every panel with the same number of coats, especially the underside of a tabletop nobody will see.",
+        "format": "single",
+        "tags": [
+          "finishing",
+          "moisture",
+          "warping"
+        ]
+      },
+      {
+        "id": "understanding-wood-s08",
+        "hook": "Choosing a wood is an engineering decision dressed up as taste.",
+        "insight": "Species differ in density, hardness, stability, stiffness and how they take glue, fasteners and finish, and those differences decide whether a design works at all. A stable species is right for a wide panel. A dense, stiff one is right for a chair leg carrying load in a small section. Choosing purely by colour is how people end up with a beautiful, dented tabletop or a chair that racks. Look up the properties of a species before you buy, then let appearance decide between the survivors.",
+        "why": "Mechanical and dimensional properties vary widely between species and are well documented. Matching them to the job removes a whole class of failure that otherwise looks like poor workmanship.",
+        "apply": "Before your next timber purchase, check the density and shrinkage figures for two candidate species and choose on the job, not the colour.",
+        "format": "single",
+        "tags": [
+          "species",
+          "materials",
+          "selection"
+        ]
+      },
+      {
+        "id": "understanding-wood-s09",
+        "hook": "Most disappointing projects were bought badly, not built badly.",
+        "insight": "The condition of a board decides how much trouble it will give you long before a tool touches it. Warp, twist, end checks, included bark, knots near an edge and pith running through the middle are all visible in the yard and all expensive later. Sight along each board, look at both ends, and reject anything with a twist, because twist is the one defect you cannot flatten out without losing most of the thickness. Buying carefully is far cheaper than machining hopefully.",
+        "why": "Distortion and internal checking come from how the board was sawn and dried, and no amount of machining removes stress that is already locked into the timber.",
+        "apply": "At the timber yard, sight down every board's length and across its width, and put back anything showing twist however good the price is.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Sight along the length",
+            "body": "Hold one end up to your eye and look down the board for bow and crook. A small bow can be planed out of a short piece, but long boards cannot."
+          },
+          {
+            "step": 2,
+            "title": "Check for twist",
+            "body": "Rest the board on a flat surface and see whether it rocks on opposite corners. Twist is the defect that eats thickness and it rarely improves."
+          },
+          {
+            "step": 3,
+            "title": "Read both ends",
+            "body": "Look for checks, splits and the pith. End checks run further in than they appear, so allow extra length rather than trimming exactly to size."
+          },
+          {
+            "step": 4,
+            "title": "Judge the knots",
+            "body": "Knots at an edge, or in a rail under load, weaken the piece and cause tearout. Sound knots in the middle of a wide panel are usually fine."
+          }
+        ],
+        "tags": [
+          "timber",
+          "buying",
+          "defects"
+        ]
+      },
+      {
+        "id": "understanding-wood-s10",
+        "hook": "Two boards cut from the same tree can behave differently.",
+        "insight": "Wood is grown rather than manufactured, so its properties vary between species, between trees and within a single board. Sapwood differs from heartwood, a piece cut near a branch has swirling grain, and the same nominal species can vary considerably in density. This is why good woodworking advice always includes a test piece. You fit joints to the wood in front of you, and you try a finish on an offcut from the same board. Treat published figures as a starting range rather than a specification.",
+        "why": "Biological variation means published averages describe a population, not your particular board. Testing on an offcut is the only way to know how this piece will behave.",
+        "apply": "Cut an offcut from every board you use for joint fitting and finish testing, and label it with the project so you can compare later.",
+        "format": "single",
+        "tags": [
+          "variability",
+          "testing",
+          "materials"
+        ]
+      }
+    ],
+    "actions": [
+      "Sticker your next timber purchase in the room where the finished piece will live and leave it there for at least two weeks before cutting any joints.",
+      "Take a piece of furniture you own and work out how its maker allowed for wood movement, looking under the tabletop for slots, buttons or slotted screws.",
+      "Cut a deliberately bad joint by gluing two pieces end to end, then break it by hand, so the weakness of end grain is something you have felt.",
+      "Look up the density and shrinkage figures for the three species you use most and write them on a card kept in the workshop."
+    ],
+    "if_you_liked": [
+      "shop-class-as-soulcraft",
+      "readers-digest-complete-do-it-yourself-manual"
+    ],
+    "not_for_you_if": "You want project plans or step-by-step builds. It explains the material rather than telling you how to make anything, and some sections read like a textbook.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 1980 by The Taunton Press, with a revised edition in 2000. Included in place of a general woodworking manual the writer could not verify in detail. All prose here is original."
+    }
+  },
+  {
+    "id": "the-complete-book-of-home-preserving",
+    "title": "The Complete Book of Home Preserving",
+    "subtitle": null,
+    "author": "Judi Kingry and Lauren Devine",
+    "year": 2006,
+    "category": "how-to-diy",
+    "subcategory": "food-preserving",
+    "tags": [
+      "canning",
+      "preserving",
+      "food-safety",
+      "jam",
+      "pickles",
+      "kitchen-skills"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It brought tested, laboratory-backed preserving processes into ordinary kitchens at a point when home canning was being relearned from unreliable internet advice. Following a tested recipe exactly is what keeps a jar safe.",
+    "crux": {
+      "headline": "Follow a tested recipe or do not can it",
+      "body": "Home preserving is the one kind of cooking where improvising can seriously harm somebody. The processes that make a jar safe were established by laboratory testing of specific recipes at a specific acidity, jar size and processing time. Changing the vegetables, cutting the vinegar, scaling the jar up or shortening the time invalidates that testing. Treat a preserving recipe as a procedure rather than a suggestion, and take your recipes from a tested source."
+    },
+    "sparks": [
+      {
+        "id": "the-complete-book-of-home-preserving-s01",
+        "hook": "Acidity decides whether a jar needs boiling water or a pressure canner.",
+        "insight": "The organism that makes home canning dangerous is the one that produces botulinum toxin, and it cannot grow in sufficiently acidic conditions. That is why preserving splits into two worlds. High-acid foods, meaning most fruits, jams and properly acidified pickles, are safe processed in boiling water. Low-acid foods, meaning vegetables, meats, beans and most soups, will not reach a safe state in boiling water at all and require a pressure canner, which reaches a higher temperature. There is no third option and no shortcut.",
+        "why": "Botulinum spores survive boiling water indefinitely. Only sufficient acidity, or the higher temperatures a pressure canner reaches, will stop them producing toxin inside a sealed jar.",
+        "apply": "Before canning anything, classify it as high-acid or low-acid, and if it is low-acid, use a pressure canner or refrigerate and freeze it instead.",
+        "format": "single",
+        "tags": [
+          "food-safety",
+          "botulism",
+          "canning"
+        ]
+      },
+      {
+        "id": "the-complete-book-of-home-preserving-s02",
+        "hook": "Adding one more vegetable can turn a safe jar into an unsafe one.",
+        "insight": "Tested preserving recipes are tested exactly as written. The proportion of vinegar, the size of the pieces, the jar size and the processing time were all validated together, because each one affects how heat travels into the jar and what the final acidity turns out to be. Adding extra onion or pepper to a pickle, halving the vinegar because it tastes sharp, or packing the jar more densely all change the outcome in ways you cannot see or taste. Season a preserve at the table instead.",
+        "why": "Acidity and heat penetration are the two variables that make a jar safe, and substitutions alter both. Contamination by botulinum toxin is usually invisible, odourless and tasteless.",
+        "apply": "Change only salt, dried herbs and spices in a tested recipe, and never alter the vinegar, the ratios, the jar size or the processing time.",
+        "format": "single",
+        "tags": [
+          "food-safety",
+          "recipes",
+          "canning"
+        ]
+      },
+      {
+        "id": "the-complete-book-of-home-preserving-s03",
+        "hook": "A safe jar is a sequence, and every step is doing a job.",
+        "insight": "Water-bath canning looks fussy, and each step is load-bearing. Jars are heated so they do not crack, filled to a specified headspace so a vacuum can form, wiped so the lid seals against clean glass, and processed for a time measured from a full rolling boil. Then they are left undisturbed to cool and seal. Skipping a step rarely produces an obvious failure. It produces a jar that looks perfectly fine and is not, which is why the sequence matters more than the recipe.",
+        "why": "Each step controls one variable: thermal shock, vacuum formation, seal integrity or heat penetration. A jar can seal convincingly and still be unsafe if the processing time was short.",
+        "apply": "Write the steps on a card and keep it by the pot, timing every batch from the moment the water returns to a full rolling boil.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Prepare jars and lids",
+            "body": "Wash the jars and keep them hot until filling so they do not crack. Follow the lid maker's current instructions, which have genuinely changed over the years."
+          },
+          {
+            "step": 2,
+            "title": "Fill to the stated headspace",
+            "body": "Leave exactly the gap the recipe specifies and release trapped air bubbles. Too little headspace stops a seal forming, and too much leaves oxygen in the jar."
+          },
+          {
+            "step": 3,
+            "title": "Wipe the rim",
+            "body": "A trace of jam or brine on the rim will prevent a proper seal. Wipe with a clean damp cloth and tighten the band only to fingertip tight."
+          },
+          {
+            "step": 4,
+            "title": "Process, then leave alone",
+            "body": "Cover the jars with the specified depth of water, start timing at a full rolling boil, and let them cool undisturbed before you test any seals."
+          }
+        ],
+        "tags": [
+          "water-bath",
+          "procedure",
+          "canning"
+        ]
+      },
+      {
+        "id": "the-complete-book-of-home-preserving-s04",
+        "hook": "The same recipe needs longer at altitude, because water boils cooler.",
+        "insight": "Water boils at a lower temperature as you climb, so a boiling-water bath at height is genuinely less hot than one at sea level, and a pressure canner needs more pressure to reach the same internal temperature. Tested recipes are written for sea level and come with an adjustment table for elevation, so ignoring it means under-processing every jar you make. Find out your elevation once, write it on the inside of a cupboard door, and apply the published adjustment every single time.",
+        "why": "Boiling point falls with atmospheric pressure, so the heat delivered to the jar drops as elevation rises. The adjustment restores the same lethal effect on spoilage organisms.",
+        "apply": "Look up your exact elevation, write it somewhere you can see while canning, and apply the published altitude adjustment to every batch.",
+        "format": "single",
+        "tags": [
+          "altitude",
+          "food-safety",
+          "canning"
+        ]
+      },
+      {
+        "id": "the-complete-book-of-home-preserving-s05",
+        "hook": "Several methods your grandmother used are now known to be unsafe.",
+        "insight": "Preserving advice passes down through families, and some of it predates the testing that showed it does not work. Sealing jars with wax, turning jars upside down to force a seal, oven canning, processing in a dishwasher, and canning low-acid vegetables in a boiling-water bath all appear in older books and all fail to deliver a reliably safe result. Family recipes are worth keeping for their flavour. The process should come from a current tested source.",
+        "why": "These methods either fail to reach a safe temperature or produce a convincing seal without making the contents safe, which is the most dangerous combination because the jar looks correct.",
+        "apply": "Keep the family flavours but replace the process with a current tested one from a recognised food-safety authority before you preserve anything.",
+        "format": "single",
+        "tags": [
+          "food-safety",
+          "myths",
+          "canning"
+        ]
+      },
+      {
+        "id": "the-complete-book-of-home-preserving-s06",
+        "hook": "Jam sets on a balance of sugar, acid and pectin, not on boiling harder.",
+        "insight": "A jam that will not set is usually short of one of three things rather than under-boiled. Pectin builds the gel network, acid allows it to form, and sugar pulls water away so the network can hold. Fruits differ enormously in natural pectin and acid, which is why some jams set with nothing added and others need lemon juice or added pectin. Boiling on and on to force a set instead simply drives off water, darkens the fruit and leaves you with less overcooked jam.",
+        "why": "Gel formation depends on that three-way balance rather than on cooking time. Prolonged boiling degrades pectin along with the flavour, so more heat can actively prevent a set.",
+        "apply": "Test the set with a chilled plate rather than a clock, and if it fails, correct the acid or the pectin rather than boiling for longer.",
+        "format": "single",
+        "tags": [
+          "jam",
+          "pectin",
+          "technique"
+        ]
+      },
+      {
+        "id": "the-complete-book-of-home-preserving-s07",
+        "hook": "Tomatoes sit right on the acid line, so they need added acid.",
+        "insight": "Tomatoes feel like a fruit and behave like a borderline case. Their natural acidity varies by variety and ripeness and sits close to the threshold separating safe boiling-water processing from unsafe, so tested recipes call for a measured addition of bottled lemon juice or citric acid to every jar. Bottled juice is specified rather than fresh because its acidity is consistent. This is the clearest example of why you follow the recipe rather than your palate, because the correction is invisible in the taste.",
+        "why": "Tomato acidity straddles the safety threshold and varies with cultivar and ripeness. A standardised bottled acid guarantees the batch lands on the safe side whatever the fruit was like.",
+        "apply": "Add the exact amount of bottled lemon juice or citric acid the tested recipe specifies to every jar of tomatoes, without tasting to judge it.",
+        "format": "single",
+        "tags": [
+          "tomatoes",
+          "acidity",
+          "food-safety"
+        ]
+      },
+      {
+        "id": "the-complete-book-of-home-preserving-s08",
+        "hook": "A failed jar is only dangerous if you cannot tell which one it was.",
+        "insight": "After cooling, test every lid. A sealed lid is concave and does not flex when pressed. Anything unsealed goes into the fridge and gets eaten within days rather than onto the shelf. Then label every jar with contents and date, because in eight months you will not remember which batch was the experiment. Before opening any jar, check for a bulging lid, leaking, cloudiness or spurting on opening, and discard rather than taste anything at all questionable.",
+        "why": "A vacuum seal is the visible proof that processing worked. Spoiled low-acid preserves are frequently undetectable by smell or taste, so a visible warning sign must never be overridden.",
+        "apply": "Test every seal after twelve hours, refrigerate the failures, and label each jar with the recipe name and the date it was processed.",
+        "format": "single",
+        "tags": [
+          "storage",
+          "seals",
+          "food-safety"
+        ]
+      },
+      {
+        "id": "the-complete-book-of-home-preserving-s09",
+        "hook": "A pressure canner is not a pressure cooker with a different label.",
+        "insight": "Low-acid foods need temperatures above boiling, and only a purpose-built pressure canner is designed and tested to hold them for the required time. The gauge matters: a dial gauge drifts and should be tested, while a weighted gauge regulates itself. Venting the canner before pressurising is not optional either, because trapped air lowers the real temperature inside at any given gauge reading. Learn the machine thoroughly before you start learning the recipes.",
+        "why": "Trapped air makes the gauge report a temperature the jars are not actually experiencing, which is why venting is required. Small electric multi-cookers are generally not tested for safe canning.",
+        "apply": "If you plan to can vegetables or meat, buy a purpose-built pressure canner, read its manual in full, and have any dial gauge tested before the season.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Vent before you pressurise",
+            "body": "Let steam flow steadily from the vent for the time the manual specifies. Air left inside makes the gauge lie about the temperature reaching your jars."
+          },
+          {
+            "step": 2,
+            "title": "Match pressure to altitude",
+            "body": "Higher ground needs more pressure to reach the same temperature. Look up the adjustment for your elevation and apply it to every single load."
+          },
+          {
+            "step": 3,
+            "title": "Hold the pressure steady",
+            "body": "Adjust the heat so pressure never drops below the target. If it does fall, the timing restarts from the beginning, not from where it dipped."
+          },
+          {
+            "step": 4,
+            "title": "Cool without forcing it",
+            "body": "Let the canner depressurise on its own. Running it under water or opening the vent early causes liquid loss, seal failure and serious burns."
+          }
+        ],
+        "tags": [
+          "pressure-canning",
+          "equipment",
+          "food-safety"
+        ]
+      },
+      {
+        "id": "the-complete-book-of-home-preserving-s10",
+        "hook": "Not everything should be canned. Some things belong in the freezer.",
+        "insight": "Canning is one preservation method among several, and it is not the best one for everything. Pureed vegetables, dairy, thickened soups and dense mixtures heat unevenly inside a jar, which is why tested recipes for them are scarce or entirely absent. Freezing, drying, fermenting and refrigerator pickling avoid the problem completely and often taste better. If you cannot find a tested canning recipe for something, that absence is usually information rather than a gap for you to fill in yourself.",
+        "why": "Dense or thick contents slow heat penetration to the centre of the jar, so safe processing times cannot be reliably established. A missing tested recipe often means the food failed testing.",
+        "apply": "When no tested canning recipe exists for a food you want to keep, freeze, dry or refrigerate it rather than adapting a recipe for something else.",
+        "format": "single",
+        "tags": [
+          "freezing",
+          "methods",
+          "food-safety"
+        ]
+      }
+    ],
+    "actions": [
+      "Take your preserving recipes from a current tested source, and check that the edition you own has not been superseded by revised safety guidance.",
+      "Look up the elevation of your kitchen and write the altitude adjustment for both water-bath and pressure processing inside a cupboard door.",
+      "Start with a high-acid batch, such as a jam or a tested pickle, and process it exactly as written before you attempt anything low-acid.",
+      "If you intend to can vegetables or meat, buy a purpose-built pressure canner and have its dial gauge tested before each season."
+    ],
+    "if_you_liked": [
+      "the-encyclopedia-of-country-living",
+      "how-to-cook-everything",
+      "on-food-and-cooking"
+    ],
+    "not_for_you_if": "You want relaxed, improvised cooking. Safe preserving is procedural by nature, and if following an exact recipe frustrates you, this is not a hobby to bend.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2006 by Robert Rose and usually catalogued as the Ball Complete Book of Home Preserving. Processing guidance is revised periodically, so always check the current edition and your national food-safety authority. All prose here is original."
+    }
+  },
+  {
+    "id": "the-well-tempered-garden",
+    "title": "The Well-Tempered Garden",
+    "subtitle": null,
+    "author": "Christopher Lloyd",
+    "year": 1970,
+    "category": "how-to-diy",
+    "subcategory": "gardening",
+    "tags": [
+      "gardening",
+      "plants",
+      "borders",
+      "pruning",
+      "soil",
+      "horticulture"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 11,
+    "why_it_matters": "It replaced polite gardening advice with opinionated first-hand judgement from a gardener who had actually tried things and reported the failures. It taught a generation to garden by observation instead of by rule.",
+    "crux": {
+      "headline": "Garden by observation, not by received rule",
+      "body": "Most gardening advice is repeated rather than tested, and a good deal of it is wrong in your particular soil, aspect and climate. The gardener who does well is the one who watches closely, tries things that supposedly ought not to work, keeps notes, and stays unsentimental about removing a plant that is not earning its place. Your garden is the only reliable authority on your garden."
+    },
+    "sparks": [
+      {
+        "id": "the-well-tempered-garden-s01",
+        "hook": "The plant that has sulked for three years is not going to surprise you.",
+        "insight": "Gardens fill up with plants kept out of guilt: the shrub that never flowers, the perennial that flops every June, the gift that hates your soil. Every one of them occupies light, root space and your attention. Being willing to dig something out is not cruelty, it is the main way a garden improves, because the space it frees goes to something that actually thrives. Give a plant a fair trial in a couple of positions, then decide honestly whether you would plant it again today.",
+        "why": "Space and light are the limiting resources in any garden. An underperforming plant is not neutral, because it costs you the better plant that could occupy the same ground.",
+        "apply": "Walk the garden and mark three plants that have disappointed for two seasons or more, then move or remove one of them this month.",
+        "format": "single",
+        "tags": [
+          "editing",
+          "planting",
+          "judgement"
+        ]
+      },
+      {
+        "id": "the-well-tempered-garden-s02",
+        "hook": "Soil and aspect decide more than anything you can do afterwards.",
+        "insight": "A plant that suits its position asks very little of you, while a plant fighting the site needs feeding, watering, staking and constant sympathy and still looks miserable. Before buying anything, know your soil's texture and drainage, how acid or alkaline it is, and which parts of the garden get sun at which times of year. Then buy things that already want those conditions. This is far less romantic than choosing by photograph, and it is the single biggest determinant of whether gardening feels rewarding or exhausting.",
+        "why": "Plants evolved under particular conditions of moisture, light and soil chemistry. Matching the site removes most maintenance, because you stop paying continuously to override the environment.",
+        "apply": "Test your soil's pH and drainage, then map where the sun falls at three times of day before you buy another plant.",
+        "format": "single",
+        "tags": [
+          "soil",
+          "site",
+          "plant-selection"
+        ]
+      },
+      {
+        "id": "the-well-tempered-garden-s03",
+        "hook": "A border that peaks in June has a long, dull rest of the year.",
+        "insight": "The commonest fault in a planted border is that everything performs at once. Planning for succession means asking, for every month of the growing season, what will be doing the work: bulbs early, then perennials, then late flowers, with shrubs and foliage carrying the structure in between. Foliage matters more than flowers here, because leaves last for months while flowers last days. A border designed month by month looks intentional in every season instead of magnificent in one.",
+        "why": "Flowering periods are short and rarely overlap by accident. Deliberate sequencing is what produces a garden that holds interest across the whole year rather than for a fortnight.",
+        "apply": "List the twelve months and write down what will carry each one in your main border, then buy only for the months that come out blank.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Audit month by month",
+            "body": "Photograph the border on the same day each month for a year. Gaps are obvious in photographs and almost invisible when you are standing in front of them."
+          },
+          {
+            "step": 2,
+            "title": "Build on foliage first",
+            "body": "Choose plants whose leaves earn their space for months. Flowers are the short bonus on top of a structure that has to work without them."
+          },
+          {
+            "step": 3,
+            "title": "Layer seasons in one space",
+            "body": "Bulbs planted under later perennials use the same ground twice. Their growth dies back as the later plant expands and covers the bare patch."
+          },
+          {
+            "step": 4,
+            "title": "Fill gaps with pots",
+            "body": "Keep a few pots of annuals or tender plants to drop into holes as they appear. It is the honest way to correct a border while it matures."
+          }
+        ],
+        "tags": [
+          "borders",
+          "succession",
+          "planning"
+        ]
+      },
+      {
+        "id": "the-well-tempered-garden-s04",
+        "hook": "Timid pruning gives you a shrub that is both ugly and unproductive.",
+        "insight": "Nervous gardeners trim the outside of shrubs, which produces a dense shell of twigs around a hollow, unflowering interior. Confident pruning goes deeper: remove whole stems at the base, take out the oldest wood, and open the plant up to light and air. Most shrubs regenerate strongly from a hard cut and many flower better for it. The important part is knowing when in the year to cut, because a plant that flowers on last year's growth will be cut out of bloom for a season if you pick the wrong month.",
+        "why": "Removing old wood stimulates vigorous new growth, and light reaching the centre is what makes the interior productive. Timing is what decides whether you lose a season of flower.",
+        "apply": "Look up whether each shrub flowers on old or new wood before you cut, then take out whole old stems at the base instead of trimming the outside.",
+        "format": "single",
+        "tags": [
+          "pruning",
+          "shrubs",
+          "technique"
+        ]
+      },
+      {
+        "id": "the-well-tempered-garden-s05",
+        "hook": "The best gardeners let some plants choose their own positions.",
+        "insight": "Plants that seed themselves around often land in places you would never have planted them: in a paving crack, at the foot of a wall, threaded through a shrub. The effect is looser and frequently better than a plan. The technique is to allow it and then edit. Let seedlings appear, remove the ones in the wrong place, and keep the accidents that work. It costs nothing, it fills gaps, and it slowly teaches you which conditions each plant actually prefers, because the survivors tell you.",
+        "why": "Self-sown seedlings germinate where conditions genuinely suit them, so their distribution is real information about the microclimates in your own garden.",
+        "apply": "Leave one area unweeded until you can identify the seedlings, then remove the ones you do not want and let the rest stand.",
+        "format": "single",
+        "tags": [
+          "self-seeding",
+          "naturalistic",
+          "observation"
+        ]
+      },
+      {
+        "id": "the-well-tempered-garden-s06",
+        "hook": "Light daily watering trains roots to stay near the surface.",
+        "insight": "A quick sprinkle wets the top inch and encourages roots to grow exactly where the soil dries out first, which leaves the plant helpless in a real drought. Watering less often and much more heavily drives moisture deeper and pulls the roots down after it. Newly planted things need the most attention, because their roots are still confined to the pot-shaped space they arrived in. Established plants in the right position often need none at all, which is another argument for choosing plants that suit the site.",
+        "why": "Roots grow towards available moisture, so watering depth shapes root depth. Shallow-rooted plants dry out fastest and become permanently dependent on you continuing to water.",
+        "apply": "Water new plantings heavily once or twice a week rather than a little each day, and check the soil a hand's depth down before watering at all.",
+        "format": "single",
+        "tags": [
+          "watering",
+          "roots",
+          "establishment"
+        ]
+      },
+      {
+        "id": "the-well-tempered-garden-s07",
+        "hook": "Feeding the soil beats feeding the plant.",
+        "insight": "Soil that is alive with organic matter holds water, drains freely, releases nutrients slowly and supports the fungi and bacteria that roots depend on. A thick mulch of compost or well-rotted manure laid onto damp ground does more good over years than any bottle of fertiliser, because it improves the structure rather than delivering a brief spike. It also suppresses weed germination and reduces evaporation. The gardening effort with the best long-term return is almost always making and spreading compost.",
+        "why": "Organic matter improves structure, moisture retention and biological activity all at once. Soluble fertiliser addresses only nutrient supply, and its effect fades within weeks.",
+        "apply": "Mulch your beds with compost or rotted manure onto damp soil each year, and start a compost heap if you do not already have one.",
+        "format": "single",
+        "tags": [
+          "soil",
+          "mulch",
+          "compost"
+        ]
+      },
+      {
+        "id": "the-well-tempered-garden-s08",
+        "hook": "Your memory of last summer's garden is already wrong.",
+        "insight": "Gardening runs on a twelve-month feedback loop, which is far too slow for memory to handle. By next spring you will not recall which week the tulips opened, which plant flopped, what you promised to move, or where the bare patch was. A short dated note and a monthly photograph turn a garden into something you can genuinely learn from, and after three years the record is more useful than any book, because it describes your ground rather than somebody else's.",
+        "why": "One growing season gives you one observation per plant per year. Without a record each year restarts from a distorted memory instead of building on the last one.",
+        "apply": "Photograph the same three views on the first of every month, and keep a one-line dated note whenever something pleases or annoys you.",
+        "format": "single",
+        "tags": [
+          "record-keeping",
+          "observation",
+          "learning"
+        ]
+      },
+      {
+        "id": "the-well-tempered-garden-s09",
+        "hook": "Most plants that die were killed in the first ten minutes.",
+        "insight": "Planting badly is the commonest cause of early failure and it is entirely avoidable. Soak the plant before it goes in, tease out roots that have circled the pot, dig a hole wider than it is deep, set the plant at the depth it grew at, firm the soil to close air pockets, and water heavily to settle it. Then keep watering through the first season while roots leave the original rootball. None of these steps is difficult, and skipping any one of them accounts for a great many dead plants.",
+        "why": "Circling roots keep growing in a circle, a plant set too deep can rot at the collar, and air pockets dry roots out. Establishment failures usually trace back to the planting itself.",
+        "apply": "Soak the pot, loosen the roots and water heavily after planting, then keep watering through the whole of the first growing season.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Soak before planting",
+            "body": "Stand the pot in water until the bubbles stop. A dry rootball repels water once it is in the ground and can stay dry while the soil around it is wet."
+          },
+          {
+            "step": 2,
+            "title": "Free the roots",
+            "body": "Tease out or cut through roots that circle the pot. Left alone they keep spiralling, and the plant strangles itself years later without ever anchoring."
+          },
+          {
+            "step": 3,
+            "title": "Dig wide, not deep",
+            "body": "Roots spread sideways. A wide hole with loosened sides helps them out, while a deep hole lets the plant settle too low and rot at the neck."
+          },
+          {
+            "step": 4,
+            "title": "Firm and water heavily",
+            "body": "Press the soil down to close air pockets, then water enough to settle it around the roots. This first soaking matters more than any later one."
+          }
+        ],
+        "tags": [
+          "planting",
+          "establishment",
+          "technique"
+        ]
+      },
+      {
+        "id": "the-well-tempered-garden-s10",
+        "hook": "Try the plant that is supposed to fail in your conditions.",
+        "insight": "Published hardiness and soil requirements describe averages, and your garden has walls, slopes, shelter and frost pockets that make it several gardens at once. Gardeners who experiment discover that a plant said to need acid soil does fine in a raised bed of leaf mould, or that a tender thing survives against a warm wall. Risk one plant rather than twenty, and record what happens. The failures cost little, and the successes are what make a garden individual instead of a copy of a catalogue.",
+        "why": "Microclimates within a single garden vary widely, so general guidance is a starting probability rather than a verdict. Small experiments are how you map your own ground.",
+        "apply": "Buy one plant a year that is supposedly wrong for your conditions, put it in your most favourable microclimate, and write down the result.",
+        "format": "single",
+        "tags": [
+          "experiment",
+          "microclimate",
+          "risk"
+        ]
+      }
+    ],
+    "actions": [
+      "Photograph your main border on the first of every month for a year, then plant only for the months that look empty in the pictures.",
+      "Test your soil's pH and drainage, and map which parts of the garden get sun in the morning, at midday and in late afternoon.",
+      "Remove or move three plants that have underperformed for two seasons, and give the space to something that genuinely suits the site.",
+      "Start a compost heap and commit to mulching your beds with organic matter every year."
+    ],
+    "if_you_liked": [
+      "the-vegetable-gardeners-bible",
+      "the-encyclopedia-of-country-living"
+    ],
+    "not_for_you_if": "You want a step-by-step beginner's manual, or plant lists for a climate far from southern England. It is opinionated, discursive and assumes you will do the translating.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 1970 by Collins. The author gardened at Great Dixter in Sussex and revised the text for later editions, so advice reflects a temperate British climate. All prose here is original."
+    }
+  }
+]
