@@ -1,0 +1,228 @@
+[
+  {
+    "id": "limitless",
+    "title": "Limitless",
+    "subtitle": "Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life",
+    "author": "Jim Kwik",
+    "year": 2020,
+    "category": "learning-education",
+    "subcategory": "learning-methods",
+    "tags": [
+      "memory",
+      "study-skills",
+      "reading",
+      "focus",
+      "motivation",
+      "mindset"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 10,
+    "why_it_matters": "It is the popular front door to learning about learning: memory technique, reading speed, focus and motivation gathered in one place. Read it with a sceptical pen, because sturdy methods sit right next to claims the evidence does not support.",
+    "crux": {
+      "headline": "Belief, reason and method — miss one and nothing sticks",
+      "body": "Three things decide whether you learn something: what you privately believe you are capable of, whether you have a reason strong enough to start on a tired Tuesday, and whether your technique is any good. Repair only the technique and an unexamined belief still caps you. Repair only the belief and you will keep rereading pages that never stay. The useful move is to treat all three as maintainable, and to treat the methods as trainable skills rather than gifts you were issued at birth."
+    },
+    "sparks": [
+      {
+        "id": "limitless-s01",
+        "hook": "Most ceilings on learning are just a sentence someone repeats about themselves.",
+        "insight": "Say you have a terrible memory often enough and you quietly stop doing the things that would improve it, which reliably produces the memory you described. The belief does not have to be true to be expensive. It only has to decide which tasks you attempt, how long you stay with something hard, and whether a bad session counts as evidence about the method or about you. Swap the flat verdict for a conditional one, with a practice attached, and the same bad session turns back into information.",
+        "why": "Self-assessed ability shapes effort and persistence, and effort is what produces skill, so the belief manufactures its own evidence. The mechanism is well supported; the popular fix of repeating affirmations alone is not.",
+        "apply": "Write the three sentences you say most often about your own brain, then rewrite each with the word yet and one specific practice attached to it.",
+        "format": "single",
+        "tags": [
+          "beliefs",
+          "self-image",
+          "motivation"
+        ]
+      },
+      {
+        "id": "limitless-s02",
+        "hook": "Memory is a trainable skill, and almost nobody was ever taught to train it.",
+        "insight": "People treat memory as a fixed trait, like height. It behaves far more like a sport. Competitors who memorise long strings of digits or the order of a shuffled deck are, on the whole, ordinary people running deliberate spatial and visual strategies they practised. Nothing about their hardware is unusual. That reframing matters because a fixed trait is something to complain about, while a skill is something to schedule twenty minutes for.",
+        "why": "Studies of memory competitors keep finding average general ability and no unusual brain structure, just heavy use of spatial mnemonics. The gains are genuine but stay close to the trained task.",
+        "apply": "Pick ten items you actually need this week — a shopping list, a talk outline — and memorise them with images rather than writing them down.",
+        "format": "single",
+        "tags": [
+          "memory",
+          "practice"
+        ]
+      },
+      {
+        "id": "limitless-s03",
+        "hook": "School graded you constantly on what you learned and never once taught you how.",
+        "insight": "You were tested on outcomes for over a decade while the actual machinery — how to take notes, how to space review, how to test yourself, how to read something difficult — was left for you to improvise. Most adults are running study habits they invented at fourteen and never updated. The good news is that the machinery is small. A handful of techniques, learned properly, will outperform any amount of extra hours spent on the habits you happened to stumble into.",
+        "why": "Be careful with quizzes that sort you into a learner type or a spirit animal. Matching teaching to a supposed learning style has been tested repeatedly and fails; what should match the method is the material, not the person.",
+        "apply": "List the study habits you use by default. Mark each one as tested, untested or folklore, then replace the folklore with self-testing this week.",
+        "format": "single",
+        "tags": [
+          "study-skills",
+          "learning-styles",
+          "metacognition"
+        ]
+      },
+      {
+        "id": "limitless-s04",
+        "hook": "Your eyes are fast. The backtracking and the voice in your head are what slow you.",
+        "insight": "Ordinary reading wastes movement. Your eyes drift back over words you already took in, and an inner voice recites at speaking pace, capping you near the speed of talking. Running a finger or pen under the line as a pacer cuts the backtracking and steadies the rhythm, and reading in short bursts with a target time forces you to stop drifting. These are real, cheap improvements that most people can make in an afternoon.",
+        "why": "The bigger claims do not hold. Eye-tracking work shows comprehension falls away once you push far past fast normal reading, and demonstrations of extreme speed are usually skimming supported by prior knowledge of the topic.",
+        "apply": "Time yourself reading one page normally, then read three pages with a finger pacing each line, and compare both speed and what you can recall afterwards.",
+        "format": "single",
+        "tags": [
+          "reading",
+          "speed-reading"
+        ]
+      },
+      {
+        "id": "limitless-s05",
+        "hook": "Motivation is not a mood that arrives. It is a setup you can rig in advance.",
+        "insight": "Waiting to feel like studying is a losing strategy because the feeling usually follows the first ten minutes rather than preceding them. Three levers do most of the work: a reason specific enough to say out loud, a body with enough sleep and food to hold attention, and a first step small enough that refusing it looks silly. When motivation collapses, one of those three is almost always missing, and it is usually not the reason.",
+        "why": "Purpose, physical energy and low starting friction each independently predict follow-through in behaviour-change research. Treat the tidy formula as a checklist rather than a measured law — the arithmetic is a metaphor.",
+        "apply": "Before your next session, write the reason in one sentence, check you have slept and eaten, and shrink the first step until it takes two minutes.",
+        "format": "single",
+        "tags": [
+          "motivation",
+          "energy",
+          "starting"
+        ]
+      },
+      {
+        "id": "limitless-s06",
+        "hook": "A bad night's sleep undoes a study session faster than a bad technique does.",
+        "insight": "Learning is a physical process and it runs on a body. Sleep is when the day's material gets consolidated, so the hours after studying matter nearly as much as the hours during it. Movement raises attention and mood for the window afterwards, which is why a walk before difficult work is not a delay. Treating rest, food and exercise as a separate self-care category, unrelated to your study plan, is the most common quiet reason study plans underperform.",
+        "why": "Sleep's role in consolidation and exercise's short-term effect on attention are among the sturdier findings in this territory. The supplement and brain-food lists are far weaker: small studies, short durations, and frequently funded by sellers.",
+        "apply": "Protect sleep on the nights after your hardest study days, and put a ten-minute walk immediately before the session you keep avoiding.",
+        "format": "single",
+        "tags": [
+          "sleep",
+          "exercise",
+          "energy"
+        ]
+      },
+      {
+        "id": "limitless-s07",
+        "hook": "Most study sessions fail in the first two minutes and the last two minutes.",
+        "insight": "The middle of a session is rarely the problem. What ruins it is arriving with your head still full of the previous task, and leaving without deciding when you will meet the material again. A session that begins by clearing the buffer and ends by booking the review holds far more than a longer session that starts distracted and finishes with a closed book and a vague intention to revisit it sometime.",
+        "why": "Working memory is small and easily occupied by leftover context, and material without a scheduled second encounter decays on the usual forgetting curve. Both ends are cheap to fix.",
+        "apply": "Run your next session with a written start ritual and a booked review date, and note afterwards how much you can recall cold the next morning.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Empty the buffer",
+            "body": "Spend sixty seconds dumping whatever you were just doing onto paper. Unfinished threads keep taking up working memory, and working memory is what you were about to use."
+          },
+          {
+            "step": 2,
+            "title": "Name the one question",
+            "body": "Write the single question this session will answer. A session aimed at a question produces recallable answers; a session aimed at a chapter produces a feeling of having been present."
+          },
+          {
+            "step": 3,
+            "title": "Take notes in your own words",
+            "body": "Never copy phrasing. Force yourself to compress each idea into your own sentence, because the compression is where the understanding actually happens."
+          },
+          {
+            "step": 4,
+            "title": "Plan the handover",
+            "body": "Decide now who you will explain this to before the day ends, and when. Knowing an explanation is coming changes how you read every paragraph."
+          },
+          {
+            "step": 5,
+            "title": "Book the review",
+            "body": "Before you close the book, put a short recall session in the calendar for tomorrow and another for next week. Unscheduled review does not happen."
+          }
+        ],
+        "tags": [
+          "study-skills",
+          "routines",
+          "review"
+        ]
+      },
+      {
+        "id": "limitless-s08",
+        "hook": "The fastest way to learn something is to agree to teach it on Friday.",
+        "insight": "Reading to know something and reading to explain it are different activities. The moment you expect to face questions, you start noticing the joins you would otherwise skate over, and you organise the material into an order rather than a pile. Then the act of explaining forces retrieval without notes, which is exactly the operation that strengthens memory. You get the encoding benefit and the recall benefit from one arrangement.",
+        "why": "Expecting to teach reliably improves recall in controlled studies. Ignore the pyramid of percentages that travels with this claim, though — the tidy figures for what we remember from reading or teaching were never measured, just drawn and repeated.",
+        "apply": "Find one person this week and book fifteen minutes to explain what you are learning, with no notes in front of you.",
+        "format": "single",
+        "tags": [
+          "teaching",
+          "retrieval",
+          "explaining"
+        ]
+      },
+      {
+        "id": "limitless-s09",
+        "hook": "If your phone remembers everything, you never get practice at remembering.",
+        "insight": "Every fact you offload is a fact you never retrieve, and retrieval is the operation that makes a memory durable. That is the honest core of the worry about devices. It is not that screens damage the brain; it is that a habit of instant lookup removes the effortful recall that used to happen dozens of times a day. Names, numbers, routes and arguments all used to be exercise, and now they are a search box.",
+        "why": "Digital dementia is a slogan, not a diagnosis, and evidence that devices degrade memory is thin and contested. The underlying mechanism is solid, though: unretrieved memories weaken, and offloaded facts are never retrieved.",
+        "apply": "Choose one thing you always look up — a route, a set of phone numbers, a recipe — and commit to recalling it from memory for a fortnight before checking.",
+        "format": "single",
+        "tags": [
+          "attention",
+          "technology",
+          "memory"
+        ]
+      },
+      {
+        "id": "limitless-s10",
+        "hook": "Abstract things vanish. Pictures fixed to places you know stay put.",
+        "insight": "Memory holds onto vivid, strange, physical things and lets go of abstractions. So the trick used by every memory competitor is conversion: turn what you need to keep into an image with movement and absurdity in it, then park each image at a specific spot along a route you already know by heart. Recall becomes a walk. You are not straining for the item, you are just visiting the place where you left it.",
+        "why": "The method of loci is one of the most reliably replicated techniques in psychology. What it does not do is make you generally sharper — like commercial brain-training games, it improves the trained task and transfers poorly to anything else.",
+        "apply": "Take a route through your home, fix five vivid images to five specific spots, and use it tomorrow for a list you would normally write down.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Pick a route you know cold",
+            "body": "Your home, your walk to work, a childhood school. It has to be a path you can walk in your head without effort, with clear stopping points in a fixed order."
+          },
+          {
+            "step": 2,
+            "title": "Turn each item into a picture",
+            "body": "Abstract nouns need a stand-in. A concept becomes an object, a name becomes something it sounds like. If you cannot see it, you will not hold it."
+          },
+          {
+            "step": 3,
+            "title": "Make it move and misbehave",
+            "body": "Oversized, noisy, rude, on fire. Bland images blur into each other. The strange ones survive, which is why this technique looks so ridiculous from outside."
+          },
+          {
+            "step": 4,
+            "title": "Place one image per stop",
+            "body": "Put it where it interacts with the furniture rather than floating nearby. Interaction is what welds the image to the location."
+          },
+          {
+            "step": 5,
+            "title": "Walk the route to recall",
+            "body": "Recall by moving through the places in order, not by straining for the list. Then walk it once more tonight to fix it for good."
+          }
+        ],
+        "tags": [
+          "memory-palace",
+          "mnemonics",
+          "visualisation"
+        ]
+      }
+    ],
+    "actions": [
+      "Write down every belief you hold about your own memory, reading speed and attention, then design one small test that could prove each one wrong.",
+      "Replace rereading with self-testing for two weeks: close the book, write what you remember, then check what you missed and study only that.",
+      "Build one memory route through a place you know well and use it for something real this week rather than practising on random word lists.",
+      "Audit your evenings for a week and move one hour of screen time to sleep, then compare how much of the previous day you can recall each morning."
+    ],
+    "if_you_liked": [
+      "moonwalking-with-einstein",
+      "learning-how-to-learn",
+      "how-we-learn"
+    ],
+    "not_for_you_if": "You want evidence with citations rather than encouragement, or motivational packaging and personal-brand storytelling put you off before the techniques arrive.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2020 by Hay House. Several popular claims in this territory are weak — speed-reading gains, learner-type quizzes, supplement lists, the learning pyramid percentages — and each is flagged inside the relevant spark. All prose original."
+    }
+  }
+]
