@@ -1,0 +1,406 @@
+[
+  {
+    "id": "a-theory-of-justice",
+    "title": "A Theory of Justice",
+    "subtitle": null,
+    "author": "John Rawls",
+    "year": 1971,
+    "category": "philosophy",
+    "subcategory": "political-philosophy",
+    "tags": ["justice", "fairness", "inequality", "political-philosophy", "ethics"],
+    "difficulty": "challenging",
+    "read_time_min": 13,
+    "why_it_matters": "It restarted political philosophy in English after decades of drift, and gave arguments about inequality a shared vocabulary. Almost every serious debate about fairness since is either an extension of it or a reply to it.",
+    "crux": {
+      "headline": "Choose the rules before you know who you will be",
+      "body": "Fair rules are the ones you would pick without knowing your place under them. Strip away your class, sex, talents, religion and health, then ask what society you would accept. You would protect basic liberties first, because you might land in the minority. Then you would permit inequality only where it lifts the position of whoever ends up worst off. Justice is not what the majority prefers. It is what nobody could reasonably reject."
+    },
+    "sparks": [
+      {
+        "id": "a-theory-of-justice-s01",
+        "hook": "Would you accept this society if you did not know who in it you would be?",
+        "insight": "Ask people what is fair and they answer from where they stand. Landlords and tenants find opposite rules obvious. So move the question. Imagine choosing the basic rules of a society before you learn your class, your sex, your race, your talents or your health. Behind that screen, self-interest and fairness stop pulling apart, because any rule you pick might land on you. What survives is not a compromise between groups. It is what you would agree to when you cannot rig the result in your own favour.",
+        "why": "Bias in moral reasoning is mostly positional rather than deliberate. Remove the information that tells you which side you are on, and you remove the incentive to reason toward it.",
+        "apply": "Take one policy you support and argue it again as if you would be randomly assigned to the person it treats worst. Note where your confidence drops.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Pick a real disagreement", "body": "Choose something contested where you already hold a side: rent controls, inheritance tax, school admissions. Abstract examples let you cheat without noticing." },
+          { "step": 2, "title": "Delete yourself", "body": "Forget your income, job, health, family, country and beliefs. You know how societies work in general. You know nothing about your own slot in this one." },
+          { "step": 3, "title": "Ask what you would accept", "body": "Not what you would prefer if lucky. What rules you could live with knowing you might be the person they fall hardest on, with no appeal." },
+          { "step": 4, "title": "Compare with your actual view", "body": "Where the two answers differ, you have found the part of your politics that was tracking your position rather than your principles." }
+        ],
+        "tags": ["veil-of-ignorance", "fairness", "impartiality"]
+      },
+      {
+        "id": "a-theory-of-justice-s02",
+        "hook": "The greatest good for the greatest number quietly forgets that people are separate.",
+        "insight": "Utilitarian reasoning adds satisfactions across people as if society were one large person with one balance sheet. On that sheet, one person's suffering can be cancelled by another's gain, and the total looks fine. But there is nobody who experiences the total. Each of us lives one life, once, and does not get the compensating pleasure that shows up in someone else's column. A theory that licenses sacrificing a minority for aggregate gain has not made an arithmetic error. It has misread what a person is.",
+        "why": "Trading costs against benefits works inside a single life, where the same person bears both. Across lives nobody carries both sides, so the trade needs a justification that summing cannot supply.",
+        "apply": "When a plan is defended by a net benefit, ask who personally carries the cost and whether they receive any of the gain. Name them out loud.",
+        "format": "single",
+        "tags": ["utilitarianism", "separateness-of-persons"]
+      },
+      {
+        "id": "a-theory-of-justice-s03",
+        "hook": "Inequality is not automatically unjust. It has to pay rent.",
+        "insight": "Some gaps genuinely help everyone. Higher pay pulls people through long, hard training, and the surgeons and engineers who come out the other side leave the badly off better placed than flat pay would. So the test is not the size of the gap but its direction. Does this inequality raise the floor? If the gap could be narrowed without anyone at the bottom losing anything, it fails the test. You judge a distribution from underneath, not from the average.",
+        "why": "Averages hide floors. Two countries with identical mean incomes can differ enormously in what the worst-off can count on, and only one of those figures describes a life somebody actually has to live.",
+        "apply": "Find out how the bottom tenth fares under a policy you like, rather than the average or the median, and check whether your view survives the number.",
+        "format": "single",
+        "tags": ["difference-principle", "inequality", "poverty"]
+      },
+      {
+        "id": "a-theory-of-justice-s04",
+        "hook": "You did not earn your genes, your family or the century you were born into.",
+        "insight": "Talent feels like property, and effort feels like proof of merit. But the aptitude was distributed by a genetic lottery you did not enter, and the capacity to work hard is itself shaped by health, upbringing and early luck. None of it is deserved in the way that desert usually implies. The conclusion is narrower than critics assume. It is not that your abilities belong to the state. It is that the accident of who got which talents cannot by itself justify who gets which rewards.",
+        "why": "The argument attacks desert, not effort. Effort is real, but the ability to make it has causes reaching back before you existed, so it cannot be the bedrock a whole distribution rests on.",
+        "apply": "List three advantages behind your proudest achievement that you had no hand in creating. Then decide what, if anything, you think follows from that.",
+        "format": "single",
+        "tags": ["moral-luck", "desert", "merit"]
+      },
+      {
+        "id": "a-theory-of-justice-s05",
+        "hook": "Freedom of speech is not for sale, however good the offered price.",
+        "insight": "Conscience, speech, assembly, the vote, due process. These come first, and they are not available for trade against economic gains once a society is rich enough to sustain them. That ordering rules out the standard authoritarian bargain: accept less voice, receive more growth. The reason is not that liberty is sacred. It is that these particular liberties are the conditions under which you can form a plan for your own life and revise it. Money is instrumental. The standing to decide who you are is not.",
+        "why": "The priority is conditional rather than absolute. Rawls grants that below a threshold of material security the ordering may not hold, which is exactly where the argument with development economists lives.",
+        "apply": "Identify one liberty you would quietly trade this year for convenience or safety. Write what you would want in return, then ask whether you would accept the same deal on a stranger's behalf.",
+        "format": "single",
+        "tags": ["liberty", "rights", "priority"]
+      },
+      {
+        "id": "a-theory-of-justice-s06",
+        "hook": "Moral reasoning starts from what you cannot bring yourself to accept.",
+        "insight": "Ethics does not descend from axioms. You begin with judgements you hold firmly, such as that slavery and religious persecution are wrong, and with candidate principles that might explain them. Then you move back and forth, bending each to fit the other, until they settle. Neither side has automatic authority. A principle that condemns something you are certain about is suspect, and so is a conviction that no principle can support. This is the method careful moral argument actually uses, written down honestly.",
+        "why": "Critics call it a way of laundering existing prejudice into theory. The reply is that there is no neutral vantage point outside our judgements, and that the mutual adjustment is precisely what does the correcting.",
+        "apply": "Take a moral rule you endorse and hunt for the case where it gives an answer you cannot accept. Then decide which of the two you revise.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Collect firm judgements", "body": "Write down moral verdicts you hold with real confidence and reached calmly, not in anger or self-interest. These are your raw data, not your conclusions." },
+          { "step": 2, "title": "Propose a principle", "body": "Write the shortest rule that would generate most of those verdicts. Keep it general enough that it also covers cases you have not considered yet." },
+          { "step": 3, "title": "Hunt for the clash", "body": "Push the principle into new cases until it produces a verdict you reject, or until one of your firm judgements turns out to have no support at all." },
+          { "step": 4, "title": "Adjust either side", "body": "Sometimes the rule is too crude and gets rewritten. Sometimes the intuition was prejudice and gets dropped. Repeat until the two stop fighting." }
+        ],
+        "tags": ["reflective-equilibrium", "moral-reasoning", "method"]
+      },
+      {
+        "id": "a-theory-of-justice-s07",
+        "hook": "Fairness needs a currency. The one Rawls chose is still being argued over.",
+        "insight": "To compare how people are doing, you need a common measure. Comparing happiness fails, because tastes adapt: someone raised to expect nothing reports contentment, and a system that keeps expectations low scores well. So Rawls measures primary goods instead, the things any rational person wants whatever else they want, such as rights, liberties, opportunities, income and the social bases of self-respect. Amartya Sen pushed back. Two people with identical income are not equally free if one of them is disabled.",
+        "why": "Sen's capability critique has largely won the practical argument. Human development measures now track health, schooling and agency alongside income, partly because resources alone do not tell you what a person can actually do.",
+        "apply": "Pick a comparison you make between two people's situations and ask whether your yardstick is resources, feelings, or what each of them can actually do and be.",
+        "format": "single",
+        "tags": ["primary-goods", "capabilities", "measurement"]
+      },
+      {
+        "id": "a-theory-of-justice-s08",
+        "hook": "Open competition is not fair if the starting line moves with your parents' income.",
+        "insight": "Formal equality is cheap. No legal barriers, jobs advertised, discrimination banned, and outcomes that still track birth almost perfectly. Rawls asks for something much heavier: people with the same native talent and the same willingness to use it should have the same prospects, whatever class they were born into. That requirement reaches into early childhood, schooling, housing, inheritance and the informal networks that quietly route opportunity. Stated plainly, almost no rich democracy comes close to meeting it.",
+        "why": "This principle ranks above the difference principle, which means cash transfers alone cannot buy your way out of failing it. Measured social mobility in most wealthy countries falls well short of what it demands.",
+        "apply": "Trace one opportunity you received through a personal network rather than an open process. Ask who with equal ability simply never heard about it.",
+        "format": "single",
+        "tags": ["opportunity", "social-mobility", "education"]
+      },
+      {
+        "id": "a-theory-of-justice-s09",
+        "hook": "Justice is a property of institutions before it is a property of people.",
+        "insight": "The subject of justice is the basic structure: the constitution, property law, markets, taxation, the family. Those arrangements shape a person's life prospects from birth, long before anyone makes a choice worth praising or blaming. Personal decency still matters, but generous individuals inside an unjust structure do not make it just, and their generosity is not a substitute for it. The reverse holds too. A well-designed structure produces decent outcomes without requiring that anybody in it be a saint.",
+        "why": "Susan Moller Okin pressed the sharpest objection here. Rawls lists the family as part of the basic structure, then leaves its internal division of labour largely unexamined, which is where a great deal of gender inequality is manufactured.",
+        "apply": "Name one outcome you usually blame on individual choices, then list three rules, prices or defaults that make those choices highly predictable.",
+        "format": "single",
+        "tags": ["institutions", "basic-structure", "gender"]
+      },
+      {
+        "id": "a-theory-of-justice-s10",
+        "hook": "Rawls spent his later career answering the strongest objection to his own book.",
+        "insight": "The original theory leaned on a picture of what makes a life go well, and not everyone shares it. In a free society, reasonable people disagree permanently about religion and ultimate values, and that disagreement is not a temporary failure of education. So the later Rawls narrowed his claim. Principles of justice should be defensible in terms that citizens with very different deep commitments can each accept from their own side, rather than resting on any single one of those commitments.",
+        "why": "Some read the move as a repair and others as a retreat, since it makes everything depend on which doctrines get counted as reasonable. That question was never settled to anyone's satisfaction.",
+        "apply": "State one political position of yours in terms someone with different religious or moral commitments could accept. If you cannot, notice what it was really resting on.",
+        "format": "single",
+        "tags": ["political-liberalism", "pluralism", "public-reason"]
+      }
+    ],
+    "actions": [
+      "Run the veil of ignorance on a live political disagreement: write the rules you would accept before knowing your class, health or job, then compare them to what you currently defend.",
+      "Read Robert Nozick's Anarchy, State, and Utopia next. It is the strongest libertarian reply, and Rawls reads differently once you have taken it seriously.",
+      "Judge one policy purely by what happens to the worst-off group it touches, and go and find that number. Notice how rarely it is the figure being quoted.",
+      "Write down the advantages you never earned, then decide what obligation, if any, follows from them. Do not skip the second half of that exercise."
+    ],
+    "if_you_liked": ["justice", "reasons-and-persons", "the-second-sex"],
+    "not_for_you_if": "You want policy prescriptions or a quick read. It is long, abstract and argued in slow steps, and the payoff is a way of reasoning rather than a programme.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 1971 by Harvard University Press; Rawls issued a revised edition in 1999 and modified the position further in Political Liberalism (1993). All prose here is original."
+    }
+  },
+  {
+    "id": "the-second-sex",
+    "title": "The Second Sex",
+    "subtitle": null,
+    "author": "Simone de Beauvoir",
+    "year": 1949,
+    "category": "philosophy",
+    "subcategory": "feminist-philosophy",
+    "tags": ["feminism", "gender", "existentialism", "freedom", "power"],
+    "difficulty": "challenging",
+    "read_time_min": 13,
+    "why_it_matters": "It moved the question from what women are to how women are made, and supplied the analysis that second-wave feminism ran on. Whole fields, from gender studies to postcolonial theory, borrowed its central move.",
+    "crux": {
+      "headline": "Femininity is a situation, not a nature",
+      "body": "A society treats men as the default human and women as the variation that needs explaining. Everything then follows: the myths, the division of labour, the offer of security in exchange for independence. Beauvoir's claim is that what looks like female nature is the accumulated result of that arrangement, learned young enough to feel innate. If it is made, it can be described, and it can be unmade."
+    },
+    "sparks": [
+      {
+        "id": "the-second-sex-s01",
+        "hook": "Femininity is not something you are born with. It is something done to you.",
+        "insight": "A newborn girl has a body, not a role. The role arrives later and from outside: the toys pressed into her hands, the praise for being pretty and quiet, the warnings about what girls do not do, the year her body becomes something other people assess. By adulthood the result feels like nature, because nobody remembers being assembled. Treating femininity as a situation a person is placed in rather than an essence she carries means it can be described, dated and changed.",
+        "why": "The claim is empirical as much as philosophical. What counts as feminine varies sharply across societies and centuries, which is difficult to explain if biology is doing the work.",
+        "apply": "Pick one trait you think of as naturally yours because of your sex. Trace back to when you first learned it was expected, and who taught you.",
+        "format": "single",
+        "tags": ["gender", "socialisation", "identity"]
+      },
+      {
+        "id": "the-second-sex-s02",
+        "hook": "Man is the standard human. Woman is the variation that has to be explained.",
+        "insight": "In ordinary speech a man is a person and a woman is a woman. Medicine studied male bodies for decades and called the results the human body. Words that sound neutral turn out on inspection to be male by default. Beauvoir's name for the arrangement is the Other: a group defined not on its own terms but by its distance from whoever occupies the position of norm. The point is not that men are villains. It is that one side never has to account for itself.",
+        "why": "The structure repeats wherever a dominant group sets the default, with the marked group carrying the adjective and doing the explaining. Later work on race and colonialism took the analysis directly from here.",
+        "apply": "Read a news story and mark every place a person's sex, race or religion is mentioned and every place it is not. The unmentioned one is the default.",
+        "format": "single",
+        "tags": ["othering", "language", "power"]
+      },
+      {
+        "id": "the-second-sex-s03",
+        "hook": "Biology is real. What it entitles you to is decided by a society.",
+        "insight": "Beauvoir refuses both easy moves. She does not pretend bodies are irrelevant. Pregnancy, menstruation, strength and vulnerability are facts with consequences, and she spends a long opening section on them. What she denies is that facts carry their own significance. The same body is a liability in one economy and unremarkable in another. The same reproductive capacity is a woman's entire vocation in one century and one option among several in the next. Nature supplies raw material. Culture assigns the meaning.",
+        "why": "This threads between biological determinism and a social constructivism that denies the body altogether. Both simpler positions are easier to state and much harder to defend against evidence.",
+        "apply": "Name one thing you believe women or men cannot do. Check whether the limit is genuinely physical, or a rule about what has been permitted.",
+        "format": "single",
+        "tags": ["biology", "gender", "determinism"]
+      },
+      {
+        "id": "the-second-sex-s04",
+        "hook": "Some work builds something. Some work only holds off decay.",
+        "insight": "Beauvoir splits activity in two. Some of it projects you forward: you build, write, decide, take a risk, and afterwards something exists that did not before. Some of it only maintains: the meal is eaten, the floor is dirty again, tomorrow holds the same tasks in the same order. Both kinds are necessary and neither is shameful. Her charge is not that domestic work is beneath anyone. It is that one sex was assigned nearly all of the work that leaves no trace.",
+        "why": "The asymmetry is still visible in time-use surveys across rich countries, where women continue to do the larger share of unpaid domestic and care work. The pattern is measurable, not merely felt.",
+        "apply": "Track one week of your household's unpaid work by person and by hour. Then redistribute the tasks that leave nothing behind them.",
+        "format": "single",
+        "tags": ["housework", "care-work", "transcendence"]
+      },
+      {
+        "id": "the-second-sex-s05",
+        "hook": "Freedom is frightening, and subordination arrives with real compensations.",
+        "insight": "Beauvoir is harder on the compromises women make than most feminism that followed her. A subordinate position is not only imposed, she argues. It is often also accepted, because independence means responsibility, exposure and the possibility of failing on your own account with nobody to blame. The offer on the other side is genuine: security, approval, being looked after. She calls this complicity without for a moment excusing the arrangement that makes the offer. Leaving a role you are partly invested in is harder than leaving a cage.",
+        "why": "Critics read this as blaming women for their own oppression. Her defence is that treating women purely as victims denies them the freedom she spends the whole book insisting they possess.",
+        "apply": "Find one arrangement where you trade independence for comfort. Say the price out loud, then decide deliberately whether you still want the deal.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "The narcissist", "body": "Turning yourself into the object you contemplate. If you cannot build a life outwards, you can at least become the thing being looked at, and manage the looking." },
+          { "step": 2, "title": "The woman in love", "body": "Making one person into your reason for existing. His projects become yours, his judgement becomes the verdict, and no human being can survive that job description." },
+          { "step": 3, "title": "The mystic", "body": "Aiming the same total devotion at something that cannot answer back or disappoint. The structure is identical; only the recipient has been made safely absent." },
+          { "step": 4, "title": "What they share", "body": "Each escape hands your freedom to something outside you and calls the transfer love or destiny. The relief is real. So is the disappearance." }
+        ],
+        "tags": ["complicity", "bad-faith", "freedom"]
+      },
+      {
+        "id": "the-second-sex-s06",
+        "hook": "The pedestal and the cage are built out of the same material.",
+        "insight": "Woman as nature, as mystery, as muse, as saint, as danger. Each of these images flatters, and each removes something. If she is mysterious, her stated reasons need not be believed. If she is naturally nurturing, then unpaid care is not a sacrifice but a fulfilment. If she is pure, she has further to fall and the fall is her fault. The eternal feminine is a single figure assembled to be whatever is needed, and no actual person can be measured against it without failing.",
+        "why": "A myth is more durable than an argument because it does not present a claim you can dispute. It presents an image that makes the claim feel unnecessary to state.",
+        "apply": "Write down the compliments most often paid to women in your world. For each one, ask what it quietly forbids.",
+        "format": "single",
+        "tags": ["myths", "stereotypes", "culture"]
+      },
+      {
+        "id": "the-second-sex-s07",
+        "hook": "Marriage was an economic arrangement long before it was a love story.",
+        "insight": "Beauvoir examines the institution as it functions rather than as it is celebrated: a contract in which one party historically supplied domestic labour, sex and children in return for material security, entered under conditions where a woman's alternatives were poor. Romantic language did not alter that structure. It made the structure harder to see and much harder to criticise, because objecting to the terms looked like a failure to love. Her target is the asymmetry of exit, not affection between two people.",
+        "why": "The historical claim is well supported by the property and divorce law of the period. The argument weakens exactly where women's earnings and legal rights make leaving genuinely possible, which is the change she wanted.",
+        "apply": "Work out what would happen financially to each partner in your household if the relationship ended tomorrow. Then fix whatever asymmetry you find.",
+        "format": "single",
+        "tags": ["marriage", "economics", "independence"]
+      },
+      {
+        "id": "the-second-sex-s08",
+        "hook": "A child cannot supply the meaning a life failed to find anywhere else.",
+        "insight": "Beauvoir attacks the assumption that having a child automatically confers purpose. A woman with no projects of her own does not acquire one by producing a person. She acquires someone else's life to be responsible for, and often loads onto that child a demand for justification the child never agreed to carry. She is explicit that motherhood can be freely chosen and deeply valuable. What she rejects is its use as the default answer for a woman who was never offered another.",
+        "why": "Her account of pregnancy and mothering is bleaker than most readers expect, and it is the most criticised part of the book, including by feminists who found it contemptuous of women who choose it.",
+        "apply": "If you are weighing whether to have children, write out what you want from your own life on a separate page first. Keep the two lists apart.",
+        "format": "single",
+        "tags": ["motherhood", "purpose", "choice"]
+      },
+      {
+        "id": "the-second-sex-s09",
+        "hook": "For him love is one part of a life. For her it was offered as the whole.",
+        "insight": "Historically men were expected to have work, ambition and public standing alongside affection. Women were handed love as the entire content of a life: find him, become necessary to him, live inside his projects. The asymmetry is the problem, not the love. Devotion aimed at one person who cannot possibly carry that weight curdles into surveillance, resentment and self-erasure, and the beloved is not a villain for failing a commission nobody could fill.",
+        "why": "Her alternative is reciprocity between two people who each have projects of their own. That requires the material independence she spends the rest of the book arguing for, which is why the chapters are connected.",
+        "apply": "List what you would still be doing next month if your relationship ended tonight. If that list is short, start building it this week.",
+        "format": "single",
+        "tags": ["love", "relationships", "dependence"]
+      },
+      {
+        "id": "the-second-sex-s10",
+        "hook": "A salary is necessary for freedom and nowhere near sufficient for it.",
+        "insight": "Beauvoir is unambiguous that a woman without her own money is not free, whatever the law says. But she refuses the comfortable conclusion that paid work settles the matter. The independent woman still meets a second shift at home, a professional world designed around a life she is not living, and the internal pull of everything she was trained to want. Earning removes the walls. It does not remove the training, and it does not by itself redesign institutions built on the assumption she would not arrive.",
+        "why": "Decades of rising female employment have borne this out. Participation climbed steeply while the division of domestic work and the shape of careers moved far more slowly.",
+        "apply": "If you manage people, check whether your promotion timeline assumes nobody takes years out. Change the timeline rather than coaching the women.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Get your own money", "body": "Independent income is the precondition, not the achievement. Without it every other choice is made under a threat that need never be spoken aloud." },
+          { "step": 2, "title": "Take a project", "body": "Something that accumulates and is yours: work, craft, study, a cause. It has to be capable of failing, or it is a hobby rather than a stake." },
+          { "step": 3, "title": "Refuse the maintenance role", "body": "Not by doing no housework, but by refusing to be the person who notices, plans and remembers all of it while others help on request." },
+          { "step": 4, "title": "Change the institution", "body": "Individual escape leaves the structure intact for everyone behind you. Schedules, leave policies and legal rights are where the next woman's freedom is decided." }
+        ],
+        "tags": ["independence", "work", "institutions"]
+      }
+    ],
+    "actions": [
+      "Audit one week of unpaid domestic and emotional labour in your household by person, then renegotiate the split using the record rather than anyone's impression of it.",
+      "Read a chapter on the stage of life you know least about, whether girlhood, marriage or old age, and check it against someone who lived it.",
+      "Choose the 2009 Borde and Malovany-Chevallier translation, not the 1953 abridgement, and see how much philosophical argument the earlier version had cut.",
+      "Write down three things you assume are natural about men or women, then find one society or period where the assumption fails."
+    ],
+    "if_you_liked": ["a-theory-of-justice", "essays", "the-denial-of-death"],
+    "not_for_you_if": "You want a brisk manifesto. It is nearly a thousand pages of history, biology, literature and case study, and its judgements on motherhood and lesbianism read harshly today.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published in French as Le Deuxieme Sexe in two volumes in 1949. The 1953 Parshley English translation abridged and distorted the philosophical vocabulary; a complete translation appeared in 2009. All prose here is original."
+    }
+  },
+  {
+    "id": "essays",
+    "title": "Essays",
+    "subtitle": null,
+    "author": "Michel de Montaigne",
+    "year": 1580,
+    "category": "philosophy",
+    "subcategory": "practical-philosophy",
+    "tags": ["self-knowledge", "scepticism", "everyday-life", "essays", "renaissance"],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It invented the personal essay and, with it, a way of thinking in public that does not pretend to certainty. Four centuries later it is still the most companionable book in philosophy.",
+    "crux": {
+      "headline": "Study the one human you can see from inside",
+      "body": "Montaigne gave up on defining Man and described one man in detail instead: his moods, his cowardice, his changes of mind, his kidney stones. The wager is that an honestly examined person turns out to be less unusual than he assumed, so a report on one life is a report on the species. Certainty was never on offer. Accuracy sometimes is."
+    },
+    "sparks": [
+      {
+        "id": "essays-s01",
+        "hook": "The only human being you can observe from the inside is you.",
+        "insight": "Montaigne set out to describe a single specimen closely: his memory, his temper, his fears, his appetites, the way his opinions shifted with his health. The bet underneath it is that a person examined without flattery turns out to be far less peculiar than he assumed, so an accurate account of one life doubles as a report on the species. It is the reverse of philosophy that opens with a definition of Man. He started with a particular man he could actually check.",
+        "why": "Self-report is unreliable in known directions, mostly toward flattery. He compensates by recording the material that shows him worst, which is the part other people rarely volunteer.",
+        "apply": "Write half a page about something small you did today that you would not want quoted back to you. Notice what the reluctance is protecting.",
+        "format": "single",
+        "tags": ["self-knowledge", "honesty", "method"]
+      },
+      {
+        "id": "essays-s02",
+        "hook": "He invented a way of thinking on paper that never has to reach a verdict.",
+        "insight": "Before him a piece of prose argued a case. He wrote attempts instead: a subject picked up, turned over, contradicted, wandered away from, sometimes abandoned mid-thought. He revised by adding rather than deleting, so his later views sit on the page beside earlier ones he no longer holds. The result reads like a mind in motion rather than a judgement handed down. Every personal essay, column and blog since has been living off the licence he took.",
+        "why": "The looseness is a method, not sloppiness. Holding a question open is the honest response when your evidence is your own shifting experience and you have no way to settle the matter.",
+        "apply": "Write three hundred words about something you have not decided. Forbid yourself a conclusion and keep whatever you find on the way there.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Start from a real itch", "body": "Pick something that actually puzzles you this week, not a topic you could already summarise. If you know the ending, you are writing an argument, not an essay." },
+          { "step": 2, "title": "Bring your own evidence", "body": "Use what you have watched, done and got wrong. A borrowed example proves you read; a specific one from your own life shows you looked." },
+          { "step": 3, "title": "Argue against yourself", "body": "Put the strongest version of the opposite view on the page and let it damage your position. If nothing survives, that is a finding worth having." },
+          { "step": 4, "title": "Stop without concluding", "body": "End where the thinking actually stopped. A tidy summary you do not believe costs more credibility than an unresolved ending ever will." }
+        ],
+        "tags": ["essay", "writing", "thinking"]
+      },
+      {
+        "id": "essays-s03",
+        "hook": "Barbarism usually turns out to mean: customs that are not ours.",
+        "insight": "Travellers' reports from Brazil described a people who ate defeated enemies, and Europe read this as proof of savagery. Montaigne turned it round. He was living through wars of religion in which neighbours tortured and burned each other alive over doctrine. Eating a dead enemy after killing him in open combat, he pointed out, is not obviously worse than the refined cruelty being practised at home. His conclusion is not that all customs are equal. It is that we have no clean vantage point from which to rank them.",
+        "why": "He worked from second-hand accounts of the Tupinamba and idealised them in ways later anthropology corrected. The reversal of perspective survived even where his sources did not.",
+        "apply": "Take a foreign custom that strikes you as backward and describe one of your own that would look equally strange written up by an outsider.",
+        "format": "single",
+        "tags": ["cultural-relativism", "cruelty", "perspective"]
+      },
+      {
+        "id": "essays-s04",
+        "hook": "You call it reason. Mostly it is the habit of the place you grew up in.",
+        "insight": "Montaigne noticed that people defend the practices of their own country as though they had reasoned their way to them, when in fact they inherited them. Move the same person a border away and he would defend the opposite arrangement with identical confidence. Custom does its work early, before judgement is available to inspect it, and its real power is that it makes itself invisible. What everyone around you does stops looking like one option and starts looking like the way things are.",
+        "why": "This is an observation rather than a proof of relativism. He kept obeying his own country's laws while doubting they were the best available, which he thought the only honest position to hold.",
+        "apply": "Name three things you do because they are done where you live. Find out what a neighbouring country does instead and why.",
+        "format": "single",
+        "tags": ["custom", "habit", "judgement"]
+      },
+      {
+        "id": "essays-s05",
+        "hook": "He spent years rehearsing death. Then he nearly died and changed his mind.",
+        "insight": "Early on he took the Roman line: think about death constantly so that it cannot ambush you. Then he was thrown from a horse, knocked unconscious and carried home apparently dying. What he remembered afterwards was not terror but a strange floating ease, arriving without any preparation on his part. He concluded that nature manages the ending better than philosophy does, and that rehearsing it mostly spoils the years beforehand. The later essays drop the drill and attend to living.",
+        "why": "It is a rare case of a philosopher abandoning a doctrine because of one personal experience and saying so on the page, rather than quietly deleting the earlier view.",
+        "apply": "If you are running a rehearsal of some future disaster, ask what it has cost you in ordinary days and whether it has prepared you for anything at all.",
+        "format": "single",
+        "tags": ["death", "anxiety", "changing-your-mind"]
+      },
+      {
+        "id": "essays-s06",
+        "hook": "There is no consistent you underneath. There are moods sharing a name.",
+        "insight": "The same person is brave on Tuesday and craven on Thursday, generous to a stranger and petty with a brother. We paper over the gaps by inventing a stable character and then defending it. Montaigne suggests we are patched together from pieces, and that people who insist on their own consistency are simply better at editing the record. The conclusion is charitable rather than bleak. Judge a person by the run of their actions, and expect your own to vary with sleep, company and weather.",
+        "why": "Personality research finds traits real but weakly predictive of any single action, with situation and momentary state accounting for much of the variation. His observation has aged unusually well.",
+        "apply": "Recall a time you acted out of character. Ask what was true about the situation instead of asking what is wrong with you.",
+        "format": "single",
+        "tags": ["identity", "inconsistency", "character"]
+      },
+      {
+        "id": "essays-s07",
+        "hook": "Stuffing a student with facts reliably produces a well-read fool.",
+        "insight": "Montaigne's complaint about the schooling of his day is that it turned out people who could recite authorities and had never once been asked what they themselves thought. He wanted a tutor who talks less and listens more, who lets the pupil answer first and be wrong, who takes him travelling and puts him in front of people unlike himself. The test of learning is not what a student can repeat on demand. It is whether the material has changed how he judges when nobody is asking.",
+        "why": "Retrieval and application beat rereading for durable learning, which is roughly his point in modern dress. His model also quietly assumed a private tutor and a wealthy family.",
+        "apply": "After the next thing you read, close it and explain the argument aloud in your own words, including the part you thought was weak.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Let the learner go first", "body": "Ask for their answer before supplying yours. An opinion formed and then corrected sticks; an opinion received arrives with nothing holding it in place." },
+          { "step": 2, "title": "Prefer judgement to coverage", "body": "Fewer topics, handled until the learner can argue both sides. Breadth is easy to test and easy to lose within a month of the test." },
+          { "step": 3, "title": "Send them among strangers", "body": "Travel and unfamiliar company do what no syllabus can: they show that intelligent people organise life on assumptions the learner had taken for physics." },
+          { "step": 4, "title": "Test it in the wild", "body": "The exam is whether the learning shows up in an ordinary decision weeks later, unprompted, when no one is marking anything." }
+        ],
+        "tags": ["education", "learning", "judgement"]
+      },
+      {
+        "id": "essays-s08",
+        "hook": "He named cruelty the worst of the vices, and found it in ordinary neighbours.",
+        "insight": "In an age that ranked sins theologically, Montaigne put cruelty at the top, and he included the pleasure people take in it. Public executions troubled him less for the killing than for the crowd. Hunting troubled him less for the death than for the enjoyment. He extended the concern to animals, unusually for his century, arguing we owe some gentleness to anything capable of suffering. He also noticed that cruelty flourishes most reliably among people certain they are in the right.",
+        "why": "Judith Shklar later built a whole liberalism on this ordering, putting cruelty first among the vices that political institutions exist to restrain.",
+        "apply": "Notice the next time you enjoy someone's humiliation, in person or on a screen. Name the pleasure honestly instead of dressing it up as justice.",
+        "format": "single",
+        "tags": ["cruelty", "ethics", "animals"]
+      },
+      {
+        "id": "essays-s09",
+        "hook": "One real friendship in a life is rare luck, not a category you can fill.",
+        "insight": "Montaigne's friend Etienne de La Boetie died young, and the chapter on friendship is written in that shadow. He separates the thing sharply from the useful alliances and pleasant company we normally call friendship. The real version is a merging of judgement in which the two stop keeping accounts of favours, because keeping accounts implies you are still two parties. He thought it happened perhaps once, could not be sought or arranged, and left a hole afterwards that nothing filled.",
+        "why": "The account is idealised and, by the conventions of his time, excludes women, which is worth naming. What survives is the distinction between friendship for use and friendship of shared judgement.",
+        "apply": "Sort your friendships honestly by what each is for: use, pleasure, or shared judgement. Give the third kind more of your calendar this month.",
+        "format": "single",
+        "tags": ["friendship", "grief", "loyalty"]
+      },
+      {
+        "id": "essays-s10",
+        "hook": "Grandeur is worn outside. Underneath, everyone is an animal that gets tired.",
+        "insight": "Montaigne is relentless about the body. He writes about his kidney stones, his sleep, his appetite, his sexual decline, at a moment when philosophy preferred to float above such matters. The purpose is not to shock. It is that a philosophy which cannot account for pain and digestion is not describing the creature it claims to be advising. Living well, on his account, is an ordinary and difficult achievement assembled from small daily adjustments, not a heroic state you arrive at.",
+        "why": "Putting the body at the centre of ethics anticipates a great deal of later work, and it is a large part of why the Essays are still readable when more systematic contemporaries are not.",
+        "apply": "Before your next significant decision, check whether you are hungry, short of sleep or in pain. Fix that first, then decide.",
+        "format": "single",
+        "tags": ["body", "everyday-life", "moderation"]
+      }
+    ],
+    "actions": [
+      "Read it the way it was written: one essay at a time, out of order, with long gaps. Reading it straight through as a treatise defeats the form.",
+      "Keep a commonplace notebook for a month, recording your own reversals of opinion alongside the reasons, and reread it before you next call yourself consistent.",
+      "Pick the essay on experience or on cannibals and write a reply from your own century, using only examples you have witnessed personally.",
+      "Choose a translation deliberately. Screech, Frame and Cotton read very differently, and the book's whole appeal is its voice."
+    ],
+    "if_you_liked": ["meditations", "the-consolation-of-philosophy", "the-problems-of-philosophy"],
+    "not_for_you_if": "You want a systematic argument with a destination. It digresses constantly, contradicts itself on purpose, and is stuffed with classical references that need footnotes.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First two books published 1580; a third book and large additions followed in 1588, with further revisions to 1592. The 1595 posthumous edition prepared by Marie de Gournay differs from the annotated Bordeaux copy, and editors still disagree about which to follow. All prose here is original."
+    }
+  },

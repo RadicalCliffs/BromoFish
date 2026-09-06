@@ -25,6 +25,9 @@ jobs:
       - name: Content validates
         run: node scripts/validate-content.mjs
 
+      - name: No duplicate insights within a book
+        run: node scripts/find-duplicates.mjs --threshold 0.45
+
       - name: Content builds
         run: npm run content:build
 

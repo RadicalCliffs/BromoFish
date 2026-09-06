@@ -1232,5 +1232,1266 @@
       "confidence": "high",
       "notes": "First published 2009 by Workman; a substantially updated second edition appeared in 2019. Account types and tax rules described are United States specific, flagged in the final spark. All prose original."
     }
+  },
+  {
+    "id": "the-richest-man-in-babylon",
+    "title": "The Richest Man in Babylon",
+    "subtitle": null,
+    "author": "George S. Clason",
+    "year": 1926,
+    "category": "personal-finance",
+    "subcategory": "saving-basics",
+    "tags": [
+      "saving",
+      "pay-yourself-first",
+      "debt",
+      "compound-interest",
+      "money-habits"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 9,
+    "why_it_matters": "Nearly every modern saving rule traces back to these 1920s parables. Pay yourself first, live on less than you earn, put the surplus to work — a century of personal finance advice is mostly footnotes to a pamphlet a bank once handed out free.",
+    "crux": {
+      "headline": "A tenth of everything you earn is yours to keep",
+      "body": "Most of what you earn goes straight back out to other people — landlords, shops, lenders. Set aside a fixed share the moment money arrives, before anything else has a claim on it, and that share becomes the only part of your income you actually own. Then put it to work so it earns on its own. The proportion matters far less than the fact that it is automatic and permanent."
+    },
+    "sparks": [
+      {
+        "id": "the-richest-man-in-babylon-s01",
+        "hook": "You have worked for years. How much of that money is still yours?",
+        "insight": "Everything you earn is claimed before it lands. Rent, food, subscriptions, other people's businesses. Left alone, the whole lot flows out and the year ends with nothing to show for it. The fix is to take a fixed portion off the top the moment you are paid — a tenth is the traditional figure — and treat it as untouchable. You then live on the rest. Nothing about your life gets worse, because you never had that money available to miss in the first place.",
+        "why": "Saving whatever remains at the end of the month fails because there is never anything left. Reversing the order turns saving into a fixed cost rather than a leftover.",
+        "apply": "Set a standing transfer for the day after payday moving ten percent into an account you do not carry a card for.",
+        "format": "single",
+        "tags": [
+          "saving",
+          "pay-yourself-first"
+        ]
+      },
+      {
+        "id": "the-richest-man-in-babylon-s02",
+        "hook": "Your necessary expenses will always rise to swallow your income.",
+        "insight": "Give someone a raise and within a few months their spending has quietly absorbed it, and every new cost feels genuinely necessary. That is not weakness, it is the default. What you call a necessity is mostly a habit that has been running long enough to feel like one. The only defence is deciding your spending on purpose: name the things worth paying for, fund those, and let everything else go unfunded rather than expanding to fill whatever arrives.",
+        "why": "Spending tends to track income rather than need, so a bigger salary alone never produces savings. A deliberate ceiling is what turns a raise into wealth instead of a bigger life.",
+        "apply": "List everything you spent on last month and mark each line as chosen or drifted into. Cancel two of the drifted lines this week.",
+        "format": "single",
+        "tags": [
+          "spending",
+          "lifestyle-inflation"
+        ]
+      },
+      {
+        "id": "the-richest-man-in-babylon-s03",
+        "hook": "Money that sits still is money doing nothing for you.",
+        "insight": "Saving alone will not make you wealthy. Inflation grinds cash down and idle money earns nothing, so the point of setting money aside is to convert it into something that produces an income of its own. Each pound you save should eventually earn pounds you did not work for. That is the whole engine. Wealth is not a large pile of cash sitting in an account, it is a stream of income you no longer have to be present to collect.",
+        "why": "Compounding only works on invested capital. Cash held long enough loses purchasing power, so saving without investing is a slow and orderly way to get poorer.",
+        "apply": "Move any savings beyond your emergency fund into a low-cost, broadly diversified fund this month rather than leaving it in a current account.",
+        "format": "single",
+        "tags": [
+          "investing",
+          "compounding"
+        ]
+      },
+      {
+        "id": "the-richest-man-in-babylon-s04",
+        "hook": "The first rule of investing is not losing the money you already have.",
+        "insight": "Ambitious returns wreck more savers than timidity ever did. Losing half your capital needs a doubling just to get back to where you started, so protecting what you have matters more than chasing what you might get. Treat any promise of unusual returns as a warning rather than an opportunity, take counsel from people who have actually done the thing rather than from people selling it, and put money only into arrangements you can explain out loud to someone else.",
+        "why": "Losses and gains are not symmetrical. Recovering from a deep drawdown takes a larger gain than the fall that caused it, which is why preserving capital dominates long-run outcomes.",
+        "apply": "Before your next investment, write one paragraph explaining how it makes money and who is on the other side. If you cannot, do not buy it.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Ask who profits",
+            "body": "Every deal pays somebody. Find out who earns a fee whether or not you make money, and how much. If nobody will tell you plainly, that is your answer."
+          },
+          {
+            "step": 2,
+            "title": "Prefer boring and liquid",
+            "body": "Money you can get back is safer than money locked up on a promise. Illiquidity is a real cost, and it is usually the part that gets undersold to you."
+          },
+          {
+            "step": 3,
+            "title": "Take advice from doers",
+            "body": "Ask people who have built the thing you want, not people paid to sell it. Enthusiasm is not expertise, and confidence is not a track record."
+          },
+          {
+            "step": 4,
+            "title": "Size the bet",
+            "body": "Never put money into a single opportunity that would change your life if it vanished. Survivable losses are the price of learning; unsurvivable ones end the game."
+          }
+        ],
+        "tags": [
+          "risk",
+          "capital-preservation"
+        ]
+      },
+      {
+        "id": "the-richest-man-in-babylon-s05",
+        "hook": "Split every pound three ways and debt stops being permanent.",
+        "insight": "A workable plan for debt divides income into three fixed shares: most of it for living, a set portion for creditors, and a portion that stays yours. Handing creditors everything leaves you with no buffer and no reason to keep going, so the first emergency puts you straight back on the card. Keeping a slice for yourself while you repay is not indulgence. It is what makes a repayment plan lasting several years survivable, and survivability is the entire difficulty.",
+        "why": "Repayment plans fail on motivation and on shocks, not on arithmetic. A plan that builds a small buffer alongside the payments is slower on paper and faster in practice.",
+        "apply": "Divide your take-home pay into three fixed shares this month: living costs, one set payment to creditors, and a tenth that you keep.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Seventy for living",
+            "body": "Most of your income keeps the lights on. Cut it to fit that share deliberately rather than discovering at month end that it quietly took everything."
+          },
+          {
+            "step": 2,
+            "title": "Twenty for creditors",
+            "body": "Set one fixed payment split across everyone you owe, and tell them the number. A predictable payment you can sustain beats a heroic one you abandon."
+          },
+          {
+            "step": 3,
+            "title": "Ten for you",
+            "body": "Keep a tenth even while in debt. It builds the buffer that stops the next surprise from putting the whole plan back onto a credit card."
+          }
+        ],
+        "tags": [
+          "debt",
+          "repayment"
+        ]
+      },
+      {
+        "id": "the-richest-man-in-babylon-s06",
+        "hook": "Rent buys you a month. The same money can buy you a decade.",
+        "insight": "Housing is the largest recurring cost most people carry, which makes it the biggest single lever on how much you ever accumulate. Owning where you live converts part of that outflow into something you keep, and eventually removes the cost altogether. The honest version is narrower than the parable, though: buying only wins if you stay long enough to clear the transaction costs and if the repayments still leave room to invest. A stretched mortgage in a place you leave in three years loses to cheap rent.",
+        "why": "Property was close to guaranteed in the era this was written for, and it has not been in every market since. Housing costs still dominate the maths; ownership just is not automatically the answer.",
+        "apply": "Work out your total housing cost as a share of take-home pay. If it is above a third, fix that before optimising anything else.",
+        "format": "single",
+        "tags": [
+          "housing",
+          "big-costs"
+        ]
+      },
+      {
+        "id": "the-richest-man-in-babylon-s07",
+        "hook": "Your best asset is not in an account. It is what you can do.",
+        "insight": "There is a floor on how much you can cut and no ceiling on what you can earn. Every increase in a valuable skill raises the price of your time permanently, and unlike a savings balance, nobody can spend it for you. The old advice is blunt about the order as well: get better at the work and pay tends to follow, but only if you also ask for it. Deliberately improving one paid skill a year does more for a lifetime of finances than any amount of coupon discipline.",
+        "why": "Earnings compound across a career much as returns compound in a portfolio, and for most people income growth rather than investment skill is what moves lifetime wealth.",
+        "apply": "Pick one skill your market pays for, book four hours a week for it, and put a salary conversation in the diary six months out.",
+        "format": "single",
+        "tags": [
+          "earning",
+          "skills"
+        ]
+      },
+      {
+        "id": "the-richest-man-in-babylon-s08",
+        "hook": "Provide for the version of you who can no longer work.",
+        "insight": "Two things end an income: age and accident. Both are certainties in aggregate and unknowable individually, which is exactly the situation insurance and long-term saving exist for. Setting money aside for a retirement that feels abstract is unnatural, and so is paying for cover you hope never to use. Do both anyway, early, while they are cheap and while compounding still has time to work. The alternative is asking your future self, or your family, to absorb the entire shock.",
+        "why": "Insurance and pensions both price in time. Buying either later costs more and covers less, and the people who most need them are usually least able to afford them at that point.",
+        "apply": "Check two things today: whether your pension contribution captures the full employer match, and whether anyone would suffer financially if your income stopped.",
+        "format": "single",
+        "tags": [
+          "retirement",
+          "insurance"
+        ]
+      },
+      {
+        "id": "the-richest-man-in-babylon-s09",
+        "hook": "Opportunity does not wait for people who are still thinking it over.",
+        "insight": "The lucky characters in these parables are not the ones who spotted something nobody else could see. They are the ones who acted while the chance was still open, usually on incomplete information. Procrastination looks like prudence from the inside and costs about the same as a bad decision. Most financial chances have a shelf life — a job opening, a rate, a window in a market — and the discipline being taught is to move on a decent option rather than wait for a perfect one.",
+        "why": "Waiting has a cost that never appears on any statement, so it feels free. Delay in starting to invest is the single most expensive habit among people who otherwise do everything right.",
+        "apply": "Name the money decision you have postponed longest, then take the smallest irreversible step on it before the end of this week.",
+        "format": "single",
+        "tags": [
+          "action",
+          "procrastination"
+        ]
+      },
+      {
+        "id": "the-richest-man-in-babylon-s10",
+        "hook": "This ancient wisdom was written by an American selling pamphlets.",
+        "insight": "The Babylonian setting is a device. These were short financial tracts written in the 1920s and handed out by banks and insurance companies, later collected into a book. That does not make the advice wrong, and the core rules are as sound as anything written since. It does explain the tone of certainty and the missing pieces. There is nothing here about index funds, diversifying across countries, tax wrappers, or what to do when returns are negative for a decade.",
+        "why": "Knowing where advice comes from tells you what it optimises for. Material distributed by lenders is excellent on thrift and notably quiet about the products it does not sell.",
+        "apply": "Keep the four rules that survive — save first, spend deliberately, invest the surplus, avoid ruin — and get the mechanics from something written this century.",
+        "format": "single",
+        "tags": [
+          "context",
+          "limitations"
+        ]
+      }
+    ],
+    "actions": [
+      "Set an automatic transfer of at least ten percent of your pay into a separate account on the day after payday, with no card attached to it.",
+      "Write down your three largest annual costs — housing, transport and whatever comes third — and spend a weekend permanently cutting one of them.",
+      "Move the money you hold beyond an emergency fund into a low-cost diversified fund so that it earns something instead of sitting still.",
+      "Book one salary or rate conversation within six months, and spend four hours a week until then getting measurably better at the skill you are paid for."
+    ],
+    "if_you_liked": [
+      "the-millionaire-next-door",
+      "the-psychology-of-money",
+      "the-total-money-makeover"
+    ],
+    "not_for_you_if": "You want modern specifics — tax wrappers, index funds, pension rules. This is timeless principle delivered as parable, and the parable style grates on plenty of readers.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Collected as a book in 1926 from pamphlets written earlier in the decade. The Babylonian framing is a fictional device, not history. All prose here is original."
+    }
+  },
+  {
+    "id": "die-with-zero",
+    "title": "Die with Zero",
+    "subtitle": "Getting All You Can from Your Money and Your Life",
+    "author": "Bill Perkins",
+    "year": 2020,
+    "category": "personal-finance",
+    "subcategory": "spending-well",
+    "tags": [
+      "life-planning",
+      "experiences",
+      "retirement",
+      "giving",
+      "time"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "Personal finance spent a century optimising accumulation and almost nothing on the point of it. This is the counterweight: a serious argument that dying with a large unspent balance is a planning failure rather than a triumph.",
+    "crux": {
+      "headline": "Your goal is not maximum money. It is maximum life.",
+      "body": "Money is stored life energy, and it expires on a schedule set by your health rather than your bank balance. Spending too little in the decades when you can still climb the mountain or dance at the wedding wastes the years you traded to earn it. Plan to convert wealth into experiences deliberately, give to your children while it still changes their lives, and aim to arrive at the end with the job done rather than with a surplus you never used."
+    },
+    "sparks": [
+      {
+        "id": "die-with-zero-s01",
+        "hook": "Dying with a million in the bank means you worked years for free.",
+        "insight": "Every pound in your account is hours of your life, already spent. If those pounds are still sitting there when you die, the hours that bought them bought nothing at all. Most people never confront this because saving feels virtuous and spending feels risky, so the balance quietly grows past any purpose it was meant to serve. The uncomfortable arithmetic is that an unspent surplus is not security. It is unpaid labour, donated to nobody in particular.",
+        "why": "The point is not recklessness. It is noticing that overspending and over-accumulating are both errors, and only one of them ever gets talked about as a problem worth fixing.",
+        "apply": "Estimate what you realistically need for the rest of your life. Anything projected far beyond that is money you should be spending or giving now.",
+        "format": "single",
+        "tags": [
+          "life-energy",
+          "spending"
+        ]
+      },
+      {
+        "id": "die-with-zero-s02",
+        "hook": "A good experience keeps paying you for the rest of your life.",
+        "insight": "An experience is not consumed at the moment it happens. You replay it, tell it, and share it with the people who were there, and each retelling pays out again. That means experiences behave a little like investments, with a return that runs on memory instead of interest. The earlier you have one, the longer it compounds. A trip taken at twenty-five pays out for fifty years. The identical trip at seventy pays out for whatever is left.",
+        "why": "The mechanism is ordinary recall and social retelling rather than any measured financial effect. Treat it as a useful way to think about timing, not as a quantified rate of return.",
+        "apply": "Book one experience you have been deferring for a richer, older or less busy version of your life. Put a date on it this month.",
+        "format": "single",
+        "tags": [
+          "experiences",
+          "memory"
+        ]
+      },
+      {
+        "id": "die-with-zero-s03",
+        "hook": "Your life is not one long window. It is a series of closing ones.",
+        "insight": "Some things are only possible in certain decades. Backpacking, small children, late nights, knees. Treating retirement as the place where everything finally happens ignores that half the list will have expired by the time you get there. Instead, draw out the decades you have left and put each ambition into the one where you could actually do it. The exercise is uncomfortable precisely because it makes the closing windows visible, which is also exactly why it works.",
+        "why": "Physical capability and life circumstance gate most experiences far more tightly than money does, and both decline on a schedule that no amount of extra saving reverses.",
+        "apply": "Draw your remaining decades as boxes on one page and place every ambition you have into the box where it is still genuinely possible.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Draw the decades",
+            "body": "Sketch a box for each decade you can reasonably expect. Seeing a finite number of boxes does more work than any budgeting spreadsheet you will ever build."
+          },
+          {
+            "step": 2,
+            "title": "Place each ambition",
+            "body": "Write every experience you want into the box where you could actually do it, not the box where you imagine having the most free time and money."
+          },
+          {
+            "step": 3,
+            "title": "Find the crowded box",
+            "body": "One decade will be overloaded and the later ones nearly empty. That is the signal to move things earlier, while they are still physically possible."
+          },
+          {
+            "step": 4,
+            "title": "Fund the near boxes",
+            "body": "Attach money to the next two boxes now. An ambition without a budget and a date is just a wish you will keep re-listing every January."
+          }
+        ],
+        "tags": [
+          "planning",
+          "time"
+        ]
+      },
+      {
+        "id": "die-with-zero-s04",
+        "hook": "Leaving money at death hands it over at its least useful moment.",
+        "insight": "Inheritances increasingly arrive when the recipient is already housed, already established and past the years when the money would have changed any decision. Meanwhile those same people spent their thirties short of it. If you intend your children to have the money, decide the amount and give it while it still does work: a deposit, a career change, time at home with young children. Death is a terrible distribution schedule because it is timed by your body rather than by their need.",
+        "why": "Rising life expectancy pushes inheritance later, so what was once a mid-life boost now often lands close to the recipient's own retirement. The sum is the same; the usefulness is not.",
+        "apply": "Decide the number you intend to leave, then move a first instalment of it within the next year, while it still changes a decision.",
+        "format": "single",
+        "tags": [
+          "inheritance",
+          "giving",
+          "family"
+        ]
+      },
+      {
+        "id": "die-with-zero-s05",
+        "hook": "Your net worth is supposed to go down at some point.",
+        "insight": "Accumulation is a phase, not a life. There comes a point, set by how much you need and how long you will live rather than by an age, where adding to the pile costs more good years than it buys security. Past it, the correct move is to draw the balance down deliberately. Almost nobody does. The habits that built the wealth are the same habits that make spending it feel like failure, and they do not switch themselves off when the maths says they should.",
+        "why": "Retirees frequently underspend relative to their assets, partly from real uncertainty about lifespan and care costs and partly from decades of saving habit that does not reverse on command.",
+        "apply": "Write down the balance at which you would stop adding and start drawing down. Having the number stops the goalposts moving every year.",
+        "format": "single",
+        "tags": [
+          "decumulation",
+          "retirement"
+        ]
+      },
+      {
+        "id": "die-with-zero-s06",
+        "hook": "Health buys experiences that money on its own cannot.",
+        "insight": "Money converts into enjoyment at a rate set by your health, and that rate falls with age. The same sum buys a great deal at forty and considerably less at eighty, no matter how much accumulated in between. That makes physical capability a financial asset in the most literal sense: improving it raises the value of every pound you will ever spend, and neglecting it quietly writes down your entire balance without appearing anywhere on a statement.",
+        "why": "Health decline is gradual and largely invisible year to year, which is why it rarely appears in financial planning until the options it removed have already gone.",
+        "apply": "Treat exercise as a line in your financial plan rather than a wellness goal. Book three sessions a week for the next month and defend them like meetings.",
+        "format": "single",
+        "tags": [
+          "health",
+          "longevity"
+        ]
+      },
+      {
+        "id": "die-with-zero-s07",
+        "hook": "Most people save against a disaster far larger than the one they will face.",
+        "insight": "Fear does not do arithmetic. Asked what could go wrong, your mind supplies care costs, a market crash and a very long life all at once, so you end up saving against the sum of every scenario rather than a realistic one. The honest answer is not to dismiss the fear but to price it: work out what a bad outcome actually costs, cover that specific risk with insurance or guaranteed income, and then release the rest of the buffer to be lived on.",
+        "why": "Longevity and care costs are genuinely uncertain, which is exactly why the answer is to insure or annuitise a floor rather than to self-insure by hoarding an unbounded amount.",
+        "apply": "Price your worst realistic case in actual numbers, cover it with an income floor or insurance, and treat everything above that as spendable.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Name the real disaster",
+            "body": "Write down what actually goes wrong: care costs, a very long life, a market fall in your first retirement years. Vague dread cannot be planned against; a list can."
+          },
+          {
+            "step": 2,
+            "title": "Buy a floor",
+            "body": "Cover the parts you could not absorb with insurance or guaranteed income, so a bad decade cannot end you. That is what the oversized buffer was trying to do, done properly."
+          },
+          {
+            "step": 3,
+            "title": "Release the rest",
+            "body": "Everything above the floor is money for living. Set an annual amount and spend it, instead of remaking the decision every anxious morning for thirty years."
+          }
+        ],
+        "tags": [
+          "risk",
+          "fear",
+          "annuities"
+        ]
+      },
+      {
+        "id": "die-with-zero-s08",
+        "hook": "One more year of earning costs you one year of the good ones.",
+        "insight": "Staying in a job because the money is fine and the plan is vague is the most common way people overshoot. Each extra year adds to a balance that is already sufficient and subtracts from the small number of years in which you are healthy, free and still interested. The trade is invisible because only one side of it shows up on a statement. Deciding your number in advance is what turns a drifting career into a chosen one.",
+        "why": "The trade is asymmetric: extra money has diminishing usefulness while healthy years are strictly limited, so the same swap gets worse every time you repeat it.",
+        "apply": "Write the conditions under which you would stop or downshift, tell someone else what they are, and review the date each year rather than the balance.",
+        "format": "single",
+        "tags": [
+          "work",
+          "enough"
+        ]
+      },
+      {
+        "id": "die-with-zero-s09",
+        "hook": "When you are young and broke, saving hard may be the wrong move.",
+        "insight": "If your income is going to rise a lot, the pound you save at twenty-three comes out of a life that has very little, and the pound you spend at fifty-five comes out of a life that has plenty. Shifting some consumption earlier can therefore raise total lifetime enjoyment, even at the cost of a smaller balance later. The caveat is heavy. This only holds if the income rise actually arrives, and it assumes you never need the buffer you skipped building.",
+        "why": "This is standard lifecycle economics and also the argument most easily misused. It breaks down completely for unstable incomes, and high-interest consumer debt destroys it outright.",
+        "apply": "If you are early in a rising career, fund one meaningful experience this year rather than adding the same amount to a retirement account.",
+        "format": "single",
+        "tags": [
+          "lifecycle",
+          "young-money",
+          "debt"
+        ]
+      },
+      {
+        "id": "die-with-zero-s10",
+        "hook": "This whole argument assumes you already have more than enough.",
+        "insight": "The case runs on a condition that goes unstated far too often: you are on track, and then some. If you are short of an emergency fund, carrying expensive debt, or unsure about next year's income, the instruction to spend down is not merely wrong, it is dangerous. The framework earns its keep for people whose actual problem is over-saving, and that is a much smaller group than the number of people who will read it and feel pleasantly absolved.",
+        "why": "Advice is written for a median reader who may not be you. Accumulating slightly too much is a recoverable mistake; spending your safety net at forty usually is not.",
+        "apply": "Before applying any of this, confirm three things: no high-interest debt, six months of expenses in cash, and pension contributions genuinely on track.",
+        "format": "single",
+        "tags": [
+          "caveats",
+          "context"
+        ]
+      }
+    ],
+    "actions": [
+      "Draw the decades you have left, place every ambition into the decade where it is still physically possible, and diarise the first one.",
+      "Decide what you intend to give your children and when, then transfer a first instalment while it still changes a decision for them.",
+      "Set the net worth at which you switch from adding to drawing down, and write the annual amount you will spend once you reach it.",
+      "Before any of the above, clear high-interest debt and hold six months of expenses in cash, because the entire argument assumes you are already secure."
+    ],
+    "if_you_liked": [
+      "your-money-or-your-life",
+      "the-psychology-of-money",
+      "the-simple-path-to-wealth"
+    ],
+    "not_for_you_if": "You are paying down debt, short of a safety net, or on an unstable income. This argues that you are saving too much, which is not yet the problem most readers have.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2020. The lifecycle-consumption argument is mainstream economics; the advice assumes a reader who is already financially secure. All prose here is original."
+    }
+  },
+  {
+    "id": "the-simple-path-to-wealth",
+    "title": "The Simple Path to Wealth",
+    "subtitle": "Your Road Map to Financial Independence and a Rich, Free Life",
+    "author": "J.L. Collins",
+    "year": 2016,
+    "category": "personal-finance",
+    "subcategory": "index-investing",
+    "tags": [
+      "index-funds",
+      "financial-independence",
+      "investing",
+      "fees",
+      "early-retirement"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "It took the case for low-cost index investing and stripped it down to something a beginner can act on in one afternoon. More than any other single title, it is why a generation of independence-minded savers own one broad fund and ignore everything else.",
+    "crux": {
+      "headline": "Spend less than you earn, invest the rest, avoid debt",
+      "body": "There is no complexity here worth paying for. Keep your costs below your income, put the surplus into a broad and cheap index fund, add bonds when you need the ride smoothed, then do almost nothing for decades. The hard part is never the strategy. It is sitting still through the falls without selling, and refusing every product that promises to do better in exchange for a percentage of your money each year."
+    },
+    "sparks": [
+      {
+        "id": "the-simple-path-to-wealth-s01",
+        "hook": "Enough money to say no is worth more than any promotion.",
+        "insight": "A stack of savings does something a salary never can: it takes the fear out of every conversation about your work. Once you could survive a year or two without income, a bad manager becomes a choice rather than a sentence, and you negotiate from an entirely different position. Most people describe this as freedom, but the immediate effect is simpler. You stop making decisions you would not make if you had options, and your career usually improves as a direct result.",
+        "why": "The value is not the return on the money. It is the removal of a constraint that quietly shapes every professional decision you make while you depend on the next payslip.",
+        "apply": "Work out your annual expenses and set a target of one year of them held in cash and easily sold investments. That number is your first goal.",
+        "format": "single",
+        "tags": [
+          "freedom",
+          "savings",
+          "career"
+        ]
+      },
+      {
+        "id": "the-simple-path-to-wealth-s02",
+        "hook": "One boring fund beats almost every professional trying to beat it.",
+        "insight": "Buying a fund that holds the whole market gives you every winner inside it, at a cost close to nothing, with no research and no decisions to make. Most active managers fail to beat that over long periods once fees are counted, and the ones who do are close to impossible to identify in advance. So the simplest possible portfolio is not a beginner's compromise. It is the option that quietly outperforms the complicated ones most of the time.",
+        "why": "The maths is unavoidable. Investors collectively hold the market, so before costs the average active pound matches the index and after costs it lags. Studies of manager persistence find little repeatable skill.",
+        "apply": "Check the ongoing charge on everything you own. Anything above roughly half a percent needs to justify itself or be replaced with a broad index fund.",
+        "format": "single",
+        "tags": [
+          "index-funds",
+          "fees"
+        ]
+      },
+      {
+        "id": "the-simple-path-to-wealth-s03",
+        "hook": "A one percent fee can quietly take a quarter of your lifetime returns.",
+        "insight": "Fees look small because they are quoted per year against a balance rather than as a share of your gains. A percent taken annually compounds against you in exactly the way returns compound for you, so across a forty-year investing life it removes a large slice of the final pot, often more than a quarter of it. Nothing else in your portfolio is that predictable. Costs are the one part of investing you control with certainty.",
+        "why": "Run the compounding in both directions and the gap is arithmetic rather than opinion. It is the most reliable finding in the field and the most ignored, because the annual number looks trivial.",
+        "apply": "Add up what every fund, platform and adviser charges you this year in pounds rather than percent. Seeing the cash figure is what makes people act.",
+        "format": "single",
+        "tags": [
+          "fees",
+          "costs",
+          "compounding"
+        ]
+      },
+      {
+        "id": "the-simple-path-to-wealth-s04",
+        "hook": "The market always recovers, as long as you only look at one country.",
+        "insight": "The strongest claim here is that a broad stock market held long enough has always come back. For the United States that has been true through every crash of the last century, and it is the foundation of the whole strategy. It is also the weakest link. That record belongs to the most successful economy of the period, and investors who bought the Japanese market at its 1989 peak waited more than thirty years to break even. The lesson survives, but only with wider diversification than the original version recommends.",
+        "why": "This is survivorship bias in its most expensive form. Picking the winning market in hindsight and generalising from its record is precisely the error the rest of the book warns against.",
+        "apply": "Hold a global index fund rather than a single country's, so that your retirement does not depend on one economy repeating its best century.",
+        "format": "single",
+        "tags": [
+          "survivorship-bias",
+          "diversification",
+          "global"
+        ]
+      },
+      {
+        "id": "the-simple-path-to-wealth-s05",
+        "hook": "The market has never lost money for a patient investor. Investors have.",
+        "insight": "A fall of forty percent is survivable if you do nothing and permanent the moment you sell. Almost all the damage done in a crash is self-inflicted: selling near the bottom, waiting for calm before returning, and missing the recovery that arrives without warning. The strategy is trivial to describe and hard to execute for exactly one reason. It requires you to watch a large amount of your money vanish and keep buying anyway. Decide how you will behave before the fall, because you will not decide well during it.",
+        "why": "Investor returns typically lag the returns of the funds they hold, because of when purchases and sales happen. The gap is behavioural and it shows up repeatedly in studies of real accounts.",
+        "apply": "Write a one-page plan now stating exactly what you will do if your portfolio halves, and give a copy to someone who will read it back to you.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Automate the buying",
+            "body": "Set contributions to happen without you. A standing transfer keeps buying through a crash, which is when the purchases matter most and your nerve is at its worst."
+          },
+          {
+            "step": 2,
+            "title": "Cut the checking",
+            "body": "Look at the balance quarterly at most. Watching daily converts ordinary volatility into a stream of small decisions that you will eventually get wrong."
+          },
+          {
+            "step": 3,
+            "title": "Write the crash plan",
+            "body": "Decide in advance what a fifty percent fall means: nothing changes, you keep buying. Written in calm it is an instruction. Invented in panic it is a guess."
+          },
+          {
+            "step": 4,
+            "title": "Hold enough cash",
+            "body": "Keep enough outside the market that a job loss never forces you to sell shares at the worst possible moment. That buffer is what makes doing nothing possible."
+          }
+        ],
+        "tags": [
+          "behaviour",
+          "crashes",
+          "discipline"
+        ]
+      },
+      {
+        "id": "the-simple-path-to-wealth-s06",
+        "hook": "Bonds are not there for returns. They are there to keep you invested.",
+        "insight": "While you are building wealth, a simple portfolio of shares does the job and the volatility is a price worth paying. As you approach the point of living on the money, that same volatility turns into a real threat, because selling into a fall to pay your bills locks the loss in permanently. That is what bonds are for. They smooth the ride and give you something to spend from in bad years, at the cost of some long-run return, which is a trade that only makes sense once you actually need it.",
+        "why": "The specific danger is sequence-of-returns risk: identical average returns produce very different outcomes depending on whether the bad years arrive early in your drawdown or late.",
+        "apply": "Set your bond allocation by how close you are to spending the money rather than by your age, and rebalance back to it once a year.",
+        "format": "single",
+        "tags": [
+          "bonds",
+          "asset-allocation",
+          "drawdown"
+        ]
+      },
+      {
+        "id": "the-simple-path-to-wealth-s07",
+        "hook": "Four percent a year is a starting point, not a law of nature.",
+        "insight": "The familiar rule says a portfolio can sustain withdrawals of around four percent of its starting value, adjusted for inflation, across a thirty-year retirement. It is a genuinely useful shorthand for sizing the pot you need, roughly twenty-five times your annual spending. It is also drawn from one country's historical returns over a particular window, it assumes a fixed spending pattern that nobody actually follows, and it gets shakier for retirements much longer than thirty years.",
+        "why": "The original work was a backtest, not a forecast. Real retirees adjust spending in bad years, which helps, but starting valuations and fees both matter more than the headline number implies.",
+        "apply": "Multiply your annual spending by twenty-five to size the target, then plan in advance which spending you will cut in years when markets fall.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Total your real spending",
+            "body": "Use last year's bank statements rather than a budget you intend to follow. What matters is what you actually spent, including the irregular and annual bills."
+          },
+          {
+            "step": 2,
+            "title": "Multiply by twenty-five",
+            "body": "That is roughly the pot a four percent withdrawal implies. Treat it as a target to aim at, not a threshold that guarantees anything about your particular decades."
+          },
+          {
+            "step": 3,
+            "title": "Stress the assumptions",
+            "body": "Add fees, tax and a retirement longer than thirty years and the sustainable rate drops. Read the headline figure as the optimistic edge of a range."
+          },
+          {
+            "step": 4,
+            "title": "Plan a flexible year",
+            "body": "Decide now which spending you would cut after a bad market year. Flexibility improves survival odds more than shaving the withdrawal rate does."
+          }
+        ],
+        "tags": [
+          "withdrawal-rate",
+          "retirement",
+          "planning"
+        ]
+      },
+      {
+        "id": "the-simple-path-to-wealth-s08",
+        "hook": "Nobody knows what the market will do next, including the confident ones.",
+        "insight": "Forecasts about the coming year are produced constantly, published widely and almost never checked afterwards. If anyone could reliably call the market, they would not be telling you about it on television at eight in the morning. Accepting genuine ignorance about the short term is not defeatism. It is what makes a long-term plan possible, because it removes every reason to change course based on something somebody predicted this week.",
+        "why": "Aggregate records for market forecasting are poor, and any real edge would be arbitraged away as soon as it became widely known. The uncertainty here is structural, not a skills gap.",
+        "apply": "Unsubscribe from anything that tells you what markets will do next quarter, and set one calendar reminder to review your plan once a year.",
+        "format": "single",
+        "tags": [
+          "forecasting",
+          "noise",
+          "humility"
+        ]
+      },
+      {
+        "id": "the-simple-path-to-wealth-s09",
+        "hook": "Treat debt like a fire in the house, not a bill in the drawer.",
+        "insight": "Consumer debt at double-digit interest is a guaranteed negative return, and no investment strategy reliably beats it. That makes the decision unusually simple: before you optimise a portfolio, before you choose a fund, before you argue about allocation, get rid of it. The reason people do not is that debt is presented as normal and repayment is presented as optional, so it settles quietly into the background of a life instead of being treated as the emergency it is.",
+        "why": "Paying off a debt is a risk-free return equal to its interest rate. Nothing in a portfolio offers a guaranteed return at that level, which makes the comparison entirely one-sided.",
+        "apply": "List every debt with its interest rate. Anything above roughly seven percent gets every spare pound before your investments see any of it.",
+        "format": "single",
+        "tags": [
+          "debt",
+          "interest",
+          "priorities"
+        ]
+      },
+      {
+        "id": "the-simple-path-to-wealth-s10",
+        "hook": "Ask an adviser one question: are you paid whatever happens to me?",
+        "insight": "Most financial advice is sold, and the seller's incentive is usually invisible during the conversation. Someone paid a percentage of what you invest, or a commission on a particular product, is not necessarily dishonest, but they are answering a slightly different question from the one you asked. The defence is procedural rather than clever. Ask directly how the person is paid, get it in writing, and prefer someone charging a flat fee who is obliged to act in your interest.",
+        "why": "Conflicted pay reliably shifts recommendations toward higher-cost products. Being aware of the conflict does not remove it, which is why the structure of the fee matters more than the character of the adviser.",
+        "apply": "Ask any adviser to state their total annual cost in pounds and whether they are legally obliged to act in your interest. Get the answer in writing.",
+        "format": "single",
+        "tags": [
+          "advisers",
+          "conflicts",
+          "fees"
+        ]
+      }
+    ],
+    "actions": [
+      "Consolidate your investments into one or two broad, low-cost global index funds and cancel anything charging more than half a percent a year.",
+      "Write a one-page investment policy covering your allocation, your monthly contribution and what you will do when the market halves. Then sign it.",
+      "Calculate twenty-five times your annual spending, then set the monthly contribution that would reach it in the years you actually have.",
+      "Clear every debt above roughly seven percent interest before adding another pound to any investment account."
+    ],
+    "if_you_liked": [
+      "your-money-or-your-life",
+      "the-psychology-of-money",
+      "die-with-zero"
+    ],
+    "not_for_you_if": "You need tax and account detail outside the United States, or you already invest and want nuance rather than a clear plan that is deliberately kept simple.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2016, developed from letters written to the author's daughter. Account and tax specifics are United States-based, and the long-run return record it leans on is largely American."
+    }
+  },
+  {
+    "id": "money-master-the-game",
+    "title": "Money Master the Game",
+    "subtitle": "7 Simple Steps to Financial Freedom",
+    "author": "Anthony Robbins",
+    "year": 2014,
+    "category": "personal-finance",
+    "subcategory": "investing-fundamentals",
+    "tags": [
+      "fees",
+      "asset-allocation",
+      "index-funds",
+      "retirement-income",
+      "investing"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It carried the fee argument and the case for asset allocation out of finance journals and into airport bookshops, backed by interviews with investors most readers would never otherwise hear from. Millions of people checked what their pension was costing them because of it.",
+    "crux": {
+      "headline": "Costs and allocation decide your outcome, not stock picking",
+      "body": "Almost nothing you control in investing matters as much as two things: the share of your money taken in fees each year, and how the rest is split across assets that behave differently. Fix those and you have captured most of the gain available to you. Then decide the percentage of income you will save automatically, because a plan you never fund is not a plan. Everything else — the tips, the timing, the picks — is noise sold at a markup."
+    },
+    "sparks": [
+      {
+        "id": "money-master-the-game-s01",
+        "hook": "The percentage you save automatically matters more than what you buy.",
+        "insight": "People spend months choosing funds and about ten minutes deciding how much to put into them. That is backwards. Across a working life the savings rate dominates almost every other variable, because it sets how much capital exists to compound at all. Decide the percentage, make it automatic, and raise it every time your pay goes up so that the increase never reaches your spending. That one mechanism outperforms most of what passes for investment skill.",
+        "why": "Returns are uncertain and outside your control, while the contribution rate is certain and entirely inside it. Optimising the uncertain variable first is a common and expensive ordering mistake.",
+        "apply": "Set your pension or investment contribution as a percentage rather than a fixed amount, and add one point to it on the day of your next pay rise.",
+        "format": "single",
+        "tags": [
+          "savings-rate",
+          "automation"
+        ]
+      },
+      {
+        "id": "money-master-the-game-s02",
+        "hook": "Two percent a year sounds trivial until you see it across thirty years.",
+        "insight": "Charges are quoted annually and experienced permanently. A fund taking a couple of percent each year compounds against you at the same time your returns compound for you, and across a full career that gap consumes a substantial share of the final balance, far more than most investors would tolerate if it arrived as a single bill. The instruction that follows is blunt: find every layer of cost, including the ones buried inside the fund and the platform, and cut them.",
+        "why": "The arithmetic is uncontroversial and easy to check in a spreadsheet. What makes it powerful is that fees are one of very few investment outcomes you can change with certainty.",
+        "apply": "Request the total annual cost of every account you hold, stated in pounds, covering platform, fund and adviser layers. Then replace the worst offender.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Find every layer",
+            "body": "Fund charge, platform charge, adviser charge, and the trading costs inside the fund. Each is disclosed separately, which is exactly how the total stays invisible."
+          },
+          {
+            "step": 2,
+            "title": "Convert to pounds",
+            "body": "Multiply each percentage by your balance and add them together. A percentage feels like nothing; the annual cash figure changes behaviour almost immediately."
+          },
+          {
+            "step": 3,
+            "title": "Project it forward",
+            "body": "Run that same total across the years you have left to invest. That is the real price of the arrangement, and it is the number worth being angry about."
+          },
+          {
+            "step": 4,
+            "title": "Replace the worst",
+            "body": "Move one holding into a broad low-cost index fund this month. You do not have to fix everything at once to capture most of the available saving."
+          }
+        ],
+        "tags": [
+          "fees",
+          "costs"
+        ]
+      },
+      {
+        "id": "money-master-the-game-s03",
+        "hook": "How you split your money matters more than what you pick.",
+        "insight": "A portfolio's behaviour is driven mostly by the mix of things it holds, not by which particular shares or funds sit inside each slice. Get the split between growth assets and defensive ones roughly right for your situation and you have made the decision that actually shapes your outcome. Spend that same effort on selecting individual holdings instead and you are polishing the small term while leaving the large one entirely to chance.",
+        "why": "Allocation accounts for most of the variation in a portfolio's returns over time. The precise share is debated, but the ordering — allocation first, selection second — is not seriously contested.",
+        "apply": "Write down your current split between shares, bonds and cash. If you cannot state it from memory, that is the first thing to fix this week.",
+        "format": "single",
+        "tags": [
+          "asset-allocation",
+          "portfolio"
+        ]
+      },
+      {
+        "id": "money-master-the-game-s04",
+        "hook": "Build a portfolio for four kinds of weather, not for the forecast.",
+        "insight": "The idea borrowed from Ray Dalio here is that assets respond to a small number of economic conditions: growth rising or falling, inflation rising or falling. Any portfolio is an unstated bet on which of those turns up. The more balanced version holds something that does well in each — a substantial share across long and intermediate government bonds, a smaller share in shares, and a slice split between gold and commodities. It gives up upside in exchange for a much smoother ride.",
+        "why": "The track record presented is a backtest over decades of falling interest rates, which flattered bonds enormously. It is a reasonable argument about balance, not a demonstrated free lunch.",
+        "apply": "List what would happen to each thing you own if inflation ran hot for five years. If the answer is the same for all of them, you are not diversified.",
+        "format": "single",
+        "tags": [
+          "diversification",
+          "inflation",
+          "portfolio"
+        ]
+      },
+      {
+        "id": "money-master-the-game-s05",
+        "hook": "Ask whether your adviser is legally required to put you first.",
+        "insight": "There is a real difference between someone obliged to act in your interest and someone obliged only to sell you something broadly suitable. Both are called advisers, work from similar offices and use the same reassuring language. The difference shows up in the products recommended and the fees embedded inside them. The question is simple, the answer is usually written down somewhere, and almost nobody asks it before handing over their savings.",
+        "why": "Duty-of-care standards differ by country and by licence, and the weaker standard permits commission-driven recommendations. Knowing which one applies to your adviser is basic and rarely checked.",
+        "apply": "Email your adviser one sentence: are you legally obliged to act in my best interest, and exactly how are you paid? Keep the reply.",
+        "format": "single",
+        "tags": [
+          "advisers",
+          "conflicts"
+        ]
+      },
+      {
+        "id": "money-master-the-game-s06",
+        "hook": "Products promising upside with no downside are paid for somewhere.",
+        "insight": "A large section here is given over to arrangements offering market gains with a floor under the losses: structured notes, indexed annuities and similar instruments. They exist and they do what they say. The protection is bought with capped returns, forgone dividends, long lock-ins and the credit risk of whoever issued it. None of that is hidden, it is simply far less prominent than the promise. Treat downside protection as a purchase with a price, then go and find the price.",
+        "why": "This part has drawn the most criticism, partly for tone and partly because Robbins held disclosed commercial interests in the advice industry. The instruments are real; the enthusiasm deserves discounting.",
+        "apply": "For any protected product, ask for the cap, the lock-in period, the surrender charge and whether dividends are included. Then compare it with a plain index fund.",
+        "format": "single",
+        "tags": [
+          "annuities",
+          "structured-products",
+          "scepticism"
+        ]
+      },
+      {
+        "id": "money-master-the-game-s07",
+        "hook": "A pot of money is not an income until you have made it one.",
+        "insight": "Most planning stops at a target balance, as though the problem ends there. It does not. Turning a portfolio into a reliable monthly income across an unknown lifespan is a separate and harder problem, and it is where sequence risk, inflation and longevity all arrive at once. The suggestion here is to build a floor of guaranteed income that covers the essentials, then invest the rest for growth, so that a bad decade cannot touch the rent.",
+        "why": "Splitting essential spending from discretionary spending is a widely used planning approach. Guaranteed income costs you return, which is the honest trade rather than a hidden flaw.",
+        "apply": "Work out your essential monthly spending, then check what your state pension and any guaranteed income already cover. The gap is the part that needs a plan.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Total the essentials",
+            "body": "Rent or mortgage, food, energy, transport, insurance. This is the floor that has to be covered whatever markets happen to do in any particular year."
+          },
+          {
+            "step": 2,
+            "title": "Count guaranteed income",
+            "body": "State pension, any defined benefit scheme, any annuity you already hold. Whatever this covers is spending that never depends on a market at all."
+          },
+          {
+            "step": 3,
+            "title": "Price the gap",
+            "body": "Get quotes for closing the shortfall with guaranteed income. You may well decline the price, but know it before assuming a portfolio can do the job alone."
+          },
+          {
+            "step": 4,
+            "title": "Invest the remainder",
+            "body": "Money above the floor can carry real risk, because a bad decade then costs you holidays rather than housing. That is what the floor bought you."
+          }
+        ],
+        "tags": [
+          "retirement-income",
+          "planning"
+        ]
+      },
+      {
+        "id": "money-master-the-game-s08",
+        "hook": "Market falls are frequent, ordinary and almost always temporary.",
+        "insight": "Declines of around ten percent have historically turned up roughly once a year on average, with deeper falls every few years. Framed as normal weather rather than as an emergency, they change from something to escape into something to expect and keep buying through. The value of knowing the base rate is entirely psychological. It makes a fall feel like part of the plan instead of like evidence that the plan has broken.",
+        "why": "Base rates say nothing about timing and they are drawn from one long historical record. Use them to set expectations, not as a guarantee about the decade you happen to be living in.",
+        "apply": "Write down the last few market falls you lived through and what happened after each one. Keep the list where you will see it during the next one.",
+        "format": "single",
+        "tags": [
+          "volatility",
+          "psychology"
+        ]
+      },
+      {
+        "id": "money-master-the-game-s09",
+        "hook": "The best investors alive do not agree with each other.",
+        "insight": "Put fifty successful investors in a room and their portfolios contradict one another. One concentrates, another diversifies obsessively. One holds almost no bonds, another builds the whole thing around them. What they share is not a method but a discipline: they know exactly why they hold what they hold, they keep costs low, and they do not change strategy because of a headline. Copying any single one of their portfolios misses the thing that made it work for them.",
+        "why": "Different approaches suit different time horizons, tax positions and temperaments. The common factor across successful investors is consistency of process rather than a shared allocation.",
+        "apply": "Write one sentence for each thing you own explaining why you hold it. Sell anything where the honest sentence is about a tip or a feeling.",
+        "format": "single",
+        "tags": [
+          "process",
+          "discipline"
+        ]
+      },
+      {
+        "id": "money-master-the-game-s10",
+        "hook": "Six hundred pages of advice that would fit comfortably on one.",
+        "insight": "The core is sound and the padding is heavy. Long stretches of motivational framing, promotional detail and celebrity access surround a small set of ideas that could be delivered in a single chapter: save a fixed percentage automatically, cut every fee you can find, diversify across economic conditions rather than forecasts, and secure a floor of income for later. Take those four, skip the rest, and check any specific product mentioned against a plain index fund.",
+        "why": "The criticism is about proportion rather than accuracy. The material on fees and allocation is mainstream and correct; the sheer volume of surrounding text is what buries it.",
+        "apply": "Read only the sections on fees and asset allocation, apply both this month, and treat every named product as a starting point for your own research.",
+        "format": "single",
+        "tags": [
+          "summary",
+          "limitations"
+        ]
+      }
+    ],
+    "actions": [
+      "Request a total annual cost figure in pounds for every investment and pension account you hold, then move the most expensive one into a low-cost index fund.",
+      "Set your savings rate as a percentage of income, automate it, and commit in writing to raising it by one point at every pay rise.",
+      "Write out your current allocation across shares, bonds, cash and anything else, then check how it would cope with five years of high inflation.",
+      "Total your essential monthly spending and compare it against the guaranteed income you can already count on in retirement."
+    ],
+    "if_you_liked": [
+      "the-simple-path-to-wealth",
+      "the-psychology-of-money",
+      "the-total-money-makeover"
+    ],
+    "not_for_you_if": "You dislike motivational framing or very long books, or you already understand fees and allocation. The genuinely useful content is about a chapter's worth, stretched a long way.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2014, credited on the cover as Tony Robbins. He held disclosed commercial interests in the advice industry, and the sections on annuities and structured products have drawn substantial criticism."
+    }
+  },
+  {
+    "id": "broke-millennial",
+    "title": "Broke Millennial",
+    "subtitle": "Stop Scraping By and Get Your Financial Life Together",
+    "author": "Erin Lowry",
+    "year": 2017,
+    "category": "personal-finance",
+    "subcategory": "money-conversations",
+    "tags": [
+      "early-career",
+      "credit-score",
+      "student-loans",
+      "money-talks",
+      "budgeting"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 10,
+    "why_it_matters": "Most money guides assume the hard part is arithmetic. This one starts from the awkwardness — splitting a bill, asking for a raise, telling a friend you cannot afford the trip — and treats those conversations as the actual skill being taught.",
+    "crux": {
+      "headline": "The hard part of money is other people",
+      "body": "You already know you should spend less than you earn. What stops you is the group dinner, the friend who owes you, the partner who will not discuss the joint account, and the parent who needs help. Getting your finances together means learning to have those conversations without wrecking the relationship. Build the boring system underneath, then practise the sentences, because the sentences are where the money actually leaks."
+    },
+    "sparks": [
+      {
+        "id": "broke-millennial-s01",
+        "hook": "Your worst money habits were installed before you had any money.",
+        "insight": "How you feel about spending, saving and debt was largely set by watching adults handle it when you were small. If money meant arguments, you may avoid opening your accounts at all. If it meant status, you may spend in order to feel secure. None of this gets diagnosed by a budgeting app, and none of it changes because somebody shows you a spreadsheet. Naming where the reaction comes from is what lets you argue with it instead of obeying it.",
+        "why": "Early financial socialisation shapes adult attitudes to money, which is why two people on identical incomes can behave completely differently. The influence is real without being deterministic.",
+        "apply": "Write three memories of money from before you were fifteen and, next to each, the belief it left you with. Decide which of them still deserves a vote.",
+        "format": "single",
+        "tags": [
+          "money-story",
+          "psychology"
+        ]
+      },
+      {
+        "id": "broke-millennial-s02",
+        "hook": "You can say no to the dinner without saying why you cannot afford it.",
+        "insight": "Most overspending among friends is not desire, it is avoidance. The bill arrives split evenly, the group trip gets booked, and nobody wants to be the person who raises it. A short, unembarrassed sentence solves nearly all of it: propose the cheaper option first, name your budget without apologising, and offer a different way to see the person. The friendship almost never suffers. The silence is the part that costs you money.",
+        "why": "People consistently overestimate how harshly others will judge a stated budget. The awkwardness is anticipated far more than it is ever experienced, which is why rehearsing the sentence works.",
+        "apply": "Pick one recurring social expense you quietly resent and propose a cheaper version of it to the group this week, without explaining your finances.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Suggest first",
+            "body": "Whoever proposes the venue sets the price. Being the one who suggests the plan is far easier than objecting to somebody else's expensive one afterwards."
+          },
+          {
+            "step": 2,
+            "title": "Name the number",
+            "body": "Say what you are spending, not why. A budget stated plainly ends the conversation; an explanation invites a negotiation you did not want to have."
+          },
+          {
+            "step": 3,
+            "title": "Offer an alternative",
+            "body": "Decline the trip and immediately propose something you can afford. It makes clear that you want the person, not that you object to the price tag."
+          },
+          {
+            "step": 4,
+            "title": "Handle the split",
+            "body": "Ask for separate bills when you order rather than after the meal. Sorting it at the start removes the moment at the end that everybody dreads."
+          }
+        ],
+        "tags": [
+          "friends",
+          "social-spending",
+          "boundaries"
+        ]
+      },
+      {
+        "id": "broke-millennial-s03",
+        "hook": "Talk about money before you move in, not after the first fight.",
+        "insight": "Couples argue about money more than almost anything else, usually because the conversation happens for the first time under pressure. The useful version happens early and covers unglamorous facts: what each person earns, what each person owes, and what each person believes money is for. Doing it before your finances are entangled turns a confrontation into information. The particular structure you choose matters far less than having chosen one deliberately.",
+        "why": "Financial disagreement is a well-documented source of relationship conflict, and undisclosed debt is a common trigger. Early disclosure removes the surprise, which is the part that does the damage.",
+        "apply": "Book an hour with your partner, bring real numbers for income, debts and savings, and agree one rule for shared spending before you leave the table.",
+        "format": "single",
+        "tags": [
+          "couples",
+          "relationships",
+          "joint-finances"
+        ]
+      },
+      {
+        "id": "broke-millennial-s04",
+        "hook": "Lend a friend money and assume you have just given it away.",
+        "insight": "A loan between friends carries no legal weight and enormous emotional weight, which is a poor combination. If you can afford to hand the money over and never think about it again, do exactly that and call it a gift, because a friendship survives a gift far better than it survives a missed repayment. If you cannot afford to lose it, say no clearly and early. The half-measure — lending reluctantly and then resenting it — damages both the money and the friendship.",
+        "why": "Informal loans have no enforcement and rarely any written terms, so recovery depends entirely on goodwill. Deciding to gift or to refuse removes the ambiguity that causes most of the damage.",
+        "apply": "Decide in advance the maximum you would give away to friends or family. Below it, gift without conditions. Above it, decline in one sentence.",
+        "format": "single",
+        "tags": [
+          "family",
+          "lending",
+          "boundaries"
+        ]
+      },
+      {
+        "id": "broke-millennial-s05",
+        "hook": "Your credit score is not a measure of how good you are with money.",
+        "insight": "It measures how reliably you repay borrowed money, which is a much narrower thing. Someone with no debt and healthy savings can score worse than someone juggling several cards competently, because the system only observes borrowing behaviour. What actually moves it is dull and mechanical: paying on time, using a small share of your available limit, keeping old accounts open, and not applying for lots of credit at once. That turns the score from a judgement into a set of levers.",
+        "why": "Scoring models differ by country and by provider, but payment history and utilisation dominate nearly all of them. The details vary from place to place; the levers do not.",
+        "apply": "Check your report with the main agency in your country, look for errors, and set every minimum payment you owe to pay automatically today.",
+        "format": "single",
+        "tags": [
+          "credit-score",
+          "borrowing"
+        ]
+      },
+      {
+        "id": "broke-millennial-s06",
+        "hook": "Not all debt deserves to be attacked at the same speed.",
+        "insight": "Debt is not one category. A high-interest card is an emergency. A low-rate government student loan with income-based repayment and an eventual write-off is closer to a tax on your salary, and racing to clear it can cost you the compounding you would have earned by investing instead. The work is boring and decisive: find the interest rate, the repayment terms and any write-off date for each debt, then sequence them by cost rather than by how much they annoy you.",
+        "why": "Repayment terms differ enormously between countries and schemes. The general rule holds regardless: the rate and the terms should set the order, not the emotional weight of the debt.",
+        "apply": "List every debt with its rate, term and any write-off date. Attack the highest rate first and pay only the minimum on anything cheaper than your expected returns.",
+        "format": "single",
+        "tags": [
+          "student-loans",
+          "debt",
+          "priorities"
+        ]
+      },
+      {
+        "id": "broke-millennial-s07",
+        "hook": "The fastest pay rise available to you is the one you ask for.",
+        "insight": "Cutting spending has a floor set by your rent. Income has no equivalent ceiling, and the single highest-return hour in most careers is the one spent preparing to ask for more. Asking works far more often than people expect, and the cost of hearing no is almost always nothing at all. What makes it feel impossible is not the risk but the absence of a script, so the fix is preparation: evidence, a number, and a rehearsed opening sentence.",
+        "why": "Salary increases compound across a career and carry into every future offer you receive, so a single successful negotiation early is worth many times its immediate value.",
+        "apply": "Write three specific results you produced this year with numbers attached, research the market rate, and request a meeting about your pay.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Gather evidence",
+            "body": "Collect specific things you delivered and what they were worth. Vague loyalty is not an argument; a short list of outcomes with numbers attached is one."
+          },
+          {
+            "step": 2,
+            "title": "Find the market rate",
+            "body": "Ask recruiters and peers what the role pays elsewhere. Negotiating without an external number means negotiating against your own imagination."
+          },
+          {
+            "step": 3,
+            "title": "Name a number first",
+            "body": "Say a specific figure slightly above your target, and then stop talking. The silence after a number is uncomfortable and it works in your favour."
+          },
+          {
+            "step": 4,
+            "title": "Get the no in writing",
+            "body": "If the answer is no, ask exactly what would make it a yes and by when. That converts a rejection into a dated plan you can hold them to."
+          }
+        ],
+        "tags": [
+          "salary",
+          "negotiation",
+          "earning"
+        ]
+      },
+      {
+        "id": "broke-millennial-s08",
+        "hook": "Investing without a cash buffer is borrowing trouble at a bad rate.",
+        "insight": "Without savings, every unexpected cost becomes credit card debt at a punishing rate, and that interest wipes out any return you were earning elsewhere. A cash buffer is not lazy money. It is the thing that stops one broken boiler from undoing a year of investing. Start with a target you can genuinely reach — one month of essential spending — because a fund that exists beats a perfect fund you never get around to starting.",
+        "why": "Emergency savings prevent a temporary shock from converting into long-term high-interest debt. That protection is worth more than the return the cash gives up while it waits.",
+        "apply": "Open a separate savings account with no card attached and set a standing transfer that reaches one month of essential spending within the year.",
+        "format": "single",
+        "tags": [
+          "emergency-fund",
+          "savings"
+        ]
+      },
+      {
+        "id": "broke-millennial-s09",
+        "hook": "You cannot budget your way out of not knowing what you spend.",
+        "insight": "Almost everyone underestimates their own spending, and nobody can act on a number they have guessed. The starting point is not a budgeting method but a full month of actual transactions, sorted into a handful of categories. It is tedious for one evening and clarifying for a decade. Most people find one or two categories far larger than expected, and fixing those beats any amount of discipline applied evenly across everything else.",
+        "why": "Recall of routine spending is unreliable, particularly for small frequent purchases and annual bills. Working from statements rather than memory takes the guesswork out entirely.",
+        "apply": "Export the last three months of transactions and sort them into six categories. Circle the two biggest surprises and change one of them this month.",
+        "format": "single",
+        "tags": [
+          "budgeting",
+          "tracking",
+          "spending"
+        ]
+      },
+      {
+        "id": "broke-millennial-s10",
+        "hook": "You are comparing your bank balance to other people's photographs.",
+        "insight": "The spending you can see is a highlight reel, filtered twice over. People post the trip and not the balance, and the ones spending beyond their means look identical to the ones who can comfortably afford it. Feeling behind is the predictable result of that asymmetry rather than evidence about your own finances. The only comparison with any meaning is against your own position a year ago, and that is the one nobody publishes.",
+        "why": "Visible consumption is a poor signal of wealth, because debt-funded and income-funded spending look the same from outside. What you see tells you about spending, never about what somebody owns.",
+        "apply": "Mute or unfollow three accounts that reliably make you feel behind, and write down two financial things that genuinely improved for you this year.",
+        "format": "single",
+        "tags": [
+          "comparison",
+          "social-media",
+          "mindset"
+        ]
+      }
+    ],
+    "actions": [
+      "Export three months of transactions, sort them into six categories, and pick the two biggest surprises to change this quarter.",
+      "Open a separate emergency savings account with no card attached and automate a transfer that reaches one month of essential spending.",
+      "Rehearse and then use one money sentence this month: declining an expensive plan, asking for a raise, or raising the subject with your partner.",
+      "Check your credit report for errors and set every minimum payment on every account to pay automatically."
+    ],
+    "if_you_liked": [
+      "i-will-teach-you-to-be-rich",
+      "the-total-money-makeover",
+      "the-psychology-of-money"
+    ],
+    "not_for_you_if": "You are mid-career with the basics handled, or you want investing depth. Much of the account, credit and loan detail is written for a United States reader.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2017 and the first of a series. Credit score, student loan and retirement account specifics are United States-based. All prose here is original."
+    }
+  },
+  {
+    "id": "the-barefoot-investor",
+    "title": "The Barefoot Investor",
+    "subtitle": "The Only Money Guide You'll Ever Need",
+    "author": "Scott Pape",
+    "year": 2016,
+    "category": "personal-finance",
+    "subcategory": "money-systems",
+    "tags": [
+      "automation",
+      "debt",
+      "pensions",
+      "insurance",
+      "budgeting"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 10,
+    "why_it_matters": "It works as a checklist rather than a philosophy, which is why it became a publishing phenomenon in Australia and then stuck. Its bucket system gives you a structure you can set up in one evening and then leave alone for years.",
+    "crux": {
+      "headline": "Split your pay into buckets and stop deciding",
+      "body": "Divide your income automatically the moment it arrives: most into daily expenses, a slice for guilt-free spending, a slice for medium-term goals, and a separate untouchable account for emergencies held at a different bank so that raiding it is inconvenient. Then attack the debt, cut the fees hiding inside your pension, and get your insurance right. It is a sequence of small chores, not a change of character."
+    },
+    "sparks": [
+      {
+        "id": "the-barefoot-investor-s01",
+        "hook": "Give every pound a job before it can go and find one of its own.",
+        "insight": "Money in a single account gets spent by default, because nothing inside it distinguishes rent from a weekend away. Splitting your income automatically into separate accounts fixes that without any ongoing willpower: bills are covered, a fixed portion is genuinely free to spend, medium-term goals accumulate quietly, and emergency money sits somewhere awkward to reach. You are not tracking anything and not resisting anything. The structure does the deciding while you get on with your life.",
+        "why": "Separating money into labelled accounts works because people treat funds differently depending on what they are earmarked for. It is a mental accounting effect, used deliberately rather than accidentally.",
+        "apply": "Open the accounts this weekend and set four automatic transfers for the day after payday. Two hours of admin, then leave the whole thing alone.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Daily expenses",
+            "body": "Everything fixed and recurring comes from one account: rent, bills, food, transport. Aim to keep this under about sixty percent of your take-home pay."
+          },
+          {
+            "step": 2,
+            "title": "Guilt-free spending",
+            "body": "A fixed slice for whatever you enjoy, with no tracking and no justification. A plan with no room for pleasure gets abandoned within about two months."
+          },
+          {
+            "step": 3,
+            "title": "Medium-term goals",
+            "body": "Holidays, a car, a wedding, the annual bills that always feel like ambushes. Funding them monthly turns emergencies back into ordinary expenses."
+          },
+          {
+            "step": 4,
+            "title": "Untouchable safety",
+            "body": "Emergency money at a different bank, no card, slow to move. The friction is the feature: raiding it should require a deliberate act, not a tap."
+          }
+        ],
+        "tags": [
+          "buckets",
+          "automation",
+          "system"
+        ]
+      },
+      {
+        "id": "the-barefoot-investor-s02",
+        "hook": "Keep your emergency money somewhere genuinely annoying to reach.",
+        "insight": "An emergency fund sitting next to your current account is not an emergency fund, it is a slower spending account. Put it at a different bank, do not order a card for it, and let the transfer take a day. That delay is what protects it, because almost every raid on savings is an impulse that would not survive twenty-four hours of waiting. The point is not to punish yourself. It is to make the easy path the one you would have chosen calmly.",
+        "why": "Small amounts of friction change behaviour far more reliably than intentions do, and the same effect that makes saving hard can be turned around and used to protect it.",
+        "apply": "Move your emergency savings to a bank you do not use daily, order no card for it, and delete that bank's app from your phone.",
+        "format": "single",
+        "tags": [
+          "emergency-fund",
+          "friction"
+        ]
+      },
+      {
+        "id": "the-barefoot-investor-s03",
+        "hook": "Book a monthly money night and put a drink on the table.",
+        "insight": "Financial admin fails because it never gets scheduled and, in a couple, because it only ever comes up during an argument. Fixing that is unglamorous: the same evening every month, somewhere pleasant, with a short list of things to check. Twenty minutes covers transfers, bills, progress and one decision. Making it routine and mildly enjoyable removes both the avoidance and the emotional charge, which are the two reasons it does not otherwise happen at all.",
+        "why": "Recurring scheduled reviews beat motivation because they remove the question of when. Holding it somewhere relaxed also decouples the topic from conflict, which is what keeps it happening.",
+        "apply": "Put a repeating one-hour appointment in the calendar for the first Sunday of each month, and hold the first one before this week ends.",
+        "format": "single",
+        "tags": [
+          "habits",
+          "couples",
+          "review"
+        ]
+      },
+      {
+        "id": "the-barefoot-investor-s04",
+        "hook": "Pay the smallest debt first even though the maths says otherwise.",
+        "insight": "Two orders are available. Highest interest rate first saves the most money. Smallest balance first clears accounts fastest and produces visible wins. The mathematically optimal route is worth slightly more on paper, but plenty of people abandon it before finishing, and a completed suboptimal plan beats an abandoned optimal one every time. Choose by what you know about yourself: if you have quit before, take the early wins. If you have not, take the rate.",
+        "why": "Evidence on smallest-balance-first is genuinely mixed but leans toward better persistence, because early completions supply the motivation that carries a long repayment. The cost of choosing it is usually small.",
+        "apply": "List every debt, pick one ordering rule, then pay the minimum on all of them and everything spare on whichever sits first in your list.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "List everything",
+            "body": "Every card, loan and buy-now-pay-later arrangement, with balance, rate and minimum payment. Seeing the total in one place is the unpleasant part that has to happen."
+          },
+          {
+            "step": 2,
+            "title": "Pick your order",
+            "body": "Smallest balance for momentum, highest rate for efficiency. Decide once, based on evidence about your own past behaviour, then stop revisiting the question."
+          },
+          {
+            "step": 3,
+            "title": "Negotiate the rates",
+            "body": "Ring each lender and ask for a lower rate or a balance transfer. It takes an afternoon, it often works, and nobody ever offers it unprompted."
+          },
+          {
+            "step": 4,
+            "title": "Close as you go",
+            "body": "When an account clears, close it and cancel the card. An empty credit line left open is a repayment plan quietly waiting to be undone."
+          }
+        ],
+        "tags": [
+          "debt",
+          "repayment",
+          "momentum"
+        ]
+      },
+      {
+        "id": "the-barefoot-investor-s05",
+        "hook": "Check what your pension charges you. It is probably worse than you think.",
+        "insight": "Retirement accounts are where fees hide most successfully, because you rarely look and the money never passes through your hands. A percentage taken every year for forty years removes a serious share of the final balance, and the default fund you were automatically enrolled into is frequently not the cheapest one available to you. Switching is usually a form and an afternoon, which makes it the highest-value hour of financial admin most people never get around to doing.",
+        "why": "Fee differences compound across a working life, and automatic enrolment means most people never actively chose the fund they are in. The saving is certain in a way that returns never are.",
+        "apply": "Log into your pension today, find the annual charge as a percentage, and compare it with the cheapest fund your scheme offers.",
+        "format": "single",
+        "tags": [
+          "pensions",
+          "fees"
+        ]
+      },
+      {
+        "id": "the-barefoot-investor-s06",
+        "hook": "Insure the things that would ruin you and ignore everything else.",
+        "insight": "Insurance is worth buying only for losses you could not absorb: your income disappearing, dying while people depend on you, a house burning down. Extended warranties, phone cover and similar products mostly sell peace of mind at a poor price. The two protections most commonly missing are income protection and life cover for anyone with dependants, and the ones most commonly over-bought are policies covering small replaceable objects you could simply buy again.",
+        "why": "Insurance transfers risk at a price that includes the insurer's margin, so it only pays for events you genuinely cannot self-fund. For small losses, carrying the risk yourself is cheaper on average.",
+        "apply": "Cancel one policy covering something you could replace from savings, and check today whether you actually hold income protection.",
+        "format": "single",
+        "tags": [
+          "insurance",
+          "risk",
+          "protection"
+        ]
+      },
+      {
+        "id": "the-barefoot-investor-s07",
+        "hook": "A money plan with no fun in it will not survive the winter.",
+        "insight": "Plans built on total restriction fail in the same way crash diets do, and they take the good habits down with them when they go. Setting aside a fixed share of income for enjoyment, spent without tracking or justification, is what makes everything else sustainable. It also ends the argument, because the money is already allocated. The discipline sits in the size of the slice, not in policing what it eventually gets spent on.",
+        "why": "Sustained behaviour change usually requires a permitted outlet. Removing all discretionary spending raises the chance of abandoning the whole system rather than raising the saving rate.",
+        "apply": "Set a fixed weekly amount for enjoyment, move it to a separate card, and then stop tracking anything at all that is spent from it.",
+        "format": "single",
+        "tags": [
+          "spending",
+          "sustainability",
+          "budgeting"
+        ]
+      },
+      {
+        "id": "the-barefoot-investor-s08",
+        "hook": "Buying a house is a lifestyle decision wearing an investment costume.",
+        "insight": "Property gets sold as an investment, but the home you live in is mostly a place to live with a large loan attached. That does not make it a bad decision. Clearing a mortgage before retirement transforms how much income you need for the rest of your life. It does mean the deciding questions are how long you will stay, whether the repayments leave room to invest, and what happens if rates rise, rather than whether prices will keep climbing.",
+        "why": "Transaction costs, interest and maintenance take years to recover, and the return on a home depends heavily on when and where you bought. Housing has not risen everywhere, or always.",
+        "apply": "Before buying, model your repayments at an interest rate three points higher than today's and check that the number still works.",
+        "format": "single",
+        "tags": [
+          "housing",
+          "mortgage",
+          "property"
+        ]
+      },
+      {
+        "id": "the-barefoot-investor-s09",
+        "hook": "Financial security is a list of chores, not a personality trait.",
+        "insight": "Almost everything that improves your finances is a discrete task with a beginning and an end: open an account, cancel a policy, ring a lender, switch a fund, set a transfer. None of them requires discipline once done. Framing money as an identity problem, as being the sort of person who is good with money, makes it feel permanent and unreachable. Framing it as a to-do list makes it finishable in a few weekends, which is what it genuinely is.",
+        "why": "One-off structural changes keep working without any further attention, while behaviour-based plans need continuous effort. Most of the available gain sits in the one-off column.",
+        "apply": "Write the ten money chores you have been avoiding, put three of them in the calendar this month, and delete anything that is really a wish.",
+        "format": "single",
+        "tags": [
+          "admin",
+          "simplicity",
+          "action"
+        ]
+      },
+      {
+        "id": "the-barefoot-investor-s10",
+        "hook": "The system travels well. The product names do not.",
+        "insight": "This was written for one country, and its specifics — retirement scheme rules, named bank accounts, local insurance quirks — do not port anywhere else. What does port is the structure underneath: automatic splitting of income, a hard-to-reach safety account, one deliberate debt order, ruthless attention to the fees inside your retirement account, and cover bought only for catastrophic risks. Rebuild those with your own country's equivalents and you have the whole thing.",
+        "why": "Specific product recommendations in any money book date quickly, even in their home market. The architecture is the part that survives, and it is the part worth copying.",
+        "apply": "Rewrite the bucket system using accounts available where you live, and check every recommended product against a local equivalent before buying it.",
+        "format": "single",
+        "tags": [
+          "context",
+          "adaptation",
+          "limitations"
+        ]
+      }
+    ],
+    "actions": [
+      "Open the separate accounts and set automatic transfers for the day after payday, including a safety account at a different bank with no card attached.",
+      "Log into your pension, find the annual fee as a percentage, and switch to the cheapest suitable fund your scheme offers.",
+      "List every debt with its balance and rate, choose one repayment order, and ring at least one lender to ask for a lower rate.",
+      "Book a recurring monthly money hour in the calendar and hold the first one before the end of this week."
+    ],
+    "if_you_liked": [
+      "i-will-teach-you-to-be-rich",
+      "the-total-money-makeover",
+      "the-simple-path-to-wealth"
+    ],
+    "not_for_you_if": "You live outside Australia and want the specifics to apply directly, or you already run an automated system and want investing depth rather than setup instructions.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2016 with later updated editions. Product, banking and superannuation specifics are Australian; the account structure generalises. All prose here is original."
+    }
   }
 ]

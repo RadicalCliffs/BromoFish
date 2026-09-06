@@ -189,3 +189,33 @@ test('salvage drops a record whose own JSON is malformed rather than guessing', 
   assert.equal(recovered[0].id, 'atomic-habits');
   rmSync(dir, { recursive: true, force: true });
 });
+
+test('duplicate detection fails the build on two identical hooks in one book', () => {
+  const dir = sandbox();
+  cpSync('scripts/find-duplicates.mjs', join(dir, 'scripts/find-duplicates.mjs'));
+  const [book] = exemplar();
+  const sparks = book.sparks.map((s, i) => (i === 4 ? { ...s, hook: book.sparks[0].hook } : s));
+  writeFileSync(join(dir, 'content/raw/dupe.json'), JSON.stringify([{ ...book, sparks }]));
+  const { code, out } = run('scripts/find-duplicates.mjs', ['--threshold', '0.45'], dir);
+  assert.equal(code, 1, out);
+  assert.match(out, /SAME BOOK/);
+  rmSync(dir, { recursive: true, force: true });
+});
+
+test('duplicate detection tolerates the same idea appearing in two different books', () => {
+  const dir = sandbox();
+  cpSync('scripts/find-duplicates.mjs', join(dir, 'scripts/find-duplicates.mjs'));
+  const [book] = exemplar();
+  const twin = {
+    ...book,
+    id: 'other-book',
+    title: 'Other Book',
+    sparks: book.sparks.map((s, i) => ({ ...s, id: `other-book-s${String(i + 1).padStart(2, '0')}` })),
+  };
+  writeFileSync(join(dir, 'content/raw/a.json'), JSON.stringify([book, twin]));
+  const { code, out } = run('scripts/find-duplicates.mjs', ['--threshold', '0.45'], dir);
+  // Reported for review, but not a build failure — two books can share a genuine idea.
+  assert.equal(code, 0, out);
+  assert.match(out, /near-duplicate pair/);
+  rmSync(dir, { recursive: true, force: true });
+});

@@ -864,5 +864,1769 @@
       "confidence": "high",
       "notes": "First published 2013 by Victory Belt; a revised second edition followed in 2015. Injury-prevention and fascia claims in the book are not well supported by current evidence and the content says so directly. All prose original."
     }
+  },
+  {
+    "id": "endure",
+    "title": "Endure",
+    "subtitle": "Mind, Body, and the Curiously Elastic Limits of Human Performance",
+    "author": "Alex Hutchinson",
+    "year": 2018,
+    "category": "health-fitness",
+    "subcategory": "endurance-science",
+    "tags": [
+      "endurance",
+      "running",
+      "sports-science",
+      "mental-toughness",
+      "pain",
+      "performance"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It is the fairest account of a fight that has run through exercise science for a century: whether your limit sits in the muscle or in the mind. It takes the brain seriously without turning effort into a self-help slogan.",
+    "crux": {
+      "headline": "Your limit is a decision your brain makes early",
+      "body": "You almost never stop because a muscle has physically failed. You stop because effort crosses a threshold your brain has been protecting all along, using signals from fuel, heat, oxygen and past experience to decide when enough is enough. That threshold moves. Train the body and it moves. Change what you believe, expect or feel and it moves too. Neither the pure physiology story nor the pure willpower story survives the evidence."
+    },
+    "sparks": [
+      {
+        "id": "endure-s01",
+        "hook": "Almost nobody collapses at the finish. They slow down first, and choose to.",
+        "insight": "Watch the end of a hard race and you see people fading, not failing. Muscles that supposedly ran out of everything still have enough left for a sprint finish when a rival appears. That gap between what the body can do and what it will do is the whole subject. Something is holding a reserve back, and it responds to the situation: the distance you think is left, the person beside you, how much it hurts right now.",
+        "why": "Muscle biopsies after exhausting exercise routinely show fuel still in the tank and metabolic conditions short of true failure. The stopping decision arrives before the physical ceiling does.",
+        "apply": "Next hard session, note the exact moment you decide to ease off and what you were thinking. Write it down within a minute of finishing.",
+        "format": "single",
+        "tags": [
+          "limits",
+          "endurance",
+          "pacing"
+        ]
+      },
+      {
+        "id": "endure-s02",
+        "hook": "Effort is not a measurement of your body. It is a feeling your brain issues.",
+        "insight": "The single number that predicts when you stop is how hard it feels, not how hard it is. Two riders at identical power outputs can be in completely different places, because perceived effort is assembled from muscle signals, breathing, heat, fuel, mood and expectation. This is why anything that changes the feeling changes the performance, even when nothing measurable about the muscle has changed at all.",
+        "why": "The psychobiological model, developed by Samuele Marcora, holds that you quit when effort feels maximal or the required effort exceeds what you are willing to give. It predicts a lot of odd results the pure physiology model cannot.",
+        "apply": "Rate perceived effort out of ten at three fixed points in your next workout, then compare those ratings across weeks at the same pace.",
+        "format": "single",
+        "tags": [
+          "perceived-effort",
+          "psychobiological",
+          "motivation"
+        ]
+      },
+      {
+        "id": "endure-s03",
+        "hook": "The two-hour marathon was treated as a physiological wall. It was a scheduling problem.",
+        "insight": "For decades the sub-two-hour marathon looked like a hard biological limit. Then a coordinated attempt at Monza in 2017 put Eliud Kipchoge across the line in 2:00:25, with pacers, drafting and a flat closed circuit. Not a legal record, and not a normal race. But it moved the argument from whether a human could do it to what conditions were required, which is a completely different kind of question.",
+        "why": "Extrapolating a limit from a record list assumes conditions stay fixed. Change shoes, pacing, course and fuelling and the extrapolation breaks, which is what happened.",
+        "apply": "Take one number you treat as your personal ceiling and list the conditions it was set under. Change two of those conditions and test it again.",
+        "format": "single",
+        "tags": [
+          "marathon",
+          "records",
+          "limits"
+        ]
+      },
+      {
+        "id": "endure-s04",
+        "hook": "Elite endurance athletes do not feel less pain. They argue with it differently.",
+        "insight": "Tested in the lab, trained endurance athletes usually have ordinary pain thresholds — the point where a sensation first registers as painful is much the same as anyone else's. What differs is tolerance: how long they will stay with it once it hurts. That is a learned relationship, built by repeatedly going somewhere uncomfortable and coming back intact, rather than a gift of thicker nerves.",
+        "why": "Studies comparing athletes and non-athletes tend to find similar thresholds but higher tolerance. Sample sizes are small and the direction of cause is unclear: training may build tolerance, or tolerant people may stay in the sport.",
+        "apply": "Add one short interval each week that is deliberately uncomfortable but safe, and practise staying relaxed in the face and shoulders while it hurts.",
+        "format": "single",
+        "tags": [
+          "pain",
+          "tolerance",
+          "training"
+        ]
+      },
+      {
+        "id": "endure-s05",
+        "hook": "Rinse a sports drink around your mouth, spit it out, and still ride harder.",
+        "insight": "Swill a carbohydrate solution for a few seconds without swallowing and short-duration performance improves anyway. There is no time for the sugar to be digested and delivered, so the effect cannot be fuel. Receptors in the mouth appear to signal incoming energy to the brain, which loosens the reins slightly. It is one of the cleanest demonstrations that the brain is regulating output on predicted supply, not just current supply.",
+        "why": "The mouth-rinse effect replicates reasonably well for efforts of roughly an hour, especially when fasted, though the size of the gain is modest and it fades when you are already well fuelled.",
+        "apply": "On a short fasted session, rinse a carbohydrate drink for five to ten seconds before a hard effort and compare it against your usual pacing.",
+        "format": "single",
+        "tags": [
+          "fuelling",
+          "carbohydrate",
+          "brain"
+        ]
+      },
+      {
+        "id": "endure-s06",
+        "hook": "Thinking hard for 90 minutes makes your legs give up sooner.",
+        "insight": "Give people a demanding computer task, then send them to exhaustion on a bike, and they quit earlier than a rested control group. Their hearts, muscles and oxygen use look the same. What changed is that everything felt harder from the first pedal stroke. Mental fatigue does not drain the body; it raises the price the brain charges for the same work, and the ceiling is reached at a lower output.",
+        "why": "Marcora's mental-fatigue experiments have been repeated by several groups with broadly consistent results, though effect sizes vary and the mechanism is still argued over.",
+        "apply": "Move your hardest training session before your most cognitively draining block of work, not after it, for the next two weeks.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Audit the day before",
+            "body": "Note what your brain did in the four hours before a bad session. Long meetings, dense reading and decision-heavy work all count as load, even sitting down."
+          },
+          {
+            "step": 2,
+            "title": "Move the hard sessions",
+            "body": "Put the workouts that need real effort where your attention is freshest. For most people that is early, before the day has spent them."
+          },
+          {
+            "step": 3,
+            "title": "Cut the pre-session scroll",
+            "body": "Twenty minutes of rapid app switching before training is not rest. Sit still, walk, or do nothing at all instead."
+          },
+          {
+            "step": 4,
+            "title": "Judge sessions in pairs",
+            "body": "Compare like with like: fresh-brain sessions against other fresh-brain sessions. Otherwise you will read mental fatigue as lost fitness."
+          }
+        ],
+        "tags": [
+          "mental-fatigue",
+          "training",
+          "focus"
+        ]
+      },
+      {
+        "id": "endure-s07",
+        "hook": "You slow down in the heat before your temperature is anywhere near dangerous.",
+        "insight": "In hot conditions people drop their pace early, well before core temperature reaches a genuinely risky level. The body is forecasting: at this heat, this pace, this distance, we will overheat before the finish, so we throttle now. Skin temperature and the feeling of heat drive the decision more than deep body temperature does. Cooling the skin or the mouth can lift performance without changing core temperature much at all.",
+        "why": "Anticipatory pacing in the heat is well documented in both lab and field studies. The finding fits regulation by feedforward prediction rather than by a single trip switch at a fixed temperature.",
+        "apply": "Before a hot session, cool your face, neck and hands with cold water for a couple of minutes, and start slower than feels necessary.",
+        "format": "single",
+        "tags": [
+          "heat",
+          "pacing",
+          "thermoregulation"
+        ]
+      },
+      {
+        "id": "endure-s08",
+        "hook": "Drinking to a schedule instead of to thirst is a marketing idea, not a physiological one.",
+        "insight": "The advice to drink ahead of thirst, and the notion that a small percentage of body weight lost means performance falls off a cliff, both look shakier than they once did. Much of the underlying work came from studies that did not resemble real racing, and some of it was funded by companies selling drinks. Meanwhile drinking too much is genuinely dangerous, and has killed endurance athletes through diluted blood sodium.",
+        "why": "Thirst-guided drinking performs about as well as fixed schedules in most field studies. Overdrinking causing low blood sodium is a documented and occasionally fatal risk, which reverses the usual advice.",
+        "apply": "In your next long session, drink when you are thirsty rather than to a plan, and weigh yourself before and after to see what you actually lost.",
+        "format": "single",
+        "tags": [
+          "hydration",
+          "thirst",
+          "contested"
+        ]
+      },
+      {
+        "id": "endure-s09",
+        "hook": "Tell someone their rival is up ahead and they find a gear that was not there.",
+        "insight": "Riders racing against a video avatar of their own previous best will hold on even when the avatar has secretly been sped up slightly. Told the truth afterwards, they are surprised: they had believed they were at their limit the first time. Belief about what is possible and about how far is left both feed directly into the effort calculation. Deception works, which is exactly why the limit cannot be purely mechanical.",
+        "why": "Several small deception studies show gains when athletes are misled about pace or distance, though the improvements are modest, vanish when the deception is too large, and rest on tiny samples.",
+        "apply": "Run one session against a recorded version of your own previous effort rather than against a target number you set in advance.",
+        "format": "single",
+        "tags": [
+          "belief",
+          "deception",
+          "motivation"
+        ]
+      },
+      {
+        "id": "endure-s10",
+        "hook": "The mind matters and the body still sets the terms. Both halves are true.",
+        "insight": "It is tempting to read all this as proof that limits are imaginary and grit is everything. That is not what the evidence says. Physiology sets the range within which the brain negotiates, and no amount of belief moves an untrained heart into elite territory. The practical version is unglamorous: build the machine with years of training, then work on the negotiation with pacing, fuelling, cooling, self-talk and experience.",
+        "why": "The old central governor debate largely dissolved into this middle position. Treating either pole as the whole answer predicts results that do not occur in the lab or on the road.",
+        "apply": "Split your next training block explicitly: one column for physical work, one for the mental and situational skills you will rehearse in it.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Build the base first",
+            "body": "No mental technique substitutes for years of aerobic work. The negotiation only happens inside the range your training has already created."
+          },
+          {
+            "step": 2,
+            "title": "Rehearse the discomfort",
+            "body": "Practise the specific feeling of race pace in training so the sensation arrives as familiar information rather than as an alarm."
+          },
+          {
+            "step": 3,
+            "title": "Script your self-talk",
+            "body": "Decide in advance what you will say to yourself at the worst point. Motivational self-talk shows small but repeatable gains in endurance trials."
+          },
+          {
+            "step": 4,
+            "title": "Control the inputs",
+            "body": "Fuel, heat, hydration and mental freshness all feed the effort signal. Manage them and you shift the whole negotiation before it starts."
+          }
+        ],
+        "tags": [
+          "training",
+          "mindset",
+          "integration"
+        ]
+      }
+    ],
+    "actions": [
+      "Keep a two-column training log for a month: objective work done on one side, perceived effort and mental state on the other, then look for the sessions where they disagree.",
+      "Test one belief you hold about your own ceiling by changing the conditions around it rather than by trying harder inside the same conditions.",
+      "Practise drinking to thirst and fuelling by feel on long sessions, and stop treating fixed schedules from a bottle label as physiology.",
+      "Write a short script of what you will tell yourself at the hardest point of your next event, and rehearse it in training until it is automatic."
+    ],
+    "if_you_liked": [
+      "peak-performance",
+      "the-comfort-crisis",
+      "why-we-sleep"
+    ],
+    "not_for_you_if": "You want a training plan. This explains why limits behave the way they do and leaves the weekly schedule to somebody else.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2018, with a foreword by Malcolm Gladwell. The Monza attempt described took place in May 2017 and was not a ratified record. Hydration and central governor material is deliberately presented as contested. All prose original."
+    }
+  },
+  {
+    "id": "the-comfort-crisis",
+    "title": "The Comfort Crisis",
+    "subtitle": "Embrace Discomfort to Reclaim Your Wild, Happy, Healthy Self",
+    "author": "Michael Easter",
+    "year": 2021,
+    "category": "health-fitness",
+    "subcategory": "discomfort-resilience",
+    "tags": [
+      "discomfort",
+      "nature",
+      "rucking",
+      "boredom",
+      "fasting",
+      "resilience"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "It named something people felt but could not describe: that a life engineered for constant ease produces its own kind of unwellness. It put rucking, boredom and voluntary hardship into ordinary health conversation.",
+    "crux": {
+      "headline": "You are missing the stress you were built to expect",
+      "body": "Almost every discomfort your ancestors met daily has been engineered away: hunger, cold, heavy carrying, silence, boredom, physical risk, the sight of death. Removing them was mostly good. Removing all of them appears to cost something. The fix is not suffering for its own sake but deliberately reintroducing small doses of the hard things, on your own terms and schedule, so that comfort becomes a choice rather than a default setting."
+    },
+    "sparks": [
+      {
+        "id": "the-comfort-crisis-s01",
+        "hook": "Every hard thing your body expects has been optioned out of your week.",
+        "insight": "Heat, cold, hunger, silence, heavy carrying, boredom, discomfort of every kind: each has been steadily removed by good engineering. Thermostats, delivery apps, lifts, headphones and screens all solve real problems. But the removal was total rather than selective, and the body that adapts to hardship now gets almost none. The proposal is not to give up modern life. It is to put a few of those stresses back on purpose.",
+        "why": "This is a framing argument rather than a single tested finding. Each individual claim underneath it varies in evidence quality, and the book is stronger as a lens than as a proof.",
+        "apply": "List every discomfort you removed from an ordinary day without thinking about it. Choose the easiest one to add back this week.",
+        "format": "single",
+        "tags": [
+          "comfort",
+          "modern-life",
+          "framing"
+        ]
+      },
+      {
+        "id": "the-comfort-crisis-s02",
+        "hook": "Pick one hard thing a year that you might genuinely fail at.",
+        "insight": "The idea borrowed here is a personal challenge chosen once a year that is difficult enough that success is not certain, done for no audience and no prize. A long unsupported walk, a distance you have never covered, a mountain. The rules are simple: it should be roughly at the edge of what you can do, and it should not be something you post about. The value comes from meeting a genuine unknown on purpose.",
+        "why": "The framing is drawn from a Japanese spiritual practice adapted loosely for modern use, so treat it as a useful structure rather than as a tested intervention with measured outcomes.",
+        "apply": "Choose one physical challenge for the next twelve months where you would put your odds at roughly fifty-fifty, and put a date on it.",
+        "format": "single",
+        "tags": [
+          "misogi",
+          "challenge",
+          "goals"
+        ]
+      },
+      {
+        "id": "the-comfort-crisis-s03",
+        "hook": "Carrying weight is the oldest form of exercise and the one we deleted first.",
+        "insight": "Humans carried things for most of our history: water, wood, food, children. Now almost nothing is carried more than a few metres. Putting weight in a backpack and walking turns an easy activity into a genuinely demanding one without the joint impact of running, and it scales by simply adding or removing weight. It is boring, cheap, and it works, which is why the military has used it for centuries.",
+        "why": "Loaded walking raises energy cost and cardiovascular demand well above unloaded walking. Start light, since carrying too much too soon is a reliable route to knee, back and foot problems.",
+        "apply": "Put roughly a tenth of your body weight in a backpack and walk for thirty minutes twice this week, adding weight only after a month.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Start light",
+            "body": "Around a tenth of your body weight is plenty for a first month. The pack should feel noticeable at twenty minutes, not punishing at five."
+          },
+          {
+            "step": 2,
+            "title": "Pack it high and tight",
+            "body": "Weight sits high against your back and does not shift. A sagging load drags your shoulders forward and turns a walk into a posture problem."
+          },
+          {
+            "step": 3,
+            "title": "Add time before weight",
+            "body": "Grow the walk to an hour at the same load before you put anything else in the pack. Duration is the cheaper adaptation to buy."
+          },
+          {
+            "step": 4,
+            "title": "Watch the feet and knees",
+            "body": "Loaded walking punishes bad shoes and sudden jumps in volume. Any new ache in the knees, shins or arches means back off the weight, not push through."
+          }
+        ],
+        "tags": [
+          "rucking",
+          "walking",
+          "strength"
+        ]
+      },
+      {
+        "id": "the-comfort-crisis-s04",
+        "hook": "Boredom is not the problem. It is the state your best thinking needs.",
+        "insight": "The gap in the queue, the walk to the station, the ten minutes before sleep: these used to be unfilled and are now instantly filled. Something is lost in that trade. Undirected attention is where planning, memory consolidation and creative connection happen, and it needs empty time to run. If you never let your mind idle, you never get the output that idling produces, and you will not notice the absence because nothing feels missing.",
+        "why": "Mind-wandering has documented links to creative incubation and future planning, though the research is messier than popular accounts suggest and boredom is not uniformly productive.",
+        "apply": "Take one daily transition — a walk, a commute, a queue — and do it with no phone, no music and no podcast for two weeks.",
+        "format": "single",
+        "tags": [
+          "boredom",
+          "attention",
+          "phones"
+        ]
+      },
+      {
+        "id": "the-comfort-crisis-s05",
+        "hook": "Three days outdoors seems to do something a single afternoon does not.",
+        "insight": "Short spells in nature produce small mood and attention benefits fairly reliably. Longer, unplugged stretches appear to do more, with people reporting a distinct shift after roughly the third day away from screens and schedules. Whether that is nature specifically, or the absence of notifications and obligations, is not settled. Either way the practical instruction is the same: go for longer than a day trip and leave the phone off.",
+        "why": "Nature exposure research is real but modest, with small samples and weak controls. Separating the effect of trees from the effect of no email is the persistent methodological problem.",
+        "apply": "Book one trip of at least three nights this year where you are outdoors daily and your phone stays in airplane mode.",
+        "format": "single",
+        "tags": [
+          "nature",
+          "outdoors",
+          "digital-detox"
+        ]
+      },
+      {
+        "id": "the-comfort-crisis-s06",
+        "hook": "You have probably never been properly hungry, and your body notices.",
+        "insight": "Food is now continuously available, so most people never travel more than a couple of hours without eating. Occasional periods without food are a normal part of most of human history and were never experienced as an emergency. Going hungry sometimes restores a sense of what hunger actually feels like, which is a useful piece of information to have, and it makes it obvious how much eating is habit rather than need.",
+        "why": "Evidence that fasting beats simple calorie reduction for health outcomes is much weaker than the enthusiasm suggests. Skip this entirely if you have any history of disordered eating, diabetes or are pregnant.",
+        "apply": "Once this month, let a normal meal pass without eating and simply pay attention to how the hunger rises, peaks and fades.",
+        "format": "single",
+        "tags": [
+          "hunger",
+          "fasting",
+          "contested"
+        ]
+      },
+      {
+        "id": "the-comfort-crisis-s07",
+        "hook": "Everything in your home is set to the one temperature you never adapt to.",
+        "insight": "Indoor climate is now held in a narrow comfortable band year-round, so the body rarely does the work of thermoregulating. Deliberate exposure to cold or heat brings that machinery back online: shivering, sweating, the vessel changes that follow. The honest version is that it feels bracing and builds a small tolerance for discomfort. The larger metabolic claims made for cold plunges run well ahead of what the trials actually show.",
+        "why": "Brown fat activation and heat adaptation are real physiological effects. Claims that regular cold exposure meaningfully improves body composition, immunity or longevity in humans are not established.",
+        "apply": "End your shower with sixty seconds of cold, or walk outside underdressed for ten minutes, three times this week and note how quickly it stops feeling bad.",
+        "format": "single",
+        "tags": [
+          "cold-exposure",
+          "heat",
+          "contested"
+        ]
+      },
+      {
+        "id": "the-comfort-crisis-s08",
+        "hook": "Cultures that keep death in view seem to live more attentively.",
+        "insight": "Modern life keeps dying out of sight: it happens in hospitals, handled by professionals, discussed reluctantly. Some cultures do the opposite and hold death in regular conscious view, and observers argue this produces more presence rather than more dread. Whether or not that comparison holds up, the personal experiment is available to anyone. Thinking clearly about a finite lifespan tends to reorder what you are willing to spend a Saturday on.",
+        "why": "The cross-cultural comparison here is anecdotal and reported through travel writing, not measured. Take the practice as a philosophical prompt, not as evidence about national wellbeing.",
+        "apply": "Work out roughly how many weekends you have left at your current age, write the number down, and look at your calendar again.",
+        "format": "single",
+        "tags": [
+          "mortality",
+          "perspective",
+          "presence"
+        ]
+      },
+      {
+        "id": "the-comfort-crisis-s09",
+        "hook": "Difficulty you choose feels different from difficulty that happens to you.",
+        "insight": "The distinction that makes all of this workable is control. Chosen hardship — a long walk, a cold shower, a skipped meal — has a start, an end and a reason, so the nervous system treats it as a challenge. Imposed hardship without control is just stress, and there is nothing improving about it. That is why the prescription is voluntary, dosed and scheduled rather than a general instruction to suffer more.",
+        "why": "Controllability strongly shapes whether a stressor produces adaptation or harm, a distinction visible across both animal and human stress research.",
+        "apply": "Before adding any discomfort, check that you chose it, you can stop it, and you know when it ends. If not, do not add it.",
+        "format": "single",
+        "tags": [
+          "stress",
+          "control",
+          "adaptation"
+        ]
+      },
+      {
+        "id": "the-comfort-crisis-s10",
+        "hook": "Add hardship the way you add weight to a bar: in small, planned increments.",
+        "insight": "Reading this and immediately booking an ultramarathon misses the point. The change that lasts is a set of small standing discomforts you can repeat weekly for years: some walking with weight, some quiet, some cold, some hunger, some time outdoors. Each is unremarkable on its own. Stacked and kept up, they slowly move where your comfort zone sits, which is the only outcome any of this is actually after.",
+        "why": "Gradual progressive exposure is the reliable pattern across physical training and anxiety treatment alike. Large one-off doses produce stories, not adaptation.",
+        "apply": "Pick two discomforts, schedule them on named days, and keep them unchanged for a month before making either one harder.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Pick two, not six",
+            "body": "Choose the two discomforts you are most likely to actually repeat. Enthusiasm will suggest six; the calendar will delete four of them by week three."
+          },
+          {
+            "step": 2,
+            "title": "Give them a slot",
+            "body": "Attach each to a fixed day and time. Undated intentions to be uncomfortable lose every negotiation with a warm room."
+          },
+          {
+            "step": 3,
+            "title": "Start absurdly small",
+            "body": "Ten minutes of walking with a light pack, sixty seconds of cold, one silent commute. The dose should feel almost too easy to count."
+          },
+          {
+            "step": 4,
+            "title": "Hold, then raise",
+            "body": "Keep the same dose for four weeks before increasing anything. You are building a habit first and an adaptation second."
+          }
+        ],
+        "tags": [
+          "habits",
+          "progression",
+          "practice"
+        ]
+      }
+    ],
+    "actions": [
+      "Choose a single annual challenge you might fail at, put a date on the calendar, and tell nobody except the people who need to know for safety.",
+      "Buy or improvise a weighted pack and build a standing weekly walk with it, starting light and adding weight only once a month.",
+      "Reclaim one daily stretch of empty time from your phone, and keep it empty for a fortnight before deciding whether it was worth it.",
+      "Book at least three consecutive nights outdoors this year with the phone off, and treat it as a non-negotiable appointment."
+    ],
+    "if_you_liked": [
+      "endure",
+      "breath",
+      "peak-performance"
+    ],
+    "not_for_you_if": "You want controlled trials behind each recommendation, or a life already full of involuntary hardship that you would rather have less of.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2021. Several claims it popularises — nature dosing, cold exposure benefits, fasting — are flagged here as contested or under-evidenced. All prose original."
+    }
+  },
+  {
+    "id": "burn",
+    "title": "Burn",
+    "subtitle": "New Research Blows the Lid Off How We Really Burn Calories, Lose Weight, and Stay Healthy",
+    "author": "Herman Pontzer",
+    "year": 2021,
+    "category": "health-fitness",
+    "subcategory": "metabolism",
+    "tags": [
+      "metabolism",
+      "calories",
+      "weight-loss",
+      "exercise",
+      "evolution",
+      "nutrition"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It took the most confident assumption in fitness — that moving more simply adds to what you burn — and showed the measured data does not behave that way. It changed how researchers argue about exercise and body weight.",
+    "crux": {
+      "headline": "Exercise moves your calories around, not up",
+      "body": "Measure daily energy expenditure properly and it turns out to be remarkably stable across wildly different activity levels. Bodies appear to work within a constrained budget, quietly trimming spending elsewhere when activity rises. The consequence is uncomfortable: exercise is a poor tool for losing weight and an excellent tool for almost everything else. What you eat determines the size of your body. What you do determines how well it works."
+    },
+    "sparks": [
+      {
+        "id": "burn-s01",
+        "hook": "Hunter-gatherers walking all day burn about what an office worker burns.",
+        "insight": "Measurements of daily energy expenditure among the Hadza of Tanzania, who forage on foot for hours a day, came out close to those of sedentary adults in wealthy countries once body size was accounted for. That is not what anyone expected. Far more physical activity did not produce a far larger daily calorie total, which forces a rethink of the simple idea that expenditure is activity plus a fixed baseline.",
+        "why": "The measurements used doubly labelled water, the accepted method for total expenditure in free-living people. The interpretation is contested; some researchers read the same data as showing a smaller, not absent, effect of activity.",
+        "apply": "Stop using your workout as a calorie budget for later eating. Log a week of food without any exercise credit and see what the real total is.",
+        "format": "single",
+        "tags": [
+          "hadza",
+          "expenditure",
+          "contested"
+        ]
+      },
+      {
+        "id": "burn-s02",
+        "hook": "Your body has a budget, and it balances it behind your back.",
+        "insight": "The constrained model says the body defends a fairly narrow total energy spend. Add a lot of activity and it economises elsewhere: reproductive hormones, immune activity, inflammation, background repair, fidgeting, stress responses. Nothing announces itself. You simply spend the same total on a different distribution. That reframes exercise as a way of reallocating your metabolism rather than as a way of enlarging it.",
+        "why": "Evidence for the trade-offs is indirect, drawn from hormone and inflammation changes in training studies. The constrained model is a serious hypothesis with real support, not a settled consensus.",
+        "apply": "Judge a training block by what improves alongside it — sleep, mood, blood markers, resting heart rate — rather than by weight on a scale.",
+        "format": "single",
+        "tags": [
+          "constrained-model",
+          "trade-offs",
+          "physiology"
+        ]
+      },
+      {
+        "id": "burn-s03",
+        "hook": "The reason exercise helps inflammation may be that it crowds inflammation out.",
+        "insight": "If the daily energy total is roughly fixed, then energy given to muscles has to come from somewhere. One reading is that activity leaves less budget for chronic low-grade inflammation, elevated stress hormones and overactive reproductive signalling — all of which are implicated in cancers and cardiovascular disease. The health benefits of exercise would then come partly from what it stops the body doing, not only from what it makes it do.",
+        "why": "This is a mechanistic proposal that fits the observed data rather than a proven pathway. Exercise reducing inflammatory markers is well established; the budget explanation for why is not.",
+        "apply": "Treat regular moderate activity as maintenance for the system rather than as a weight tool, and keep it on days when the scale is not moving.",
+        "format": "single",
+        "tags": [
+          "inflammation",
+          "health",
+          "mechanism"
+        ]
+      },
+      {
+        "id": "burn-s04",
+        "hook": "Weight is lost in the kitchen. That cliché survived the measurement.",
+        "insight": "If total expenditure barely moves when activity rises, the intake side carries nearly all the weight of the equation. This is not an argument against training; it is an argument against expecting training to do a job it is structurally poor at. People who lose weight and keep it off overwhelmingly changed what and how much they eat. Exercise then does the separate and vital job of keeping the result healthy.",
+        "why": "Exercise-only interventions produce small average weight loss in trials, far less than the arithmetic of calories burned predicts. That gap has been visible for decades and this model explains it.",
+        "apply": "Choose one intake change you can sustain for a year — not a diet, a single rule — and keep training entirely separate from it.",
+        "format": "single",
+        "tags": [
+          "weight-loss",
+          "diet",
+          "exercise"
+        ]
+      },
+      {
+        "id": "burn-s05",
+        "hook": "Humans are the strange apes that share food and burn energy fast.",
+        "insight": "Compared with other great apes, humans burn noticeably more energy per day for our size, and we grow bigger brains, have more children and live longer on the back of it. The evolutionary bargain that paid for it was cooperation: sharing food, hunting and gathering together, feeding people who are not currently productive. Our metabolism is not an individual trait. It is a social one, subsidised by other people.",
+        "why": "Comparative measurements across apes and humans support the higher human expenditure. The cooperative explanation is a well-argued interpretation rather than a directly tested claim.",
+        "apply": "Look at who feeds whom in your household and make one meal a week a shared, cooked, sit-down event rather than individual refuelling.",
+        "format": "single",
+        "tags": [
+          "evolution",
+          "apes",
+          "cooperation"
+        ]
+      },
+      {
+        "id": "burn-s06",
+        "hook": "Metabolism does not crash at forty. That story is folklore.",
+        "insight": "Adjust for body size and composition and metabolic rate is remarkably stable from roughly the twenties into the sixties. It is high in early childhood, settles in the twenties, holds flat for decades, then declines late. Weight gained in middle age is therefore not the result of a suddenly slowing engine. It is the result of gradual changes in intake, muscle mass and movement that are far easier to blame on age than to examine.",
+        "why": "This follows large pooled analyses of doubly labelled water data across the lifespan. It is one of the better-supported claims here and it contradicts a very widespread belief.",
+        "apply": "Instead of blaming a slowing metabolism, compare your current weekly food and step count with what they were five years ago.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Infancy runs hottest",
+            "body": "Energy use for body size peaks in the first years of life, when growth and brain development are consuming an extraordinary share of everything taken in."
+          },
+          {
+            "step": 2,
+            "title": "Childhood settles down",
+            "body": "The rate declines gradually through childhood and adolescence toward adult levels, which is why teenage appetite is about size and growth rather than a magic engine."
+          },
+          {
+            "step": 3,
+            "title": "Adulthood holds flat",
+            "body": "From roughly the twenties to the sixties, size-adjusted expenditure is remarkably stable. The middle-age slowdown people describe is not visible in the measurements."
+          },
+          {
+            "step": 4,
+            "title": "Late life declines",
+            "body": "A real decline appears later in life, alongside lost muscle. That is the stage where keeping strength training in the week pays the largest dividend."
+          }
+        ],
+        "tags": [
+          "ageing",
+          "metabolic-rate",
+          "myths"
+        ]
+      },
+      {
+        "id": "burn-s07",
+        "hook": "There is no ancestral diet. There are ancestral diets, and they disagree.",
+        "insight": "Traditional societies eat wildly differently. Some take most of their energy from tubers and honey, some from fish, some from meat and milk. What they share is not a macronutrient ratio but the absence of industrially processed food and a lot of daily movement. That makes any diet sold as the way humans evolved to eat a marketing story. The variation is the actual finding.",
+        "why": "Field studies of foraging and pastoral groups show enormous dietary range with generally good metabolic health, which undercuts single-macronutrient explanations of modern disease.",
+        "apply": "Stop choosing between low-carb and low-fat. Cut one heavily processed item from your weekly shop and replace it with something you cook.",
+        "format": "single",
+        "tags": [
+          "diet",
+          "paleo",
+          "processed-food"
+        ]
+      },
+      {
+        "id": "burn-s08",
+        "hook": "Your brain runs on roughly a fifth of your energy while doing nothing visible.",
+        "insight": "A resting adult spends a large share of daily energy on the brain, and that share is far larger in childhood. Thinking harder barely changes the bill; the organ is expensive whether you are doing calculus or staring out of a window. This is why mental work is not a route to burning calories, and why the human energy budget had to expand in the first place to afford the brain we have.",
+        "why": "Brain energy use as a large fraction of resting metabolism is long-established from direct measurement. The small additional cost of effortful thinking is also well documented.",
+        "apply": "Drop the idea that a demanding work day earns extra food, and set your intake by body size and activity rather than by mental effort.",
+        "format": "single",
+        "tags": [
+          "brain",
+          "energy",
+          "myths"
+        ]
+      },
+      {
+        "id": "burn-s09",
+        "hook": "Calorie counts on labels and machines are estimates dressed as measurements.",
+        "insight": "The number on a treadmill, a watch or a packet carries a precision it has not earned. Food labels are permitted meaningful error, absorption varies with cooking and processing, and wearable estimates of expenditure are built from population averages rather than from you. Using them as approximate signals is fine. Using them as a ledger where a session cancels a dessert is arithmetic with numbers that were never accurate enough for it.",
+        "why": "Validation studies consistently find large individual errors in wearable energy expenditure estimates, and labelling regulations allow substantial tolerance on stated calorie content.",
+        "apply": "Ignore the calorie readout on machines and wearables for a month. Track only sessions completed and how the food actually looked on your plate.",
+        "format": "single",
+        "tags": [
+          "calories",
+          "tracking",
+          "wearables"
+        ]
+      },
+      {
+        "id": "burn-s10",
+        "hook": "Move for the machine, eat for the size. Two jobs, two tools.",
+        "insight": "The whole argument reduces to separating what exercise is good at from what it is bad at. It is superb for cardiovascular health, strength, mood, blood sugar control and how long you stay independent. It is a weak lever on body mass. Confusing the two produces people who quit training because the scale did not move, which is the worst possible outcome of a good habit judged by the wrong measure.",
+        "why": "Activity's effect on mortality and disease risk is robust across large cohort studies, while its direct effect on weight is small. Both facts can be true at once.",
+        "apply": "Write two separate plans: one for how you will move each week, one for how you will eat. Do not let either one negotiate with the other.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Split the goals",
+            "body": "Put fitness targets and body-composition targets on different pages. They need different actions and different timescales, and mixing them wrecks both."
+          },
+          {
+            "step": 2,
+            "title": "Set intake by rules",
+            "body": "Choose two or three food rules you can keep for a year — a protein floor, no drinking calories, one cooked meal a day — rather than a temporary deficit."
+          },
+          {
+            "step": 3,
+            "title": "Set movement by minutes",
+            "body": "Aim for a weekly total of activity you will actually hit, including strength work. Count minutes and sessions, never calories burned."
+          },
+          {
+            "step": 4,
+            "title": "Review separately",
+            "body": "Judge the eating plan by trend weight over months. Judge the movement plan by strength, stamina, resting heart rate and how you feel on stairs."
+          }
+        ],
+        "tags": [
+          "planning",
+          "exercise",
+          "diet"
+        ]
+      }
+    ],
+    "actions": [
+      "Stop crediting yourself calories for exercise in any tracking app, and check what your intake looks like when the workout column is removed entirely.",
+      "Write down what you expect exercise to deliver, then cross out weight loss and replace it with the outcomes the evidence actually supports.",
+      "Build a weekly movement minimum you would keep even in a month where your weight did not change at all, and protect it first.",
+      "Replace one heavily processed staple in your weekly shopping with something you cook, and keep it for three months before adding another change."
+    ],
+    "if_you_liked": [
+      "how-not-to-die",
+      "the-circadian-code",
+      "outlive"
+    ],
+    "not_for_you_if": "You want a diet plan or a training programme. This is an argument about how metabolism works, with practical consequences left mostly to you.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2021. Pontzer is an evolutionary anthropologist whose Hadza fieldwork underpins the book. The constrained total energy expenditure model is his own and remains actively debated; flagged as contested throughout. All prose original."
+    }
+  },
+  {
+    "id": "fast-asleep",
+    "title": "Fast Asleep",
+    "subtitle": "Improve Brain Function, Lose Weight, Boost Your Mood, Reduce Stress, and Become a Better Sleeper",
+    "author": "Michael Mosley",
+    "year": 2020,
+    "category": "health-fitness",
+    "subcategory": "sleep",
+    "tags": [
+      "sleep",
+      "insomnia",
+      "cbt",
+      "circadian-rhythm",
+      "gut-health",
+      "stress"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 10,
+    "why_it_matters": "It put the one genuinely effective non-drug treatment for chronic insomnia — cognitive behavioural therapy — into a form an ordinary reader will actually attempt, instead of another list of bedroom tips.",
+    "crux": {
+      "headline": "Chasing sleep is what keeps you awake",
+      "body": "Chronic insomnia is usually maintained by the effort to fix it. You go to bed earlier, lie there longer, worry about the consequences, and teach your brain that the bed is a place for anxious wakefulness. The treatment that works runs the other way: spend less time in bed, not more, until sleep becomes solid, then expand. It feels wrong, it is uncomfortable for a week or two, and it has the best evidence of anything on offer."
+    },
+    "sparks": [
+      {
+        "id": "fast-asleep-s01",
+        "hook": "The cure for lying awake is to spend less time in bed, not more.",
+        "insight": "When sleep goes badly, the instinct is to give it more room: earlier nights, later mornings, naps. That dilutes your sleep pressure across more hours and produces long stretches of frustrated wakefulness. Sleep restriction does the opposite. You compress time in bed to roughly the hours you are genuinely sleeping, build up a real drive to sleep, and only widen the window once you are sleeping through most of it.",
+        "why": "Sleep restriction is a core component of cognitive behavioural therapy for insomnia, which outperforms sleeping pills over the long term in trials and is recommended as first-line treatment.",
+        "apply": "Track your actual sleep for a week, then set a fixed wake time and a bedtime that gives you only that much time in bed, with a floor of five hours.",
+        "format": "single",
+        "tags": [
+          "cbt-i",
+          "sleep-restriction",
+          "insomnia"
+        ]
+      },
+      {
+        "id": "fast-asleep-s02",
+        "hook": "Waking in the night is normal. Believing it is a disaster is the problem.",
+        "insight": "Everybody surfaces several times a night at the end of sleep cycles, and mostly does not remember it. Poor sleepers notice, check the clock, calculate how little is left and start dreading tomorrow. That reaction supplies exactly the alertness that keeps them awake. Treating a night waking as unremarkable, and refusing to look at the time, removes the fuel from the fire more reliably than any bedtime routine.",
+        "why": "The cognitive half of insomnia treatment targets these catastrophic thoughts directly, and does so because arousal from worry is a documented maintainer of the disorder.",
+        "apply": "Turn the clock to face the wall and remove your phone from the bedroom, so a night waking cannot be converted into a calculation.",
+        "format": "single",
+        "tags": [
+          "night-waking",
+          "anxiety",
+          "clock-watching"
+        ]
+      },
+      {
+        "id": "fast-asleep-s03",
+        "hook": "If you are awake for twenty minutes, get out of the bed.",
+        "insight": "The bed should mean sleep and almost nothing else. When you lie awake in it night after night, it stops being a sleep cue and starts being a place where you worry. Stimulus control fixes this by making a simple rule: if you are clearly not sleeping, leave, go somewhere dim and dull, and return only when sleepy. It is annoying for a fortnight and then the association starts to rebuild.",
+        "why": "Stimulus control is one of the best-supported behavioural components of insomnia treatment, with decades of trial evidence behind it. It works by conditioning, not willpower.",
+        "apply": "Set up a chair, a dim lamp and a boring book in another room tonight, so leaving the bed at 3am requires no decisions.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Prepare the exit",
+            "body": "Have a chair, a low lamp and something undemanding to read already waiting. Nothing bright, nothing with a screen, nothing you might want to finish."
+          },
+          {
+            "step": 2,
+            "title": "Leave without checking",
+            "body": "If you have clearly been awake a while, get up. Do not look at the time and do not calculate how much sleep is left."
+          },
+          {
+            "step": 3,
+            "title": "Be dull on purpose",
+            "body": "Read something slow in low light until your eyes get heavy. The aim is boredom, not relaxation techniques you have to perform correctly."
+          },
+          {
+            "step": 4,
+            "title": "Return only when sleepy",
+            "body": "Go back when you feel genuinely drowsy rather than when you feel it has been long enough. Repeat as many times as the night requires."
+          },
+          {
+            "step": 5,
+            "title": "Keep the wake time",
+            "body": "Get up at the same time regardless of how the night went. A fixed wake time is what rebuilds the rhythm; a lie-in undoes the whole week."
+          }
+        ],
+        "tags": [
+          "stimulus-control",
+          "habits",
+          "bedroom"
+        ]
+      },
+      {
+        "id": "fast-asleep-s04",
+        "hook": "Your wake time anchors the whole rhythm. Your bedtime barely does.",
+        "insight": "Getting up at the same time every day, weekends included, does more for sleep than any bedtime ritual. The morning light and the fixed rise time set the clock that determines when you get sleepy roughly sixteen hours later. Sleeping in on Saturday shifts that clock later, which is why Sunday night feels like jet lag. Bedtime should be allowed to follow sleepiness; wake time should not be allowed to move.",
+        "why": "Morning light and a consistent rise time are the strongest everyday inputs to circadian timing. Weekend shifts produce a documented pattern often called social jetlag.",
+        "apply": "Set one alarm for the same time seven days a week for a month, and get bright light on your face within thirty minutes of it.",
+        "format": "single",
+        "tags": [
+          "circadian-rhythm",
+          "wake-time",
+          "light"
+        ]
+      },
+      {
+        "id": "fast-asleep-s05",
+        "hook": "Bad sleep and poor blood sugar control feed each other in both directions.",
+        "insight": "A few nights of short sleep measurably worsens how healthy people handle glucose, and people with poor metabolic health tend to sleep worse. That makes sleep a metabolic variable, not just a comfort issue, and it is one reason improving sleep often helps appetite and cravings within days. The loop runs both ways, which is good news: intervene at either end and the other tends to follow.",
+        "why": "Short-term sleep restriction reliably reduces insulin sensitivity in controlled laboratory studies. Whether improving sleep meaningfully reverses established metabolic disease is far less clear.",
+        "apply": "Before changing your diet again, run two weeks of protected sleep and see what happens to your evening appetite without any other change.",
+        "format": "single",
+        "tags": [
+          "blood-sugar",
+          "metabolism",
+          "appetite"
+        ]
+      },
+      {
+        "id": "fast-asleep-s06",
+        "hook": "The bugs in your gut appear to have opinions about your sleep.",
+        "insight": "Gut bacteria produce and respond to chemicals involved in mood and sleep, and populations of them follow a daily rhythm of their own. The suggestion is that feeding them better — more fibre, more plant variety, fermented foods — may improve sleep quality alongside everything else. It is a reasonable bet with a low downside, provided you hold the expectation loosely rather than treating it as established treatment.",
+        "why": "The gut-sleep link in humans is early-stage, largely correlational, and nowhere near the evidence standard of the behavioural techniques. Eat more fibre for other good reasons and take any sleep benefit as a bonus.",
+        "apply": "Add one more plant type to your daily food for a month — a different vegetable, pulse or seed — rather than buying a probiotic supplement.",
+        "format": "single",
+        "tags": [
+          "gut-health",
+          "fibre",
+          "contested"
+        ]
+      },
+      {
+        "id": "fast-asleep-s07",
+        "hook": "Sleeping pills buy you a night and cost you the next six months.",
+        "insight": "Prescription sedatives do produce sleep in the short term. What they do not do is treat insomnia, and tolerance, dependence and rebound sleeplessness on withdrawal are common. They also change sleep architecture rather than restoring it. The behavioural treatment is slower, more irritating and takes several weeks, and it is the one that still works a year later when you are no longer doing anything.",
+        "why": "Head-to-head comparisons find pills competitive in the first weeks and inferior at follow-up. Guidelines in several countries now recommend behavioural treatment first for chronic insomnia.",
+        "apply": "If you are using sleep medication regularly, ask your doctor specifically about a course of cognitive behavioural therapy for insomnia rather than a different pill.",
+        "format": "single",
+        "tags": [
+          "medication",
+          "insomnia",
+          "treatment"
+        ]
+      },
+      {
+        "id": "fast-asleep-s08",
+        "hook": "The phone before bed is a problem because of what is on it.",
+        "insight": "Screen light does suppress melatonin somewhat, but the blue-light story has been oversold and the filters and glasses sold to fix it do less than advertised. What reliably keeps you awake is the content: messages, arguments, news, work, an infinite feed engineered to hold you. The device is a stimulation delivery system first and a light source second, and the fix is the same either way — put it in another room.",
+        "why": "Trials of blue-light blocking interventions show small and inconsistent effects on sleep. The arousal from engaging content is the better-supported explanation for why late phone use hurts.",
+        "apply": "Charge your phone outside the bedroom and buy a cheap alarm clock, rather than installing another night-mode filter.",
+        "format": "single",
+        "tags": [
+          "screens",
+          "blue-light",
+          "contested"
+        ]
+      },
+      {
+        "id": "fast-asleep-s09",
+        "hook": "Eight hours is an average, not a target you are failing to hit.",
+        "insight": "Sleep need varies between people and shifts across a lifetime, and plenty of healthy adults do well on somewhat less than eight hours. Treating a round number as a requirement turns normal variation into a nightly test you can fail, which generates exactly the anxiety that damages sleep. The better measure is how you function: alertness in the afternoon, mood, and whether you fall asleep quickly without effort.",
+        "why": "Population sleep duration is a distribution, and the observed link between duration and health outcomes is U-shaped and confounded. Chasing a fixed number is not supported by the data.",
+        "apply": "Stop scoring your night with a tracker for two weeks and rate your daytime alertness out of ten at 3pm instead.",
+        "format": "single",
+        "tags": [
+          "sleep-duration",
+          "trackers",
+          "myths"
+        ]
+      },
+      {
+        "id": "fast-asleep-s10",
+        "hook": "Fix sleep in the order the evidence supports, not the order the shops suggest.",
+        "insight": "There is a hierarchy here and most people run it backwards, starting with supplements, gadgets and mattresses and never reaching the behavioural work. The sequence that actually helps begins with a fixed wake time and morning light, then sleep restriction and stimulus control, then the worry and catastrophising, and only then the ambient details of the room. The boring steps at the top do nearly all the work.",
+        "why": "This ordering follows the components of cognitive behavioural therapy for insomnia by strength of trial evidence. Environmental tweaks help at the margin and cannot substitute for the behavioural core.",
+        "apply": "Work down the list in order and give each step three weeks before adding the next, starting with a fixed wake time this Monday.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Anchor the morning",
+            "body": "Same wake time every day, bright light on your face soon after. This is the single highest-value change and it costs nothing."
+          },
+          {
+            "step": 2,
+            "title": "Compress the window",
+            "body": "Limit time in bed to roughly the hours you actually sleep, then extend by fifteen minutes a week once you are sleeping through most of it."
+          },
+          {
+            "step": 3,
+            "title": "Protect the association",
+            "body": "Bed is for sleep and sex only. If you are clearly awake, leave the room and come back sleepy rather than waiting it out."
+          },
+          {
+            "step": 4,
+            "title": "Defuse the worry",
+            "body": "Write tomorrow's concerns down before bed, and practise treating a bad night as an inconvenience rather than as evidence of a broken system."
+          },
+          {
+            "step": 5,
+            "title": "Tidy the environment last",
+            "body": "Cool, dark, quiet, phone elsewhere. Worth doing, but it will not rescue a sleep window and a rhythm that are still wrong."
+          }
+        ],
+        "tags": [
+          "cbt-i",
+          "routine",
+          "sequence"
+        ]
+      }
+    ],
+    "actions": [
+      "Keep a simple paper sleep diary for two weeks recording time in bed and estimated sleep, and use it to set a compressed sleep window rather than guessing.",
+      "Fix your wake time seven days a week for a month and get outdoor light within half an hour of getting up, even in winter.",
+      "Move all charging devices out of the bedroom and buy a basic alarm clock, so night wakings cannot become screen time or clock-watching.",
+      "If insomnia has lasted more than three months, ask a doctor about a structured course of cognitive behavioural therapy for insomnia by name."
+    ],
+    "if_you_liked": [
+      "why-we-sleep",
+      "the-circadian-code",
+      "eat-move-sleep"
+    ],
+    "not_for_you_if": "You want the neuroscience of sleep rather than a treatment protocol, or you sleep well already and are looking for optimisation rather than repair.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2020. Mosley was a medical journalist and presenter, not a sleep researcher; the strong behavioural material reflects established CBT-I evidence, while the gut microbiome and diet sections are flagged here as early-stage. All prose original."
+    }
+  },
+  {
+    "id": "thinner-leaner-stronger",
+    "title": "Thinner Leaner Stronger",
+    "subtitle": "The Simple Science of Building the Ultimate Female Body",
+    "author": "Michael Matthews",
+    "year": 2015,
+    "category": "health-fitness",
+    "subcategory": "strength-training",
+    "tags": [
+      "strength-training",
+      "weightlifting",
+      "nutrition",
+      "body-composition",
+      "progressive-overload",
+      "women"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "It argued, to an audience repeatedly sold light weights and long cardio, that women should lift heavy things and track what they eat. That advice is now mainstream, and this is one of the books that moved it there.",
+    "crux": {
+      "headline": "Lift heavy, eat enough protein, add weight over time",
+      "body": "Almost everything that works in body composition sits in a very short list: a handful of big compound lifts trained hard, enough protein, a calorie intake set deliberately for the goal you have, and consistent small increases in load over months. Everything else — the classes, the supplements, the detoxes, the fat-burning zones — is either decoration or distraction. The programme is dull on purpose, because dull is what you can repeat for years."
+    },
+    "sparks": [
+      {
+        "id": "thinner-leaner-stronger-s01",
+        "hook": "Lifting heavy will not make you bulky. It will make you strong.",
+        "insight": "The fear that heavy weights produce a bulky physique kept a generation of women on light dumbbells and long treadmill sessions. Building large amounts of muscle is slow, deliberate work that requires a calorie surplus and years of effort, and it is harder still for most women on account of hormones. Training with heavy loads on a modest intake produces a leaner, stronger, denser body, not a larger one.",
+        "why": "Muscle growth requires sustained surplus energy and years of progressive training. The rate is measured in a few kilograms a year for beginners and far less afterwards.",
+        "apply": "Pick a weight you can move for five to eight hard reps on squats, presses and rows, and stop training in the fifteen-rep range by default.",
+        "format": "single",
+        "tags": [
+          "myths",
+          "heavy-lifting",
+          "women"
+        ]
+      },
+      {
+        "id": "thinner-leaner-stronger-s02",
+        "hook": "There is no toning. There is muscle, and there is fat on top of it.",
+        "insight": "Toned is not a physiological state. What people mean by it is a reasonable amount of muscle with a modest layer of fat over it, which is why the recipe is always the same two jobs: build the muscle with resistance training, reduce the fat with intake. No exercise sculpts, lengthens or firms a muscle without changing its size. Understanding this saves you from every product that promises the third option.",
+        "why": "Muscle can grow or shrink; it cannot change shape independently of that. The visual result is determined by muscle mass and body fat level, nothing else.",
+        "apply": "Replace any exercise you chose because it tones with a heavier version of the same movement pattern done for fewer reps.",
+        "format": "single",
+        "tags": [
+          "toning",
+          "myths",
+          "body-composition"
+        ]
+      },
+      {
+        "id": "thinner-leaner-stronger-s03",
+        "hook": "Spot reduction is not a thing. Your body chooses where fat leaves.",
+        "insight": "Doing hundreds of sit-ups does not remove abdominal fat, and inner-thigh machines do not slim thighs. Fat is mobilised systemically in a pattern set largely by genetics and hormones, and you have no vote in the order. What targeted exercise does do is build the muscle underneath, which changes shape once the fat over it comes down. The fat itself only responds to overall energy balance.",
+        "why": "Trials on localised training consistently fail to show meaningful fat loss at the trained site. This is one of the least contested findings in the field.",
+        "apply": "Stop adding exercises for a body part you dislike and add one hard set to a compound lift instead, then let intake handle the fat.",
+        "format": "single",
+        "tags": [
+          "spot-reduction",
+          "myths",
+          "fat-loss"
+        ]
+      },
+      {
+        "id": "thinner-leaner-stronger-s04",
+        "hook": "If the weight on the bar never changes, neither will you.",
+        "insight": "The engine of every effective strength programme is progressive overload: doing measurably more over time. More weight, more reps at that weight, or more quality sets. A workout that felt hard is not evidence of progress if it was identical to the one three months ago. Writing down what you lifted turns training from an activity into a record, and the record is what tells you whether the programme is working.",
+        "why": "Progressive overload is the best-established principle in resistance training. Without a rising demand, the body has no reason to keep adapting.",
+        "apply": "Log every set and rep this week, then next week beat one number on each main lift, even by a single rep.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Log every set",
+            "body": "Weight, reps, and how many you had left in reserve. Memory is generous and will tell you that you are progressing when you are not."
+          },
+          {
+            "step": 2,
+            "title": "Beat one number",
+            "body": "Each session, aim to add one rep or a small increment of weight on one lift. Not everything at once, and not every lift every time."
+          },
+          {
+            "step": 3,
+            "title": "Bank the rep range",
+            "body": "When you hit the top of your rep range for all sets, add the smallest available weight and drop back to the bottom of the range."
+          },
+          {
+            "step": 4,
+            "title": "Deload when stuck",
+            "body": "Three sessions with no progress on a lift usually means fatigue, not weakness. Cut the weight back ten percent for a week and climb again."
+          }
+        ],
+        "tags": [
+          "progressive-overload",
+          "tracking",
+          "programming"
+        ]
+      },
+      {
+        "id": "thinner-leaner-stronger-s05",
+        "hook": "Five compound lifts will beat twenty machines every time.",
+        "insight": "Squats, hinges, presses, pulls and carries move multiple joints under heavy load, which is what recruits large amounts of muscle and drives strength. Isolation machines have a place as accessories, but they cannot carry a programme, and they eat the training time that big lifts should own. A session built on three compound movements and finished with two accessories does more in forty minutes than an hour of circuits.",
+        "why": "Multi-joint exercises allow far greater loading and produce comparable or better strength and hypertrophy outcomes per unit of time than isolation-only training.",
+        "apply": "Rebuild your session so the first two exercises are always compound lifts done heavy, with isolation work only at the end.",
+        "format": "single",
+        "tags": [
+          "compound-lifts",
+          "programming",
+          "efficiency"
+        ]
+      },
+      {
+        "id": "thinner-leaner-stronger-s06",
+        "hook": "You cannot outrun a kitchen. Energy balance decides body size.",
+        "insight": "Whatever the diet is called, weight change follows the balance between energy in and energy out. Low-carb, low-fat and everything in between work when they lead you to eat less and fail when they do not. This is liberating rather than grim: it means no food is banned and no plan is uniquely correct, and it means you can pick an approach based on what you can sustain rather than on what a book insists.",
+        "why": "Controlled feeding studies with matched calories show similar weight change across very different macronutrient splits. The differences appear in adherence, satiety and blood markers, not in the arithmetic.",
+        "apply": "Weigh and log everything you eat for one week without changing anything, so you know your actual starting intake rather than your estimate.",
+        "format": "single",
+        "tags": [
+          "energy-balance",
+          "calories",
+          "nutrition"
+        ]
+      },
+      {
+        "id": "thinner-leaner-stronger-s07",
+        "hook": "Protein is the one macronutrient worth being fussy about.",
+        "insight": "When you are eating in a deficit and training hard, protein is what keeps the weight you lose coming mostly from fat rather than from muscle. It is also the most filling of the three, which quietly makes the deficit easier to hold. Getting a solid serving into every meal does more for body composition than any supplement, and it is the single dietary change most likely to be worth the effort of tracking.",
+        "why": "Meta-analyses point to roughly 1.6 grams per kilogram of body weight per day as the level beyond which extra protein adds little for muscle gain. Many popular plans recommend well above that.",
+        "apply": "Put a clear protein source in every meal for a fortnight and check whether your daily total is anywhere near 1.6 grams per kilogram.",
+        "format": "single",
+        "tags": [
+          "protein",
+          "nutrition",
+          "muscle"
+        ]
+      },
+      {
+        "id": "thinner-leaner-stronger-s08",
+        "hook": "Pick one job at a time: get leaner or get stronger, not both.",
+        "insight": "Beginners can add muscle while losing fat, but that window closes fairly quickly. After it, trying to do both at once usually produces neither, because muscle gain needs surplus energy and fat loss needs a deficit. Running deliberate phases — a period of controlled deficit, then a period of eating at or slightly above maintenance while training hard — makes the progress visible instead of leaving you stuck in a permanent middle.",
+        "why": "Simultaneous gain and loss is well documented in untrained people and in those returning after a break, and becomes progressively harder with training age.",
+        "apply": "Choose one goal for the next twelve weeks, set your intake accordingly, and refuse to change direction because of one bad week on the scale.",
+        "format": "single",
+        "tags": [
+          "cutting",
+          "bulking",
+          "planning"
+        ]
+      },
+      {
+        "id": "thinner-leaner-stronger-s09",
+        "hook": "Almost every supplement on the shelf does nothing you would notice.",
+        "insight": "The supplement industry sells hope with a nutrition label. Fat burners, detox products and most testosterone or metabolism boosters have no meaningful effect on a trained person. A very short list holds up: creatine for strength and training volume, caffeine for performance, and protein powder purely as a convenient food. Everything else is better spent on groceries, and the marketing budget is the real active ingredient.",
+        "why": "Creatine and caffeine are among the most rigorously tested ergogenic aids and show consistent small benefits. Most other categories fail in independent trials or were never tested at all.",
+        "apply": "Cancel every supplement except protein powder and creatine, and put the money into a month of better food.",
+        "format": "single",
+        "tags": [
+          "supplements",
+          "creatine",
+          "myths"
+        ]
+      },
+      {
+        "id": "thinner-leaner-stronger-s10",
+        "hook": "Two years of a boring programme beats twenty exciting ones.",
+        "insight": "Programme hopping is the most common reason people train for years without changing. Every plan needs months of consistent progressive work before it shows what it can do, and switching at the first plateau resets that clock. The best programme is very often the mediocre one you will still be running next spring. Novelty is entertainment; adaptation comes from repetition at a slowly rising load.",
+        "why": "Adaptation to resistance training accumulates over months, and comparisons between reasonable programmes show far smaller differences than the difference between doing one consistently and not.",
+        "apply": "Commit to your current programme for sixteen weeks with no changes except the weights, and mark the end date in your calendar now.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Choose and commit",
+            "body": "Pick any sensible programme built on compound lifts three or four days a week, then close every other tab. The choosing is not the work."
+          },
+          {
+            "step": 2,
+            "title": "Set the review date",
+            "body": "Sixteen weeks out. Until then the only thing allowed to change is the load on the bar and the reps in your log."
+          },
+          {
+            "step": 3,
+            "title": "Measure slowly",
+            "body": "Track lifts weekly, body measurements monthly, photos every six weeks. Daily scale readings measure water and salt, not progress."
+          },
+          {
+            "step": 4,
+            "title": "Fix adherence first",
+            "body": "If results stall, check attendance and food logs before changing the programme. Missed sessions explain far more plateaus than exercise selection does."
+          }
+        ],
+        "tags": [
+          "consistency",
+          "programming",
+          "patience"
+        ]
+      }
+    ],
+    "actions": [
+      "Weigh and log a normal week of food without changing anything, so your intake decisions start from measurement rather than from an estimate.",
+      "Rebuild your training week around three or four sessions led by heavy compound lifts, and keep a written log of every set and rep.",
+      "Choose a single twelve-week goal, either fat loss or strength gain, set your intake for it, and put the review date in your calendar.",
+      "Cancel every supplement except protein powder and creatine, and redirect the money to protein-rich groceries for a month."
+    ],
+    "if_you_liked": [
+      "becoming-a-supple-leopard",
+      "burn",
+      "outlive"
+    ],
+    "not_for_you_if": "You want nuance, physiology or a coaching relationship. This is a prescriptive programme with a confident sales voice and little tolerance for grey areas.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": false,
+      "confidence": "medium",
+      "notes": "Matthews is the author; this is the women's counterpart to Bigger Leaner Stronger. First publication is around 2014-2015 and a substantially revised edition appeared later, so the year here should be treated as approximate. The training and nutrition principles described are mainstream; the book's own protein and cardio recommendations run higher than the evidence requires, which is flagged inside the sparks. All prose original."
+    }
+  },
+  {
+    "id": "the-circadian-code",
+    "title": "The Circadian Code",
+    "subtitle": "Lose Weight, Supercharge Your Energy, and Transform Your Health from Morning to Midnight",
+    "author": "Satchin Panda",
+    "year": 2018,
+    "category": "health-fitness",
+    "subcategory": "circadian-health",
+    "tags": [
+      "circadian-rhythm",
+      "time-restricted-eating",
+      "sleep",
+      "light",
+      "shift-work",
+      "metabolism"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "It moved the conversation about health from what you do to when you do it, and it made time-restricted eating a mainstream idea. Panda's laboratory produced much of the underlying animal work.",
+    "crux": {
+      "headline": "When you eat and sleep is its own health variable",
+      "body": "Nearly every organ runs on a daily clock, and those clocks are set by light, food and activity. Modern life scrambles all three: light at midnight, food at every hour, sleep on a shifting schedule. Aligning the day so that eating happens in a consistent window, light arrives in the morning and darkness arrives at night appears to matter for metabolism independently of what is on the plate. Timing is a lever most people have never pulled."
+    },
+    "sparks": [
+      {
+        "id": "the-circadian-code-s01",
+        "hook": "Most people eat across fifteen hours a day and think they eat three meals.",
+        "insight": "When researchers had people photograph everything they consumed, the spread between the first and last intake of the day was far wider than anyone reported — coffee at dawn, a drink at midnight, snacks scattered between. Very few adults gave their body a genuine overnight fast. Since almost every metabolic organ expects a rest period, an eating window that never closes is a stress most people do not know they are applying.",
+        "why": "Panda's group ran this measurement using a phone app rather than recall diaries, which is why it caught intake that food questionnaires reliably miss.",
+        "apply": "Photograph or note the time of everything you eat or drink except water for one week, then look at the gap between first and last.",
+        "format": "single",
+        "tags": [
+          "eating-window",
+          "measurement",
+          "habits"
+        ]
+      },
+      {
+        "id": "the-circadian-code-s02",
+        "hook": "Every organ you have keeps its own clock, and they take orders from light.",
+        "insight": "The master clock sits in the brain and is set primarily by light hitting the eye. But liver, gut, pancreas, muscle and fat all run clocks of their own, and those are set largely by when you eat. Give the brain a morning schedule and the gut a midnight one and the system pulls in two directions. The practical upshot is that light and food are two separate dials, and both need setting.",
+        "why": "Peripheral clocks entrained by feeding time are well established in animal work and increasingly supported in humans. The size of the human effect is smaller than the mouse data suggests.",
+        "apply": "Get outdoor light within an hour of waking and finish eating at a consistent time each evening, treating those as two separate rules.",
+        "format": "single",
+        "tags": [
+          "body-clocks",
+          "light",
+          "feeding"
+        ]
+      },
+      {
+        "id": "the-circadian-code-s03",
+        "hook": "The same meal is handled worse at 10pm than at 10am.",
+        "insight": "Glucose tolerance follows a daily rhythm: the body handles carbohydrate better earlier in the day and worse late at night, when insulin sensitivity drops and the pancreas is winding down. That means an identical dinner eaten late produces a larger and longer blood sugar excursion than eaten early. For most people the highest-value single change is not what is on the plate at night but how late the plate arrives.",
+        "why": "The daily rhythm in glucose tolerance is well documented in controlled studies. Whether shifting meals earlier produces lasting weight or disease benefit is far less settled.",
+        "apply": "Move your evening meal an hour earlier for two weeks and keep everything else the same, then judge sleep and morning appetite.",
+        "format": "single",
+        "tags": [
+          "blood-sugar",
+          "meal-timing",
+          "evening"
+        ]
+      },
+      {
+        "id": "the-circadian-code-s04",
+        "hook": "Time-restricted eating is real. Its weight-loss reputation is inflated.",
+        "insight": "Confining food to a window of eight to twelve hours is the book's central practice, and there are good reasons to try it: a genuine overnight fast, fewer late-night calories, a simple rule that needs no counting. What has not held up is the claim that it beats ordinary calorie reduction. Several controlled trials that matched intake found little or no additional weight loss from the timing alone.",
+        "why": "Human trials comparing time-restricted eating with calorie-matched controls have produced mixed and often null results for weight. The mouse evidence is much stronger than the human evidence.",
+        "apply": "Try a twelve-hour eating window for a month as a simplicity tool, and judge it on energy, sleep and evening snacking rather than the scale.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Measure before you narrow",
+            "body": "Find your current window first. Most people discover it is thirteen or fifteen hours, which makes the first cut easy and painless."
+          },
+          {
+            "step": 2,
+            "title": "Start at twelve hours",
+            "body": "Twelve hours of eating and twelve without is a mild change most people barely notice. There is no need to begin at eight."
+          },
+          {
+            "step": 3,
+            "title": "Trim the evening end",
+            "body": "Move the closing time earlier rather than delaying breakfast. Late eating is the part with the clearest metabolic downside."
+          },
+          {
+            "step": 4,
+            "title": "Keep it on weekends",
+            "body": "The benefit claimed here comes from regularity. A window that only applies Monday to Thursday is not really a window."
+          },
+          {
+            "step": 5,
+            "title": "Judge it honestly",
+            "body": "After a month, ask whether energy, sleep and snacking improved. If nothing changed, drop it rather than narrowing it further."
+          }
+        ],
+        "tags": [
+          "time-restricted-eating",
+          "contested",
+          "fasting"
+        ]
+      },
+      {
+        "id": "the-circadian-code-s05",
+        "hook": "Morning light is a drug you are not taking, and it is free.",
+        "insight": "Indoor lighting is far dimmer than daylight, dim enough that a whole day spent inside gives your clock a weak and ambiguous signal. Twenty minutes outdoors in the morning delivers an order of magnitude more light than a bright office and firmly sets the timing of sleepiness that evening. It is the cheapest circadian intervention available and the one most consistently supported across sleep and mood research.",
+        "why": "Bright morning light advances circadian timing and is used clinically for delayed sleep phase and seasonal depression. Outdoor light on an overcast day still far exceeds indoor levels.",
+        "apply": "Take your first coffee, walk or commute outdoors without sunglasses for at least fifteen minutes, every morning for a month.",
+        "format": "single",
+        "tags": [
+          "light",
+          "morning",
+          "sleep"
+        ]
+      },
+      {
+        "id": "the-circadian-code-s06",
+        "hook": "Shift work is classified as a probable carcinogen, and that is not hyperbole.",
+        "insight": "Working nights over years is associated with elevated risk of several diseases, and international cancer researchers have classified shift work involving circadian disruption as probably carcinogenic to humans. That does not mean any individual shift worker will get ill, and it should not be used to frighten people who have no choice about their job. It does mean the timing of light, food and sleep is a serious health variable rather than a lifestyle preference.",
+        "why": "The classification reflects consistent animal evidence and limited human evidence. It is a statement about the strength of evidence for a hazard, not a measure of how large the risk is.",
+        "apply": "If you work nights, protect one thing above all: a dark, quiet, consistent sleep block, with blackout blinds and a fixed schedule on days off.",
+        "format": "single",
+        "tags": [
+          "shift-work",
+          "risk",
+          "sleep"
+        ]
+      },
+      {
+        "id": "the-circadian-code-s07",
+        "hook": "Your medication may work better at one hour than another.",
+        "insight": "Because enzymes, hormones and cell division all follow daily rhythms, the same drug can behave differently depending on when it is taken. Blood pressure medication, some cancer treatments and cholesterol drugs are all areas where timing has been studied. This is a live and genuinely useful research field, but it is also one where self-experimentation is a bad idea, because the dosing schedule on the label was chosen for reasons.",
+        "why": "Chronotherapy has real supporting evidence in several areas, though results have been inconsistent and some high-profile timing trials have been disputed. Never change a prescribed schedule without a doctor.",
+        "apply": "Ask your doctor or pharmacist once whether the timing of anything you take regularly matters, and change nothing on your own.",
+        "format": "single",
+        "tags": [
+          "chronotherapy",
+          "medication",
+          "timing"
+        ]
+      },
+      {
+        "id": "the-circadian-code-s08",
+        "hook": "Exercise timing barely matters. Exercise consistency matters enormously.",
+        "insight": "There are measurable rhythms in strength, body temperature and coordination that peak in the late afternoon for most people, which makes that a reasonable time to train. But the difference is small and it is swamped by whether you actually go. If the only session you will reliably do is at six in the morning, that is comfortably the best time for you to train, and no rhythm data changes that.",
+        "why": "Performance differences by time of day are real but modest in controlled testing, and they shrink further when people habitually train at a fixed time.",
+        "apply": "Train at whichever fixed time you have missed least often over the past three months, and stop optimising the hour.",
+        "format": "single",
+        "tags": [
+          "exercise",
+          "timing",
+          "consistency"
+        ]
+      },
+      {
+        "id": "the-circadian-code-s09",
+        "hook": "One late night can cost you a week of alignment.",
+        "insight": "Circadian rhythms shift slowly. A single night of late light and late food does not simply reverse the next morning; it takes days for the system to settle again, which is why an irregular weekend leaves people flat until midweek. Regularity is therefore worth more than any individual perfect day. A consistently mediocre schedule generally beats an excellent one punctuated by chaos every Saturday.",
+        "why": "Circadian phase shifts happen at roughly an hour or so per day, which is the same reason jet lag takes days to clear. Irregular sleep timing is independently linked to poorer metabolic markers.",
+        "apply": "Keep your weekend wake time within an hour of your weekday one for a month and note what Monday feels like.",
+        "format": "single",
+        "tags": [
+          "regularity",
+          "social-jetlag",
+          "weekends"
+        ]
+      },
+      {
+        "id": "the-circadian-code-s10",
+        "hook": "Build the day backwards from when the lights go out.",
+        "insight": "A circadian routine is easier to keep if you design it as a sequence rather than a list of rules. Fix the wake time, get light early, put food inside a defined window, take the last meal well before bed, then let the evening get dark and dull. Each step sets up the next, and none of them requires buying anything. The whole structure survives an imperfect day because it is built on times, not on effort.",
+        "why": "Each individual component here has independent support. The combined package has not been tested as a whole, so treat it as a sensible structure rather than a validated protocol.",
+        "apply": "Write your five fixed times on a card — wake, light, first food, last food, lights out — and stick it where you make breakfast.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Fix the wake time",
+            "body": "Everything else hangs off this. Same time daily, weekends included, and no lie-ins to repay a bad night."
+          },
+          {
+            "step": 2,
+            "title": "Get light early",
+            "body": "Outdoors within an hour of waking, fifteen minutes minimum, no sunglasses. This is the strongest signal you can give the clock."
+          },
+          {
+            "step": 3,
+            "title": "Open the food window",
+            "body": "Set a first-food time and hold it. Coffee with milk counts as food for this purpose, which surprises most people."
+          },
+          {
+            "step": 4,
+            "title": "Close it early",
+            "body": "Aim to finish eating two to three hours before bed and keep the window somewhere between ten and twelve hours to start with."
+          },
+          {
+            "step": 5,
+            "title": "Let the evening dim",
+            "body": "Lower the lights after dark, keep screens out of the bedroom, and treat the last hour as a wind-down rather than a productivity slot."
+          }
+        ],
+        "tags": [
+          "routine",
+          "structure",
+          "daily-rhythm"
+        ]
+      }
+    ],
+    "actions": [
+      "Log the clock time of everything you eat and drink for a week, then set an eating window based on what you found rather than on a target you read.",
+      "Get fifteen minutes of outdoor light within an hour of waking every day for a month, and treat it as non-negotiable as brushing your teeth.",
+      "Move your last meal of the day two hours earlier and hold it there for a fortnight before judging whether it changed your sleep.",
+      "Bring your weekend wake time within an hour of your weekday one and keep it there for a full month before deciding it is not worth it."
+    ],
+    "if_you_liked": [
+      "why-we-sleep",
+      "fast-asleep",
+      "burn"
+    ],
+    "not_for_you_if": "You want strong human evidence behind every recommendation. Much of the case rests on animal work, and the weight-loss claims for meal timing are weaker than they sound.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2018. Panda is a circadian biologist at the Salk Institute. Time-restricted eating claims are deliberately flagged as stronger in rodents than in human trials; the shift work classification referenced is the IARC probable carcinogen designation. All prose original."
+    }
+  },
+  {
+    "id": "eat-move-sleep",
+    "title": "Eat, Move, Sleep",
+    "subtitle": "How Small Choices Lead to Big Changes",
+    "author": "Tom Rath",
+    "year": 2013,
+    "category": "health-fitness",
+    "subcategory": "daily-habits",
+    "tags": [
+      "habits",
+      "nutrition",
+      "sitting",
+      "sleep",
+      "small-changes",
+      "energy"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 9,
+    "why_it_matters": "It made the case that health is decided by hundreds of small daily choices rather than by occasional heroic ones, and it treats eating, moving and sleeping as one system instead of three separate projects.",
+    "crux": {
+      "headline": "Three levers, pulled daily, all pulling on each other",
+      "body": "Food, movement and sleep are usually tackled as separate campaigns, which is why fixing one so often collapses under the other two. They are the same system. A short night makes you hungrier and less likely to move; a day of sitting makes sleep worse; a heavy dinner does both. Improve any one of them a little and the others get easier, so the winning strategy is many small changes across all three rather than one dramatic change in a single lane."
+    },
+    "sparks": [
+      {
+        "id": "eat-move-sleep-s01",
+        "hook": "One bad night quietly rewrites tomorrow's eating and tomorrow's training.",
+        "insight": "Sleep, food and movement are not three separate projects competing for your discipline. Short sleep raises appetite and lowers the odds you train. A day spent sitting makes the following night worse. A late heavy meal damages the sleep that then wrecks the next day. Because the loop runs in every direction, the cheapest place to start is whichever of the three you are currently worst at, not whichever feels most virtuous.",
+        "why": "The links between short sleep, appetite regulation and reduced activity are well documented, though most of the evidence is observational and the direction of causation is not always clean.",
+        "apply": "Rate your eating, movement and sleep out of ten for a week, then spend the next month improving only the lowest-scoring one.",
+        "format": "single",
+        "tags": [
+          "systems",
+          "sleep",
+          "appetite"
+        ]
+      },
+      {
+        "id": "eat-move-sleep-s02",
+        "hook": "Sitting is not the new smoking, but sitting still all day is genuinely bad.",
+        "insight": "Long uninterrupted sitting is associated with worse metabolic health, and the comparison to smoking gets repeated because it is punchy rather than because it is accurate. The more careful finding is that the harm shrinks considerably once total physical activity is accounted for, and that breaking sitting up matters more than the total. Standing desks are optional. Getting up regularly is the part that appears to do the work.",
+        "why": "Large pooled analyses find the association between sitting time and mortality weakens substantially in people who are otherwise active. The smoking comparison is not supported by the size of the risk.",
+        "apply": "Set an hourly reminder to stand and walk for two minutes during your working day, and keep it for a fortnight.",
+        "format": "single",
+        "tags": [
+          "sitting",
+          "movement",
+          "contested"
+        ]
+      },
+      {
+        "id": "eat-move-sleep-s03",
+        "hook": "The choice happens in the shop, not at the table.",
+        "insight": "Willpower at dinner is a rematch you keep losing. The decision that actually determines what you eat happened days earlier, in a supermarket aisle, when you were not hungry and not tired. Whatever comes home gets eaten eventually. That makes shopping the highest-leverage twenty minutes of your food week, and it is far easier to make one good decision under fluorescent light than fifty good ones at nine in the evening.",
+        "why": "Food choice is strongly shaped by availability and proximity. Removing a food from the house removes dozens of future decisions rather than one.",
+        "apply": "Write a shopping list after eating, buy only from it, and decide what enters the house rather than what you resist inside it.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Shop fed, never hungry",
+            "body": "Hunger reliably changes what goes in the trolley toward quick energy. Eat something first, even if it delays the trip by fifteen minutes."
+          },
+          {
+            "step": 2,
+            "title": "Bring a written list",
+            "body": "Decide at home what the week needs. A list turns fifty in-store decisions into one, made while you are calm and not being marketed to."
+          },
+          {
+            "step": 3,
+            "title": "Fill the basket first",
+            "body": "Put the vegetables, fruit and protein in before anything else. What goes in early takes up the room later choices would have used."
+          },
+          {
+            "step": 4,
+            "title": "Guard the front door",
+            "body": "Anything that comes home gets eaten by someone eventually. The decision that matters happened in the aisle, not at nine in the evening."
+          }
+        ],
+        "tags": [
+          "environment",
+          "shopping",
+          "food-choices"
+        ]
+      },
+      {
+        "id": "eat-move-sleep-s04",
+        "hook": "Judge a food by what it does to you in an hour, not by its label.",
+        "insight": "Marketing terms on packaging — low fat, natural, high in fibre, immune-supporting — are chosen for sales rather than for accuracy, and a product can carry several while being mostly sugar. A more useful test is how you feel and function afterwards: energy at 3pm, hunger two hours later, how the next meal goes. That is data about you specifically, and it is available for free every day.",
+        "why": "Front-of-pack claims are regulated loosely enough to be near-useless as a health signal. Individual metabolic responses to the same foods also vary more than population averages suggest.",
+        "apply": "For one week, note your energy and hunger two hours after lunch, and change the one lunch that consistently scores worst.",
+        "format": "single",
+        "tags": [
+          "labels",
+          "nutrition",
+          "self-experiment"
+        ]
+      },
+      {
+        "id": "eat-move-sleep-s05",
+        "hook": "Trading an hour of sleep for an hour of work is a losing exchange.",
+        "insight": "The hour you take from sleep to finish something is repaid the next day with slower thinking, worse decisions and poorer mood, usually costing more than the hour bought. People are also poor judges of their own impairment when short of sleep, which is what makes the trade feel reasonable at midnight. Treating sleep as the fixed thing in a schedule, and letting work absorb the variability, is almost always the better arrangement.",
+        "why": "Sleep restriction degrades attention and decision quality measurably, and self-rated impairment lags behind measured impairment, so people underestimate the cost of the hour they took.",
+        "apply": "Set a fixed lights-out time and let unfinished work stay unfinished for two weeks. Judge output over the whole fortnight, not day by day.",
+        "format": "single",
+        "tags": [
+          "sleep",
+          "productivity",
+          "trade-offs"
+        ]
+      },
+      {
+        "id": "eat-move-sleep-s06",
+        "hook": "Health is not a mood problem or a Monday problem. It is a defaults problem.",
+        "insight": "Motivation arrives unpredictably and leaves without notice, so anything that depends on it will run intermittently. Defaults run every day without asking. What is on the kitchen counter, what your usual lunch is, where your shoes live, when your alarm goes off: these produce almost all of your behaviour. Changing a default once is worth more than deciding well a hundred times, and it keeps working on the days you do not care.",
+        "why": "Default options exert a large and repeatable influence on behaviour across domains from food to organ donation, because they operate without requiring a decision at all.",
+        "apply": "Change one default this week: what is on the counter, what your standard lunch is, or where your phone charges at night.",
+        "format": "single",
+        "tags": [
+          "defaults",
+          "habits",
+          "environment"
+        ]
+      },
+      {
+        "id": "eat-move-sleep-s07",
+        "hook": "Twenty minutes of walking beats an hour of intending to go to the gym.",
+        "insight": "The largest health returns come from moving people from doing nothing to doing something, not from moving fit people to doing more. A short daily walk is unglamorous and it clears the biggest hurdle in the data. It also requires no kit, no travel and no scheduling, which is why it survives busy weeks when a gym membership does not. Ambitious plans that never start lose to small plans that run.",
+        "why": "Dose-response curves for activity and mortality are steepest at the low end, so the first small amount of regular movement delivers a disproportionate share of the benefit.",
+        "apply": "Attach a fifteen-minute walk to an existing daily event — after lunch, after the school run — and do it whatever the weather.",
+        "format": "single",
+        "tags": [
+          "walking",
+          "activity",
+          "starting"
+        ]
+      },
+      {
+        "id": "eat-move-sleep-s08",
+        "hook": "Who you eat with predicts what you eat better than what you know does.",
+        "insight": "Portion sizes, food choices and drinking all move toward the people around the table, usually without anyone noticing. This is not weakness; it is how humans have always eaten. It means nutritional knowledge is a weak lever compared with company, and it means the practical move is social rather than educational: change one regular shared meal, or bring one person along on the walk, rather than reading another article.",
+        "why": "Social influence on eating behaviour is a well-replicated finding across laboratory and field studies. People consistently deny being influenced while being influenced.",
+        "apply": "Pick one recurring meal or activity you share with someone and change that one together, rather than trying to change alone.",
+        "format": "single",
+        "tags": [
+          "social",
+          "eating",
+          "influence"
+        ]
+      },
+      {
+        "id": "eat-move-sleep-s09",
+        "hook": "Small choices compound, which is also how people end up unwell without noticing.",
+        "insight": "No single meal, missed walk or short night matters. The trouble is that none of them arrive alone. The same maths that makes a daily walk valuable over a decade makes a daily habit of sitting and snacking expensive over the same decade, and neither is visible at the scale of a week. This is why health problems feel sudden when they surface: the accumulation was silent the whole way.",
+        "why": "Chronic disease risk accumulates over years of small exposures, which is precisely why it is so poorly served by short-term motivation and dramatic interventions.",
+        "apply": "Pick one small choice you make daily and calculate what it looks like over a year, then decide whether that is the total you want.",
+        "format": "single",
+        "tags": [
+          "compounding",
+          "long-term",
+          "prevention"
+        ]
+      },
+      {
+        "id": "eat-move-sleep-s10",
+        "hook": "Score the day out of three and let a bad day stay a bad day.",
+        "insight": "A simple scoreboard beats an elaborate plan. Did you eat reasonably, move at all, and sleep enough? Three answers, one number, ten seconds. The point is not accuracy — it is having a measure that is quick enough to survive and honest enough to notice a drift before it becomes a month. Aiming for good scores most days rather than perfect scores every day is the version that survives contact with real life.",
+        "why": "Simple self-monitoring reliably improves adherence across behaviour change programmes, and its benefit comes from frequency and ease rather than from precision.",
+        "apply": "Score today out of three tonight, then keep the count on paper for thirty days without changing anything else.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Define your three",
+            "body": "Write one sentence each for what counts as a good eat, move and sleep day for you. Keep the bar low enough to hit on a bad week."
+          },
+          {
+            "step": 2,
+            "title": "Score at night",
+            "body": "One number out of three before bed, on paper or a note. Ten seconds. No app, no analysis, no explaining a low score to yourself."
+          },
+          {
+            "step": 3,
+            "title": "Look weekly",
+            "body": "Read the week, not the day. Three good days out of seven at the start is progress; chasing sevens produces two weeks and a quit."
+          },
+          {
+            "step": 4,
+            "title": "Fix the weakest",
+            "body": "Whichever of the three scores lowest across a month is your next project. Change one default in that lane and leave the other two alone."
+          }
+        ],
+        "tags": [
+          "tracking",
+          "habits",
+          "consistency"
+        ]
+      }
+    ],
+    "actions": [
+      "Score eating, movement and sleep out of three each night for a month, then pick your weakest lane and change exactly one default in it.",
+      "Do your food shopping from a written list after a meal, so what enters the house is decided while you are neither hungry nor tired.",
+      "Attach a fifteen-minute daily walk to something you already do every day, and protect it on the days you feel least like it.",
+      "Set a fixed lights-out time and let unfinished work wait, then judge your output across a fortnight rather than day by day."
+    ],
+    "if_you_liked": [
+      "atomic-habits",
+      "why-we-sleep",
+      "the-circadian-code"
+    ],
+    "not_for_you_if": "You want depth, mechanism or a training programme. This is a book of short, plain nudges for people who are not going to read a physiology text.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2013. Rath writes from a personal stake, living with a genetic cancer-predisposition condition diagnosed in his teens. The sitting-and-smoking comparison the book helped popularise is flagged here as overstated. All prose original."
+    }
+  },
+  {
+    "id": "peak-performance",
+    "title": "Peak Performance",
+    "subtitle": "Elevate Your Game, Avoid Burnout, and Thrive with the New Science of Success",
+    "author": "Brad Stulberg and Steve Magness",
+    "year": 2017,
+    "category": "health-fitness",
+    "subcategory": "performance-recovery",
+    "tags": [
+      "performance",
+      "recovery",
+      "burnout",
+      "focus",
+      "training",
+      "purpose"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "It applied what endurance coaches have known for decades — that adaptation happens during recovery — to intellectual and creative work, and gave burnout a physiological explanation rather than a moral one.",
+    "crux": {
+      "headline": "Stress plus rest is what growth is made of",
+      "body": "Hard work does not make you better. Hard work followed by genuine recovery makes you better, and the second half is where the adaptation actually happens. Athletes learned this the expensive way and built their years around it. Knowledge workers mostly still treat rest as what is left over. Alternate deliberate stress with deliberate recovery, in blocks, and the same cycle that builds a marathon runner builds a writer, a surgeon or an analyst."
+    },
+    "sparks": [
+      {
+        "id": "peak-performance-s01",
+        "hook": "You do not improve during the hard work. You improve after it.",
+        "insight": "Training breaks tissue down; the rebuilding happens in the days that follow, and it overshoots slightly, which is the entire mechanism of getting fitter. The same shape applies to difficult intellectual work: the effort creates the demand, and consolidation happens later, often while you are doing nothing that looks productive. Skipping the second half does not just reduce the gain. It converts the work into accumulated damage.",
+        "why": "Supercompensation is standard in exercise physiology and well supported. The extension to cognitive work is a reasonable analogy with weaker direct evidence behind it.",
+        "apply": "Schedule the recovery block before the hard block. Book the evening off before you book the fourteen-hour push.",
+        "format": "single",
+        "tags": [
+          "recovery",
+          "adaptation",
+          "training"
+        ]
+      },
+      {
+        "id": "peak-performance-s02",
+        "hook": "Burnout is not weakness. It is chronic stress with the rest deleted.",
+        "insight": "Nobody burns out from a hard month. People burn out from a hard year with no genuine trough in it, where every week is moderately demanding and none is properly restorative. That pattern is worse than alternating brutal and easy weeks, because the system never gets a signal to rebuild. The fix is structural rather than attitudinal: build actual low periods into the calendar rather than hoping for a gap.",
+        "why": "Chronic unrelieved stress is the recognised driver of burnout in occupational research, and the absence of recovery matters more than the peak intensity of the work.",
+        "apply": "Find the last week in your calendar that was genuinely light. If you cannot find one in three months, schedule one now.",
+        "format": "single",
+        "tags": [
+          "burnout",
+          "stress",
+          "rest"
+        ]
+      },
+      {
+        "id": "peak-performance-s03",
+        "hook": "Nobody does deep work for eight hours. They do it for one, several times.",
+        "insight": "Focused effort at high intensity runs in bouts, not shifts. Most people can sustain genuinely demanding concentration for something between fifty and ninety minutes before quality falls, and the honest response is to stop rather than to push through at a lower standard. Working in defined blocks with real breaks between them produces more finished work than an eight-hour smear of partial attention, and it is far less exhausting.",
+        "why": "The specific interval varies by person and task and the popular numbers are approximations, not measured constants. What holds is that quality falls with time on task and recovers with a break.",
+        "apply": "Work in one bounded block of sixty to ninety minutes tomorrow with the phone in another room, then stop and walk before starting another.",
+        "format": "single",
+        "tags": [
+          "focus",
+          "deep-work",
+          "blocks"
+        ]
+      },
+      {
+        "id": "peak-performance-s04",
+        "hook": "A break is only a break if your mind is genuinely off the task.",
+        "insight": "Scrolling a feed between two work blocks is not recovery — it is a different kind of demand on the same attentional system, which is why an hour of it leaves you no fresher. Real breaks look boring: walking, staring, talking to someone, sitting outside. They also happen to be where the insight on your stuck problem tends to arrive, because loosened attention is what lets unrelated ideas find each other.",
+        "why": "Incubation effects on creative problem solving are documented, and undemanding activity appears to work better than either hard work or highly stimulating distraction.",
+        "apply": "Take your next break outdoors with no phone for ten minutes, and treat the temptation to check messages as evidence you need it.",
+        "format": "single",
+        "tags": [
+          "breaks",
+          "creativity",
+          "incubation"
+        ]
+      },
+      {
+        "id": "peak-performance-s05",
+        "hook": "Growth lives just past comfortable and well short of overwhelming.",
+        "insight": "There is a narrow band where a task is hard enough to demand full attention but not so hard that you fall apart. Below it you coast and nothing changes. Above it you flail, make errors and learn very little. Finding that band, and deliberately raising it as you improve, is what separates ten years of experience from one year repeated ten times. The discomfort is the signal you are in the right place.",
+        "why": "The idea sits behind both flow research and deliberate practice. The related claim that ten thousand hours produces expertise has been substantially challenged, with practice explaining far less of the variance than originally reported.",
+        "apply": "Rate your current main task from one to ten for difficulty. If it is under six, add a constraint that makes it harder this week.",
+        "format": "single",
+        "tags": [
+          "challenge",
+          "flow",
+          "deliberate-practice"
+        ]
+      },
+      {
+        "id": "peak-performance-s06",
+        "hook": "Multitasking is just task switching with a bill attached.",
+        "insight": "Attention does not split. It moves, and each move costs a fraction of a moment plus a residue of the previous task that hangs around degrading the new one. Do that a hundred times an hour and the day genuinely feels full while producing very little. The fix is not more discipline while switching, but removing the switches: one task visible, one window open, notifications off during the block.",
+        "why": "Switch costs and attention residue are well documented in cognitive psychology. The subjective sense of doing two things at once is largely an illusion of fast alternation.",
+        "apply": "Close every window except the one you are working in, put the phone out of sight, and run one block that way tomorrow morning.",
+        "format": "single",
+        "tags": [
+          "multitasking",
+          "attention",
+          "focus"
+        ]
+      },
+      {
+        "id": "peak-performance-s07",
+        "hook": "A routine before the work matters more than motivation during it.",
+        "insight": "A short consistent sequence run before hard work — same place, same order, same first small action — acts as a cue that gets you into the task without a negotiation. It is the same mechanism athletes use before a start line. The particular contents barely matter, and there is nothing magical about any individual ritual. What matters is that it is repeated often enough to become the thing that means work is beginning.",
+        "why": "Conditioned cues reliably shape state and behaviour. Claims about specific priming rituals being uniquely powerful go well beyond the evidence, and social priming research in general has replicated poorly.",
+        "apply": "Design a three-step routine you can run in five minutes before your hardest work, and use exactly the same one for a month.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Fix the place",
+            "body": "Use the same spot for the same kind of work whenever you can. Location becomes a cue faster than anything you tell yourself."
+          },
+          {
+            "step": 2,
+            "title": "Set the same first move",
+            "body": "Same order every time: clear the desk, open one document, write one line. The first action should require no thinking at all."
+          },
+          {
+            "step": 3,
+            "title": "Remove the exits",
+            "body": "Phone out of the room, notifications off, other windows closed. Do this as part of the ritual rather than as a decision inside the work."
+          },
+          {
+            "step": 4,
+            "title": "Repeat until automatic",
+            "body": "Keep the sequence identical for weeks. A routine you tinker with never becomes a cue; it stays a set of decisions with extra steps."
+          }
+        ],
+        "tags": [
+          "routine",
+          "cues",
+          "priming"
+        ]
+      },
+      {
+        "id": "peak-performance-s08",
+        "hook": "Willpower is unreliable, but the tank story turned out to be wrong.",
+        "insight": "It is genuinely easier to do hard work when fewer decisions stand in front of it, which is why routines, defaults and prepared environments help. But the once-popular model of self-control as a fuel tank that depletes over a day, and gets refilled by sugar, has not survived attempts to reproduce it. The practical advice largely survives; the mechanism that justified it does not, and it is worth knowing which is which.",
+        "why": "Ego depletion failed to replicate in large multi-laboratory studies, and the glucose explanation is not supported. Reduce friction because it works, not because a battery is running down.",
+        "apply": "Remove one decision from your morning by preparing it the night before, and stop treating a tired afternoon as proof of a depleted resource.",
+        "format": "single",
+        "tags": [
+          "willpower",
+          "ego-depletion",
+          "contested"
+        ]
+      },
+      {
+        "id": "peak-performance-s09",
+        "hook": "Working for something beyond yourself changes how much you can take.",
+        "insight": "When effort is attached to a purpose larger than personal outcome, people tolerate more discomfort and quit later. Athletes report it, and small studies find performance effects when participants are primed toward self-transcendent motives. It is also the most fragile claim in this whole area, because purpose is hard to measure and easy to fake. Treated as a personal question rather than as a technique, it is still worth answering.",
+        "why": "The supporting studies are small and the effects modest, and motivation research is an area where replication has often been poor. The idea is plausible and under-evidenced at once.",
+        "apply": "Write one sentence on who benefits if you do this work well, and put it where you will see it when the work gets hard.",
+        "format": "single",
+        "tags": [
+          "purpose",
+          "motivation",
+          "contested"
+        ]
+      },
+      {
+        "id": "peak-performance-s10",
+        "hook": "Plan your year the way a coach plans a season.",
+        "insight": "Athletes do not train at maximum intensity year-round; they build in phases, with heavy blocks, lighter blocks and a genuine off-season, all planned in advance. Almost nobody does this with intellectual work, which is why so many people run at a constant medium intensity and slowly degrade. Deciding now which months are the hard push and which are the trough is the single most useful structural change available.",
+        "why": "Periodisation is standard practice in athletic training and is supported for long-term performance. Applying it to knowledge work is a sensible analogy rather than a tested protocol.",
+        "apply": "Mark your next twelve months with two hard pushes and two genuinely light periods, and defend the light ones as firmly as the hard ones.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Name the peaks",
+            "body": "Choose the two or three periods in the year that genuinely matter — a launch, a deadline, an event. Everything else is support for those."
+          },
+          {
+            "step": 2,
+            "title": "Build toward them",
+            "body": "Ramp intensity in the weeks before each peak rather than holding a constant load and hoping to have something left."
+          },
+          {
+            "step": 3,
+            "title": "Schedule the trough",
+            "body": "Put a genuinely light week after each peak, in the calendar, before anything can fill it. This is the block that produces the adaptation."
+          },
+          {
+            "step": 4,
+            "title": "Take an off-season",
+            "body": "One period a year with no performance demands at all. Not a working holiday. The point is that nothing is being measured."
+          }
+        ],
+        "tags": [
+          "periodisation",
+          "planning",
+          "recovery"
+        ]
+      }
+    ],
+    "actions": [
+      "Restructure one working day into two or three bounded blocks of demanding work with real, screen-free breaks between them, and compare the output.",
+      "Put a genuinely light week into your calendar after your next hard push, and defend it as firmly as you would defend a deadline.",
+      "Build a fixed five-minute routine before your hardest work and keep it identical for a month before judging whether it helps.",
+      "Map the next twelve months into hard blocks, light blocks and one period with no performance demands at all."
+    ],
+    "if_you_liked": [
+      "endure",
+      "the-comfort-crisis",
+      "deep-work"
+    ],
+    "not_for_you_if": "You want original research rather than a synthesis, or you already run a periodised training life and will find much of this familiar.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2017. Magness is a running coach and exercise scientist, Stulberg a writer on performance. Ego depletion, deliberate practice and self-transcendent purpose are flagged here as contested or weakly evidenced, which the book itself treats more confidently. All prose original."
+    }
   }
 ]

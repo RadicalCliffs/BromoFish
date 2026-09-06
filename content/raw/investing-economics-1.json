@@ -1,5 +1,583 @@
 [
   {
+    "id": "the-intelligent-investor",
+    "title": "The Intelligent Investor",
+    "subtitle": "A Book of Practical Counsel",
+    "author": "Benjamin Graham",
+    "year": 1949,
+    "category": "investing-economics",
+    "subcategory": "value-investing",
+    "tags": [
+      "value-investing",
+      "market-psychology",
+      "risk-management",
+      "stocks",
+      "long-term-investing"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 13,
+    "why_it_matters": "It moved investing away from forecasting prices and toward valuing businesses, and it gave the discipline its two governing ideas: buy below what a thing is worth, and treat the market as a service rather than an authority. Nearly every value investor since traces back to it.",
+    "crux": {
+      "headline": "Price is what you are quoted, value is what you own",
+      "body": "A share is a fraction of a real business with real earnings, and that business has a worth independent of what anyone will pay you for it today. Your job is to estimate that worth conservatively, buy only when the quoted price sits well below it, and let the gap absorb your mistakes. Everything else in investing is technique. This is the frame that decides whether the technique helps you or hurts you."
+    },
+    "sparks": [
+      {
+        "id": "the-intelligent-investor-s01",
+        "hook": "The market is a business partner who shouts a new price at you every day.",
+        "insight": "Imagine a co-owner who turns up each morning and offers either to buy your half or sell you his, at a price that swings with his mood. Some days he is euphoric and quotes absurdly high. Some days he is despairing and quotes absurdly low. He is not obliged to be sensible, and you are not obliged to trade. That is exactly what a quoted market is. Its usefulness is that it gives you the option to transact, not the duty to agree with the number.",
+        "why": "This reframing works because it separates two things people constantly confuse: the value of what you own and the opinion of the last person who traded it. Only one of them changes hourly.",
+        "apply": "Next time a holding falls sharply, write down what changed about the business itself. If nothing did, do nothing.",
+        "format": "single",
+        "tags": [
+          "market-psychology",
+          "temperament"
+        ]
+      },
+      {
+        "id": "the-intelligent-investor-s02",
+        "hook": "The whole discipline compresses into three words: margin of safety.",
+        "insight": "You will be wrong about earnings, about competitors, about the economy. So build the error into the purchase. If you estimate a business is worth a hundred and you pay sixty, you can be badly mistaken and still not lose money. Pay ninety-five and you need to be right. The discount is not greed for a bargain, it is structural protection against your own analysis, which is far shakier than it feels while you are doing it.",
+        "why": "The mechanism is arithmetic, not optimism. A wide gap between price and estimated value converts forecasting errors into smaller returns rather than permanent losses.",
+        "apply": "Before any purchase, write the price at which you would be paying full value. Refuse to buy within a quarter of it.",
+        "format": "single",
+        "tags": [
+          "margin-of-safety",
+          "risk-management"
+        ]
+      },
+      {
+        "id": "the-intelligent-investor-s03",
+        "hook": "Most people who call themselves investors are speculating and do not know it.",
+        "insight": "The dividing line is not the asset or the holding period. It is whether you have done enough analysis to have a defensible view of what the thing is worth, and whether the price gives you protection if that view is wrong. Buy after that work and you are investing. Buy because a price is rising, a story is compelling, or someone confident said so, and you are speculating. Speculating is permitted. Pretending it is investing is what ruins people.",
+        "why": "The distinction matters because the two activities need opposite habits. Investing rewards patience and indifference to quotes. Speculating requires strict position sizing and fast exits, which most amateurs never set.",
+        "apply": "Label every holding you own as investment or speculation. Cap the speculative bucket at a percentage you could lose entirely.",
+        "format": "single",
+        "tags": [
+          "speculation",
+          "discipline"
+        ]
+      },
+      {
+        "id": "the-intelligent-investor-s04",
+        "hook": "Choose your lane by how much work you will really do, not by risk appetite.",
+        "insight": "There are two honest ways to invest. The first is a plain, low-maintenance portfolio you almost never touch. The second is a research-heavy approach where you hunt for mispriced securities and earn extra return by doing the work others will not. Both can succeed. What fails is picking the second and behaving like the first: buying individual companies on impulse, never reading the accounts, then wondering why the results are poor.",
+        "why": "Extra return in the second lane is compensation for genuine effort and emotional discipline. Take the compensation without doing the work and you keep the risk while giving away the edge.",
+        "apply": "Estimate the hours a month you will actually spend on research. Under five, run a simple index portfolio and stop apologising for it.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Count your real hours",
+            "body": "Not the hours you intend to spend. Look at the last three months and count what you actually gave to reading accounts and following companies."
+          },
+          {
+            "step": 2,
+            "title": "Pick one lane deliberately",
+            "body": "Low effort means broad funds, a fixed schedule and almost no decisions. High effort means a written process, a research file per company and a valuation before every purchase."
+          },
+          {
+            "step": 3,
+            "title": "Write the rules down",
+            "body": "Whichever lane, put your allocation, your buying rule and your selling rule on one page. Rules made in advance survive panic far better than judgement made during it."
+          },
+          {
+            "step": 4,
+            "title": "Review the choice yearly",
+            "body": "Life changes. If the research stops happening, move that money into the simple lane rather than leaving it half-managed and unwatched."
+          }
+        ],
+        "tags": [
+          "strategy",
+          "self-knowledge"
+        ]
+      },
+      {
+        "id": "the-intelligent-investor-s05",
+        "hook": "Never hold all shares or all bonds. Hold a band, and rebalance into it.",
+        "insight": "Pick a split between stocks and safer assets that you can live with, somewhere between one quarter and three quarters in shares, and write it down. When markets rise, your share weight drifts above the target and you sell some. When they fall, it drifts below and you buy. The rule quietly forces you to sell into strength and buy into weakness, which is exactly the behaviour that feels worst and works best.",
+        "why": "Rebalancing does not need a forecast to work. It converts volatility into a mechanical trade, and it caps the damage from being wholly wrong about any one asset class.",
+        "apply": "Set your target split today and diary two dates a year to rebalance back to it, regardless of the news that week.",
+        "format": "single",
+        "tags": [
+          "asset-allocation",
+          "rebalancing"
+        ]
+      },
+      {
+        "id": "the-intelligent-investor-s06",
+        "hook": "A wonderful company can be a terrible investment. The price does that.",
+        "insight": "Quality and value are separate questions. When a business is visibly excellent, everybody can see it, and the price already carries years of expected growth. Buy there and you need the future to beat an already generous forecast just to break even. Risk does not live in the company alone, it lives in the gap between what you paid and what the business will deliver. The same shares can be prudent at one price and reckless at another.",
+        "why": "Expectations are embedded in the price. High-growth names carry high implied forecasts, and the historical record shows those forecasts get missed often enough to erase the premium.",
+        "apply": "For your favourite company, work out what growth rate the current price implies. Ask whether you would bet on that number.",
+        "format": "single",
+        "tags": [
+          "valuation",
+          "growth-stocks"
+        ]
+      },
+      {
+        "id": "the-intelligent-investor-s07",
+        "hook": "Your worst investment problem is almost certainly you.",
+        "insight": "Fund returns and investor returns differ, and the gap is behaviour: money arrives after a good run and leaves after a bad one. The arithmetic of your portfolio is simple enough for a teenager. The difficult part is sitting still while a holding is down, resisting a story that everyone else believes, and not confusing activity with diligence. Temperament, not intelligence, is the scarce input, which is oddly good news since temperament can be structured.",
+        "why": "Fund flow data across decades consistently shows investors capturing less than the funds they hold, because purchases cluster near peaks and sales near troughs.",
+        "apply": "Automate contributions so buying does not depend on how you feel. Then delete the app that shows you daily prices.",
+        "format": "single",
+        "tags": [
+          "behaviour",
+          "temperament"
+        ]
+      },
+      {
+        "id": "the-intelligent-investor-s08",
+        "hook": "Fixed sums on fixed dates beat waiting for a better entry point.",
+        "insight": "Buying the same amount at regular intervals means you automatically acquire more shares when prices are low and fewer when they are high, without predicting anything. It will not beat a perfectly timed lump sum, which nobody achieves reliably. What it does is remove the single decision that destroys most people: whether now is a good moment. There is no good moment. There is only a schedule you keep through both halves of the cycle.",
+        "why": "The honest caveat is that lump-sum investing beats staggered buying on average, simply because markets rise more often than they fall. Regular buying wins on behaviour, not on expected return.",
+        "apply": "Set a standing transfer on payday into your chosen fund, and keep it running through the next decline without adjusting the amount.",
+        "format": "single",
+        "tags": [
+          "dollar-cost-averaging",
+          "discipline"
+        ]
+      },
+      {
+        "id": "the-intelligent-investor-s09",
+        "hook": "Diversify enough to survive being wrong, not so much that you own the phone book.",
+        "insight": "For the cautious investor buying individual shares, something like ten to thirty large, conservatively financed companies across different industries is enough. Below ten, one accounting fraud or one collapsed end-market can take a serious bite. Far above thirty, you cannot possibly follow them all, and you have quietly built an expensive index fund. Diversification is protection against your ignorance, so size it to how much ignorance you actually have.",
+        "why": "Most of the reduction in single-company risk arrives in the first fifteen or so holdings. Beyond that you add admin and dilute your best ideas without much further protection.",
+        "apply": "Count your holdings. If you cannot summarise each business and why you own it in two sentences, you own too many.",
+        "format": "single",
+        "tags": [
+          "diversification",
+          "portfolio-construction"
+        ]
+      },
+      {
+        "id": "the-intelligent-investor-s10",
+        "hook": "The screens that made Graham rich have mostly been arbitraged away.",
+        "insight": "The original method leaned on buying companies for less than the liquidation value of their assets. Those opportunities were plentiful in a market with poor information and no computers. They are now rare, found mostly in tiny or troubled companies. Late in his life Graham himself doubted that elaborate individual security analysis could still reliably beat the market for most people, and leaned toward simple mechanical rules. The principles survived. The specific screens did not.",
+        "why": "Cheap data and universal screening compete away obvious statistical bargains. Any rule that is easy to run on a laptop is already being run by thousands of people.",
+        "apply": "Before adopting any published screen, check when it was devised and whether its returns persist in the years after publication.",
+        "format": "single",
+        "tags": [
+          "market-efficiency",
+          "honest-caveats"
+        ]
+      }
+    ],
+    "actions": [
+      "Write a one-page investment policy covering your stock and bond split, your rebalancing dates, and the conditions under which you would sell anything.",
+      "Take one company you own and estimate its value from earnings and assets alone, then compare that number with the current price.",
+      "Separate your portfolio into an investing bucket and a speculating bucket, and cap the second at a sum you could lose without changing your life.",
+      "Set up automatic monthly contributions so that buying happens on a schedule rather than on a mood."
+    ],
+    "if_you_liked": [
+      "security-analysis",
+      "the-most-important-thing",
+      "margin-of-safety",
+      "one-up-on-wall-street"
+    ],
+    "not_for_you_if": "You want quick tactics or modern examples. The prose is dry, the tables are dated, and the reasoning demands patience most readers give up on early.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 1949; the widely read revised fourth edition dates to 1973, and later printings carry commentary by Jason Zweig. Graham taught at Columbia and counted Warren Buffett among his students. All prose here is original."
+    }
+  },
+  {
+    "id": "a-random-walk-down-wall-street",
+    "title": "A Random Walk Down Wall Street",
+    "subtitle": null,
+    "author": "Burton G. Malkiel",
+    "year": 1973,
+    "category": "investing-economics",
+    "subcategory": "index-investing",
+    "tags": [
+      "index-investing",
+      "market-efficiency",
+      "bubbles",
+      "asset-allocation",
+      "fees"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It carried academic finance into ordinary hands and made the case that broad, cheap, boring ownership of the market beats almost everything sold as an alternative. The index fund went from a curiosity to a default partly because of it.",
+    "crux": {
+      "headline": "Prices already contain what everyone knows",
+      "body": "By the time information reaches you, it has been absorbed into the price by people who saw it first and traded on it. That does not make markets wise, only fast. It means the reliable route to returns is not prediction but participation: own a broad slice of the market, hold it for decades, and keep the costs low enough that the compounding accrues to you rather than to the people managing it."
+    },
+    "sparks": [
+      {
+        "id": "a-random-walk-down-wall-street-s01",
+        "hook": "Tomorrow's price move is mostly unrelated to today's.",
+        "insight": "If price changes were predictable from past price changes, someone would trade on the pattern until it disappeared. That is why the sequence looks so close to random: the predictable part has already been competed out. What remains is the arrival of genuinely new information, which by definition nobody has yet. This is why charts of past prices look meaningful in hindsight and perform so poorly when you try to trade them forward.",
+        "why": "The claim is weak-form efficiency, and it holds up reasonably in liquid markets. It does not claim prices are correct, only that past prices contain little exploitable information after costs.",
+        "apply": "Take any pattern you believe in and test it on a decade of data you did not use to find it. Most vanish.",
+        "format": "single",
+        "tags": [
+          "market-efficiency",
+          "technical-analysis"
+        ]
+      },
+      {
+        "id": "a-random-walk-down-wall-street-s02",
+        "hook": "Picking stocks at random does about as well as picking them carefully.",
+        "insight": "Choose a set of companies by throwing darts at a listings page and, over long periods, that portfolio has tended to keep pace with expensively researched ones. The reason is not that research is worthless. It is that thousands of skilled people are researching the same companies simultaneously, so the average researched opinion is already the price. Once you subtract fees and trading costs, the average active investor must end up behind the market they collectively are.",
+        "why": "This is arithmetic before it is theory. All investors together hold the market, so before costs the average active dollar earns the market return and after costs it earns less.",
+        "apply": "Add up every fee you paid last year across funds, platforms and trading. Compare that total with your gain.",
+        "format": "single",
+        "tags": [
+          "active-vs-passive",
+          "fees"
+        ]
+      },
+      {
+        "id": "a-random-walk-down-wall-street-s03",
+        "hook": "Manias are not a modern failure. They are a recurring feature.",
+        "insight": "Speculative episodes repeat with striking similarity across four centuries: an appealing new story, easy credit, prices detached from cash flows, latecomers borrowing to join, and a collapse that surprises people who were sure this time was structural. The assets change from bulbs to canals to conglomerates to dot-coms to anything current. The human sequence does not, which is why studying old bubbles is more useful than studying current forecasts.",
+        "why": "The pattern recurs because it is driven by incentives and social proof rather than by the specific asset. Nothing about better technology removes the desire to buy something that just went up.",
+        "apply": "Write down the story justifying your most exciting holding, then find the cash flows that story requires by a specific year.",
+        "format": "single",
+        "tags": [
+          "bubbles",
+          "market-history"
+        ]
+      },
+      {
+        "id": "a-random-walk-down-wall-street-s04",
+        "hook": "Costs are the one part of your return you can predict exactly.",
+        "insight": "Future returns are unknowable. Fees are known to the decimal point, charged every year, and compounded against you. One percent a year sounds harmless and, over a working life, quietly consumes a large share of the final pot. This is why the single highest-confidence decision available to an ordinary investor is not which fund will win but which fund costs least for the same exposure.",
+        "why": "Cost is subtracted from gross return with certainty, while skill is uncertain and mean-reverting. Low fees are therefore the closest thing to a guaranteed edge available to a private investor.",
+        "apply": "List the annual charge on every fund you own. Replace any broad-market fund charging more than a cheap equivalent.",
+        "format": "single",
+        "tags": [
+          "fees",
+          "compounding"
+        ]
+      },
+      {
+        "id": "a-random-walk-down-wall-street-s05",
+        "hook": "Last year's top fund is a poor guide to next year's.",
+        "insight": "Performance tables are dominated by luck at short horizons. Among any large group of managers, some will beat the market repeatedly by chance alone, and there is no reliable way to tell them apart from the genuinely skilled while it is happening. Persistence studies find that top-quartile funds scatter across the table in following periods. Meanwhile the funds that closed after bad runs quietly leave the table, flattering the survivors' record.",
+        "why": "Survivorship bias inflates reported industry performance, and short-run winners are usually explained by concentrated bets that will eventually reverse. The one factor that does persist across periods is low cost.",
+        "apply": "Ignore three-year star ratings when choosing a fund. Sort by total cost and by how long the strategy has stayed unchanged.",
+        "format": "single",
+        "tags": [
+          "fund-selection",
+          "survivorship-bias"
+        ]
+      },
+      {
+        "id": "a-random-walk-down-wall-street-s06",
+        "hook": "How much you hold in shares should track how long you will not need the money.",
+        "insight": "The right portfolio is not one number for everyone, it is a function of your horizon and your capacity to earn. Someone thirty years from retirement can accept deep declines because time and future wages absorb them. Someone drawing down next year cannot. So the allocation should shift with life stage rather than with market opinion, and the shift should be scheduled in advance rather than triggered by fear.",
+        "why": "Volatility hurts in proportion to when you must sell. Long horizons let you wait out declines; short horizons convert a temporary fall into a permanent loss of spending power.",
+        "apply": "Write the year you will start spending each pot of money, then set the equity weight from that year, not from the news.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Date each pot",
+            "body": "Split savings by when they get spent: emergency cash, a purchase in three years, retirement in thirty. Each date implies a different mix."
+          },
+          {
+            "step": 2,
+            "title": "Match assets to dates",
+            "body": "Money needed inside three years belongs in cash or short bonds. Money not needed for a decade or more can sit almost entirely in broad equities."
+          },
+          {
+            "step": 3,
+            "title": "Count your earning power",
+            "body": "A stable salary with years left is itself a bond-like asset, which lets you hold more shares than your nerves alone would suggest."
+          },
+          {
+            "step": 4,
+            "title": "Schedule the glide",
+            "body": "Write the years you will step equity down and by how much. Deciding this in advance stops you from de-risking at the bottom."
+          }
+        ],
+        "tags": [
+          "asset-allocation",
+          "life-stage"
+        ]
+      },
+      {
+        "id": "a-random-walk-down-wall-street-s07",
+        "hook": "Efficient does not mean right. It means hard to beat.",
+        "insight": "Markets have produced spectacular mispricings, and the same book that argues for indexing documents them in detail. The claim is narrower than critics suggest: not that prices are correct, but that the errors are not systematically identifiable in advance by you, in time, at a cost worth paying. Believing prices are always right leads to complacency. Believing you can routinely spot when they are wrong leads to overtrading. Both are more expensive than humility.",
+        "why": "Anomalies such as small-cap and value premia have been documented, but many shrank or reversed after publication, which is what you expect when a known edge attracts capital.",
+        "apply": "When you think the market is wrong, write the trade, the timeframe and the exit in advance. Score yourself a year later.",
+        "format": "single",
+        "tags": [
+          "market-efficiency",
+          "honest-caveats"
+        ]
+      },
+      {
+        "id": "a-random-walk-down-wall-street-s08",
+        "hook": "Missing the best handful of days does most of the damage.",
+        "insight": "Long-run equity returns are concentrated in a small number of sessions, and those sessions cluster inside the frightening periods when a market timer is most likely to be out. To time successfully you must be right twice, on the exit and the re-entry, repeatedly, after tax and costs. Being merely present captures the whole return with no forecasting at all, which is why continuous ownership beats intelligent-sounding avoidance.",
+        "why": "The honest caveat is that the worst days also cluster in the same periods, so this statistic cuts both ways. The real argument is that nobody has shown they can separate them in advance.",
+        "apply": "Write down the exact rule that would get you back into the market after you sell. If you cannot, do not sell.",
+        "format": "single",
+        "tags": [
+          "market-timing",
+          "staying-invested"
+        ]
+      },
+      {
+        "id": "a-random-walk-down-wall-street-s09",
+        "hook": "The tax and fee drag you avoid is a return you keep with certainty.",
+        "insight": "Every sale that realises a gain hands part of your compounding to the tax authority years earlier than necessary. Every trade pays a spread. A portfolio that turns over constantly must outperform a lazy one by the whole of that drag before it has earned anything at all. This is why holding broad funds inside tax-sheltered accounts and simply leaving them alone is not laziness, it is a quantifiable advantage.",
+        "why": "Deferred tax keeps money compounding inside the portfolio. The benefit is arithmetic and certain, unlike the hoped-for gains that motivated the trade.",
+        "apply": "Fill your tax-sheltered allowances before any taxable investing, and set a rule that you make no more than a handful of trades a year.",
+        "format": "single",
+        "tags": [
+          "taxes",
+          "trading-costs"
+        ]
+      },
+      {
+        "id": "a-random-walk-down-wall-street-s10",
+        "hook": "A boring portfolio needs three decisions, then twenty years of neglect.",
+        "insight": "Choose a broad global equity fund and a bond holding, set the split from your horizon, and automate the contributions. That is the whole design. The difficulty is not intellectual, it is that the plan gives you nothing to do, and doing nothing feels irresponsible when prices are falling and everyone has an opinion. The design works precisely because it removes the moments where judgement usually destroys value.",
+        "why": "Simplicity reduces the number of decisions, and decisions are where behavioural error enters. Fewer moving parts also means lower cost and fewer taxable events.",
+        "apply": "Write your entire plan on one index card. If it does not fit, you have added complexity that will cost you money.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Hold cash for shocks",
+            "body": "Three to six months of spending in an accessible account, so a bad month never forces you to sell investments at the worst possible price."
+          },
+          {
+            "step": 2,
+            "title": "Buy the whole market",
+            "body": "One broad, low-cost global equity fund gives you thousands of companies. Adding funds usually adds overlap and fees rather than diversification."
+          },
+          {
+            "step": 3,
+            "title": "Set the bond ballast",
+            "body": "Hold enough in bonds or cash that a severe equity fall would not change your plans. That number is personal and should be written down."
+          },
+          {
+            "step": 4,
+            "title": "Automate and ignore",
+            "body": "Standing order on payday, rebalance once a year, no other action. The plan's advantage is that it survives the years you are not paying attention."
+          }
+        ],
+        "tags": [
+          "simplicity",
+          "portfolio-construction"
+        ]
+      }
+    ],
+    "actions": [
+      "Work out the total annual cost of your current portfolio in money, not percentages, and find a cheaper equivalent for anything broad-market.",
+      "Write your target asset allocation from the year you plan to spend the money, then set two annual rebalancing dates.",
+      "Move as much of your investing as possible into tax-sheltered accounts before adding to taxable ones.",
+      "Keep a written log of every market prediction you act on, and review your hit rate honestly after twelve months."
+    ],
+    "if_you_liked": [
+      "the-little-book-of-common-sense-investing",
+      "the-intelligent-investor",
+      "fooled-by-randomness"
+    ],
+    "not_for_you_if": "You want stock ideas or a way to beat the market. The core message is that you probably cannot, and the book repeats it at length.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 1973 by Norton and revised many times since; Malkiel is an economist at Princeton. The efficient-market case here is contested by behavioural finance, and the record of documented anomalies is mixed. All prose original."
+    }
+  },
+  {
+    "id": "common-stocks-and-uncommon-profits",
+    "title": "Common Stocks and Uncommon Profits",
+    "subtitle": null,
+    "author": "Philip A. Fisher",
+    "year": 1958,
+    "category": "investing-economics",
+    "subcategory": "growth-investing",
+    "tags": [
+      "growth-investing",
+      "research",
+      "management-quality",
+      "stock-picking",
+      "long-term-investing"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 11,
+    "why_it_matters": "It made the case that a small number of genuinely excellent companies, held for decades, beat constant trading in cheap ones. It is the qualitative half of modern value investing, and Buffett has credited it with reshaping how he judges businesses.",
+    "crux": {
+      "headline": "Judge the organisation, not just the accounts",
+      "body": "Financial statements tell you what a company has already done. What decides the next twenty years is harder to measure: whether research produces products customers want, whether the sales operation can carry them, whether managers are honest when nobody is watching, and whether talented people below the top job are being developed. Find a few companies that pass on those grounds, buy them, and then do very little."
+    },
+    "sparks": [
+      {
+        "id": "common-stocks-and-uncommon-profits-s01",
+        "hook": "The most useful facts about a company are not in its report.",
+        "insight": "Before buying, talk to the people who deal with the business: customers who chose it over rivals, suppliers who see how it pays and plans, former employees who know how decisions get made, and competitors who will tell you frankly what they fear about it. A pattern emerges quickly, and it is usually a truer picture of competitive position than any set of ratios. Published numbers describe the past. These conversations describe the machine that will produce the future.",
+        "why": "Information that requires effort to assemble is less likely to be in the price than information anyone can download. The edge comes from the legwork, not from cleverness.",
+        "apply": "For one company you are considering, speak to three people outside it who deal with it professionally before you buy a single share.",
+        "format": "single",
+        "tags": [
+          "research",
+          "due-diligence"
+        ]
+      },
+      {
+        "id": "common-stocks-and-uncommon-profits-s02",
+        "hook": "Growth that lasts comes from a machine, not a product.",
+        "insight": "A single successful product gives you a decade at best. What compounds is an organisation that reliably converts research spending into new products the market wants, and has a sales operation capable of carrying them. Look for evidence that this has happened repeatedly, across different product cycles and different managers. One hit is luck. Three, in different areas, under different conditions, is a system you can underwrite for years ahead.",
+        "why": "Repeatability is the test that separates a durable compounder from a company enjoying one favourable cycle. Single-product firms hit a ceiling that no valuation discount fixes.",
+        "apply": "List the products a company depends on today. If most existed a decade ago, treat its growth forecasts sceptically.",
+        "format": "single",
+        "tags": [
+          "innovation",
+          "durable-growth"
+        ]
+      },
+      {
+        "id": "common-stocks-and-uncommon-profits-s03",
+        "hook": "One question about management outranks every other: are they honest?",
+        "insight": "Ability without integrity is a liability, because a capable management team acting in its own interest will extract value more efficiently than an incompetent one. Watch how they discuss failure. Honest managers describe problems specifically, before they are forced to, and tell you what they got wrong. Evasive ones describe headwinds. Since you are handing over your money for years, the character question is not soft, it is the hardest constraint in the analysis.",
+        "why": "Governance failures rarely show in ratios until after the damage. The available early signal is behavioural: how candidly a management team reports bad news when it has the option not to.",
+        "apply": "Read three years of shareholder letters back to back and note every prediction made. Check which ones they later acknowledged missing.",
+        "format": "single",
+        "tags": [
+          "management-quality",
+          "integrity"
+        ]
+      },
+      {
+        "id": "common-stocks-and-uncommon-profits-s04",
+        "hook": "Ask whether the company is worth owning before asking what it costs.",
+        "insight": "Most analysis starts with the price and works backwards to a justification. Reverse the order. First establish whether this is a business you would be content to own for a decade if the market closed tomorrow. Only then examine the price. Doing it this way stops you from talking yourself into a mediocre company because it looks statistically cheap, which is the most common way careful investors lose money slowly.",
+        "why": "A cheap price on a deteriorating business is a value trap: the discount widens as earnings fall, so the apparent margin of safety evaporates exactly when you need it.",
+        "apply": "Write your case for owning a company without mentioning its share price. If the case is thin, the price is irrelevant.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Test the runway",
+            "body": "Does the market this company serves still have years of growth left, or is it saturated and defending share on price alone?"
+          },
+          {
+            "step": 2,
+            "title": "Check the margins",
+            "body": "Look at profit margins over a full cycle and ask what protects them. Margins with no explanation behind them are usually temporary."
+          },
+          {
+            "step": 3,
+            "title": "Look below the chief executive",
+            "body": "Depth of management decides whether the company survives a succession. Ask whether capable people are being developed or quietly leaving."
+          },
+          {
+            "step": 4,
+            "title": "Then, and only then, price it",
+            "body": "Value the business you have just described. If it fails any earlier step, no price makes it a good long-term holding."
+          }
+        ],
+        "tags": [
+          "quality-first",
+          "process"
+        ]
+      },
+      {
+        "id": "common-stocks-and-uncommon-profits-s05",
+        "hook": "There are only three good reasons to sell, and none is that the price rose.",
+        "insight": "Sell when you realise your original analysis was mistaken. Sell when the company itself has deteriorated so it no longer meets the standard you bought it for. Sell to move into something clearly better, and only when the difference is large enough to survive the tax bill. Everything else is noise: a run of bad quarters, a scary headline, a price that feels high. Selling a genuinely excellent business because it went up is the most expensive habit in investing.",
+        "why": "Compounding is destroyed by interruption. Each sale realises tax and forces two correct decisions, while great businesses do most of their work in the years after they already look expensive.",
+        "apply": "Write your three sell conditions for each holding at the moment you buy it, and refuse to sell for any reason not on that list.",
+        "format": "single",
+        "tags": [
+          "selling",
+          "holding-period"
+        ]
+      },
+      {
+        "id": "common-stocks-and-uncommon-profits-s06",
+        "hook": "Owning forty stocks you barely know is not diversification, it is dilution.",
+        "insight": "If you have genuinely done the deep work, you will find only a handful of companies that qualify. Spreading money thinly across dozens means most of your capital sits in your fifteenth-best idea, and you cannot possibly follow them all closely enough to notice when one deteriorates. A concentrated portfolio of businesses you understand, in different industries, is safer in practice than a wide one you are only nominally tracking.",
+        "why": "The caveat is real: concentration raises the cost of being wrong, so it is only defensible if the research is genuinely deep and the businesses are not exposed to the same shock.",
+        "apply": "Rank your holdings by how well you could defend them under questioning. Sell from the bottom until only defensible ones remain.",
+        "format": "single",
+        "tags": [
+          "concentration",
+          "portfolio-construction"
+        ]
+      },
+      {
+        "id": "common-stocks-and-uncommon-profits-s07",
+        "hook": "Haggling over a few cents has cost people entire positions.",
+        "insight": "When you have decided a company is outstanding and you intend to hold it for a decade, placing a limit order slightly below the market to feel clever is a bad trade. Often the price never returns, the shares run away, and you own nothing at all. The decision that matters is whether to own the business. The entry price matters at the margin, and the margin is tiny next to a decade of compounding.",
+        "why": "The asymmetry is stark: saving a fraction of a percent on entry against the risk of missing the whole position. That trade only makes sense if your conviction was weak to begin with.",
+        "apply": "Once your research is finished and the price is reasonable, buy the position in full rather than waiting for a slightly better print.",
+        "format": "single",
+        "tags": [
+          "execution",
+          "conviction"
+        ]
+      },
+      {
+        "id": "common-stocks-and-uncommon-profits-s08",
+        "hook": "Dividends are the least interesting thing a great company can do with cash.",
+        "insight": "If a business can reinvest its earnings at high rates of return, every pound paid out is a pound not compounding inside a machine that works. Prefer companies that can genuinely redeploy capital, and be suspicious of a rising payout ratio at a firm that claims to be growing. The exception matters too: when a company has run out of good projects, paying cash out is the honest choice and hoarding it is the destructive one.",
+        "why": "The mechanism is return on incremental capital. Reinvestment beats distribution only while the company earns more on that money than you could elsewhere, which is a testable question.",
+        "apply": "Check what a company earned on the capital it reinvested over five years before you treat its dividend as good news.",
+        "format": "single",
+        "tags": [
+          "dividends",
+          "capital-allocation"
+        ]
+      },
+      {
+        "id": "common-stocks-and-uncommon-profits-s09",
+        "hook": "Forecasting the economy is a different job from owning good businesses.",
+        "insight": "People delay buying an excellent company because a recession seems likely. Recessions are hard to time, usually recognised only after they have begun, and an outstanding business generally emerges from one with stronger competitive position. Waiting for macro clarity means waiting permanently, since clarity arrives only in hindsight. The useful question is not what the economy will do next year but whether this company will be larger and stronger in ten.",
+        "why": "Macro forecasts have a poor documented record even among professionals, while company-level durability is at least partly assessable from evidence you can gather yourself.",
+        "apply": "Ban macro forecasts from your buy decision. Replace the question with: will this business be stronger in ten years, and why?",
+        "format": "single",
+        "tags": [
+          "macro",
+          "long-term-investing"
+        ]
+      },
+      {
+        "id": "common-stocks-and-uncommon-profits-s10",
+        "hook": "This method is expensive if you do half of it.",
+        "insight": "The approach demands deep research on few companies and then decades of patience. Done properly it has produced remarkable results. Done partially, it becomes buying a story you like at any price and refusing to sell when the thesis breaks, which is how people justify holding a collapsing company for years. The discipline that makes concentration safe is the research and the written sell conditions, not the optimism.",
+        "why": "Selection bias flatters the record here: the famous long holds are remembered, the great companies that stagnated for a decade less so. The method only works with genuine analytical depth.",
+        "apply": "Before concentrating, run your process on one company end to end and time it honestly. Then decide if you can repeat that.",
+        "format": "single",
+        "tags": [
+          "honest-caveats",
+          "discipline"
+        ]
+      }
+    ],
+    "actions": [
+      "Pick one company and spend a month gathering opinions from its customers, suppliers and former employees before forming any view on its shares.",
+      "Write a checklist of qualitative tests you require of any company: growth runway, margin protection, management depth and candour.",
+      "For every current holding, write down the three specific conditions under which you would sell, and file them with the purchase date.",
+      "Cut your portfolio to the companies you can defend in detail, and put the freed money into a broad index fund instead."
+    ],
+    "if_you_liked": [
+      "one-up-on-wall-street",
+      "the-intelligent-investor",
+      "the-most-important-thing"
+    ],
+    "not_for_you_if": "You will not do company research, or you want current examples. The cases come from mid-century American manufacturing and the writing is dated.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 1958. Fisher ran a small investment counselling firm in California; his son Ken Fisher is also an investor and writer. Later editions bundle his subsequent essays. All prose original."
+    }
+  },
+  {
     "id": "one-up-on-wall-street",
     "title": "One Up on Wall Street",
     "subtitle": "How to Use What You Already Know to Make Money in the Market",
@@ -581,6 +1159,1140 @@
       "year_verified": true,
       "confidence": "high",
       "notes": "First published 1934 by McGraw-Hill; several substantially revised editions followed, and later reissues add commentary from modern investors. All prose original."
+    }
+  },
+  {
+    "id": "margin-of-safety",
+    "title": "Margin of Safety",
+    "subtitle": "Risk-Averse Value Investing Strategies for the Thoughtful Investor",
+    "author": "Seth A. Klarman",
+    "year": 1991,
+    "category": "investing-economics",
+    "subcategory": "value-investing",
+    "tags": [
+      "value-investing",
+      "risk-management",
+      "contrarian-investing",
+      "special-situations",
+      "patience"
+    ],
+    "difficulty": "challenging",
+    "read_time_min": 13,
+    "why_it_matters": "It is the clearest modern statement of investing where avoiding permanent loss comes first and return comes second. Long out of print and traded at absurd prices, it shaped a generation of professional value investors who read photocopies of it.",
+    "crux": {
+      "headline": "Worry about losing money first, returns second",
+      "body": "Most investors start by asking how much they could make. Reverse it. Ask what would have to go wrong for this position to be permanently impaired, and how much you would lose if it did. Buy only when the price is low enough that ordinary bad outcomes still leave you whole. Returns follow from a long sequence of decisions where the downside was already covered before you began."
+    },
+    "sparks": [
+      {
+        "id": "margin-of-safety-s01",
+        "hook": "Risk is the chance of permanent loss, not the wiggle in a price chart.",
+        "insight": "Finance defines risk as volatility because volatility is easy to measure. But a share that halves and recovers cost you nothing if you did not have to sell, while a business that quietly loses its market cost you everything at low volatility. The question that matters is whether the capital comes back. Measuring risk by price movement means you will call a cheap asset dangerous precisely when it has become safe.",
+        "why": "Volatility is a proxy chosen for convenience. It correlates with permanent loss sometimes, and inverts at exactly the moments of maximum opportunity, which is when the proxy is most expensive to trust.",
+        "apply": "For each holding, write the scenario in which the money never comes back. If you cannot describe one, you have not analysed it.",
+        "format": "single",
+        "tags": [
+          "risk-management",
+          "volatility"
+        ]
+      },
+      {
+        "id": "margin-of-safety-s02",
+        "hook": "Holding cash is a position, and sometimes it is the best one available.",
+        "insight": "If nothing meets your standard, buying something that nearly does is how discipline dies. Cash earns little and feels like failure while others are making money, but it is the only asset that keeps its option value: it lets you act decisively when prices finally fall and everyone else is forced to sell. The willingness to look wrong for a year or two is a large part of what produces the eventual return.",
+        "why": "The constraint is career risk, not analysis. Professionals rarely hold cash because underperforming while fully invested is forgiven and underperforming while cautious is not.",
+        "apply": "Set a minimum quality and discount standard in writing, and let cash accumulate whenever nothing clears it.",
+        "format": "single",
+        "tags": [
+          "cash",
+          "discipline"
+        ]
+      },
+      {
+        "id": "margin-of-safety-s03",
+        "hook": "Bargains appear when someone must sell for reasons unrelated to value.",
+        "insight": "Prices detach from value when a holder is compelled to act: a fund removing a company because it left an index, a mandate that forbids holding debt below a rating, a manager selling to meet redemptions, or a spin-off that arrives in portfolios that never wanted it. None of these sellers is expressing a view about the business. They are obeying a rule. Those forced trades are among the most reliable sources of mispricing available.",
+        "why": "The mechanism is structural rather than psychological, so it repeats. A seller acting under constraint is indifferent to price, which is exactly the counterparty you want.",
+        "apply": "Watch index deletions, spin-offs and ratings downgrades. Screen for securities that changed hands for reasons no analyst chose.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Find the forced seller",
+            "body": "Ask who has to sell this and why. Index rules, credit-rating limits, redemption pressure and fund mandates all create sellers who never looked at value."
+          },
+          {
+            "step": 2,
+            "title": "Check the security is unwanted, not broken",
+            "body": "Distinguish a business in trouble from a business nobody is permitted to own. Only the second is a gift; the first is usually priced correctly."
+          },
+          {
+            "step": 3,
+            "title": "Value it from the bottom up",
+            "body": "Estimate what a private buyer would pay, what the assets would fetch in liquidation, and what the cash flows are worth. Use the most conservative figure."
+          },
+          {
+            "step": 4,
+            "title": "Buy in tranches",
+            "body": "Assume it gets cheaper after you buy. Sizing your entry in stages means a further fall becomes an opportunity rather than an emergency."
+          }
+        ],
+        "tags": [
+          "special-situations",
+          "mispricing"
+        ]
+      },
+      {
+        "id": "margin-of-safety-s04",
+        "hook": "Chasing relative performance is how sensible investors end up owning nonsense.",
+        "insight": "When your goal is to beat a benchmark or your peers, you start owning things because not owning them is uncomfortable, not because they are worth the price. The logic compounds during a mania: the more overvalued an asset becomes, the more it dominates the index, and the more painful staying out becomes. Absolute standards, where you simply refuse to buy above a price you can justify, are the only defence against this.",
+        "why": "Relative benchmarks encode whatever the crowd already owns. Measuring yourself against them imports the crowd's mistakes into your portfolio automatically.",
+        "apply": "Judge your results against your own required return, not against an index, and write that number down before the year starts.",
+        "format": "single",
+        "tags": [
+          "benchmarks",
+          "institutional-behaviour"
+        ]
+      },
+      {
+        "id": "margin-of-safety-s05",
+        "hook": "You are not paid for forecasting. You are paid for buying below value.",
+        "insight": "A great deal of investment work consists of predicting interest rates, currencies or next year's economy, and the record for such predictions is poor even among specialists. Value investing sidesteps the problem. If you buy an asset far below a conservative estimate of what it is worth, you do not need to know when the gap closes or what the economy does meanwhile. The discount, not the forecast, does the work.",
+        "why": "Forecast-dependent strategies compound two uncertainties: the prediction and the timing. A discount to value only requires that value be roughly right and that time eventually pass.",
+        "apply": "Strip every macro assumption from your next investment case. If the case collapses without them, it was a forecast, not a valuation.",
+        "format": "single",
+        "tags": [
+          "forecasting",
+          "valuation"
+        ]
+      },
+      {
+        "id": "margin-of-safety-s06",
+        "hook": "Value three ways, then trust the lowest number.",
+        "insight": "There is no single correct valuation. Estimate what the future cash flows are worth today, what the assets would realise if the business were wound up, and what a knowledgeable private buyer would pay for the whole company. Each method rests on different assumptions and each fails in different conditions. When the three converge, you have a range you can act on. When they diverge wildly, that divergence is telling you the analysis is not finished.",
+        "why": "Using several independent methods surfaces the assumptions doing the heavy lifting. A valuation that only works under one method is a valuation resting on one fragile input.",
+        "apply": "Value your next candidate three ways on one page, and size the position from the most pessimistic of the three.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Discount the cash flows",
+            "body": "Project conservatively and discount at a rate that reflects real uncertainty. Small changes in growth assumptions swing this figure enormously, so test the extremes."
+          },
+          {
+            "step": 2,
+            "title": "Price the assets",
+            "body": "Ask what the property, inventory and receivables would raise in an orderly wind-down. This sets a floor that does not depend on future earnings."
+          },
+          {
+            "step": 3,
+            "title": "Think like a buyer of the whole",
+            "body": "Look at what similar businesses changed hands for privately. Public prices can stay detached for years; acquisition prices reflect what control is worth."
+          },
+          {
+            "step": 4,
+            "title": "Take the lowest and discount again",
+            "body": "Use the most conservative of the three, then demand a further gap below it. That second gap is what protects you when one input is simply wrong."
+          }
+        ],
+        "tags": [
+          "valuation",
+          "process"
+        ]
+      },
+      {
+        "id": "margin-of-safety-s07",
+        "hook": "A rising price is not evidence you were right.",
+        "insight": "Outcomes in markets are noisy over any period short enough to notice. A careless purchase can rise for two years and a careful one can fall for three, so grading yourself by the scoreboard trains the wrong lessons. Judge the decision instead: was the research sufficient, was the valuation conservative, was the position sized so that being wrong was survivable? Good process eventually produces good outcomes. Good outcomes teach you nothing about process.",
+        "why": "Skill and luck are entangled in short-run results. Only the reasoning is fully observable at the time you act, so only the reasoning can be reliably audited afterwards.",
+        "apply": "Keep a decision journal: the thesis, the valuation, the risks and the position size. Review the reasoning, not the return.",
+        "format": "single",
+        "tags": [
+          "process",
+          "decision-making"
+        ]
+      },
+      {
+        "id": "margin-of-safety-s08",
+        "hook": "Leverage turns a temporary decline into a permanent loss.",
+        "insight": "Borrowed money removes your ability to wait, which is the value investor's only genuine advantage. A position bought with debt can be correct and still destroy you, because the lender decides when you sell. Every borrowing arrangement contains a clause that gets exercised at the worst possible moment. Staying solvent through the ugly stretch is not caution for its own sake, it is the precondition for every return that comes afterwards.",
+        "why": "Debt converts price volatility into forced selling. It is the common ingredient in the failures of otherwise sophisticated investors, because it removes the option to be early rather than wrong.",
+        "apply": "Stress-test your portfolio against a fifty percent fall. If any part of the plan requires borrowing or selling, reduce the leverage now.",
+        "format": "single",
+        "tags": [
+          "leverage",
+          "survival"
+        ]
+      },
+      {
+        "id": "margin-of-safety-s09",
+        "hook": "Complexity in a security is often where the compensation is hiding.",
+        "insight": "Instruments that are tedious to analyse, involve legal documents, or need several steps to understand attract fewer buyers, and fewer buyers means better prices. Bankruptcy claims, restructurings and unusual corporate structures all fall in this category. The compensation is real but so is the danger: complexity also hides risks that a simple screen would never reveal, and a mistake in the documents can wipe out the position entirely.",
+        "why": "The edge is the effort barrier, not cleverness. That barrier only pays if you genuinely have the expertise to read what others skipped, which most private investors do not.",
+        "apply": "Only enter a complicated situation if you have read the primary documents yourself and can explain the downside in plain sentences.",
+        "format": "single",
+        "tags": [
+          "special-situations",
+          "complexity"
+        ]
+      },
+      {
+        "id": "margin-of-safety-s10",
+        "hook": "The book preaching patience became the most impatiently priced book on the shelf.",
+        "insight": "It went out of print, demand kept rising, and secondhand copies have sold for hundreds or thousands, which is a small joke at the expense of everyone who preaches valuation discipline. Take the point seriously though: scarcity and status can inflate the price of anything, including investment wisdom. The ideas are freely available in letters and interviews, and paying an extreme price for the physical object is precisely the behaviour the contents argue against.",
+        "why": "Its scarcity value is a live demonstration that price and worth separate whenever supply is fixed and demand is emotional. That applies to collectibles, to housing and to shares.",
+        "apply": "Before paying a premium for anything scarce, ask what you would pay if a hundred identical ones existed tomorrow.",
+        "format": "single",
+        "tags": [
+          "scarcity",
+          "market-psychology"
+        ]
+      }
+    ],
+    "actions": [
+      "Write a one-page risk statement for each holding describing the scenario in which the capital does not come back, and how much you would lose.",
+      "Set an absolute return standard for the year and stop comparing your portfolio to any index or to other people.",
+      "Build a watchlist of quality assets with the price at which each becomes a buy, so that a market fall gives you a shopping list rather than a panic.",
+      "Remove or cap any leverage in your portfolio, including margin facilities you are not currently using."
+    ],
+    "if_you_liked": [
+      "the-intelligent-investor",
+      "security-analysis",
+      "the-most-important-thing"
+    ],
+    "not_for_you_if": "You invest in index funds and have no interest in analysing individual securities, or you are unwilling to hunt down a copy of an out-of-print book.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 1991 by HarperBusiness and long out of print. Klarman runs the Baupost Group in Boston. Secondhand copies trade at very high prices; the underlying ideas appear in his public letters. All prose original."
+    }
+  },
+  {
+    "id": "the-most-important-thing",
+    "title": "The Most Important Thing",
+    "subtitle": "Uncommon Sense for the Thoughtful Investor",
+    "author": "Howard Marks",
+    "year": 2011,
+    "category": "investing-economics",
+    "subcategory": "risk-and-cycles",
+    "tags": [
+      "risk-management",
+      "market-cycles",
+      "contrarian-investing",
+      "value-investing",
+      "decision-making"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It gives investors a working vocabulary for risk and cycles that is neither academic nor folksy, drawn from decades of distressed-debt investing. It is the clearest available answer to the question of what a careful investor actually thinks about.",
+    "crux": {
+      "headline": "You cannot predict, but you can know where you are",
+      "body": "Forecasting the next turn is beyond almost everyone. Reading the present is not. You can see whether credit is easy, whether investors are being paid for the risks they take, whether scepticism has vanished from conversations. That reading tells you how aggressive to be. Position for the temperature of the market you are standing in, not for the market you think will arrive."
+    },
+    "sparks": [
+      {
+        "id": "the-most-important-thing-s01",
+        "hook": "If your thinking matches everyone else's, so will your results.",
+        "insight": "First-level thinking says a good company makes a good investment. Second-level thinking asks what everyone else already believes, what is therefore already in the price, and where the consensus is likely wrong. Superior returns require a view that differs from the crowd and turns out to be correct. Being merely right about a company that everyone agrees is excellent earns you the average outcome, because the agreement is what set the price.",
+        "why": "Prices are set by consensus. Beating the consensus requires disagreeing with it accurately, which is uncomfortable by construction and why so few sustain it.",
+        "apply": "For your next purchase, write what the consensus believes and the specific reason you think it is wrong. No second sentence, no trade.",
+        "format": "single",
+        "tags": [
+          "second-level-thinking",
+          "contrarian-investing"
+        ]
+      },
+      {
+        "id": "the-most-important-thing-s02",
+        "hook": "You can measure return afterwards. You can never measure the risk you took.",
+        "insight": "A portfolio that returned twenty percent tells you nothing about how close it came to disaster. The losses that did not happen leave no trace in the record, so a reckless year and a careful year can look identical on the statement. This is why risk has to be judged before the fact, by examining what the position required to go right, and why the investors with the best long records are usually the ones who worried most about outcomes that never arrived.",
+        "why": "Only one history actually occurs, but many were possible. Judging risk from realised results systematically rewards the people who were lucky rather than the ones who were careful.",
+        "apply": "After a winning year, write down the three ways it could have gone badly and how exposed you actually were to each.",
+        "format": "single",
+        "tags": [
+          "risk-management",
+          "luck"
+        ]
+      },
+      {
+        "id": "the-most-important-thing-s03",
+        "hook": "Markets swing between euphoria and despair, and rarely stop at reasonable.",
+        "insight": "Sentiment behaves like a pendulum. It passes through the sensible midpoint constantly but spends almost no time there, travelling instead between the conviction that nothing can go wrong and the conviction that nothing can be salvaged. Knowing this does not let you time the swings. It does tell you that the extremes are temporary, that the crowd is most certain at the ends, and that your best opportunities appear when everyone agrees the situation is hopeless.",
+        "why": "The pattern is driven by human incentive and social proof, so it recurs across centuries and asset classes even as participants and instruments change entirely.",
+        "apply": "Keep a monthly note of how much fear or greed you observe around you. Read the last two years of notes before your next big decision.",
+        "format": "single",
+        "tags": [
+          "market-cycles",
+          "sentiment"
+        ]
+      },
+      {
+        "id": "the-most-important-thing-s04",
+        "hook": "Take your temperature, not your forecast.",
+        "insight": "Instead of predicting what happens next, gather evidence about where you currently stand. Are lenders competing to hand out money on loose terms? Are risky assets priced as though the risk has gone? Is anyone being paid to be cautious? These are observations, not predictions, and they are available to anyone paying attention. They tell you whether to lean forward or protect yourself, which is a far more useful output than a guess about next year.",
+        "why": "Cycle position is partly observable while cycle timing is not. Adjusting aggression to observable conditions requires no forecasting skill at all.",
+        "apply": "Score today's market on five observable measures of investor caution, and adjust how much cash you hold accordingly.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Watch the credit tap",
+            "body": "Ask how easy borrowing has become and on what terms. Loose covenants and eager lenders are the most reliable sign that risk is being underpriced."
+          },
+          {
+            "step": 2,
+            "title": "Check the reward for risk",
+            "body": "Compare the extra yield on risky assets with the safe rate. When the gap is thin, you are being asked to accept danger for very little."
+          },
+          {
+            "step": 3,
+            "title": "Listen to the conversation",
+            "body": "Note whether sceptics are being ignored or celebrated. Widespread confidence that a decline is impossible is itself a data point about pricing."
+          },
+          {
+            "step": 4,
+            "title": "Set your aggression",
+            "body": "Turn the reading into one decision: how much cash to hold and how much quality to demand. Do not turn it into a prediction of when."
+          }
+        ],
+        "tags": [
+          "market-cycles",
+          "positioning"
+        ]
+      },
+      {
+        "id": "the-most-important-thing-s05",
+        "hook": "Being early looks exactly like being wrong, and pays exactly as badly.",
+        "insight": "Contrarian positioning means buying while the news is still terrible and selling while the mood is still wonderful. In both cases you will underperform for a stretch that can run for years, and you will be told repeatedly that you have missed the point. This is not an incidental cost of the approach, it is the reason the approach works: if it were comfortable, everyone would do it and the prices would never get attractive.",
+        "why": "The discount exists because holding the position is socially and professionally painful. Remove the pain and you remove the compensation along with it.",
+        "apply": "Before taking a contrarian position, decide how long you will hold it while looking wrong, and write that period down.",
+        "format": "single",
+        "tags": [
+          "contrarian-investing",
+          "patience"
+        ]
+      },
+      {
+        "id": "the-most-important-thing-s06",
+        "hook": "Cheap does not mean it fell a lot. It means it is priced below what it is worth.",
+        "insight": "Investors routinely confuse a large decline with a bargain. A share that has dropped eighty percent can still be expensive if the business is worth less than the remaining price, and often is, because the decline reflects genuine deterioration. The only definition of cheap that helps you is a price below a defensible estimate of value. Everything else is a comparison with a past price that nobody is obliged to restore.",
+        "why": "Anchoring to previous highs is one of the best-documented investing errors. The prior price contains no information about the current worth of the business.",
+        "apply": "Delete the fifty-two-week high from your analysis. Estimate value from the business first, then look at what you are being asked to pay.",
+        "format": "single",
+        "tags": [
+          "valuation",
+          "anchoring"
+        ]
+      },
+      {
+        "id": "the-most-important-thing-s07",
+        "hook": "Defence wins over long horizons because you only need one disaster to be finished.",
+        "insight": "A record built on avoiding severe losses will beat one built on spectacular gains punctuated by collapses, because compounding is destroyed by a single large drawdown. Losing half requires doubling just to return to where you started. So the reliable path is not maximising the good years but ensuring that the bad ones remain survivable, which usually means giving up some upside deliberately and being at peace with that trade.",
+        "why": "Compounding is multiplicative, so a big loss removes the base that all future gains would have been applied to. Consistency beats brilliance over decades for arithmetic reasons.",
+        "apply": "Calculate the gain you would need to recover from your worst plausible loss. Let that number set your maximum position size.",
+        "format": "single",
+        "tags": [
+          "defensive-investing",
+          "compounding"
+        ]
+      },
+      {
+        "id": "the-most-important-thing-s08",
+        "hook": "Risk control is not the same as risk avoidance.",
+        "insight": "Avoiding risk entirely means avoiding return, since return is largely the payment for bearing uncertainty intelligently. Controlling risk means accepting exposures you understand, priced attractively enough to compensate, and sized so that being wrong is inconvenient rather than fatal. The difference is that one is a refusal to participate and the other is a discipline about the terms on which you participate.",
+        "why": "The distinction matters because risk control is invisible in good years. It shows up only in the years it saves you, which is why it is chronically underrated and undercompensated.",
+        "apply": "For each exposure you hold, name what you are being paid to bear and whether that payment is adequate today.",
+        "format": "single",
+        "tags": [
+          "risk-management",
+          "position-sizing"
+        ]
+      },
+      {
+        "id": "the-most-important-thing-s09",
+        "hook": "Luck shapes results far more than confident people admit.",
+        "insight": "One path unfolds out of many that were possible, and afterwards everyone narrates it as though it were inevitable. This makes it hard to learn from your own record: a run of good years may reflect judgement, or a favourable environment for the sort of thing you happened to own. The honest response is to hold conclusions about your own skill loosely, especially the flattering ones, and to look at how many different conditions your approach has survived.",
+        "why": "Sample sizes in investing are small and cycles are long, so a decade of results can easily be explained by regime rather than skill. This point is drawn openly from Taleb's work on alternative histories.",
+        "apply": "List the market conditions your strategy has actually been tested in. Treat any untested condition as an unknown, not a strength.",
+        "format": "single",
+        "tags": [
+          "luck",
+          "self-assessment"
+        ]
+      },
+      {
+        "id": "the-most-important-thing-s10",
+        "hook": "There is no strategy that wins in every environment.",
+        "insight": "Any approach that outperforms in some conditions will lag in others, and the ones promising to win everywhere are either lying or hiding a rare catastrophic outcome. Accepting this changes what you demand of your own portfolio: not constant superiority but a clear understanding of when it should do well, when it should struggle, and whether you can tolerate the struggling period without abandoning it at the worst point.",
+        "why": "Every edge is compensation for a specific discomfort. If a strategy claims no discomfort, the risk has usually been moved somewhere it is not being measured.",
+        "apply": "Write down the market conditions in which your approach should underperform, and commit in advance to holding through them.",
+        "format": "single",
+        "tags": [
+          "strategy",
+          "expectations"
+        ]
+      }
+    ],
+    "actions": [
+      "Write a one-paragraph reading of current conditions using observable evidence about credit, valuations and sentiment, and date it. Repeat quarterly and reread the old ones.",
+      "For your three largest holdings, write down what the consensus believes and where you differ, then check the reasoning a year later.",
+      "Set position sizes from the recovery arithmetic: how much you would need to gain to undo the worst plausible loss on that position.",
+      "Keep a decision journal that records the reasoning and the risks at the time, so you can judge process separately from outcome."
+    ],
+    "if_you_liked": [
+      "margin-of-safety",
+      "fooled-by-randomness",
+      "the-intelligent-investor"
+    ],
+    "not_for_you_if": "You want step-by-step valuation technique or specific screens. This is about judgement and temperament, and it repeats its themes deliberately.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2011 by Columbia Business School Publishing, drawn from Marks's memos at Oaktree Capital. A later illustrated edition adds commentary from other investors. All prose original."
+    }
+  },
+  {
+    "id": "fooled-by-randomness",
+    "title": "Fooled by Randomness",
+    "subtitle": "The Hidden Role of Chance in Life and in the Markets",
+    "author": "Nassim Nicholas Taleb",
+    "year": 2001,
+    "category": "investing-economics",
+    "subcategory": "uncertainty",
+    "tags": [
+      "randomness",
+      "probability",
+      "risk-management",
+      "survivorship-bias",
+      "decision-making"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It made a generation of investors ask whether a track record is evidence of skill at all. The arguments about survivorship, rare events and mistaking noise for signal have since become standard vocabulary well outside finance.",
+    "crux": {
+      "headline": "Success is a poor witness for its own causes",
+      "body": "When many people try something risky, some will succeed spectacularly by chance alone, and those are the ones who write books, give interviews and get imitated. Their explanations feel convincing because humans construct causes for everything. To judge any strategy you must ask about the outcomes that were possible but did not happen, and about all the people who followed the same approach and vanished."
+    },
+    "sparks": [
+      {
+        "id": "fooled-by-randomness-s01",
+        "hook": "Give enough people a coin and someone flips ten heads. Then they write a book.",
+        "insight": "Start with thousands of traders following essentially random strategies. Purely by chance, a handful will string together five profitable years. Those few end up on magazine covers, and their methods get studied and copied, while the far larger number who failed leave no trace. The record you are looking at was selected precisely because it was extreme, which is why extreme records are such weak evidence of anything.",
+        "why": "This is survivorship bias, and it is a mathematical certainty rather than a criticism of anyone. The larger the starting population, the more impressive the luckiest survivor will look.",
+        "apply": "Before copying anyone's method, ask how many people started with the same approach and where those people are now.",
+        "format": "single",
+        "tags": [
+          "survivorship-bias",
+          "track-records"
+        ]
+      },
+      {
+        "id": "fooled-by-randomness-s02",
+        "hook": "How likely something is matters less than what happens when it does.",
+        "insight": "A bet that wins nine times out of ten can still be a terrible bet if the tenth outcome wipes you out, and a bet that loses most of the time can be excellent if the rare win is enormous. People reason about probability and ignore magnitude, which is why strategies that produce a steady drip of small gains feel so safe. The right question is not how often you are right. It is what the full distribution pays.",
+        "why": "Expectation combines probability with size of outcome. Ignoring the size term is the single most common error in evaluating risky positions, in markets and in life.",
+        "apply": "For your next decision, write the payoff for each outcome as well as its likelihood, then multiply before you judge it.",
+        "format": "single",
+        "tags": [
+          "probability",
+          "asymmetry"
+        ]
+      },
+      {
+        "id": "fooled-by-randomness-s03",
+        "hook": "Checking your portfolio hourly means drowning in noise you cannot use.",
+        "insight": "Any signal in returns is buried under enormous short-term randomness. At a yearly horizon a good strategy shows up clearly. At a daily one it is almost invisible, and at a minute-by-minute one it is entirely obscured. Since losses feel worse than equivalent gains, frequent checking delivers a stream of small emotional injuries in exchange for no information. The optimal amount of attention is far lower than any app is designed to give you.",
+        "why": "The proportion of signal to noise rises with the observation period. Combined with loss aversion, frequent monitoring reliably degrades both mood and decisions.",
+        "apply": "Set a fixed schedule for reviewing your portfolio, monthly or quarterly, and remove price alerts from your phone entirely.",
+        "format": "single",
+        "tags": [
+          "noise",
+          "attention"
+        ]
+      },
+      {
+        "id": "fooled-by-randomness-s04",
+        "hook": "Steady profits can be the accounting of a risk that has not arrived yet.",
+        "insight": "Some strategies collect small reliable amounts by taking on a rare large loss: selling insurance against events that seldom occur, or holding positions that behave beautifully until the day they do not. For years the results look like skill, with smooth returns and impressive ratios. Then one event returns everything at once. The smoothness was never evidence of safety. It was the shape of the payoff, and it hid the exposure rather than removing it.",
+        "why": "Rare events are underrepresented in short samples, so risk measures calibrated on recent history systematically understate them. The exposure is invisible until it is realised.",
+        "apply": "For any smooth-returning investment, ask what would have to happen for it to lose a decade of gains, and how likely that truly is.",
+        "format": "single",
+        "tags": [
+          "tail-risk",
+          "hidden-risk"
+        ]
+      },
+      {
+        "id": "fooled-by-randomness-s05",
+        "hook": "The past is one path through a forest of paths that could have happened.",
+        "insight": "History records what occurred, not what nearly occurred, so the world always looks more determined than it was. A decision that came within an inch of catastrophe is filed as a success. To assess anything properly you have to reconstruct the alternatives: the outcomes that were plausible at the time, in what proportion, and how the choice would have fared in each. That mental exercise is harder than remembering, which is why almost nobody does it.",
+        "why": "Only one history is observed, so realised outcomes are a sample of size one. Judging decisions from them means grading a probability estimate on a single draw.",
+        "apply": "After any significant outcome, write down three ways it could plausibly have gone instead, and how your decision would have fared.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Freeze what you knew",
+            "body": "Write down the information available at the moment of the decision, without anything you learned afterwards. This is the only fair basis for judging it."
+          },
+          {
+            "step": 2,
+            "title": "List the other endings",
+            "body": "Name three or four outcomes that were genuinely possible from that starting point, including the ones that would have been unpleasant."
+          },
+          {
+            "step": 3,
+            "title": "Score the decision in each",
+            "body": "Ask how your choice would have fared across all of those worlds, not just the one that happened to occur."
+          },
+          {
+            "step": 4,
+            "title": "Grade the process",
+            "body": "A decision that only survives in the world that actually happened was a gamble that paid off. File it as luck, not as method."
+          }
+        ],
+        "tags": [
+          "alternative-histories",
+          "hindsight"
+        ]
+      },
+      {
+        "id": "fooled-by-randomness-s06",
+        "hook": "Nobody knows what will happen, but plenty of people know they are exposed.",
+        "insight": "Prediction is nearly hopeless for complex systems. Exposure is knowable right now. You cannot say whether markets will fall next year, but you can say whether a fall would force you to sell, cancel your plans or borrow. Shifting attention from forecasting to exposure is the practical move, because it depends on facts about your own position rather than facts about the future that nobody possesses.",
+        "why": "Exposure is a property of your balance sheet, which you can inspect. Probability of a rare event is estimated from thin data, which is exactly where estimation fails worst.",
+        "apply": "Write down what a fifty percent market fall would force you to do. Change your position until the answer is nothing.",
+        "format": "single",
+        "tags": [
+          "exposure",
+          "risk-management"
+        ]
+      },
+      {
+        "id": "fooled-by-randomness-s07",
+        "hook": "Your brain builds a story for random data before you notice it happening.",
+        "insight": "Pattern-finding is automatic and largely involuntary, which is useful when there are patterns and dangerous when there are none. Show anyone a random sequence and they will find trends, momentum and turning points in it, then explain the causes convincingly. Financial news exists to supply those explanations daily. Knowing this does not stop the mechanism, but it does let you discount your own confident narratives about why a price moved.",
+        "why": "Explanation-generation is a fast automatic process, while probabilistic reasoning is slow and effortful. The fast one wins by default unless you deliberately install a check.",
+        "apply": "When you catch yourself explaining a market move, write the explanation down and check a month later whether it held up.",
+        "format": "single",
+        "tags": [
+          "narrative-bias",
+          "psychology"
+        ]
+      },
+      {
+        "id": "fooled-by-randomness-s08",
+        "hook": "A thousand safe days is not proof that day one thousand and one is safe.",
+        "insight": "Evidence accumulated from repeated observation can never establish that something will not happen. A creature fed daily by a farmer gathers steadily stronger evidence of the farmer's goodwill, right up until the day that theory is decisively refuted. Long records of stability are exactly what you would expect to see just before a rare event, which is why they should raise your caution rather than settle it.",
+        "why": "This is the problem of induction. Absence of evidence for a rare event is nearly worthless as evidence of its absence, because the event is rare by definition.",
+        "apply": "For any system you rely on, ask what a long clean record would look like just before a first failure. Then plan for that failure.",
+        "format": "single",
+        "tags": [
+          "induction",
+          "tail-risk"
+        ]
+      },
+      {
+        "id": "fooled-by-randomness-s09",
+        "hook": "You cannot reason your way out of feeling losses. Design around it instead.",
+        "insight": "Understanding randomness intellectually does not stop the physical reaction to a falling portfolio. The emotional system that produces that reaction is not accessible to argument, and it will not improve with more knowledge. So the practical answer is structural: fewer decision points, automated contributions, positions small enough that no single one can dominate your mood, and rules written when you were calm and consulted when you are not.",
+        "why": "Emotional responses to loss are fast, physiological and largely unmodifiable by reasoning. Structure works because it changes the situations you face rather than the reactions you have.",
+        "apply": "Write your rules for buying and selling while markets are calm, and commit to consulting them before any decision made under stress.",
+        "format": "single",
+        "tags": [
+          "emotion",
+          "structure"
+        ]
+      },
+      {
+        "id": "fooled-by-randomness-s10",
+        "hook": "The argument is powerful but hard to falsify, which is worth saying out loud.",
+        "insight": "Attributing success to luck and failure to bad luck can be made to fit any evidence, and the framework offers few rules for telling a genuinely skilled operator from a fortunate one in real time. Skill does exist in markets, and some records are long and varied enough to be meaningful. Treat the book as a corrective against confident narratives, not as proof that all performance is noise, which is a claim it does not actually establish.",
+        "why": "An argument that cannot be contradicted by any observation is rhetorically strong and scientifically weak. That caution applies to this one as much as to the stories it attacks.",
+        "apply": "When judging a track record, ask how long it is, how many regimes it covers, and what result would have changed your mind.",
+        "format": "single",
+        "tags": [
+          "honest-caveats",
+          "skepticism"
+        ]
+      }
+    ],
+    "actions": [
+      "Take one investor or fund you admire and find out how many peers began with a similar approach and how they fared, before drawing any conclusion about skill.",
+      "Rewrite your three biggest financial decisions as payoffs rather than predictions: what you gain, what you lose, and how likely each is.",
+      "Cut your portfolio checking to a fixed monthly slot and remove every price notification from your devices.",
+      "Stress-test your finances against a severe market fall and adjust until the answer to what you would be forced to do is nothing."
+    ],
+    "if_you_liked": [
+      "the-black-swan",
+      "antifragile",
+      "the-most-important-thing",
+      "thinking-fast-and-slow"
+    ],
+    "not_for_you_if": "You want practical portfolio instructions, or you dislike digressive, opinionated writing that argues with people the author finds foolish.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2001; a substantially revised second edition appeared in 2004 and is the version most people read. Taleb was an options trader before writing. All prose original."
+    }
+  },
+  {
+    "id": "the-black-swan",
+    "title": "The Black Swan",
+    "subtitle": "The Impact of the Highly Improbable",
+    "author": "Nassim Nicholas Taleb",
+    "year": 2007,
+    "category": "investing-economics",
+    "subcategory": "uncertainty",
+    "tags": [
+      "uncertainty",
+      "tail-risk",
+      "forecasting",
+      "probability",
+      "risk-management"
+    ],
+    "difficulty": "challenging",
+    "read_time_min": 13,
+    "why_it_matters": "It argued, a year before the financial crisis, that the models banks relied on could not represent the events that would break them. The vocabulary of fat tails and unforecastable shocks entered mainstream conversation because of it.",
+    "crux": {
+      "headline": "The events that matter most are the ones you did not model",
+      "body": "History is not driven by the ordinary. It is driven by a handful of outliers nobody saw coming, which get explained confidently only afterwards. Since you cannot predict them, planning around forecasts is the wrong exercise. Build a position that survives whatever arrives, keeps you exposed to lucky outliers, and does not depend on anyone's estimate of how likely the improbable is."
+    },
+    "sparks": [
+      {
+        "id": "the-black-swan-s01",
+        "hook": "Three tests: nobody expected it, it changed everything, and afterwards it looked obvious.",
+        "insight": "The events that reshape careers, markets and countries share a pattern. They lie outside what past experience suggested was possible, they carry enormous consequences, and once they have happened people construct explanations that make them seem foreseeable all along. That last part is the dangerous one, because it convinces everybody that better analysis would have caught it, and so the same confidence rebuilds itself before the next one arrives.",
+        "why": "Retrospective explanation is nearly effortless while genuine foresight is nearly impossible. The gap between them keeps forecasting credible long after its record stops justifying it.",
+        "apply": "Write down your predictions with dates before events, seal them, and grade yourself later. Confidence rarely survives the first honest scoring.",
+        "format": "single",
+        "tags": [
+          "tail-events",
+          "hindsight"
+        ]
+      },
+      {
+        "id": "the-black-swan-s02",
+        "hook": "Some quantities have a natural ceiling. Wealth and book sales do not.",
+        "insight": "In the world of physical measurements, one extra observation cannot move the average much: nobody weighs a hundred times the mean. In the world of wealth, sales, city size and epidemic spread, a single observation can dwarf everything else combined. These are two different mathematical regimes, and almost every statistical intuition trained on the first fails badly in the second. Financial markets sit firmly in the second, while most of the tools used on them were designed for the first.",
+        "why": "In one regime the average describes the data. In the other, a few extreme observations contain most of the total, so sample averages and standard deviations become close to meaningless.",
+        "apply": "Ask which regime your problem belongs to before quoting an average. If one case could dominate the total, averages will mislead you.",
+        "format": "single",
+        "tags": [
+          "fat-tails",
+          "statistics"
+        ]
+      },
+      {
+        "id": "the-black-swan-s03",
+        "hook": "The bell curve is a comfortable tool that fails exactly when the stakes rise.",
+        "insight": "Ordinary statistical models treat extreme outcomes as so unlikely they can be ignored, which is why they produce reassuring numbers about maximum losses. Real market moves are far more extreme and far more frequent than those models allow, and the biggest days in market history are effectively impossible under the assumptions used to price and manage risk. A risk number computed this way is not conservative. It is a confident statement of something nobody can know.",
+        "why": "The tails of the normal distribution decay very fast, so events that occur every few decades in reality are assigned probabilities near zero. Errors concentrate precisely where the losses are largest.",
+        "apply": "When shown a risk figure, ask which distribution produced it and what happens beyond its range. Treat any single number with suspicion.",
+        "format": "single",
+        "tags": [
+          "risk-models",
+          "fat-tails"
+        ]
+      },
+      {
+        "id": "the-black-swan-s04",
+        "hook": "The record you are reading was written by the ones who came back.",
+        "insight": "Whenever an activity has a high failure rate, the evidence available to you is systematically incomplete. Successful founders explain their habits; the identically-behaving founders who failed are not interviewed. Ships that survived storms are examined; the sunk ones are not. This missing data is invisible by construction, so any conclusion drawn from what remains overstates the effect of whatever the survivors happened to share.",
+        "why": "The absent cases are not random. They are precisely the ones that would contradict the lesson, which makes the surviving sample the worst possible basis for inference.",
+        "apply": "For any success recipe, deliberately search for people who followed it and failed. If you cannot find them, distrust the recipe.",
+        "format": "single",
+        "tags": [
+          "survivorship-bias",
+          "evidence"
+        ]
+      },
+      {
+        "id": "the-black-swan-s05",
+        "hook": "Mistaking dice for the world is why smart people get blindsided.",
+        "insight": "Games have known rules and computable odds, which is what makes them teachable. Reality has neither: the rules can change, the deck can contain cards nobody listed, and the greatest danger in a casino is rarely at the tables. Training on tidy probability problems produces people who are excellent at handling risks that were written down and helpless before the ones that were not, which is where nearly all serious damage originates.",
+        "why": "Formal probability assumes the space of outcomes is known. In real systems that space is open-ended, so the mathematics answers a neater question than the one you actually face.",
+        "apply": "List the risks in your plan, then ask specifically what is missing from that list. Spend your effort on the second question.",
+        "format": "single",
+        "tags": [
+          "models",
+          "unknown-unknowns"
+        ]
+      },
+      {
+        "id": "the-black-swan-s06",
+        "hook": "Be extremely safe with most of your money and extremely adventurous with a little.",
+        "insight": "Instead of a moderate middle, split the position. Put the large majority into things that cannot plausibly be destroyed, and a small slice into ventures with unlimited upside and a capped, affordable loss. The result is a shape rather than a forecast: shocks cannot take you out, while an unpredictable success can still change your outcome. The middle-risk portfolio has neither property, because moderate assets can still fall a long way in a crisis.",
+        "why": "The structure depends on payoffs rather than probability estimates. You never need to know how likely the extreme is, only that your losses are bounded and your gains are not.",
+        "apply": "Split one pot of money into a safe majority and a small speculative slice you could lose entirely without changing your plans.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Define the untouchable base",
+            "body": "Decide the sum that must survive anything. Hold it in the dullest, most liquid instruments available, and accept the low return as the price of certainty."
+          },
+          {
+            "step": 2,
+            "title": "Cap the risky slice",
+            "body": "Choose a percentage small enough that losing all of it changes nothing about your life. That cap is what makes the aggressive part sane."
+          },
+          {
+            "step": 3,
+            "title": "Choose open-ended bets",
+            "body": "Inside the small slice, prefer things where the loss is limited to what you put in but the gain has no obvious ceiling."
+          },
+          {
+            "step": 4,
+            "title": "Refuse the middle",
+            "body": "Avoid instruments sold as moderately risky. Their risk is usually understated and they offer neither the safety of the base nor the upside of the slice."
+          }
+        ],
+        "tags": [
+          "barbell",
+          "portfolio-construction"
+        ]
+      },
+      {
+        "id": "the-black-swan-s07",
+        "hook": "Some experts are genuinely expert. Many are performing expertise.",
+        "insight": "In fields with stable rules and fast feedback, such as chess or anaesthesiology, expertise is real and demonstrable. In fields where outcomes are dominated by rare events and feedback takes years, such as economic forecasting or political prediction, measured accuracy is dismal while confidence is high. The important variable is not the intelligence of the practitioner but whether the field allows anyone to learn from being wrong.",
+        "why": "Skill develops where feedback is quick and unambiguous. Where the loop is slow and noisy, practitioners accumulate confidence and credentials without accumulating accuracy.",
+        "apply": "Before trusting a forecast, ask what the forecaster's documented hit rate is and how quickly they learn they were wrong.",
+        "format": "single",
+        "tags": [
+          "expertise",
+          "forecasting"
+        ]
+      },
+      {
+        "id": "the-black-swan-s08",
+        "hook": "Long stability is not evidence of safety. It can be evidence of accumulating fragility.",
+        "insight": "A system that has not failed for a long time attracts leverage, complacency and tighter optimisation, all of which reduce the shock it can absorb. Every additional quiet year makes the eventual disturbance more damaging, not less, because slack has been engineered out in the meantime. So a long record of calm should prompt the question of what has been built on the assumption that the calm continues.",
+        "why": "The mechanism is behavioural and structural: stability lowers perceived risk, which raises borrowing and reduces buffers, which raises actual risk. Calm periods manufacture the conditions for violent ones.",
+        "apply": "In any long-stable arrangement, look for where slack has been removed. Restore one buffer before you need it.",
+        "format": "single",
+        "tags": [
+          "fragility",
+          "stability"
+        ]
+      },
+      {
+        "id": "the-black-swan-s09",
+        "hook": "You remember the story, not the evidence, and the story was fitted afterwards.",
+        "insight": "Facts are hard to hold in mind unless they are strung into a narrative, so the mind supplies causes automatically and then keeps the causes rather than the raw data. This compresses information usefully and distorts it badly, because the tidiest explanation is rarely the truest one. In markets it means every price move acquires a reason by the evening news, and those reasons then become the basis of decisions the next morning.",
+        "why": "Compression by narrative is a memory strategy, not a truth-seeking one. The stories that survive retelling are selected for coherence and interest, which are unrelated to accuracy.",
+        "apply": "Record the raw facts of a decision separately from your explanation of them, so you can revisit the evidence without the story attached.",
+        "format": "single",
+        "tags": [
+          "narrative-bias",
+          "memory"
+        ]
+      },
+      {
+        "id": "the-black-swan-s10",
+        "hook": "The argument is strongest as a warning and weakest as an instruction.",
+        "insight": "Telling people that the important events are unforecastable leaves them with little to do beyond building buffers, and buffers are expensive. Critics also note that many events described as unforeseeable were in fact flagged by somebody who was ignored, which is a different failure from genuine unpredictability. The useful residue is practical: cap your downside, distrust precise risk numbers, and stop paying for forecasts. The sweeping version is harder to test.",
+        "why": "A framework that explains every surprise after the fact risks becoming unfalsifiable. It still earns its place because the specific claim about fat tails in markets is measurable and well supported.",
+        "apply": "Keep the practices, hold the philosophy loosely: bound your losses, avoid single points of failure, and ignore confident long-range predictions.",
+        "format": "single",
+        "tags": [
+          "honest-caveats",
+          "criticism"
+        ]
+      }
+    ],
+    "actions": [
+      "Identify every place where a single unlikely event could do you serious harm, and put a limit or a buffer on each one.",
+      "Restructure one pot of savings into a barbell: a large very safe portion and a small portion where you can afford to lose everything.",
+      "Record your confident predictions with dates, then score them honestly after a year to calibrate how much your forecasts are worth.",
+      "For any statistic you rely on, check whether one extreme observation could dominate it, and stop using averages where it could."
+    ],
+    "if_you_liked": [
+      "fooled-by-randomness",
+      "antifragile",
+      "skin-in-the-game",
+      "thinking-fast-and-slow"
+    ],
+    "not_for_you_if": "You want a calm, structured argument. The book is discursive and combative, and it spends many pages settling scores with academics.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2007 by Random House, with a second edition in 2010 adding a long essay. The term draws on the classical example used in the philosophy of induction. All prose original."
+    }
+  },
+  {
+    "id": "antifragile",
+    "title": "Antifragile",
+    "subtitle": "Things That Gain from Disorder",
+    "author": "Nassim Nicholas Taleb",
+    "year": 2012,
+    "category": "investing-economics",
+    "subcategory": "uncertainty",
+    "tags": [
+      "risk-management",
+      "optionality",
+      "resilience",
+      "decision-making",
+      "complexity"
+    ],
+    "difficulty": "challenging",
+    "read_time_min": 13,
+    "why_it_matters": "It named a property that had no word: things that improve under stress rather than merely enduring it. That distinction changed how people design portfolios, careers and organisations for a world they cannot forecast.",
+    "crux": {
+      "headline": "Some things get stronger when you shake them",
+      "body": "Sort everything you depend on into three groups. Fragile things break under disturbance. Robust things withstand it unchanged. A third category actually improves: muscles under load, immune systems meeting pathogens, businesses that gain share when weak rivals fail. Since you cannot predict the shocks, the practical goal is to move your important exposures out of the first group and into the third."
+    },
+    "sparks": [
+      {
+        "id": "antifragile-s01",
+        "hook": "The opposite of fragile is not sturdy. It is something that improves when stressed.",
+        "insight": "A parcel marked fragile is harmed by disturbance. A steel bar is indifferent to it. But bones, muscles, immune systems and competitive businesses respond to moderate stress by becoming more capable than before, which is a genuinely different property that ordinary language never named. Once you have the category, you can ask a much better question of anything you own or rely on: does disorder harm this, leave it alone, or feed it?",
+        "why": "The distinction is useful because the middle option is where most planning stops. Aiming only for robustness leaves all the upside of volatility unclaimed.",
+        "apply": "Sort your income, savings and skills into fragile, robust and improving-under-stress. Move one item up a category this quarter.",
+        "format": "single",
+        "tags": [
+          "fragility",
+          "framework"
+        ]
+      },
+      {
+        "id": "antifragile-s02",
+        "hook": "Small regular stresses prevent the big break. Removing them causes it.",
+        "insight": "Living systems are built to be challenged. Bone density responds to load, immune competence to exposure, muscles to strain, forests to small fires. Take the stressors away and the system does not become safer, it becomes weaker, and the eventual disturbance is catastrophic instead of ordinary. Suppressing every small fire is how you guarantee the large one, and the same logic runs through economies, careers and children's upbringings.",
+        "why": "Overcompensation is the mechanism: the system rebuilds slightly beyond what the stress required. Without the signal there is nothing to rebuild against, so capacity decays quietly.",
+        "apply": "Add one small controlled stress to a system you protect too carefully, whether that is your body, your budget or your team.",
+        "format": "single",
+        "tags": [
+          "hormesis",
+          "resilience"
+        ]
+      },
+      {
+        "id": "antifragile-s03",
+        "hook": "Improvement comes faster from removing than from adding.",
+        "insight": "We reliably overrate intervention and underrate subtraction. In health, dropping the harmful thing usually beats adding a supplement. In portfolios, cutting fees and leverage does more than any clever new holding. In work, removing the meetings and dependencies that create fragility beats adding a system. Subtraction is also safer, because what you take away has known consequences while what you add carries side effects nobody has mapped.",
+        "why": "Negative knowledge is more robust than positive knowledge. We are far more confident about what harms a system than about what will improve it, so acting on the first is a better bet.",
+        "apply": "Make your next improvement a removal. Delete one commitment, one holding or one habit, and change nothing else for a month.",
+        "format": "single",
+        "tags": [
+          "subtraction",
+          "simplicity"
+        ]
+      },
+      {
+        "id": "antifragile-s04",
+        "hook": "You do not need to be right often if being right pays enormously.",
+        "insight": "Options have a lopsided shape: a limited cost to hold and an uncapped benefit if things go your way. Positions with that shape do not require good forecasting, because you can be wrong repeatedly and still come out ahead when one attempt pays off at a scale the failures never reached. Careers, side projects, research and relationships can all be arranged this way, by keeping each attempt cheap enough that failure is unremarkable.",
+        "why": "Value comes from the asymmetry, not the prediction. If losses are bounded and gains are not, uncertainty becomes an asset rather than a threat.",
+        "apply": "Design your next experiment so the worst case is boring: small cost, short duration, and an outcome that could be far larger than the input.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Bound the downside",
+            "body": "Fix in advance what this attempt can cost you in money, time and reputation. If the worst case is not affordable, redesign it before starting."
+          },
+          {
+            "step": 2,
+            "title": "Leave the upside open",
+            "body": "Avoid arrangements that cap your gain. A fixed fee for something that could grow enormously is the wrong side of the trade."
+          },
+          {
+            "step": 3,
+            "title": "Take many small shots",
+            "body": "With bounded losses, frequency helps. Several cheap attempts beat one expensive commitment when you cannot predict which will work."
+          },
+          {
+            "step": 4,
+            "title": "Cut the dead ones fast",
+            "body": "The structure only works if failures stay cheap. Set a review date at the start and close anything that has not shown signs of life."
+          }
+        ],
+        "tags": [
+          "optionality",
+          "asymmetry"
+        ]
+      },
+      {
+        "id": "antifragile-s05",
+        "hook": "The longer an idea has survived, the longer it will probably last.",
+        "insight": "For things that do not age biologically, such as books, tools, recipes and institutions, survival is evidence of fitness. A technology in daily use for a century has been tested against conditions no analyst could enumerate, while one released last year has been tested against almost nothing. This gives you a cheap filter when you cannot evaluate quality directly: prefer what has already outlasted many rounds of fashion.",
+        "why": "The honest caveat is that this is a heuristic, not a law, and it fails where conditions change fundamentally or where survival was maintained by power rather than merit.",
+        "apply": "When choosing what to read or which tool to adopt, favour the option that has already been in use for decades.",
+        "format": "single",
+        "tags": [
+          "lindy",
+          "heuristics"
+        ]
+      },
+      {
+        "id": "antifragile-s06",
+        "hook": "Interventions have side effects, and the side effects are usually unmeasured.",
+        "insight": "In complex systems, action taken to help frequently causes harm that arrives later and is attributed elsewhere. Medicine has a word for damage done by treatment, and the concept generalises: economic interventions, management restructures and constant portfolio adjustment all carry costs that nobody assigns to the decision that caused them. The bar for intervening should therefore rise with the complexity of the system and the mildness of the problem.",
+        "why": "Benefits of intervention are visible and credited immediately, while harms are diffuse and delayed. That asymmetry means the reported track record of intervening is systematically flattering.",
+        "apply": "Before intervening in something complex, ask whether the problem is severe enough to justify effects you will not be able to trace.",
+        "format": "single",
+        "tags": [
+          "intervention",
+          "complexity"
+        ]
+      },
+      {
+        "id": "antifragile-s07",
+        "hook": "Practice usually invents the thing, and theory explains it afterwards.",
+        "insight": "The standard story runs from science to technology to application. The record is often the reverse: craftsmen built working engines before thermodynamics explained them, and traders used pricing rules before the formal models existed. This matters because it undercuts the assumption that funding theory is the reliable route to progress, and it raises the standing of people who tinker without being able to articulate why what they do works.",
+        "why": "The caveat is that the claim is argued from selected historical cases, and plenty of modern technology genuinely did descend from theory. Treat it as a corrective to a one-way story, not a reversal of it.",
+        "apply": "When learning a practical skill, spend more time doing and adjusting than studying, and let the explanation come after competence.",
+        "format": "single",
+        "tags": [
+          "tinkering",
+          "knowledge"
+        ]
+      },
+      {
+        "id": "antifragile-s08",
+        "hook": "Efficiency and fragility are frequently the same thing wearing different clothes.",
+        "insight": "Optimising a system means removing everything that is not currently being used: spare capacity, redundant suppliers, cash buffers, idle time. Each removal raises measured performance and lowers tolerance for surprise. A supply chain with one supplier is cheaper right up to the week that supplier fails. Redundancy looks like waste in every quarter except the one where it is the only reason you survived.",
+        "why": "Buffers pay off rarely and cost continuously, so they are always the first thing cut by anyone measuring quarterly efficiency. The bill for the cut arrives on a different timescale.",
+        "apply": "Find the single supplier, single client or single account you depend on, and build a second one before you need it.",
+        "format": "single",
+        "tags": [
+          "redundancy",
+          "fragility"
+        ]
+      },
+      {
+        "id": "antifragile-s09",
+        "hook": "Reluctance can be information rather than laziness.",
+        "insight": "When you keep putting something off, it is worth asking whether some part of you has detected that the task is unnecessary, badly framed, or being done for someone else's benefit. Not always, plenty of avoidance is simple discomfort. But treating every hesitation as a discipline failure means overriding a signal that occasionally knows something your explicit reasoning has not caught up with yet, particularly about commitments made under social pressure.",
+        "why": "This is a suggestion rather than a finding, and it can obviously be used to excuse anything. Its value is as a prompt to examine the task, not as permission to abandon it.",
+        "apply": "For anything you have delayed three times, write one sentence on why it exists. If you cannot, consider deleting it instead.",
+        "format": "single",
+        "tags": [
+          "procrastination",
+          "signals"
+        ]
+      },
+      {
+        "id": "antifragile-s10",
+        "hook": "Do not take advice on risk from someone who does not carry any.",
+        "insight": "A person who gains when a prediction works and loses nothing when it fails is not giving you an assessment, they are taking a free position. This applies to forecasters, consultants, and anyone recommending exposure they do not share. The filter is simple and unusually reliable: ask what happens to the adviser if the advice is wrong. If the answer is nothing, weigh the advice accordingly, however credentialed the source.",
+        "why": "Asymmetric exposure changes behaviour regardless of intent. Someone who bears no downside will systematically recommend more risk than someone who does, without ever consciously deciding to.",
+        "apply": "For any recommendation involving your money, ask directly how the person is paid and what they lose if it goes wrong.",
+        "format": "single",
+        "tags": [
+          "incentives",
+          "skin-in-the-game"
+        ]
+      }
+    ],
+    "actions": [
+      "Audit your finances, work and health for single points of failure, then add one buffer or backup to the most exposed of them.",
+      "Restructure one part of your life as a barbell: a very safe majority plus a small slice of cheap attempts with open-ended upside.",
+      "Make a list of things to remove rather than add, and delete one commitment or holding each month for a quarter.",
+      "For every adviser you rely on, write down how they are paid and what they lose if their advice turns out badly."
+    ],
+    "if_you_liked": [
+      "the-black-swan",
+      "skin-in-the-game",
+      "fooled-by-randomness"
+    ],
+    "not_for_you_if": "You want tight argument and evidence. The style is sprawling and aggressive, and claims often arrive as assertion rather than demonstration.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2012 by Random House, the fourth volume of Taleb's Incerto series. Several central claims, such as the Lindy heuristic and the practice-before-theory argument, are conjectures rather than established findings. All prose original."
+    }
+  },
+  {
+    "id": "skin-in-the-game",
+    "title": "Skin in the Game",
+    "subtitle": "Hidden Asymmetries in Daily Life",
+    "author": "Nassim Nicholas Taleb",
+    "year": 2018,
+    "category": "investing-economics",
+    "subcategory": "incentives",
+    "tags": [
+      "incentives",
+      "risk-management",
+      "ethics",
+      "decision-making",
+      "probability"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It puts one question at the centre of judging any adviser, institution or forecast: what do they lose if they are wrong. That test cuts through credentials and rhetoric faster than almost anything else available to a non-expert.",
+    "crux": {
+      "headline": "Judge advice by what the adviser stands to lose",
+      "body": "Anyone who benefits when a decision goes well and is untouched when it goes badly will take more risk with your money, your health or your country than they would with their own. The problem is structural rather than moral, so it does not respond to good intentions. Look for people whose exposure moves with yours, and discount everyone else regardless of how well they argue."
+    },
+    "sparks": [
+      {
+        "id": "skin-in-the-game-s01",
+        "hook": "Someone who cannot lose is not advising you. They are placing a free bet.",
+        "insight": "When the upside of a recommendation lands with the adviser and the downside lands with you, the advice is systematically biased toward risk, no matter how sincere the person is. This shows up in fund managers paid on gains but not on losses, in executives with bonuses and no clawback, and in commentators whose bad calls disappear from the record. The distortion arrives through incentives, so honesty on its own does not remove it.",
+        "why": "Asymmetric payoffs shape behaviour without conscious intent. People genuinely believe their recommendations while their exposure quietly selects which ones they find convincing.",
+        "apply": "Ask every adviser what they personally lose if they are wrong. Treat a vague answer as an answer.",
+        "format": "single",
+        "tags": [
+          "incentives",
+          "agency"
+        ]
+      },
+      {
+        "id": "skin-in-the-game-s02",
+        "hook": "Your long-run outcome is not the average outcome across many people.",
+        "insight": "Imagine a bet with a good average return that also carries a small chance of total ruin. Run it across a hundred people once and the average looks fine, because the winners offset the ruined. Run it a hundred times on yourself and ruin becomes nearly certain, because once you are wiped out there are no further rounds. Averages computed across a group tell you almost nothing about what repetition does to one person.",
+        "why": "This is the distinction between an ensemble and a time sequence. Expected value is only a reliable guide when you survive to keep playing, which is exactly what ruin removes.",
+        "apply": "Before any repeated risk, ask what happens if you take it a hundred times. Refuse anything with a real chance of ruin.",
+        "format": "single",
+        "tags": [
+          "ergodicity",
+          "ruin"
+        ]
+      },
+      {
+        "id": "skin-in-the-game-s03",
+        "hook": "A stubborn few percent can decide what everyone ends up eating.",
+        "insight": "When a small group refuses all substitutes and the majority is flexible, producers find it cheaper to serve everybody the version the minority accepts. This is why a whole product line can conform to a dietary rule observed by a tiny fraction of the population. The mechanism needs the intransigence to be asymmetric and the cost of accommodating it to be low, and where those conditions hold, majority preference stops determining outcomes.",
+        "why": "This is argued from examples rather than measured systematically, so treat it as a plausible mechanism rather than a general law. It clearly does not operate where accommodation is expensive.",
+        "apply": "When predicting what a group will choose, look for the members with the least flexibility rather than counting preferences.",
+        "format": "single",
+        "tags": [
+          "minority-rule",
+          "group-behaviour"
+        ]
+      },
+      {
+        "id": "skin-in-the-game-s04",
+        "hook": "Talking about a risk and taking one are not the same activity.",
+        "insight": "Words are cheap and reversible. Exposure is not. Someone who has put their own money, career or body behind a claim has been filtered by reality in a way no argument can replicate, and their surviving beliefs carry information their reasoning does not. This is why an experienced practitioner with unimpressive explanations is often a better guide than an articulate observer who has never faced a consequence.",
+        "why": "Exposure acts as a selection mechanism. People whose bad judgements have costs are removed from the pool over time, while commentators with no exposure accumulate regardless of accuracy.",
+        "apply": "When choosing whom to learn from, prefer people who have paid for their mistakes over people who have only described them.",
+        "format": "single",
+        "tags": [
+          "practitioners",
+          "evidence"
+        ]
+      },
+      {
+        "id": "skin-in-the-game-s05",
+        "hook": "Look for evidence of costly commitment before you trust the message.",
+        "insight": "You usually cannot evaluate an expert's technical claims directly, but you can inspect their exposure, which is far easier and surprisingly informative. Do they own what they recommend? Does their income depend on the answer? Have they publicly changed their mind when the evidence moved? None of these prove competence. Together they filter out a large share of confident nonsense at very low cost to you.",
+        "why": "Exposure checks are cheap, verifiable and hard to fake, unlike credentials and eloquence, which correlate weakly with accuracy in fields with slow feedback.",
+        "apply": "Run a four-question exposure check on your next adviser before you evaluate a single one of their arguments.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Ask about their own holdings",
+            "body": "Do they own the thing they are recommending, in a meaningful size relative to their wealth? An adviser who does not is telling you something."
+          },
+          {
+            "step": 2,
+            "title": "Trace the payment",
+            "body": "Find out who pays them and on what basis. Commission, assets under management and success fees each bend advice in a predictable direction."
+          },
+          {
+            "step": 3,
+            "title": "Check the record of errors",
+            "body": "Look for occasions when they said they were wrong. People with real exposure develop this habit because reality already forced it on them."
+          },
+          {
+            "step": 4,
+            "title": "Ask what a mistake costs them",
+            "body": "If the honest answer is nothing, keep listening if you like, but weight the advice as opinion rather than as expertise."
+          }
+        ],
+        "tags": [
+          "due-diligence",
+          "incentives"
+        ]
+      },
+      {
+        "id": "skin-in-the-game-s06",
+        "hook": "Rules that work in a village often break when applied to a nation.",
+        "insight": "Behaviour that is sensible among people who know each other, where reputations are visible and consequences land on the person who caused them, does not automatically transfer to systems with millions of participants and diffuse accountability. Scale changes who bears the cost of a decision, and that is exactly the variable that keeps behaviour honest. So a principle should be examined at the level where it will actually be applied, not the level where it sounds appealing.",
+        "why": "Accountability weakens as the distance between decision-maker and consequence grows. Most institutional failure is a version of this, rather than a shortage of good intentions.",
+        "apply": "When judging a policy or a company rule, ask who personally bears the cost when it fails at full scale.",
+        "format": "single",
+        "tags": [
+          "scale",
+          "accountability"
+        ]
+      },
+      {
+        "id": "skin-in-the-game-s07",
+        "hook": "Surviving is the only definition of rationality that never argues back.",
+        "insight": "Debates about whether a belief or custom is rational usually founder on whose standard of reason applies. A more workable test asks what happens to the people and practices over time: anything that reliably produces ruin disappears, whatever its logic looked like on paper. This makes survival the quiet judge of ideas, and it explains why old customs that appear irrational sometimes encode protection against risks nobody explicitly identified.",
+        "why": "The weakness is that survival also preserves plenty of harmful practices, and the argument can be used to defend almost any tradition after the fact. It works better as a caution than as an endorsement.",
+        "apply": "Before discarding a long-standing practice as illogical, ask what risk it might have been quietly protecting against.",
+        "format": "single",
+        "tags": [
+          "survival",
+          "tradition"
+        ]
+      },
+      {
+        "id": "skin-in-the-game-s08",
+        "hook": "Steady profits followed by a bailout is a strategy, not an accident.",
+        "insight": "You can collect small returns for years by carrying a hidden risk of catastrophe, book the profits annually, and be rescued or simply move on when the catastrophe arrives. The pattern recurs because it is rational for the individual and destructive for everyone else. The fix is structural: the people who take the risk must be exposed to the loss, through deferred pay, clawbacks or ownership, or the same behaviour reappears with new names.",
+        "why": "Where gains are personal and losses are socialised, the incentive to hide tail risk is permanent. Regulation that does not touch personal exposure leaves the mechanism intact.",
+        "apply": "Check whether the people managing your money would personally suffer in a severe loss. If not, reduce what you give them.",
+        "format": "single",
+        "tags": [
+          "moral-hazard",
+          "incentives"
+        ]
+      },
+      {
+        "id": "skin-in-the-game-s09",
+        "hook": "Displays of virtue that cost nothing tell you nothing.",
+        "insight": "Stating a position publicly is cheap when the position is popular in your own circle, and it is easy to mistake the resulting comfort for courage. The signal worth attending to is a stance that carries a real personal cost: money forgone, status risked, an unpopular position held among people who can punish you for it. Without a cost, an expressed value is a preference, and preferences change quietly when conditions do.",
+        "why": "Costly signals are informative precisely because they are expensive to fake. Costless ones are copied instantly by everyone, which destroys their information content.",
+        "apply": "Judge people, including yourself, by the positions held at a cost, not by the ones announced where they are already popular.",
+        "format": "single",
+        "tags": [
+          "virtue-signalling",
+          "courage"
+        ]
+      },
+      {
+        "id": "skin-in-the-game-s10",
+        "hook": "The test is useful. The sweeping version of the argument is not.",
+        "insight": "Plenty of valuable knowledge comes from people with no exposure at all, including most fundamental science, and plenty of practitioners with real exposure have been catastrophically wrong together. Exposure is a filter that works over long periods and large populations, not a guarantee about any individual. Use it as one strong input among several, and be suspicious when it is deployed mainly to dismiss critics whose only fault is disagreeing.",
+        "why": "The argument is presented through anecdote and assertion more than evidence, and it is unusually easy to use as a rhetorical weapon. That does not make the underlying incentive analysis wrong.",
+        "apply": "Apply the exposure test to advice about money and risk, where it is strongest, and rely on ordinary evidence elsewhere.",
+        "format": "single",
+        "tags": [
+          "honest-caveats",
+          "criticism"
+        ]
+      }
+    ],
+    "actions": [
+      "Write down, for every person or institution advising you on money, exactly how they are paid and what they lose if their advice fails.",
+      "Check each of your recurring risks for the possibility of ruin, and eliminate anything that could end the game however good its average looks.",
+      "Move your learning toward practitioners who have paid for their own mistakes and away from commentators with no exposure.",
+      "Review your own commitments and identify which stated values have ever cost you anything."
+    ],
+    "if_you_liked": [
+      "antifragile",
+      "the-black-swan",
+      "fooled-by-randomness"
+    ],
+    "not_for_you_if": "You dislike polemic. The argument is repeatedly interrupted by attacks on named opponents, and evidence is often replaced by assertion.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2018 by Random House, the fifth volume of the Incerto. The minority-rule and rationality-as-survival arguments are conjectures argued from examples rather than tested findings. All prose original."
     }
   }
 ]

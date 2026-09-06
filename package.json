@@ -15,14 +15,15 @@
     "content:validate": "node scripts/validate-content.mjs",
     "content:build": "node scripts/build-content.mjs",
     "content:sql": "node scripts/gen-seed-sql.mjs",
-    "content:all": "npm run content:validate && npm run content:build && npm run content:sql",
+    "content:all": "npm run content:validate && npm run content:duplicates && npm run content:build && npm run content:sql",
     "typecheck": "tsc --noEmit",
     "lint": "expo lint",
     "test": "node --test tests/*.test.mjs",
     "content:salvage": "node scripts/salvage-partial.mjs",
     "content:orphans": "node scripts/recover-orphans.mjs",
     "content:remaining": "node scripts/remaining-work.mjs",
-    "content:recover": "node scripts/salvage-partial.mjs && node scripts/remaining-work.mjs"
+    "content:recover": "node scripts/salvage-partial.mjs && node scripts/remaining-work.mjs",
+    "content:duplicates": "node scripts/find-duplicates.mjs"
   },
   "dependencies": {
     "@expo/metro-runtime": "^57.0.15",

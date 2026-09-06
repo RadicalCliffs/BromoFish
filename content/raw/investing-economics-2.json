@@ -1295,5 +1295,1212 @@
       "confidence": "high",
       "notes": "Published 1923 after serialisation in a magazine. A lightly fictionalised account widely understood to be based on the speculator Jesse Livermore, whose bankruptcies and 1940 death are noted in the sparks."
     }
+  },
+  {
+    "id": "manias-panics-and-crashes",
+    "title": "Manias, Panics, and Crashes",
+    "subtitle": "A History of Financial Crises",
+    "author": "Charles P. Kindleberger",
+    "year": 1978,
+    "category": "investing-economics",
+    "subcategory": "financial-crises",
+    "tags": [
+      "bubbles",
+      "credit",
+      "financial-crises",
+      "manias",
+      "economic-history",
+      "central-banks"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It rescued Hyman Minsky's theory of financial instability from obscurity and paired it with three centuries of actual crashes. Almost every serious account of bubbles written since borrows its sequence: a real story, cheap credit, euphoria, then a scramble for the exit.",
+    "crux": {
+      "headline": "Bubbles follow a script, not a surprise",
+      "body": "Crises are not random shocks landing on healthy markets. They grow inside them. Something genuinely new arrives, credit expands to chase it, prices rise, and the rising price is then read as proof the story was true. Late buyers are borrowing against the price rather than against anything the asset produces. When credit stops expanding the price stops rising, and the whole structure only ever worked while it rose."
+    },
+    "sparks": [
+      {
+        "id": "manias-panics-and-crashes-s01",
+        "hook": "Every mania begins with a story that is actually true.",
+        "insight": "Bubbles do not start with delusion. They start with a real change: a new trade route, a railway, a technology, a currency reform, a fall in interest rates. That change genuinely does make some assets worth more, and the first buyers are right. The trouble is that being right early attracts money with no view at all, only the observation that prices went up. By the time the crowd arrives, the original story is still true and completely irrelevant to the price.",
+        "why": "This is why sneering at bubbles as mass stupidity misreads them. The entry ticket is usually a correct forecast. The damage comes from the extrapolation that follows it, not from the forecast itself.",
+        "apply": "When you meet an investment story you believe, write down the price at which the true story stops being a good deal. Decide that number before you buy.",
+        "format": "single",
+        "tags": [
+          "bubbles",
+          "displacement",
+          "narratives"
+        ]
+      },
+      {
+        "id": "manias-panics-and-crashes-s02",
+        "hook": "No bubble has ever run on savings alone.",
+        "insight": "Prices cannot keep rising unless new money keeps arriving, and past a certain point that money has to be borrowed. So the real question about any boom is not whether the asset is good but where the credit is coming from: a bank loosening its terms, a new lender with no history, a product that lets buyers put down less. Credit expansion turns a price rise into a mania, and its exhaustion is what ends one, usually before any bad news arrives.",
+        "why": "Kindleberger builds on Hyman Minsky. Stability encourages borrowing, borrowing raises prices, higher prices appear to justify more borrowing. The instability is generated inside the system rather than imported from outside it.",
+        "apply": "For a market you are exposed to, find out who is lending into it and on what terms. Track that for one month instead of tracking the price.",
+        "format": "single",
+        "tags": [
+          "credit",
+          "leverage",
+          "minsky"
+        ]
+      },
+      {
+        "id": "manias-panics-and-crashes-s03",
+        "hook": "A crash is the last act of a play that started years earlier.",
+        "insight": "The sequence repeats with such regularity across three centuries that it works as a rough map. Something real happens, credit expands to chase it, prices detach from any cash the asset produces, insiders quietly leave, and then everyone tries to sell to each other at once. The details change completely: tulips, canals, Florida land, dot-coms, houses. The shape does not. Knowing where you are in the arc is usually more useful than knowing whether the asset looks cheap.",
+        "why": "The pattern is descriptive rather than predictive. It has matched crises since the 1600s, but it will never tell you the year, and being honest about that limit is what keeps it useful.",
+        "apply": "Name the stage you think your largest holding is in, write one sentence of evidence for that stage, and revisit the note every quarter.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Something real arrives",
+            "body": "A war ends, a technology lands, rates fall. Profit opportunities genuinely shift and the first movers make real money for real reasons. Nothing at this stage is irrational."
+          },
+          {
+            "step": 2,
+            "title": "Credit stretches to meet it",
+            "body": "Banks lend, new lenders appear, terms loosen, and instruments show up that let buyers borrow more against the same asset. The money available to this market quietly expands."
+          },
+          {
+            "step": 3,
+            "title": "Euphoria takes over",
+            "body": "Buying is justified by the price rise itself. People who know nothing about the asset pile in because staying out now feels like losing. Volume and prices accelerate together."
+          },
+          {
+            "step": 4,
+            "title": "Insiders step back",
+            "body": "The quiet stretch. Prices stall rather than fall, the best-informed holders sell into strength, and lenders start asking for slightly more collateral than they did last quarter."
+          },
+          {
+            "step": 5,
+            "title": "Everyone reaches the exit",
+            "body": "A small failure triggers a scramble for cash. Selling becomes forced rather than chosen, prices gap through anything a valuation model would call fair, and credit disappears."
+          }
+        ],
+        "tags": [
+          "bubbles",
+          "credit-cycle",
+          "history"
+        ]
+      },
+      {
+        "id": "manias-panics-and-crashes-s04",
+        "hook": "The phrase that marks the top is a claim about arithmetic.",
+        "insight": "Late in every boom, someone explains why the old measures no longer apply: a new economy, a permanently higher plateau, a shortage that cannot end. The argument is rarely stupid and it is always specific to that decade, which is exactly why it works. What it always does is remove the ceiling. If the usual limits are void, no price is too high. Watch for the moment valuation gets replaced by a story about why valuation is obsolete.",
+        "why": "New-era reasoning is not a personality flaw. It is the device that lets a crowd hold a position ordinary arithmetic would reject, and it recurs in almost every mania on record.",
+        "apply": "Ask a holder of any hot asset what would make it too expensive. If no number exists, treat that as information about the market rather than about the person.",
+        "format": "single",
+        "tags": [
+          "euphoria",
+          "new-era",
+          "valuation"
+        ]
+      },
+      {
+        "id": "manias-panics-and-crashes-s05",
+        "hook": "Fraud is committed in the boom and discovered in the bust.",
+        "insight": "Swindles cluster at the end of manias, and not by coincidence. Rising prices hide bad accounting, because a bad asset can always be sold on at a profit. Easy credit funds anyone with a plausible story. Enormous unearned gains make small lies feel survivable. When credit tightens, the same behaviour becomes visible almost instantly, because you now need cash rather than a buyer. Booms do not merely precede fraud, they manufacture the conditions for it.",
+        "why": "What changes in the bust is detection more than behaviour. The downturn removes the cover, refinancing and rising collateral values, that let the boom's misreporting go unchallenged.",
+        "apply": "Before you trust a company's numbers, ask whether they still work if it cannot raise money for two years. If not, treat them as provisional.",
+        "format": "single",
+        "tags": [
+          "fraud",
+          "booms",
+          "accounting"
+        ]
+      },
+      {
+        "id": "manias-panics-and-crashes-s06",
+        "hook": "The rescue rule is nearly two centuries old and still argued about.",
+        "insight": "In a panic everyone wants cash at once, and even solvent institutions fail because assets cannot be sold fast enough. The classic answer, inherited from Victorian banking, is that someone must lend without limit, at a punishing rate, against collateral that would be good in normal times. The severity is the point: it saves the system while making the rescue expensive for whoever needs it. The hard question is never whether to do it but who is willing.",
+        "why": "Walter Bagehot set out the doctrine in 1873 and central banks broadly followed it in 2008. The unresolved part is international, because in a global panic there is no clear lender of last resort with the authority to act.",
+        "apply": "Read one page on what your own central bank actually did in the last crisis. Knowing its reflex tells you how the next panic is likely to end.",
+        "format": "single",
+        "tags": [
+          "central-banks",
+          "panics",
+          "lender-of-last-resort"
+        ]
+      },
+      {
+        "id": "manias-panics-and-crashes-s07",
+        "hook": "Every rescue makes the next crisis a little more likely.",
+        "insight": "If lenders learn that catastrophe will be absorbed by the public, the rational response is to take more risk next time, so the following boom starts from a more fragile position. But refusing to rescue turns a financial fire into a depression that lands on people who never made a bet. There is no clean resolution. The practical answer has been deliberate vagueness: never promise a rescue, never rule one out, and keep any rescue humiliating enough to hurt.",
+        "why": "This is a genuine dilemma rather than a policy failure, and both horns have historical bodies attached. The years from 1929 show the cost of restraint; the years after 2008 show the cost of the alternative.",
+        "apply": "When you hear a confident answer about bailouts, ask what the speaker would have done in the opposite case. The test of a rule is the case it handles badly.",
+        "format": "single",
+        "tags": [
+          "moral-hazard",
+          "bailouts",
+          "policy"
+        ]
+      },
+      {
+        "id": "manias-panics-and-crashes-s08",
+        "hook": "Panic travels by balance sheet, not by border.",
+        "insight": "Crises spread between countries that have little in common because the same lenders are exposed to both. A fund forced to sell in one market raises cash by selling whatever it can in another, so healthy assets fall alongside sick ones. Trade links, currency pegs and shared creditors all carry the shock. This is why an economy can be wrecked by trouble it had no part in, and why saying that the local fundamentals are sound is a weak defence in a panic.",
+        "why": "Contagion through common lenders and forced selling is documented across the 1873, 1929, 1997 and 2008 episodes. It works even when two economies have no meaningful direct trade relationship.",
+        "apply": "Check whether your holdings share a big lender, broker or index. Correlations that look low in calm markets often come from a single source of funding.",
+        "format": "single",
+        "tags": [
+          "contagion",
+          "global-finance",
+          "liquidity"
+        ]
+      },
+      {
+        "id": "manias-panics-and-crashes-s09",
+        "hook": "There is a quiet stretch between the top and the crash.",
+        "insight": "Prices usually do not fall off the peak. They wander sideways while something changes underneath: insiders sell into strength, lenders tighten terms without announcing it, the ratio of new buyers to old holders turns. This is the period when it is still easy to sell at a good price and nobody feels any reason to. By the time the news arrives that everyone later calls the cause, the market has been fragile for months and the exit has narrowed.",
+        "why": "The lag explains why waiting to sell until the news turns bad fails as a plan. Once the news turns, the price has already moved and the liquidity you were relying on has gone.",
+        "apply": "Decide your exit conditions while a market is calm and boring, and write them down. A rule invented during distress is not a rule.",
+        "format": "single",
+        "tags": [
+          "distress",
+          "selling",
+          "liquidity"
+        ]
+      },
+      {
+        "id": "manias-panics-and-crashes-s10",
+        "hook": "This framework explains every crash and predicts none of them.",
+        "insight": "The stages are convincing in hindsight and nearly useless as a timing device. Credit has expanded for years without a crash. Prices have looked insane and gone higher. Several people who identified bubbles correctly were ruined by being early. Critics of the Minsky framework make a fair point: it is a narrative rather than a testable model, and it can be fitted to almost any episode after the fact. Use it to size your exposure, never to pick a date.",
+        "why": "Being honest about the limit makes the framework more useful, not less. Knowing a system is fragile is valuable even when nothing tells you which week the fragility pays out.",
+        "apply": "Convert any bubble call into a position you could hold for three years without being forced out. If you cannot, do not take it at all.",
+        "format": "single",
+        "tags": [
+          "forecasting",
+          "humility",
+          "risk"
+        ]
+      }
+    ],
+    "actions": [
+      "Map the credit behind one market you own: who lends into it, on what terms, and how those terms have changed over the past two years.",
+      "Write a one-page history of a crash you lived through, marking where each stage began and what you personally believed at the time.",
+      "Set position limits that assume you cannot sell at the price on your screen, then check whether your current holdings already break them.",
+      "Read a contemporary newspaper account written at the top of a past bubble and note how reasonable every argument in it sounded."
+    ],
+    "if_you_liked": [
+      "reminiscences-of-a-stock-operator",
+      "the-big-short",
+      "against-the-gods"
+    ],
+    "not_for_you_if": "You want a trading system or a forecast. This is economic history, sceptical about timing, and it will not tell you when to sell.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 1978. Later editions were revised and, after Kindleberger's death in 2003, co-authored with Robert Aliber. All prose here is original."
+    }
+  },
+  {
+    "id": "against-the-gods",
+    "title": "Against the Gods",
+    "subtitle": "The Remarkable Story of Risk",
+    "author": "Peter L. Bernstein",
+    "year": 1996,
+    "category": "investing-economics",
+    "subcategory": "risk-and-probability",
+    "tags": [
+      "risk",
+      "probability",
+      "decision-making",
+      "history-of-ideas",
+      "uncertainty",
+      "investing"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It tells the story of how humans stopped treating the future as fate and started measuring it. Insurance, portfolio theory, options pricing and modern risk management all descend from a handful of ideas traced here from dice games to derivatives.",
+    "crux": {
+      "headline": "Risk is what you can measure; the rest is uncertainty",
+      "body": "For most of history the future belonged to oracles and gods. Then a few mathematicians worked out that the odds of repeated events can be counted, and the whole architecture of modern finance followed: insurance, diversification, hedging, pricing. The catch is that these tools only work on the part of the future that resembles the past. Treating the unmeasurable part as though it had been measured is how sophisticated people lose everything."
+    },
+    "sparks": [
+      {
+        "id": "against-the-gods-s01",
+        "hook": "The Greeks had geometry and no concept of odds.",
+        "insight": "Ancient civilisations gambled constantly, built astonishing mathematics, and never developed probability. The obstacle was not arithmetic but belief. If the future belongs to fate or the gods, calculating it is a category error rather than an innovation. Probability only became thinkable once people accepted that tomorrow was partly the product of causes they could study. That shift, more than any single formula, is what separates modern life from everything that came before it.",
+        "why": "The gap is real and striking, since dice existed for millennia before anyone computed the odds. It suggests the limiting factor in many fields is permission to ask the question rather than technique.",
+        "apply": "Name one part of your life you treat as pure luck. Spend twenty minutes finding out whether any of it has base rates you could look up.",
+        "format": "single",
+        "tags": [
+          "history-of-ideas",
+          "probability"
+        ]
+      },
+      {
+        "id": "against-the-gods-s02",
+        "hook": "Two men solving a gambling puzzle invented the modern future.",
+        "insight": "The founding problem of probability was mundane: how to split a pot when a game is stopped early. Pascal and Fermat answered it by counting the ways the unfinished game could still play out and weighting the stakes accordingly. That move, reasoning about what has not happened yet by enumerating the ways it could happen, is the foundation under insurance premiums, clinical trials and the price of every option traded today.",
+        "why": "Their exchange took place in 1654, and the method generalises far beyond games. Measure the future by the distribution of ways it could unfold, not by a single guess about which one will occur.",
+        "apply": "Replace your next forecast with three: a good case, a bad case and a middle, each with a rough weight. Act on the weighted picture, not the middle one.",
+        "format": "single",
+        "tags": [
+          "probability",
+          "forecasting",
+          "pascal"
+        ]
+      },
+      {
+        "id": "against-the-gods-s03",
+        "hook": "A prize can be worth less than the odds say it is.",
+        "insight": "A gamble with an enormous mathematical value will still not tempt you to bet your house, and Daniel Bernoulli explained why. What matters is not the money but what the money does for you. Your first thousand changes your life; your ten-thousandth barely registers. So the same bet is genuinely worth different amounts to different people, and refusing a favourable wager is rational when losing would take you out of the game entirely.",
+        "why": "Diminishing marginal utility, proposed in 1738, still underpins how economists model choice. It also explains insurance: paying more than a risk's expected cost is sensible when the loss would be ruinous.",
+        "apply": "Before any large bet, ask what the loss would do to your life rather than to your balance. Size the position against that answer alone.",
+        "format": "single",
+        "tags": [
+          "utility",
+          "risk-taking",
+          "bernoulli"
+        ]
+      },
+      {
+        "id": "against-the-gods-s04",
+        "hook": "Five ideas turned an unknowable future into a spreadsheet.",
+        "insight": "Modern risk management is not one discovery but a stack. Each layer answers a different question: how many observations do I need, how do outcomes cluster, what happens after an extreme reading, how do I revise a belief when evidence arrives, and how do I combine risks so they partly cancel. Almost every tool a bank, an insurer or an investor uses today is one of these five ideas wearing a costume.",
+        "why": "The stack took roughly three centuries to assemble, and each layer rests on assumptions that hold most of the time and fail in precisely the conditions where you need them most.",
+        "apply": "Take a decision you are facing and run it through all five questions in order. The one you cannot answer is where your real risk is sitting.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Count enough trials",
+            "body": "One coin toss tells you nothing; ten thousand tell you nearly everything. Jacob Bernoulli showed that certainty grows with sample size, and also how slowly it grows."
+          },
+          {
+            "step": 2,
+            "title": "Find the shape",
+            "body": "Plot enough measurements and most cluster around an average with thinning tails. The bell curve made the question of how unusual something is into one with a number for an answer."
+          },
+          {
+            "step": 3,
+            "title": "Expect a return to average",
+            "body": "Galton noticed that extreme results are usually followed by milder ones. Much of what looks like the effect of an intervention is only this, and it fools people constantly."
+          },
+          {
+            "step": 4,
+            "title": "Update on evidence",
+            "body": "Bayes gave a rule for revising a belief when new data arrives: start with a prior, weigh how likely the evidence was under each story, and move accordingly."
+          },
+          {
+            "step": 5,
+            "title": "Combine, do not just pick",
+            "body": "Markowitz showed risk is a property of the whole portfolio. Assets that move differently pull the risk of the set below the average risk of its parts."
+          }
+        ],
+        "tags": [
+          "risk-management",
+          "statistics",
+          "portfolio-theory"
+        ]
+      },
+      {
+        "id": "against-the-gods-s05",
+        "hook": "The best year rarely repeats, and it is not because you got worse.",
+        "insight": "Extreme outcomes are usually part skill and part luck, and luck does not repeat. So the fund at the top of the table, the star hire and the record quarter all tend to drift back toward ordinary. The trap is that we explain the drift with stories about complacency, a broken system or a lost touch. Praise appears to hurt and criticism appears to help, when both are just the arithmetic of extremes reasserting itself.",
+        "why": "Regression to the mean is a statistical necessity wherever a measure contains noise, not a psychological claim. It is one of the most reliably misread facts in business, sport and medicine.",
+        "apply": "Judge any exceptional result across at least three periods before you copy it, and never change a working system on the strength of one outlier.",
+        "format": "single",
+        "tags": [
+          "regression-to-the-mean",
+          "luck",
+          "evaluation"
+        ]
+      },
+      {
+        "id": "against-the-gods-s06",
+        "hook": "Not knowing the odds is a different problem from bad odds.",
+        "insight": "A roulette wheel has known probabilities. A new market, a war or a technology does not. Frank Knight drew the line between the two and argued that profit comes from the second kind, because anything with countable odds eventually gets priced. The practical consequence is uncomfortable: the most important decisions of your life sit in the category the mathematics does not cover, and dressing them in decimal points does not move them into it.",
+        "why": "Knight's 1921 distinction survives because it keeps being demonstrated. Models that assign precise probabilities to genuinely unmeasurable situations have blown up repeatedly, most spectacularly in 1998 and 2008.",
+        "apply": "Label each big decision as measurable or not. For the unmeasurable ones, buy robustness such as spare cash and optionality instead of forecasting harder.",
+        "format": "single",
+        "tags": [
+          "uncertainty",
+          "knight",
+          "forecasting"
+        ]
+      },
+      {
+        "id": "against-the-gods-s07",
+        "hook": "Diversification is the only thing in finance you get for nothing.",
+        "insight": "Combine assets that do not move together and the swings of the collection are smaller than the average swing of its members, without giving up the average return. That is a genuinely free improvement and it is why portfolio theory won a Nobel. The condition matters, though. The whole benefit comes from things moving differently, and in a panic almost everything moves the same way, at exactly the moment you were counting on it.",
+        "why": "Markowitz formalised this in 1952. Correlations are unstable and tend to rise sharply during crises, so measured diversification systematically overstates the protection you actually hold when it counts.",
+        "apply": "List your holdings by what really drives them, such as one economy, one interest rate or one customer, rather than by asset label. Count the real bets.",
+        "format": "single",
+        "tags": [
+          "diversification",
+          "portfolio-theory",
+          "correlation"
+        ]
+      },
+      {
+        "id": "against-the-gods-s08",
+        "hook": "Insurance is a bad bet that is worth taking.",
+        "insight": "Every policy you buy is priced above the expected cost of the risk, because the insurer needs to cover its costs and make a profit. On average, you lose. You buy it anyway because the average is the wrong measure when a single outcome could end you. You are trading a small certain loss for the removal of a rare catastrophic one, and the same logic should decide how much cash you hold and how much leverage you use.",
+        "why": "This follows directly from diminishing utility. The pain of a ruinous loss is far larger than the pleasure of a saved premium, so a bet with negative expected value can still be the right one.",
+        "apply": "Insure only what you could not absorb and self-insure the rest. Raise every deductible you could comfortably pay out of savings tomorrow.",
+        "format": "single",
+        "tags": [
+          "insurance",
+          "risk",
+          "utility"
+        ]
+      },
+      {
+        "id": "against-the-gods-s09",
+        "hook": "The mathematics assumed a rational chooser who does not exist.",
+        "insight": "Utility theory says your preference between two gambles should not depend on how they are described. Kahneman and Tversky showed reliably that it does. Identical odds framed as a gain or as a loss produce opposite choices, and losses hurt roughly twice as much as equivalent gains please. This does not break the mathematics of risk. It breaks the assumption that people feed their real preferences into it, and that is where most practical damage happens.",
+        "why": "Framing and loss aversion replicate well, unlike some other findings of that era. The honest position is that these models describe how one ought to choose, not how people actually do.",
+        "apply": "Restate your next decision in the opposite frame, as what you gain against what you give up, and see whether your answer moves. If it does, slow down.",
+        "format": "single",
+        "tags": [
+          "behavioural-finance",
+          "loss-aversion",
+          "framing"
+        ]
+      },
+      {
+        "id": "against-the-gods-s10",
+        "hook": "The tail is where the model quietly stops working.",
+        "insight": "Risk tools are built from samples of the past, which means they are best in ordinary conditions and worst in the ones that matter. Extreme moves happen far more often than a bell curve allows, correlations converge, and liquidity vanishes. None of this makes measurement useless, since flying without instruments is worse. It means the number your model produces is a lower bound on your risk and should be read as a starting point rather than a verdict.",
+        "why": "Financial returns have fatter tails than the normal distribution, a fact documented since the 1960s and demonstrated expensively in 1987, 1998 and 2008. The tools kept assuming otherwise anyway.",
+        "apply": "For each holding, write what happens if the worst historical move doubles. If any answer is that you are wiped out, cut that position now.",
+        "format": "single",
+        "tags": [
+          "fat-tails",
+          "models",
+          "risk"
+        ]
+      }
+    ],
+    "actions": [
+      "Write down your three largest live risks and mark each as measurable with real base rates or genuinely uncertain, then handle the two groups with different tools.",
+      "Rebuild your portfolio view around underlying drivers rather than asset labels, and count how many independent bets you actually hold.",
+      "Run a personal stress test: model your income, savings and obligations through a two-year loss of your main source of income.",
+      "Pick one recurring decision and start recording the forecast you made and what happened, so you can eventually see your own calibration."
+    ],
+    "if_you_liked": [
+      "fooled-by-randomness",
+      "thinking-fast-and-slow",
+      "manias-panics-and-crashes"
+    ],
+    "not_for_you_if": "You want practical portfolio instructions. This is a history of ideas, and the payoff is a way of thinking rather than a method you apply on Monday.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 1996 by John Wiley. Bernstein died in 2009. All prose original; the behavioural findings cited here are among the better-replicated ones."
+    }
+  },
+  {
+    "id": "doughnut-economics",
+    "title": "Doughnut Economics",
+    "subtitle": "Seven Ways to Think Like a 21st-Century Economist",
+    "author": "Kate Raworth",
+    "year": 2017,
+    "category": "investing-economics",
+    "subcategory": "ecological-economics",
+    "tags": [
+      "sustainability",
+      "economics",
+      "gdp",
+      "inequality",
+      "systems-thinking",
+      "planetary-boundaries"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 11,
+    "why_it_matters": "It gave the case against growth at all costs a picture simple enough to redraw policy conversations, and cities from Amsterdam onward have used it as a planning frame. Whether or not you accept the conclusion, it forces you to name what an economy is actually for.",
+    "crux": {
+      "headline": "An economy should have a floor and a ceiling",
+      "body": "Draw two rings. The inner one is the minimum every person needs: food, water, housing, health, energy, a political voice. The outer one is what the planet can absorb before its systems break. The safe and just space is the ring between them, and the job of an economy is to get everyone into it. Growth is not the target. It is one tool, useful when it moves people into the ring and harmful when it pushes through the outer edge."
+    },
+    "sparks": [
+      {
+        "id": "doughnut-economics-s01",
+        "hook": "Ask what an economy is for and most models go quiet.",
+        "insight": "Twentieth-century economics inherited a goal by accident: more output, measured as GDP, forever. Nobody argued for it as an aim. It became the default because it was the number being collected. Once you say the aim out loud, its strangeness shows. A country can raise measured output by rebuilding after a flood, by treating preventable illness, or by emptying a fishery in a decade. The measure counts all three as success.",
+        "why": "GDP was designed in the 1930s and 1940s to track wartime production, and its own architects warned against reading it as a measure of national welfare. The warning was ignored for eighty years.",
+        "apply": "For your organisation or household, write down the one number you optimise for, then list two ways it could rise while things actually get worse.",
+        "format": "single",
+        "tags": [
+          "gdp",
+          "goals",
+          "measurement"
+        ]
+      },
+      {
+        "id": "doughnut-economics-s02",
+        "hook": "The economy is not a closed loop with money going round.",
+        "insight": "The diagram most people carry in their heads shows firms and households exchanging money and labour, sealed off from everything else. Energy does not appear. Neither does unpaid care work, the household, the commons, or the atmosphere absorbing the waste. A model that leaves out its own foundations makes those foundations invisible to policy, which is how an economy can look healthy while running down the two things it entirely depends on: a society and a biosphere.",
+        "why": "What a diagram omits shapes what its users treat as a cost. Ecological limits and unpaid work were not argued away, they were simply left off the picture and therefore stopped being counted.",
+        "apply": "Redraw your team or company's value chain including every input you do not pay for. Mark the ones you would be unable to replace at any price.",
+        "format": "single",
+        "tags": [
+          "systems-thinking",
+          "externalities",
+          "care-work"
+        ]
+      },
+      {
+        "id": "doughnut-economics-s03",
+        "hook": "Two rings, and the safe place to live is between them.",
+        "insight": "The picture is one reason the argument travelled so far. An inner boundary marks the social floor nobody should fall below. An outer one marks the ecological limits the planet cannot absorb overshooting. Humanity is currently failing on both edges at once: hundreds of millions below the floor while several Earth systems are already past their ceiling. Framed that way, the task stops being growth against environment and becomes a design problem with two constraints.",
+        "why": "The outer ring draws on the planetary boundaries framework published by Earth-system scientists in 2009. The inner ring draws on the social priorities governments themselves agreed in the Sustainable Development Goals.",
+        "apply": "Pick one boundary, inner or outer, that your work touches. Find the current published figure for it and put that number where you plan.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Set the social floor",
+            "body": "Food, water, health, education, housing, energy, income, political voice, gender equality. Below this line a life is stripped of essentials, and no economy leaving people there is succeeding."
+          },
+          {
+            "step": 2,
+            "title": "Set the ecological ceiling",
+            "body": "Climate, freshwater, land use, biodiversity, nutrient cycles, ocean acidity. Past these limits, Earth systems shift into states nobody has ever run an economy inside."
+          },
+          {
+            "step": 3,
+            "title": "Aim for the ring between",
+            "body": "The doughnut is the space where human needs are met within planetary means. It is a target you can miss in two opposite directions, and that is exactly the point."
+          },
+          {
+            "step": 4,
+            "title": "Design toward it",
+            "body": "Judge every policy, product or budget by whether it moves people into the ring. Growth counts when it does that and does not count automatically otherwise."
+          }
+        ],
+        "tags": [
+          "doughnut",
+          "planetary-boundaries",
+          "social-foundation"
+        ]
+      },
+      {
+        "id": "doughnut-economics-s04",
+        "hook": "Rational economic man is a portrait nobody has ever met.",
+        "insight": "The standard actor in economic models is solitary, calculating, endlessly self-interested and fixed in his tastes. Real people are social, reciprocal, dependent on others, roughly rather than precisely calculating, and changed by their circumstances. This matters beyond realism, because teaching the caricature appears to nudge people a little closer to it. Design institutions for the portrait and you will slowly get the portrait.",
+        "why": "Studies showing economics students behaving more self-interestedly exist but are contested, since selection into the subject may explain much of the gap. The weaker claim, that models shape institutions and institutions shape behaviour, is solid.",
+        "apply": "Look at one incentive scheme you run and ask what kind of person it assumes. Then ask what kind of person a year of it will produce.",
+        "format": "single",
+        "tags": [
+          "human-nature",
+          "incentives",
+          "behaviour"
+        ]
+      },
+      {
+        "id": "doughnut-economics-s05",
+        "hook": "Economies do not sit at equilibrium waiting to be nudged.",
+        "insight": "Much of the discipline models an economy as a machine that returns to balance after a shock. Complex systems do not behave that way. They have feedback loops that amplify, thresholds they cross irreversibly, and outcomes that depend on the path taken. Inequality and pollution both compound: money buys influence that protects money, warming melts ice that would have reflected heat. Under those dynamics, waiting for self-correction is a decision to let the loop run.",
+        "why": "Complex-systems models reproduce crashes and lock-in better than equilibrium ones, though they forecast poorly and are harder to test, which is part of why the discipline adopted them slowly.",
+        "apply": "Draw the reinforcing loop behind a problem you keep re-solving, then look for the one link you could cut instead of the symptom you keep treating.",
+        "format": "single",
+        "tags": [
+          "complexity",
+          "feedback-loops",
+          "equilibrium"
+        ]
+      },
+      {
+        "id": "doughnut-economics-s06",
+        "hook": "Inequality is not a phase that economies grow out of.",
+        "insight": "A famous curve suggested that inequality rises as a country industrialises and then falls once it is rich enough, which made concentration look like weather you could wait out. The evidence for the second half is weak, and inequality rose sharply in rich countries after 1980 while they kept growing. That changes the job. If distribution does not fix itself, it has to be designed in through who owns things, not only through taxing results afterwards.",
+        "why": "Kuznets himself hedged the claim, and later data undercut it. The mid-century fall in inequality owed much to war, depression and deliberate policy, and growth alone has no reliable equalising mechanism.",
+        "apply": "Look at where value ends up in something you run, across wages, ownership, land and patents, and change one structural share rather than one payment.",
+        "format": "single",
+        "tags": [
+          "inequality",
+          "distribution",
+          "kuznets"
+        ]
+      },
+      {
+        "id": "doughnut-economics-s07",
+        "hook": "Cleaning up later is a promise nobody has kept at scale.",
+        "insight": "The parallel hope for the environment is that countries pollute while poor and clean up once rich. Rich countries did clean their local air and rivers, but largely by importing manufactured goods and exporting the emissions, while global emissions kept climbing. A system that produces waste and then pays to reduce it is degenerative by construction. The alternative is to design so that the output of one process is the input to another.",
+        "why": "The environmental Kuznets curve holds for some visible local pollutants and fails for carbon once consumption-based accounting assigns offshored emissions back to the countries consuming the goods.",
+        "apply": "Take one product or process you own and follow its waste to the end of the line. Redesign the single largest flow so it becomes an input somewhere.",
+        "format": "single",
+        "tags": [
+          "regenerative-design",
+          "emissions",
+          "circular-economy"
+        ]
+      },
+      {
+        "id": "doughnut-economics-s08",
+        "hook": "The country that has stopped growing safely does not exist yet.",
+        "insight": "Modern economies are structurally dependent on expansion. Pensions, debt, tax revenue and employment all assume it, so a stall produces a crisis rather than a plateau. The proposal is not to force a halt but to become agnostic: build systems that stay stable whether or not output rises, so that the question of growth stops being an emergency. That is a genuinely unsolved engineering problem, and it is the weakest, most speculative part of the argument.",
+        "why": "Raworth is candid that nobody has built a post-growth economy. Critics argue the diagnosis is much stronger than the prescription, and on this point they have a case worth taking seriously.",
+        "apply": "Stress-test one plan you own against zero growth for three years. The commitments that break first are your real dependencies.",
+        "format": "single",
+        "tags": [
+          "degrowth",
+          "growth",
+          "resilience"
+        ]
+      },
+      {
+        "id": "doughnut-economics-s09",
+        "hook": "Whoever draws the picture sets the terms of the argument.",
+        "insight": "Ideas spread as images long before they spread as arguments. Two lines crossing on a chart shaped a century of intuition about prices, mostly without anyone examining what the picture assumed. The doughnut works the same way and is honest about it: two rings, a safe space, a visible failure on each edge. If you want to change how a group thinks, giving them a better diagram often beats giving them a better paper.",
+        "why": "The frame has been adopted by cities including Amsterdam for planning, which is evidence that the picture travels. Adoption is not the same as measured results, and it is still early.",
+        "apply": "Turn the argument you keep losing into a single diagram with two boundaries or two axes, then test whether people repeat it back to you.",
+        "format": "single",
+        "tags": [
+          "framing",
+          "diagrams",
+          "persuasion"
+        ]
+      },
+      {
+        "id": "doughnut-economics-s10",
+        "hook": "A theory is a description that starts changing what it describes.",
+        "insight": "Physics does not alter the particle. Economics alters the economy, because governments, firms and citizens act on its models. Rules built on the assumption of selfish, endlessly acquisitive actors reward exactly those behaviours, and the results then appear to confirm the assumption. So the choice of model is not purely a scientific question about accuracy. It is partly a decision about the world you are building, which makes it everyone's business.",
+        "why": "The effect is well documented in finance, where options markets came to fit the Black-Scholes model more closely after traders adopted it. The broader claim is harder to test, though the mechanism is real.",
+        "apply": "Ask what behaviour your own metrics reward, then interview one person they apply to about what they actually do because of them.",
+        "format": "single",
+        "tags": [
+          "performativity",
+          "models",
+          "incentives"
+        ]
+      }
+    ],
+    "actions": [
+      "Draw your organisation's own doughnut: the social floor it must not breach and the resource ceiling it must stay within, with a real number on each.",
+      "Replace one growth target with a target defined by a floor and a ceiling, and run both in parallel for a quarter to compare the decisions they produce.",
+      "Find whether your city or country has an existing doughnut-style assessment and read what it says the local failures actually are.",
+      "Audit one incentive you control for the model of human nature it assumes, then rewrite it for people who are social and reciprocal."
+    ],
+    "if_you_liked": [
+      "capital-in-the-twenty-first-century",
+      "good-economics-for-hard-times",
+      "the-wealth-of-nations"
+    ],
+    "not_for_you_if": "You want detailed policy mechanisms or formal modelling. This reframes the goal rather than specifying how to hit it, and critics find the prescriptions thin.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2017 by Random House Business. The planetary boundaries framework is the work of Rockstrom, Steffen and colleagues, published in 2009."
+    }
+  },
+  {
+    "id": "good-economics-for-hard-times",
+    "title": "Good Economics for Hard Times",
+    "subtitle": "Better Answers to Our Biggest Problems",
+    "author": "Abhijit V. Banerjee and Esther Duflo",
+    "year": 2019,
+    "category": "investing-economics",
+    "subcategory": "policy-economics",
+    "tags": [
+      "immigration",
+      "trade",
+      "inequality",
+      "policy",
+      "growth",
+      "behavioural-economics"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "Two Nobel laureates take the arguments people actually fight about, on migrants, trade, tax, welfare and climate, and check them against evidence rather than intuition. Several results reverse what both political sides assume, which is why it is uncomfortable in every direction.",
+    "crux": {
+      "headline": "People are sticky, and the models assume they are not",
+      "body": "Standard economics assumes people move to where the wages are, retrain when an industry dies, and shift when prices change. In reality people stay, rooted by family, housing, identity and the risk of failing far from home. Almost every failed policy here comes from that gap. Trade and technology deliver aggregate gains and concentrated local ruin, and the people carrying the cost do not, and often cannot, simply move on."
+    },
+    "sparks": [
+      {
+        "id": "good-economics-for-hard-times-s01",
+        "hook": "Poor people move less than the theory says, not more.",
+        "insight": "Wage gaps between countries are enormous, so models predict huge migration flows. The actual flows are small, and most people never leave their region, let alone their country. Moving is expensive, risky and lonely, and you give up the network that finds you work and carries you through bad luck. Even inside one country, people stay in towns where the factory shut a decade ago. The puzzle is not why so many move but why so few do.",
+        "why": "This is measured, not assumed. Migration rates stay low even where legal barriers are removed and wage differences are large, which points to the cost of leaving a network rather than to policy.",
+        "apply": "Before offering someone money to relocate or retrain, ask what network they would lose. Fix that first, or the incentive will not work.",
+        "format": "single",
+        "tags": [
+          "migration",
+          "incentives",
+          "labour"
+        ]
+      },
+      {
+        "id": "good-economics-for-hard-times-s02",
+        "hook": "New arrivals compete for jobs and create them at the same time.",
+        "insight": "The intuition is that more workers must mean lower wages. What repeated natural experiments show is that even large sudden inflows have small effects on the wages of existing low-skilled workers, because migrants also spend money, need housing and services, and take jobs that expand demand elsewhere. The effect is not zero and is disputed for particular groups, but the size is nothing like the political claim, and local low-skilled workers are not generally the losers.",
+        "why": "The Mariel boatlift of 1980 is the famous case and remains contested, with Card finding little wage effect and Borjas reanalysing a subgroup and finding one. The wider body of studies still points to small effects.",
+        "apply": "When a claim about jobs sounds obvious, look for the natural experiment. Ask what happened where the change arrived suddenly and for outside reasons.",
+        "format": "single",
+        "tags": [
+          "immigration",
+          "wages",
+          "evidence"
+        ]
+      },
+      {
+        "id": "good-economics-for-hard-times-s03",
+        "hook": "Trade makes a country richer and some towns permanently poorer.",
+        "insight": "Both halves are true and only one tends to get said at a time. Cheaper imports lift most people's real income a little, spread thinly across everyone. The losses land on a few places where one industry was the town, and the standard reassurance that workers move to growing sectors mostly did not happen. Wages, employment and even health outcomes in those places stayed depressed for many years. An aggregate gain says nothing about who bears the adjustment.",
+        "why": "Autor, Dorn and Hanson documented long-lasting local damage in exposed American regions after Chinese import competition. Trade theory always allowed for this. It assumed the losers would be compensated, and they were not.",
+        "apply": "Whenever a policy is defended by a net gain, ask who the losers are, how concentrated they are, and what the compensation actually consists of.",
+        "format": "single",
+        "tags": [
+          "trade",
+          "adjustment",
+          "regions"
+        ]
+      },
+      {
+        "id": "good-economics-for-hard-times-s04",
+        "hook": "Nobody knows how to make a country grow faster.",
+        "insight": "This is the most deflating finding in modern development economics, and it comes from people who study it for a living. Growth episodes start and stop for reasons visible only afterwards, cross-country regressions are notoriously fragile, and the recipes exported in the 1980s and 1990s produced patchy results at best. The honest position is that we cannot reliably raise a growth rate, so it is better to focus on what demonstrably improves lives at any growth rate.",
+        "why": "The question has been open since Robert Lucas framed it decades ago. A candid admission by two Nobel winners is itself the evidence, and it should make you sceptical of confident growth prescriptions from anyone.",
+        "apply": "Discount any plan whose case rests on a promised growth rate. Ask instead what it delivers if growth comes in a full point lower than forecast.",
+        "format": "single",
+        "tags": [
+          "growth",
+          "development",
+          "humility"
+        ]
+      },
+      {
+        "id": "good-economics-for-hard-times-s05",
+        "hook": "Giving people money does not make them stop working.",
+        "insight": "The fear that unconditional transfers create idleness is one of the most tested propositions in development economics, and it keeps failing. Across many programmes in many countries, recipients did not work meaningfully less, did not spend more of the money on alcohol and tobacco, and often invested part of it. What changes is the ability to take a risk. With a floor under you, you can search for a better job or plant a different crop.",
+        "why": "This comes from reviews across multiple randomised programmes rather than a single study. The result is strongest for the specific claim about labour supply, and the long-run effects of a full basic income remain untested.",
+        "apply": "Where you can, replace a conditional, monitored benefit with a simpler unconditional one, and measure what people actually do with it.",
+        "format": "single",
+        "tags": [
+          "cash-transfers",
+          "welfare",
+          "basic-income"
+        ]
+      },
+      {
+        "id": "good-economics-for-hard-times-s06",
+        "hook": "The incentive was right and nothing happened. That is normal.",
+        "insight": "Programmes fail where they meet real lives, not where they are designed. The offer requires moving away from everyone you know. Taking it up marks you publicly as a failure. The form is in the wrong language, or the office opens only when you are at work. The person explaining it belongs to a group you have reason to distrust. Each of these is fixable, and none of them appears in the model that justified the programme.",
+        "why": "Randomised evaluations repeatedly find that take-up rather than the size of the incentive is the binding constraint. Small changes to delivery often move outcomes more than large changes to the amount offered.",
+        "apply": "Sit with one person going through your process end to end without helping them. Fix every point where they hesitate before you change the offer.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Check the exit cost",
+            "body": "Ask what someone gives up by taking the offer: a network, childcare, somewhere to sleep after a bad month. If that cost is high, no realistic payment covers it."
+          },
+          {
+            "step": 2,
+            "title": "Protect dignity",
+            "body": "Take-up collapses when accepting help means being seen as a failure. Design the offer so that using it feels ordinary rather than like an admission."
+          },
+          {
+            "step": 3,
+            "title": "Fix the last hundred metres",
+            "body": "Opening hours, forms, queues, languages, documents people do not have. Most programmes lose more people here than to any economic factor at all."
+          },
+          {
+            "step": 4,
+            "title": "Choose the messenger",
+            "body": "Information moves through trusted people. The same message lands differently from a neighbour, a nurse or a government letter. Pick the source before the wording."
+          }
+        ],
+        "tags": [
+          "policy-design",
+          "take-up",
+          "trust"
+        ]
+      },
+      {
+        "id": "good-economics-for-hard-times-s07",
+        "hook": "Tastes are not fixed, and that breaks a core assumption.",
+        "insight": "Economics usually treats preferences as given and stable, then argues about how people pursue them. But what people want is shaped by who they talk to, and modern platforms sort people into groups that mostly talk to themselves. Preferences over politics, spending and even facts drift with the group. Once that is true, a market can deliver exactly what people want and still leave them worse off, because the wanting was manufactured upstream.",
+        "why": "Evidence on social media and polarisation is genuinely mixed, with some deactivation experiments finding modest effects and others finding little. The weaker claim, that preferences are socially shaped, is well supported.",
+        "apply": "Change one input to your own preferences deliberately this month, whether a source, a room or a person who disagrees, and watch what your opinions do.",
+        "format": "single",
+        "tags": [
+          "preferences",
+          "polarisation",
+          "social-influence"
+        ]
+      },
+      {
+        "id": "good-economics-for-hard-times-s08",
+        "hook": "High top tax rates did not stop the rich from working.",
+        "insight": "The claim that raising top rates destroys effort and growth is weaker than its confidence suggests. Rich countries ran very high top marginal rates through decades of strong growth, and cross-country evidence tying rate cuts to faster growth is thin. What responds sharply is not effort but reported income: people shift the timing, the form and the country of their earnings. That is an argument about enforcement and design, not about whether taxing is possible.",
+        "why": "The elasticity of taxable income is much larger than the elasticity of real work effort, a distinction that public argument almost always collapses. Avoidance is a design problem rather than proof of a growth cost.",
+        "apply": "Whenever an effort effect is claimed, ask whether the measured response is people producing less or people reporting the same income differently.",
+        "format": "single",
+        "tags": [
+          "taxation",
+          "top-rates",
+          "evidence"
+        ]
+      },
+      {
+        "id": "good-economics-for-hard-times-s09",
+        "hook": "The unemployed are told to move. Capital never is.",
+        "insight": "Policy asks workers in a declining region to be flexible: retrain, relocate, accept a lower wage. It asks very little of capital, which moves freely and is courted for doing so. The asymmetry is not only unfair, it may be inefficient, because the person is the input with the highest cost of moving. If adjustment has to happen somewhere, helping a place recover can be cheaper than dissolving a community and rebuilding those lives elsewhere.",
+        "why": "Place-based policy has a poor historical reputation among economists, but the authors argue the balance of evidence shifted as the true cost of forcing people to move became clearer. This remains a live disagreement.",
+        "apply": "In any restructuring you run, price the cost of moving people as seriously as the cost of keeping the site open, and put both in the paper.",
+        "format": "single",
+        "tags": [
+          "place-based-policy",
+          "unemployment",
+          "adjustment"
+        ]
+      },
+      {
+        "id": "good-economics-for-hard-times-s10",
+        "hook": "Respect is cheaper than money and harder to deliver.",
+        "insight": "Much of the anger in rich democracies is not straightforwardly about income. It is about being treated as surplus: a region written off, a job described as obsolete, a person processed by a system that assumes they are lying. A programme that hands out money while humiliating the recipient buys resentment along with the transfer. Designing for dignity is not sentimentality, because it changes take-up, compliance and the political survival of the policy.",
+        "why": "Take-up of benefits rises when stigma falls and application friction is removed, and that is measurable. The link from humiliation to political backlash is argued rather than proven, and is presented as interpretation.",
+        "apply": "Read one letter your organisation sends to people in trouble, then rewrite it to assume they are honest and short of time.",
+        "format": "single",
+        "tags": [
+          "dignity",
+          "welfare",
+          "politics"
+        ]
+      }
+    ],
+    "actions": [
+      "Take a position you hold strongly on trade or immigration and find the best natural experiment that tests it, including one that cuts against you.",
+      "Redesign one process you own for take-up: remove a document, extend the hours, change the messenger, and measure the difference it makes.",
+      "Write down what your plan delivers under a growth rate a full point below forecast, and circulate that version alongside the main case.",
+      "Identify the concentrated losers from a change you support and specify exactly what compensation they receive and when it arrives."
+    ],
+    "if_you_liked": [
+      "poor-economics",
+      "capital-in-the-twenty-first-century",
+      "doughnut-economics"
+    ],
+    "not_for_you_if": "You want one ideology applied consistently. It is deliberately piecemeal, follows evidence into inconvenient places, and often ends in uncertainty.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2019 by PublicAffairs. Banerjee and Duflo shared the 2019 Nobel Memorial Prize with Michael Kremer. The Mariel boatlift findings remain contested."
+    }
+  },
+  {
+    "id": "poor-economics",
+    "title": "Poor Economics",
+    "subtitle": "A Radical Rethinking of the Way to Fight Global Poverty",
+    "author": "Abhijit V. Banerjee and Esther Duflo",
+    "year": 2011,
+    "category": "investing-economics",
+    "subcategory": "development-economics",
+    "tags": [
+      "poverty",
+      "development",
+      "randomised-trials",
+      "aid",
+      "behavioural-economics",
+      "health"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It replaced a decades-long shouting match about whether aid works with a method for finding out programme by programme. The randomised approach it popularised now shapes how governments and charities across the world decide what to fund.",
+    "crux": {
+      "headline": "Stop arguing about aid and test the programme",
+      "body": "The big question of whether foreign aid helps or hurts has no answer, because aid is thousands of different things done in different places by different people. The productive question is smaller and answerable: does this bed net, this fertiliser subsidy, this way of teaching reading do what it claims, here, compared with a similar group that did not get it? Poverty is not one problem. It is a stack of specific, testable ones."
+    },
+    "sparks": [
+      {
+        "id": "poor-economics-s01",
+        "hook": "The poor are not poor because they are irrational.",
+        "insight": "Watch closely and decisions that look baffling from outside usually make sense from inside. Skipping a cheap preventive treatment is rational when the clinic is shut half the time and the nurse may not be there. Borrowing at a terrible rate is rational when the alternative is no capital at all. Buying a television before improving your diet is rational when your life contains very little else. Poverty is an environment, not a character trait.",
+        "why": "This comes from years of detailed household surveys of spending and time rather than anecdote. It is the difference between explaining behaviour by the person and explaining it by the situation.",
+        "apply": "Before calling a customer or a user irrational, spend an hour doing what they do. Look for the constraint you have never had to notice.",
+        "format": "single",
+        "tags": [
+          "poverty",
+          "rationality",
+          "behaviour"
+        ]
+      },
+      {
+        "id": "poor-economics-s02",
+        "hook": "Extra income buys tastier food before it buys more calories.",
+        "insight": "The simplest poverty trap story says the poor cannot afford enough food to work hard, so a little more food would break the cycle. When incomes rise, people generally do not buy many more calories. They buy better-tasting food, or a phone, or a festival. That is not a mistake. At the margin, one more bowl of grain buys less life than something that makes life bearable or keeps you connected to other people.",
+        "why": "Their consumption data across several countries showed calories rising far less than income. The exception matters, because for the severely undernourished, and for children in the womb and early years, more food does have large effects.",
+        "apply": "Ask what the person you are trying to help would actually spend the money on, then decide whether your programme respects that answer.",
+        "format": "single",
+        "tags": [
+          "nutrition",
+          "poverty-traps",
+          "consumption"
+        ]
+      },
+      {
+        "id": "poor-economics-s03",
+        "hook": "A comparison group is the difference between opinion and evidence.",
+        "insight": "Programmes almost always look like they work, because the people who sign up differ from the people who do not: more motivated, better connected, closer to the road. The only reliable way to separate the programme from the people is to decide by chance who gets it first, then compare the two groups. It is unglamorous and slow, and it has repeatedly reversed conclusions that entire industries were confident about.",
+        "why": "Randomisation removes selection bias by construction. Its limits are real, since a result from one district may not transfer, and trials can only measure what is measurable within a few years.",
+        "apply": "Before your next rollout, hold back a randomly chosen tenth of sites for six months. That tenth is the only honest thing to compare against.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Ask something answerable",
+            "body": "Not whether education helps, but whether hiring a second teacher raises reading scores in these schools. A testable question names the change, the outcome and the place."
+          },
+          {
+            "step": 2,
+            "title": "Split by chance",
+            "body": "Choose who gets it first at random. Any other rule, such as keenest first or easiest first, smuggles back in the differences you were trying to measure around."
+          },
+          {
+            "step": 3,
+            "title": "Measure what people do",
+            "body": "Attendance, doses taken, crops planted, money repaid. Reported satisfaction moves for many reasons that have nothing to do with whether the programme worked."
+          },
+          {
+            "step": 4,
+            "title": "Replicate before you scale",
+            "body": "One trial in one district is a finding, not a policy. Repeat it somewhere different before spending at national scale, and expect the effect to shrink."
+          }
+        ],
+        "tags": [
+          "randomised-trials",
+          "evaluation",
+          "evidence"
+        ]
+      },
+      {
+        "id": "poor-economics-s04",
+        "hook": "A bag of lentils moved immunisation more than better clinics did.",
+        "insight": "In one rural Indian programme, reliable monthly camps raised full immunisation somewhat. Adding a small food incentive for each visit raised it far more, and it cut the cost for each fully immunised child, because staff time was no longer wasted on empty sessions. The lesson is not that people are bribable. It is that when a benefit is distant and abstract while the effort is immediate, a small immediate reward is what closes the gap.",
+        "why": "This was a specific randomised evaluation in Udaipur, Rajasthan, run with the organisation Seva Mandir. It is one place and one design, though the general principle of small immediate incentives has held up more widely.",
+        "apply": "Attach a small, immediate, cheap reward to any behaviour whose real payoff arrives months later. Make the reward instant rather than large.",
+        "format": "single",
+        "tags": [
+          "incentives",
+          "health",
+          "immunisation"
+        ]
+      },
+      {
+        "id": "poor-economics-s05",
+        "hook": "Free is not the same as nearly free.",
+        "insight": "Charging a token amount for a health product is often defended on the grounds that people value what they pay for and that free goods get wasted. Trials of bed nets and water treatment repeatedly found the opposite. Even tiny prices cut take-up sharply, and people who received items free used them at similar rates to those who paid. For preventive products whose benefits spill over to everyone, the price is the barrier rather than a filter for seriousness.",
+        "why": "Multiple randomised studies across malaria nets, deworming and water chlorination found steep drops in demand at small positive prices. The sunk-cost argument for charging did not survive the tests.",
+        "apply": "If you want maximum uptake of a preventive good, make it free and remove the transaction entirely. Save pricing for products whose use is self-evident.",
+        "format": "single",
+        "tags": [
+          "pricing",
+          "health",
+          "take-up"
+        ]
+      },
+      {
+        "id": "poor-economics-s06",
+        "hook": "Cheap schooling is not the same thing as children learning.",
+        "insight": "Enrolment across the developing world rose enormously, and learning did not follow. Millions of children sat in classrooms for years without being able to read a paragraph, because teaching was aimed at the top of the class and at the syllabus rather than at the child in front of the teacher. The intervention that worked repeatedly was mundane: group children by what they can currently do rather than by age, and teach exactly that.",
+        "why": "Teaching at the right level was tested by the organisation Pratham in India across several randomised evaluations and replicated in other countries, making it one of the better-supported findings in education research.",
+        "apply": "Test what your learners can already do before you teach them, and group by that result rather than by year, grade or job title.",
+        "format": "single",
+        "tags": [
+          "education",
+          "learning",
+          "teaching"
+        ]
+      },
+      {
+        "id": "poor-economics-s07",
+        "hook": "Microcredit works. It just does not do what it promised.",
+        "insight": "Small loans reliably do something useful. They let a household buy stock, smooth a bad month, and avoid a moneylender charging brutal rates. What multiple randomised studies did not find was the transformation in the marketing: mass business creation, incomes lifting a whole village, women's status changed within a few years. Rigid weekly repayment suits a market stall, not a risky venture that might take a year to pay off. It is a useful product, not an escape route.",
+        "why": "Several randomised evaluations across countries found modest effects on business investment and little average effect on income, health or education. What is being demoted is the hype rather than the product.",
+        "apply": "Check the strongest claim your favourite intervention makes and find out whether it was ever tested. Fund the modest proven effect, not the story.",
+        "format": "single",
+        "tags": [
+          "microfinance",
+          "credit",
+          "evidence"
+        ]
+      },
+      {
+        "id": "poor-economics-s08",
+        "hook": "The poor run their own hedge fund, and it is expensive.",
+        "insight": "Without insurance, a family self-insures: keep a goat, spread plots across villages, plant a low-yield crop that never fails, send a son to work far away. Each is a rational hedge and each is costly, and together they lock in low returns forever. Formal insurance would be far cheaper, but the market rarely appears, because claims are hard to verify, trust is low, and people will not pay today for a promise about a bad year.",
+        "why": "Weather-indexed insurance was designed to solve the verification problem, and take-up stayed stubbornly low even when subsidised, which suggests trust and comprehension matter as much as price.",
+        "apply": "Look at where you personally hold expensive private insurance, such as extra cash, over-hiring or duplicate suppliers, and price a real contract against it.",
+        "format": "single",
+        "tags": [
+          "insurance",
+          "risk",
+          "smallholders"
+        ]
+      },
+      {
+        "id": "poor-economics-s09",
+        "hook": "Most programmes fail for three reasons, and none is corruption.",
+        "insight": "When something good on paper fails on the ground, the usual suspects are theft and greed. More often the cause is duller: a belief held so firmly that nobody checked it, a piece of information the designer or the user simply did not have, or a default that nobody had any reason to change. All three are fixable at low cost, and all three are far less satisfying to blame than a villain.",
+        "why": "The pattern comes from repeated field evaluations where fixing information or changing a default produced improvements that neither more money nor more monitoring had achieved.",
+        "apply": "For a failing initiative, write one line each on the belief, the missing information and the default. Attack whichever is cheapest to change first.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Name the ideology",
+            "body": "The unexamined belief driving the design: the poor need discipline, markets solve this, teachers are lazy. Write it down and ask what evidence would show it is wrong."
+          },
+          {
+            "step": 2,
+            "title": "Find the ignorance",
+            "body": "Something the designer or the user does not know: what the treatment does, when the clinic opens, what the loan really costs. Information is usually the cheapest available fix."
+          },
+          {
+            "step": 3,
+            "title": "Break the inertia",
+            "body": "Nobody chose the current arrangement, it simply persisted. Change the default and measure, because effort spent persuading people often moves less than changing what happens by itself."
+          }
+        ],
+        "tags": [
+          "policy-design",
+          "failure",
+          "defaults"
+        ]
+      },
+      {
+        "id": "poor-economics-s10",
+        "hook": "The most cited result in development is still disputed.",
+        "insight": "School deworming was reported to raise attendance and later earnings at very low cost, and it became a flagship case for evidence-based aid. A reanalysis a decade later found coding errors and argued the effects were weaker and less certain than claimed. The original authors disputed much of that, and some effects survived. The honest summary is that the programme is probably cheap and probably helpful, and that the confident version was oversold.",
+        "why": "The dispute matters beyond worms. It showed that a randomised trial is not a final verdict, that independent reanalysis is necessary, and that the field's own showcase result was fragile under scrutiny.",
+        "apply": "For any headline finding you rely on, check whether an independent reanalysis exists before you build a plan around its effect size.",
+        "format": "single",
+        "tags": [
+          "deworming",
+          "replication",
+          "evidence"
+        ]
+      }
+    ],
+    "actions": [
+      "Pick one thing your organisation believes about the people it serves and design a small randomised test of it before the next budget cycle.",
+      "Remove every fee, form and journey standing between a person and a preventive service you offer, then measure take-up before and after.",
+      "Attach a small immediate reward to a behaviour whose benefit arrives much later, and run it against a randomly chosen control group.",
+      "Read one published reanalysis of a study you have quoted in the past year, then update or drop the claim accordingly."
+    ],
+    "if_you_liked": [
+      "good-economics-for-hard-times",
+      "freakonomics",
+      "doughnut-economics"
+    ],
+    "not_for_you_if": "You want a grand theory of why nations are poor, or you distrust randomised trials as a way of knowing. This is deliberately small-scale and empirical.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2011 by PublicAffairs. The deworming evidence is genuinely contested; both the original findings and the later reanalysis are described here as disputed."
+    }
+  },
+  {
+    "id": "the-big-short",
+    "title": "The Big Short",
+    "subtitle": "Inside the Doomsday Machine",
+    "author": "Michael Lewis",
+    "year": 2010,
+    "category": "investing-economics",
+    "subcategory": "financial-crises",
+    "tags": [
+      "financial-crisis",
+      "subprime",
+      "wall-street",
+      "contrarian-investing",
+      "incentives",
+      "risk"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "It made the 2008 crisis legible to people who do not read balance sheets, by following the handful of investors who read the documents everyone else skipped. It is the clearest popular account of how incentives, rather than stupidity, built the machine.",
+    "crux": {
+      "headline": "Almost nobody read the documents",
+      "body": "The mortgage bonds at the centre of the crisis came with hundreds of pages describing exactly what was inside them. A tiny number of people read those pages, found loans that could not possibly be repaid, and bet against them. Everyone else trusted a rating, a model or a colleague. The scandal is not that the information was hidden. It was public, tedious, and hardly anyone was paid to look at it."
+    },
+    "sparks": [
+      {
+        "id": "the-big-short-s01",
+        "hook": "The information was public. Reading it was the entire edge.",
+        "insight": "The winning trade of the decade required no inside knowledge. It required opening prospectuses for mortgage-backed bonds and noticing what the loans inside them actually were: no income documentation, teaser rates due to reset, borrowers who could not survive the reset. The work was dull and available to anyone. What was rare was willingness to do a boring job that no institution rewarded and that contradicted everyone senior to you.",
+        "why": "Several of the people who profited found the same thing independently by reading loan-level disclosures. Edges of this kind persist because tedium and social risk, rather than secrecy, are what keep others away.",
+        "apply": "Read the primary document behind one belief you hold about a company or a market this week. Not the summary, the actual filing.",
+        "format": "single",
+        "tags": [
+          "research",
+          "edge",
+          "due-diligence"
+        ]
+      },
+      {
+        "id": "the-big-short-s02",
+        "hook": "The rating was an opinion paid for by the people being rated.",
+        "insight": "Bonds were sold on the strength of a top rating, the agency awarding it was paid by the bank creating the bond, and it competed with a rival for that business. The models were also visible to the banks, so pools could be assembled to score well rather than to be safe: the same average grade with far worse loans underneath. Nobody had to be corrupt. The structure made the generous answer the profitable one.",
+        "why": "The issuer-pays model and ratings shopping were documented afterwards by official inquiries. It is a clean example of a conflict of interest producing bad outcomes without requiring any individual villain.",
+        "apply": "For any score, rating or certification you rely on, find out who pays for it. If the subject pays, read the grade as a marketing claim.",
+        "format": "single",
+        "tags": [
+          "ratings",
+          "conflicts-of-interest",
+          "incentives"
+        ]
+      },
+      {
+        "id": "the-big-short-s03",
+        "hook": "Being right early is indistinguishable from being wrong.",
+        "insight": "The people who identified the problem first spent years losing money and credibility. Premiums on their insurance-like contracts had to be paid every month while the bonds kept performing, investors demanded their money back, and one manager restricted withdrawals and was threatened with lawsuits by his own clients. The position was correct the whole time. That did not stop it from nearly destroying the people holding it before the payoff arrived.",
+        "why": "This is why being right eventually is a weak defence. A correct view held at the wrong size, with the wrong funding or the wrong horizon, is a losing trade, and most people who saw 2008 coming did not profit from it.",
+        "apply": "Before any contrarian position, write down how long you can fund it and who can force you out. Size it to survive twice that long.",
+        "format": "single",
+        "tags": [
+          "contrarian-investing",
+          "timing",
+          "drawdowns"
+        ]
+      },
+      {
+        "id": "the-big-short-s04",
+        "hook": "How a loan nobody should make became the safest thing you could own.",
+        "insight": "The chain had several links, and each made the risk look smaller without removing any of it. A loan went to someone who could not repay it, was bundled with thousands of others, was sliced so the top layer got paid first, and then the leftover bad layers from many deals were pooled again and re-sliced, producing fresh top-rated pieces made entirely of the parts nobody wanted. Diversification was doing the work, and it only works if the loans fail independently.",
+        "why": "Every loan in the chain depended on the same thing, house prices continuing to rise. When that stopped they failed together, and the mathematics behind every rating in the chain had assumed they would not.",
+        "apply": "When a product is safe because it is diversified, ask what single thing all of its parts depend on. That is the only risk that matters.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Write the loan",
+            "body": "Lend to a borrower with no verified income at a low starter rate that jumps in two years. It is repayable only if the house can be refinanced or sold for more."
+          },
+          {
+            "step": 2,
+            "title": "Pool it",
+            "body": "Bundle thousands of these into one bond. Individual defaults now look like a manageable statistic rather than a particular person who cannot pay in a particular town."
+          },
+          {
+            "step": 3,
+            "title": "Slice by seniority",
+            "body": "Split the pool into layers. The top layer is paid first and earns the best rating, while the bottom absorbs the first losses and is hard to sell to anyone."
+          },
+          {
+            "step": 4,
+            "title": "Repackage the leftovers",
+            "body": "Collect unsellable bottom layers from many deals, pool them, slice again, and most of the result is rated top quality. Bad risk has been laundered by repetition."
+          },
+          {
+            "step": 5,
+            "title": "Multiply it synthetically",
+            "body": "Write contracts referencing the same bonds without owning them, so exposure to one pool of loans can be created many times over on paper."
+          }
+        ],
+        "tags": [
+          "securitisation",
+          "structured-credit",
+          "correlation"
+        ]
+      },
+      {
+        "id": "the-big-short-s05",
+        "hook": "Betting against it required inventing a way to bet against it.",
+        "insight": "You cannot sell a mortgage bond short the way you sell a share, because there is nothing to borrow. So the trade had to be manufactured: contracts paying out if named bonds failed, in exchange for a steady premium, which is insurance on somebody else's house. The banks were happy to write them, because they needed the other side of the trade to build more products. Demand for the bet created supply of the thing being bet on.",
+        "why": "These swap contracts let exposure to a fixed pool of loans be multiplied far beyond the loans themselves, which is how the eventual losses ended up larger than the underlying mortgages.",
+        "apply": "Before entering a market with no obvious way to bet against it, ask why not. A market that only permits optimism will be priced like one.",
+        "format": "single",
+        "tags": [
+          "credit-default-swaps",
+          "shorting",
+          "derivatives"
+        ]
+      },
+      {
+        "id": "the-big-short-s06",
+        "hook": "The people selling it mostly did not understand it either.",
+        "insight": "It is comforting to assume the sellers knew and cheated. Much of the time they did not know. Salespeople understood their product one layer deep, risk managers relied on models they had not built, and senior executives could not explain what was on their own books. The most damning fact of the period is that several firms held enormous quantities of these products themselves, which is not what you do when you are knowingly selling poison.",
+        "why": "The firms with the worst exposure suffered the largest losses, which is hard to reconcile with a pure fraud story. Ignorance inside institutions explains more of the crisis than conspiracy does.",
+        "apply": "Ask anyone selling you something complex to explain how they lose money on it. Vagueness in that answer is the warning, not the price.",
+        "format": "single",
+        "tags": [
+          "complexity",
+          "wall-street",
+          "understanding"
+        ]
+      },
+      {
+        "id": "the-big-short-s07",
+        "hook": "Nobody senior was paid to be worried.",
+        "insight": "Traders earned on this year's revenue, and a bonus paid in cash is not returned when the position blows up two years later. Ratings analysts earned far less than the bankers whose deals they graded, and a strict analyst lost the business to a rival. Risk officers who raised alarms slowed the firm's earnings. Every incentive in the chain pointed the same way, and expecting individuals to override all of them out of conscience is not a plan.",
+        "why": "Pay with upside in cash now and downside carried later by someone else reliably produces excessive risk. It is a structural feature of the industry that has only partly changed since.",
+        "apply": "Look at one bonus scheme near you and ask what happens if the result reverses in three years. If nothing does, expect the risk to be taken.",
+        "format": "single",
+        "tags": [
+          "incentives",
+          "compensation",
+          "risk-taking"
+        ]
+      },
+      {
+        "id": "the-big-short-s08",
+        "hook": "Complexity is not a by-product. It is often the product.",
+        "insight": "Layers of structure did something valuable for the people building them. They made the fee opaque and the risk hard to check. A buyer who cannot value an instrument cannot argue about the price, and a regulator who cannot follow it cannot object. That does not mean every complex product is a trick, but it does mean complexity has a commercial reason to exist, and that reason is rarely the customer's benefit.",
+        "why": "This is an argument from incentives rather than a proven motive, and the pattern fits: margins on standard comparable products fell while margins on bespoke structured products stayed high.",
+        "apply": "Refuse any product you cannot explain to a competent friend in three sentences, and ask where the fee is before you ask what the return is.",
+        "format": "single",
+        "tags": [
+          "complexity",
+          "fees",
+          "products"
+        ]
+      },
+      {
+        "id": "the-big-short-s09",
+        "hook": "The win was smaller and uglier than the story suggests.",
+        "insight": "It is told as outsiders beating the system, and it works as narrative because the winners were few and vivid. That is survivorship bias by construction. Many people who saw the same thing were too early, wrongly sized, or held their bet through a counterparty that might never have paid. Some payouts existed only because governments rescued the firms on the other side. Taking away a general lesson to be contrarian is exactly the wrong reading.",
+        "why": "The account selects on outcome, which is unavoidable in narrative and treacherous as evidence. The world where no rescue happened and the swap contracts went unpaid is not far-fetched.",
+        "apply": "When a strategy is sold through the people who won with it, ask how many ran it and what happened to the rest before you copy it.",
+        "format": "single",
+        "tags": [
+          "survivorship-bias",
+          "narrative",
+          "lessons"
+        ]
+      },
+      {
+        "id": "the-big-short-s10",
+        "hook": "Almost nobody who built it paid for it.",
+        "insight": "Firms failed, but individuals largely kept the money earned during the boom. Prosecutions of senior executives were rare, the industry consolidated into fewer and larger institutions, and the people who lost most were homeowners and workers with no part in building the machine. Whatever you think of the rescue, notice the distribution: the costs of failure and the profits of the boom went to different people, and that shaped the politics that followed.",
+        "why": "This describes the record, namely very few senior criminal convictions relative to the scale of the losses, rather than claiming that specific laws were broken and then ignored.",
+        "apply": "In any post-mortem you run, list who bore the cost and who kept the gain. Fix that asymmetry before you rewrite the process.",
+        "format": "single",
+        "tags": [
+          "accountability",
+          "aftermath",
+          "politics"
+        ]
+      }
+    ],
+    "actions": [
+      "Read the primary filing behind one investment you hold and write a paragraph on what would have to be true for it to fail completely.",
+      "Map the incentives of everyone who advises you about money: who pays them, when, and what happens to them if you lose.",
+      "Set the maximum size and maximum duration for any contrarian position you take, in writing, before you enter it.",
+      "Pick one product you own that you cannot explain simply, and either learn it properly this month or exit it."
+    ],
+    "if_you_liked": [
+      "manias-panics-and-crashes",
+      "reminiscences-of-a-stock-operator",
+      "against-the-gods"
+    ],
+    "not_for_you_if": "You want a systematic explanation of the crisis or of the policy response. This is character-driven narrative, selective by design, and light on macroeconomics.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2010 by W. W. Norton. The investors described are real people; the account is character-driven and selects on outcome, as flagged in the sparks."
+    }
   }
 ]
