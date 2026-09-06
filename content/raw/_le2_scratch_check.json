@@ -224,5 +224,446 @@
       "confidence": "high",
       "notes": "Published 2020 by Hay House. Several popular claims in this territory are weak — speed-reading gains, learner-type quizzes, supplement lists, the learning pyramid percentages — and each is flagged inside the relevant spark. All prose original."
     }
+  },
+  {
+    "id": "how-we-learn",
+    "title": "How We Learn",
+    "subtitle": "The Surprising Truth About When, Where, and Why It Happens",
+    "author": "Benedict Carey",
+    "year": 2014,
+    "category": "learning-education",
+    "subcategory": "learning-science",
+    "tags": [
+      "memory",
+      "study-skills",
+      "spaced-repetition",
+      "retrieval-practice",
+      "sleep",
+      "forgetting"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "It carried decades of memory research out of the journals and into ordinary study advice, and most of what it recommends — spacing, self-testing, mixing practice — has since become the least controversial guidance in the field.",
+    "crux": {
+      "headline": "Forgetting is not the enemy of learning. It is the mechanism.",
+      "body": "Two different things happen when you learn: the material gets stored, and it gets easier or harder to fetch. Storage barely decays. What fades is the fetching. And every time you let something fade a little and then haul it back, you fetch it more strongly next time. That reverses the usual study advice. Difficulty, interruption, forgetting and mixed-up practice are not signs of a broken method — they are the conditions under which memory actually strengthens."
+    },
+    "sparks": [
+      {
+        "id": "how-we-learn-s01",
+        "hook": "Forgetting is not memory failing. It is memory doing the filtering.",
+        "insight": "Treat memory as two dials rather than one. Storage is how deeply something is planted, and it barely fades once planted. Retrieval is how easily you can get at it right now, and that drops fast. What feels like losing knowledge is nearly always the second dial falling while the first one holds. This is why a language you have not spoken in fifteen years comes back within days, and why fading is a setup for relearning rather than a loss.",
+        "why": "The two-part model comes from decades of work by Robert and Elizabeth Bjork and explains findings that a single-dial view of memory cannot: relearning is fast, and material recovered after a lapse sticks harder than material never lost.",
+        "apply": "Stop protecting yourself from forgetting. Leave a gap of several days before revisiting new material and notice how much better the second pass holds.",
+        "format": "single",
+        "tags": [
+          "forgetting",
+          "memory",
+          "retrieval"
+        ]
+      },
+      {
+        "id": "how-we-learn-s02",
+        "hook": "The study methods that feel best are usually the ones that work least.",
+        "insight": "Rereading a chapter is smooth and pleasant, and that fluency reads as understanding. It is not. The text feeling familiar tells you nothing about whether you could produce it without the page in front of you. The methods that work tend to feel worse: struggling to recall, mixing topics, working on something before you have been taught it. If your revision feels comfortable, that is the clearest available signal that it is not doing much.",
+        "why": "The gap between how well people think they learned and how much they retain is one of the most replicated findings in the field. Fluency of processing is the culprit, and it misleads confident students most.",
+        "apply": "Rate your confidence out of ten before a self-test, then compare with your score. Repeat weekly until the two numbers start to agree.",
+        "format": "single",
+        "tags": [
+          "desirable-difficulty",
+          "metacognition",
+          "illusions"
+        ]
+      },
+      {
+        "id": "how-we-learn-s03",
+        "hook": "A test is not a measurement of learning. It is one of the strongest causes of it.",
+        "insight": "Testing gets treated as the scoreboard at the end. Treat it instead as the training. Pulling an answer out of your head with the book shut is a fundamentally different operation from putting the answer in, and it is the one that makes the memory durable. It also gives you an honest map of the holes, which rereading never does because the page keeps supplying answers you could not have produced yourself.",
+        "why": "Retrieval practice beats rereading in study after study, across ages and subjects, usually by a wide margin at delayed testing. It is the single best-supported study technique available.",
+        "apply": "After reading anything you need to keep, close it and write everything you can recall on a blank page. Then reopen and study only the gaps.",
+        "format": "single",
+        "tags": [
+          "retrieval-practice",
+          "testing",
+          "study-skills"
+        ]
+      },
+      {
+        "id": "how-we-learn-s04",
+        "hook": "The same four hours of study, spread out, are worth far more than four in a row.",
+        "insight": "Cramming works for the exam on Thursday and almost nothing survives past the weekend. Break the same total time into separated sessions and retention rises sharply, without a single extra hour of work. The reason connects to forgetting: each gap lets recall decay slightly, so each session requires real retrieval rather than a top-up of what is still sitting in mind. The spacing is doing the work, not the extra effort.",
+        "why": "The spacing effect is over a century old and among the most robust results in psychology. The practical rule of thumb: the longer you need to remember something, the longer the gaps should be.",
+        "apply": "Take the study time you already planned for one topic and split it across three separated sessions this week instead of one long block.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Start from the deadline",
+            "body": "Decide how long you need the material to survive. A test next week and a skill for life need very different gap lengths, and most people plan for neither."
+          },
+          {
+            "step": 2,
+            "title": "Review within a day",
+            "body": "Make the first pass back over new material within about a day, while enough remains that recall is possible but not automatic. Ten minutes is often enough."
+          },
+          {
+            "step": 3,
+            "title": "Stretch the gaps",
+            "body": "Push each following gap wider — a few days, then a week, then a month. Easy recall means the gap was too short and you wasted the session."
+          },
+          {
+            "step": 4,
+            "title": "Review by recalling",
+            "body": "A review is not rereading your notes. Shut them, write what you can, and only then check. Otherwise the spacing is real and the learning is not."
+          }
+        ],
+        "tags": [
+          "spacing",
+          "review",
+          "planning"
+        ]
+      },
+      {
+        "id": "how-we-learn-s05",
+        "hook": "Practising one thing at a time is why you freeze when the questions get shuffled.",
+        "insight": "Doing twenty problems of the same type in a row gets fast and feels excellent, but you are only running one procedure repeatedly. You never practise the actual exam skill, which is working out which procedure this problem needs. Mix the types together and performance during practice drops noticeably while performance later goes up. You are trading a good feeling now for the ability to choose the right tool under pressure.",
+        "why": "Interleaving shows consistent advantages in maths problem types, sports skills and category learning. It reliably feels worse to learners while producing better delayed results, which is why so few people adopt it.",
+        "apply": "Shuffle your next practice set so no two consecutive problems use the same method, and accept the drop in accuracy during the session.",
+        "format": "single",
+        "tags": [
+          "interleaving",
+          "practice",
+          "problem-solving"
+        ]
+      },
+      {
+        "id": "how-we-learn-s06",
+        "hook": "Studying in the same seat every time makes the seat part of the memory.",
+        "insight": "Surroundings quietly get bound into what you learn — the room, the noise, the time of day, even the mood you were in. Learn something in exactly one setting and some of your recall leans on cues that will not be there when you need it. Varying where and when you study builds more routes back to the same material. The old advice to find one perfect study spot and never leave it has this exactly backwards.",
+        "why": "Context-dependent memory is real but modest and inconsistent across studies; the diving experiments people cite are one striking case, not a general law. Varying context is a cheap improvement, not a large one.",
+        "apply": "Move your next three study sessions to three different places, and vary the time of day at least once, keeping the material identical.",
+        "format": "single",
+        "tags": [
+          "context",
+          "environment",
+          "variation"
+        ]
+      },
+      {
+        "id": "how-we-learn-s07",
+        "hook": "Guessing badly at answers you were never taught makes the lesson stick better.",
+        "insight": "Sitting a short test before any teaching has happened seems pointless, since you will get most of it wrong. The wrong guesses are the point. Attempting an answer sets up the question in your head, so the material arrives as a resolution to something you were already chewing on rather than as flat new information. Being wrong first, and knowing you were wrong, appears to prepare the ground more effectively than reading calmly does.",
+        "why": "Pretesting improves later retention of the tested material in controlled experiments, provided feedback follows. The effect is well supported, though it works better for facts and definitions than for complex procedures.",
+        "apply": "Before starting a new chapter, try to answer the end-of-chapter questions cold, get them wrong, then read. Check your guesses afterwards.",
+        "format": "single",
+        "tags": [
+          "pretesting",
+          "errors",
+          "study-skills"
+        ]
+      },
+      {
+        "id": "how-we-learn-s08",
+        "hook": "Stopping in the middle of hard work can be more productive than finishing it.",
+        "insight": "A problem you have quit mid-thought does not switch off. It stays half-open, and the world starts feeding it: a conversation, a road sign, something in the shower turns out to be relevant. That only happens if you engaged hard enough to get properly stuck first. Walking away from an easy task gets you nothing. Walking away from a stuck one, deliberately and while it still bothers you, buys you thinking you do not have to sit still for.",
+        "why": "Incubation effects in creative problem solving hold up reasonably well in meta-analysis, though they are modest. The related claim that interrupted tasks are remembered better has a patchy replication record and deserves less confidence.",
+        "apply": "On your next hard project, deliberately stop while stuck rather than at a tidy stopping point, and keep a note open for anything that surfaces.",
+        "format": "single",
+        "tags": [
+          "incubation",
+          "creativity",
+          "problem-solving"
+        ]
+      },
+      {
+        "id": "how-we-learn-s09",
+        "hook": "The second half of any study session happens while you are asleep.",
+        "insight": "Sleep is not downtime bolted onto learning; it is part of the process. Newly learned material is reactivated and consolidated overnight, which is why an all-nighter can leave you with a head full of facts you cannot reach by lunchtime. Practically this means the hours after studying are worth protecting as fiercely as the hours during, and that finishing a session earlier with a full night behind it beats grinding on into the small hours.",
+        "why": "That sleep consolidates memory is well established. The tidier mapping of specific sleep stages onto specific kinds of learning is a working model that researchers still argue about, so hold the details loosely.",
+        "apply": "Move your hardest revision earlier in the evening and protect the following night's sleep, rather than trading sleep for one more hour of notes.",
+        "format": "single",
+        "tags": [
+          "sleep",
+          "consolidation",
+          "memory"
+        ]
+      },
+      {
+        "id": "how-we-learn-s10",
+        "hook": "Some expertise is not knowledge at all. It is a trained eye.",
+        "insight": "A radiologist spotting something wrong in a scan, a birder naming a shape at a distance, a pilot reading an instrument panel — none of that is recalled from a list. It is fast pattern recognition built by seeing many examples with immediate feedback, and it is trainable far quicker than most curricula assume. Instead of studying one case slowly, you flick through dozens of examples, judge each one instantly, and find out at once whether you were right.",
+        "why": "Perceptual learning modules built on rapid classification with instant feedback have produced large, fast gains in aviation, mathematics and medical image reading. The training is narrow: it builds the eye, not the underlying theory.",
+        "apply": "Turn one skill you are learning into a rapid-fire deck of examples to classify in seconds each, with the answer on the back for instant feedback.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Pick a judgement, not a fact",
+            "body": "Choose something where the skill is telling one thing from another: a chord, a bird, a chart pattern, a well-formed argument. Facts belong in a different kind of practice."
+          },
+          {
+            "step": 2,
+            "title": "Gather many short examples",
+            "body": "You want dozens of quick cases rather than a few deep ones. Volume and variety are what build the pattern; depth comes later from theory."
+          },
+          {
+            "step": 3,
+            "title": "Judge in seconds",
+            "body": "Force a snap decision before you can reason it out. The point is to train recognition, and deliberating defeats the mechanism you are trying to build."
+          },
+          {
+            "step": 4,
+            "title": "Get the answer immediately",
+            "body": "Feedback has to land while the guess is still live. Delayed marking turns the drill back into ordinary studying and the gains largely disappear."
+          },
+          {
+            "step": 5,
+            "title": "Mix the hard cases back in",
+            "body": "Keep near-misses and past errors in circulation rather than retiring them. Borderline cases are where a trained eye is actually made."
+          }
+        ],
+        "tags": [
+          "perceptual-learning",
+          "expertise",
+          "practice"
+        ]
+      }
+    ],
+    "actions": [
+      "Rebuild one week of study so that every session ends with a blank-page recall attempt instead of a final read-through of your notes.",
+      "Take your revision calendar and convert every long block into three shorter sessions separated by at least a day.",
+      "Shuffle one practice set so consecutive problems never share a method, and track your delayed score rather than your score during the session.",
+      "Pick one thing you have half-abandoned and restart it, expecting relearning to be much faster than the first attempt was."
+    ],
+    "if_you_liked": [
+      "learning-how-to-learn",
+      "moonwalking-with-einstein",
+      "grasp"
+    ],
+    "not_for_you_if": "You want a step-by-step study system rather than reported science, or you already know the spacing and retrieval literature and want the primary sources.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2014; Carey was a science reporter at the New York Times. Not to be confused with the 2020 book of the same title by Stanislas Dehaene. Contested items — context effects, interrupted-task memory — are flagged in the relevant sparks."
+    }
+  },
+  {
+    "id": "mind-in-the-making",
+    "title": "Mind in the Making",
+    "subtitle": "The Seven Essential Life Skills Every Child Needs",
+    "author": "Ellen Galinsky",
+    "year": 2010,
+    "category": "learning-education",
+    "subcategory": "child-development",
+    "tags": [
+      "parenting",
+      "child-development",
+      "executive-function",
+      "self-control",
+      "communication",
+      "curiosity"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "It moved the parenting conversation off academic milestones and onto the underlying skills that let a child keep learning without you — attention, perspective taking, judgement — and did it by reporting the developmental research rather than opinion.",
+    "crux": {
+      "headline": "Teach the skills that make more learning possible",
+      "body": "Facts a child memorises at five will be obsolete or trivially searchable by twenty. What lasts is a small set of capacities underneath: holding attention against distraction, resisting the first impulse, working out what someone else is thinking, connecting one situation to another, judging what to believe, staying with something hard, and wanting to know. Those grow through ordinary interaction rather than lessons, which means daily life is the curriculum whether you meant it to be or not."
+    },
+    "sparks": [
+      {
+        "id": "mind-in-the-making-s01",
+        "hook": "The skills that matter most for a child were never on any report card.",
+        "insight": "Schools measure what is easy to measure: reading level, times tables, test scores. The capacities that best predict whether a child keeps learning sit underneath all of that — attention, impulse control, mental flexibility, reading other people, staying with difficulty. They are not personality traits handed out at birth. They develop through thousands of ordinary exchanges, and they can be deliberately built by an adult who knows what they are looking at.",
+        "why": "Early self-regulation and language skills predict later school outcomes more consistently than early academic drilling does. What is far less certain is how much any specific programme shifts them, so treat daily interaction as the main lever.",
+        "apply": "Pick one skill to watch for a week — attention, or bouncing back from frustration — and note the moments it appears rather than trying to teach it.",
+        "format": "single",
+        "tags": [
+          "life-skills",
+          "development",
+          "parenting"
+        ]
+      },
+      {
+        "id": "mind-in-the-making-s02",
+        "hook": "Self-control is not one thing. It is three separate mental muscles.",
+        "insight": "What looks like a well-behaved child is actually three capacities working together: holding information in mind while using it, stopping a first impulse, and switching between rules when the situation changes. Separating them tells you what a struggling child actually needs. A child who cannot follow a three-part instruction has a different problem from one who blurts out answers, and treating both as bad behaviour helps neither.",
+        "why": "The three-part account of executive function is the standard framework in developmental psychology and is well supported. It develops rapidly in the preschool years and continues into the twenties.",
+        "apply": "Next time a child fails to follow instructions, ask which of the three failed — holding it, stopping themselves, or switching — and adjust the ask.",
+        "format": "single",
+        "tags": [
+          "executive-function",
+          "self-control",
+          "attention"
+        ]
+      },
+      {
+        "id": "mind-in-the-making-s03",
+        "hook": "Ordinary games build attention better than any programme sold for it.",
+        "insight": "Children practise self-regulation hardest during play with rules, because they want to stay in the game. Anything that requires holding a rule in mind, waiting a turn, or switching when the rule changes is executive-function training that a child will do voluntarily for an hour. This is the practical reason old-fashioned circle games and pretend play earn their place. The demands are real, the feedback is immediate, and nobody has to be told they are doing an exercise.",
+        "why": "Play with rules reliably places demands on working memory, inhibition and flexibility. Whether that produces broad school gains is much less certain, so play for the practice itself rather than for promised transfer.",
+        "apply": "Play one rule-switching game this week — a version where the rule reverses halfway — and change the rule as soon as the child gets comfortable.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Start with a rule to hold",
+            "body": "Any game where the child must keep an instruction in mind while acting on it. Clapping patterns, colour-matching, simple card games all qualify."
+          },
+          {
+            "step": 2,
+            "title": "Add something to resist",
+            "body": "Build in an impulse that has to be stopped: touch your nose when I say toes. The resisting is the training, and it is where the laughter comes from."
+          },
+          {
+            "step": 3,
+            "title": "Flip the rule mid-game",
+            "body": "Reverse it without warning once they are fluent. Switching between rules is the hardest of the three capacities and the last to mature."
+          },
+          {
+            "step": 4,
+            "title": "Raise difficulty as they win",
+            "body": "The moment a game becomes easy it stops training anything. Speed it up, add a rule, or hand them the job of catching your mistakes."
+          }
+        ],
+        "tags": [
+          "play",
+          "executive-function",
+          "games"
+        ]
+      },
+      {
+        "id": "mind-in-the-making-s04",
+        "hook": "Working out what someone else is thinking is a skill, not a kindness.",
+        "insight": "Perspective taking gets confused with empathy, but they are different. Empathy is feeling with someone. Perspective taking is the cooler ability to model what another person knows, wants and intends, including when it differs from your own view. It underpins reading comprehension, negotiation, friendship and most classroom conflict. Because it is a skill, it improves with practice — chiefly with adults who narrate other people's inner states out loud rather than just their behaviour.",
+        "why": "Children whose caregivers talk regularly about thoughts, intentions and feelings develop the ability to reason about other minds earlier. The correlation is well replicated; causal claims from small interventions are weaker.",
+        "apply": "During a story or an argument, ask what the other character or child knew at that moment, and how it differed from what your child knew.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Name the inner state",
+            "body": "Describe what someone wanted, believed or expected, not only what they did. Children cannot practise reasoning about minds if nobody mentions minds."
+          },
+          {
+            "step": 2,
+            "title": "Ask before you explain",
+            "body": "Pose the question and let the wrong answer stand for a moment. A guess that gets corrected teaches more than a smooth explanation delivered first."
+          },
+          {
+            "step": 3,
+            "title": "Use the conflict you have",
+            "body": "Real disputes over a toy are better material than hypotheticals, because the stakes make the other person's view worth working out."
+          },
+          {
+            "step": 4,
+            "title": "Replay it later, calmly",
+            "body": "Come back when nobody is upset and walk through what each person was thinking. In the heat of it, nobody is learning anything."
+          }
+        ],
+        "tags": [
+          "perspective-taking",
+          "empathy",
+          "social-skills"
+        ]
+      },
+      {
+        "id": "mind-in-the-making-s05",
+        "hook": "Children learn language from being answered, not from being talked at.",
+        "insight": "The engine of early language is the back-and-forth: the child makes a sound or a gesture, an adult responds to that specific thing, and the child goes again. Sheer volume of words in the room matters far less than the number of genuine exchanges. Television and background talk supply plenty of words and almost no turns, which is why they do so little. What a child needs is not a more talkative adult but a more responsive one.",
+        "why": "Conversational turns predict language development and related brain measures better than raw word counts do. The famous thirty-million-word gap figure comes from a small study that later work has challenged, so lean on the turn-taking finding instead.",
+        "apply": "Count conversational turns rather than words at one meal: every time you answer what your child actually said, and they respond again.",
+        "format": "single",
+        "tags": [
+          "language",
+          "communication",
+          "conversation"
+        ]
+      },
+      {
+        "id": "mind-in-the-making-s06",
+        "hook": "The marshmallow test predicted a life, until a bigger sample said otherwise.",
+        "insight": "The story everyone knows is that a four-year-old who can wait for a second treat goes on to better grades and better outcomes. It is a beautiful finding and it has not held up in its strong form. A much larger replication found the effect shrank dramatically once family background and early ability were accounted for. Waiting is partly a learned strategy and partly a reasonable read of whether adults keep promises in your house.",
+        "why": "The 2018 replication with a far larger and more varied sample found much smaller associations once socioeconomic factors were controlled. Self-regulation still matters; the idea that one test at four seals a child's future does not.",
+        "apply": "Stop testing willpower and start teaching tactics: help a child cover the treat, look away, or invent a distracting game while they wait.",
+        "format": "single",
+        "tags": [
+          "self-control",
+          "replication",
+          "delayed-gratification"
+        ]
+      },
+      {
+        "id": "mind-in-the-making-s07",
+        "hook": "Show a child exactly how a toy works and they stop investigating it.",
+        "insight": "Children are running experiments constantly, and a confident demonstration ends the experiment. When an adult shows one function of a novel object as though that is the whole story, children play with it less and discover fewer of its other features than children who were left to poke at it. Teaching has a cost that nobody warns you about: it tells the child there is nothing further to find. Sometimes the most useful adult move is to look puzzled.",
+        "why": "This trade-off has been demonstrated experimentally with preschoolers and novel toys, and it replicates. It is not an argument against teaching, only against teaching everything before curiosity has done its work.",
+        "apply": "Hand over a new object without explaining it, and ask what they think it does. Explain only after they have run out of guesses.",
+        "format": "single",
+        "tags": [
+          "curiosity",
+          "discovery",
+          "teaching"
+        ]
+      },
+      {
+        "id": "mind-in-the-making-s08",
+        "hook": "Praise the strategy, not the child. And keep your expectations modest.",
+        "insight": "Telling a child they are clever makes future difficulty threatening, because struggling now contradicts the label. Commenting instead on what they actually did — the approach they tried, the persistence, the change of tack when it stalled — keeps difficulty informative rather than damaging. The useful part is not the word choice but where attention lands: on something the child controls and can repeat tomorrow.",
+        "why": "Process praise beats person praise fairly consistently. Larger growth-mindset interventions, however, produce small average effects concentrated among struggling students, so this is a real but modest lever, not a transformation.",
+        "apply": "For one week, describe what your child did rather than what they are: the method, the sticking with it, the decision to try another way.",
+        "format": "single",
+        "tags": [
+          "praise",
+          "mindset",
+          "feedback"
+        ]
+      },
+      {
+        "id": "mind-in-the-making-s09",
+        "hook": "Children need to watch an adult be bad at something and carry on anyway.",
+        "insight": "Most of what an adult does well in front of a child was learned out of sight, so children see competence with the struggle edited out. That teaches them that capable people find things easy, and by implication that finding something hard means you are not capable. Doing something visibly difficult in front of them — badly, out loud, with the frustration and the second attempt included — corrects the record more effectively than any encouraging speech.",
+        "why": "Children calibrate what is normal from what they observe, and observed effort changes their willingness to persist. The mechanism is ordinary social learning; the mistake most adults make is only performing finished skills.",
+        "apply": "Learn something new where your child can see it, narrating the confusion and the failed attempts rather than practising quietly until you are good.",
+        "format": "single",
+        "tags": [
+          "persistence",
+          "modelling",
+          "challenge"
+        ]
+      },
+      {
+        "id": "mind-in-the-making-s10",
+        "hook": "No brain-training programme transfers as well as an ordinary good conversation.",
+        "insight": "Because these skills are trainable, an industry sells training for them: attention apps, executive-function curricula, brain games. What the evidence keeps showing is that children get better at the trained task and not much else. The gains rarely reach the classroom or the playground. The unglamorous alternative — responsive talk, rule-based play, work slightly above the child's current level, an adult who steps back as competence grows — has better support and costs nothing.",
+        "why": "Reviews of computerised training in children find reliable improvement on trained tasks and weak, inconsistent far transfer. Classroom programmes built on rich play and scaffolding show more promise, though results across trials are mixed.",
+        "apply": "Cancel one screen-based skill programme and replace it with a daily twenty minutes of rule-based play or real conversation you fully participate in.",
+        "format": "single",
+        "tags": [
+          "brain-training",
+          "transfer",
+          "evidence"
+        ]
+      }
+    ],
+    "actions": [
+      "Choose one of the underlying skills and spend a fortnight noticing where it shows up in your child's day before you attempt to teach anything.",
+      "Convert one daily routine — a meal, a car journey — into genuine back-and-forth conversation with no screens and no adult monologue.",
+      "Replace praise about ability with description of method for one week, and note how your child reacts to their next difficult task.",
+      "Learn something new in front of your child where you are visibly incompetent, and keep going long enough for them to see it improve."
+    ],
+    "if_you_liked": [
+      "how-we-learn",
+      "grasp",
+      "the-extended-mind"
+    ],
+    "not_for_you_if": "You want prescriptive parenting rules rather than research reporting, or your children are already teenagers — the material is weighted heavily towards the early years.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2010; Galinsky co-founded the Families and Work Institute. The book predates the 2018 marshmallow-test replication and the challenges to the word-gap figure; both corrections are stated plainly in the relevant sparks. All prose original."
+    }
   }
 ]
