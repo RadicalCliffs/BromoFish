@@ -1302,5 +1302,1306 @@
       "confidence": "high",
       "notes": "First published 2011. Several factual errors in the modern sections were identified after publication and are flagged in spark nine; the credit-before-coinage argument is far better supported."
     }
+  },
+  {
+    "id": "the-dawn-of-everything",
+    "title": "The Dawn of Everything",
+    "subtitle": "A New History of Humanity",
+    "author": "David Graeber and David Wengrow",
+    "year": 2021,
+    "category": "history",
+    "subcategory": "deep-history",
+    "tags": [
+      "prehistory",
+      "inequality",
+      "anthropology",
+      "archaeology",
+      "freedom",
+      "civilisation"
+    ],
+    "difficulty": "challenging",
+    "read_time_min": 13,
+    "why_it_matters": "It took the familiar shape of human history — small equal bands, then farming, then cities, then rulers forever — and showed how much of that shape was an eighteenth-century debating position rather than a finding. Big history has had to answer it ever since.",
+    "crux": {
+      "headline": "Hierarchy was a choice, and often a reversible one",
+      "body": "People spent tens of thousands of years experimenting with how to live together. They built large settlements with no palaces and no royal tombs, cultivated plants part-time for millennia without being captured by farming, and in some places ran hierarchical arrangements for part of the year and dismantled them for the rest. If that is the record, the sharp question is not where inequality came from. It is why so many societies eventually lost the ability to imagine and enact an alternative."
+    },
+    "sparks": [
+      {
+        "id": "the-dawn-of-everything-s01",
+        "hook": "The question is not how inequality began. It is how we got stuck with it.",
+        "insight": "Ask where inequality came from and you have already agreed that there was once a natural, simple, equal human condition that something ruined. That premise was invented in the eighteenth century as a move in an argument, not dug out of the ground. What the ground actually holds is people trying out kingship, wealth ranking and bureaucracy, then walking away from them again, sometimes more than once. So the puzzle changes shape entirely. Not why hierarchy appeared, but why most of humanity eventually lost the option of leaving it behind.",
+        "why": "How a question is framed decides which evidence counts. Look for the origin of a fall and every large building becomes a symptom, while the societies that built one and then abandoned it drop out of view.",
+        "apply": "Before you accept a historical question, ask what it assumes has already happened. A question can smuggle in a conclusion you never agreed to.",
+        "format": "single",
+        "tags": [
+          "inequality",
+          "framing",
+          "prehistory"
+        ]
+      },
+      {
+        "id": "the-dawn-of-everything-s02",
+        "hook": "Farming was not a trap that snapped shut. It took thousands of years to close.",
+        "insight": "The compressed version of the story has people discovering agriculture, settling down, filling granaries and inventing kings almost in one motion. The evidence across several regions looks nothing like that. Groups cultivated plants casually alongside hunting and gathering, in flood plains where the water did the hard work, for a very long stretch before anything resembling full dependence. Some took it up and put it down again. Domestication was slow, partial and in places reversed, which makes it a set of decisions rather than a door closing behind a species.",
+        "why": "The genetic and botanical markers of domestication accumulate over millennia in the record, not centuries. How general the slow pattern is remains argued over region by region.",
+        "apply": "When a story says a change was inevitable, check how long it actually took. Speed is usually the sign that a narrative has been tidied up after the fact.",
+        "format": "single",
+        "tags": [
+          "agriculture",
+          "domestication",
+          "inevitability"
+        ]
+      },
+      {
+        "id": "the-dawn-of-everything-s03",
+        "hook": "European ideas about freedom may have been argued into being by their critics.",
+        "insight": "When French colonists in North America published accounts of debating Indigenous interlocutors, those texts sold widely in Europe and fed straight into Enlightenment argument. One recurring figure is a Wendat statesman whose criticisms of European hierarchy, money and obedience were recorded and circulated. The claim here is that the sharpest early European critiques of European society were not purely homegrown. They were partly answers to people who had looked at that society from the outside and found it strange.",
+        "why": "Genuinely contested. Critics argue the published dialogues are a European literary form with a borrowed voice; supporters point to how consistently the recorded arguments match other Indigenous testimony of the period.",
+        "apply": "When an idea seems to appear from nowhere inside one culture, look at who that culture had recently been arguing with, and whose words got written down.",
+        "format": "single",
+        "tags": [
+          "enlightenment",
+          "indigenous-critique",
+          "intellectual-history"
+        ]
+      },
+      {
+        "id": "the-dawn-of-everything-s04",
+        "hook": "Freedom once meant being able to leave, and to be taken in somewhere else.",
+        "insight": "Modern political language treats freedom as an abstract entitlement. The version that shows up across a lot of the human record is more concrete and more social: can you physically go, will anyone shelter you when you get there, can you refuse an order without starving, can the group rearrange its own rules. Those capacities depend on other people. They also explain the shape of societies that had no coercive machinery, because in such places an unpopular leader simply lost the people he was leading.",
+        "why": "It is an interpretive frame the authors build from ethnographic and archaeological cases rather than a documented finding. Its value is that it makes freedom testable — you can ask of any society whether the three capacities were available.",
+        "apply": "Test any claim about freedom by asking the three concrete questions: could a person leave, disobey, and change the rules. Vague liberty language hides the answers.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "The freedom to move",
+            "body": "Walking away only works if somewhere else will receive you. Systems of hospitality, kinship and adoption made exit real, and their disappearance made staying compulsory long before any law did."
+          },
+          {
+            "step": 2,
+            "title": "The freedom to disobey",
+            "body": "In many societies a command carried no penalty for refusal, so leadership meant persuasion. Watch for the moment refusal starts to cost food, land or safety, because that is where domination begins."
+          },
+          {
+            "step": 3,
+            "title": "The freedom to remake the rules",
+            "body": "The deepest of the three: a group that can reorganise its own arrangements has not been captured by them. Losing this one is what turns a temporary structure into a permanent order."
+          }
+        ],
+        "tags": [
+          "freedom",
+          "power",
+          "political-theory"
+        ]
+      },
+      {
+        "id": "the-dawn-of-everything-s05",
+        "hook": "Some societies ran a police force in one season and abolished it in the next.",
+        "insight": "Ethnographic reports describe communities that gathered for part of the year around a hunt or a ceremony and adopted a strict command structure to manage it, complete with people empowered to punish. When the gathering broke up, the structure was dropped and life returned to something far flatter. The same people lived under two constitutions annually. That is not confusion. It is evidence that political arrangements were understood as tools, chosen for a purpose and put away afterwards.",
+        "why": "Most of this evidence comes from societies already disrupted by colonisation, which is a real limitation. Even so, it establishes that a fixed permanent political form is not a requirement of complex social life.",
+        "apply": "Ask of any institution you assume is permanent whether anyone has ever run it seasonally or switched it off, and what happened when they did.",
+        "format": "single",
+        "tags": [
+          "seasonality",
+          "political-experiment",
+          "anthropology"
+        ]
+      },
+      {
+        "id": "the-dawn-of-everything-s06",
+        "hook": "Some of the earliest big settlements left no palace, no throne room, no royal tomb.",
+        "insight": "Large prehistoric settlements in what is now Ukraine held thousands of houses laid out in rings, with no central monument, no obvious elite quarter and no rich burials. In central Mexico, a city that had built enormous pyramids stopped, and switched its collective effort to well-made housing spread across the whole population. Neither case matches the assumption that once people crowd together someone must inevitably end up on a throne. Scale and kingship came apart more often than the standard story allows.",
+        "why": "Absence of evidence is weaker than presence, and some archaeologists think rulers can be archaeologically invisible. But a city that stops building pyramids and starts building housing is positive evidence of changed priorities.",
+        "apply": "In any ruin or dataset, notice what is missing as well as what survives, then ask what would have to be there if the standard story were true.",
+        "format": "single",
+        "tags": [
+          "cities",
+          "archaeology",
+          "urbanism"
+        ]
+      },
+      {
+        "id": "the-dawn-of-everything-s07",
+        "hook": "Bigness does not manufacture kings. That link was assumed, never demonstrated.",
+        "insight": "A durable idea in social science says that once a population passes some size, face-to-face coordination fails and a coercive apparatus becomes necessary. It sounds like arithmetic. It is actually a hypothesis, and it was mostly asserted rather than tested against the range of large settlements that archaeologists have since excavated. Plenty of societies handled scale through councils, assemblies, rotating offices and layered federations. The management problem is real; the conclusion that it must be solved by a ruler is not.",
+        "why": "The counter-examples do not prove hierarchy never follows scale, only that it need not. That weaker claim is enough to break an argument that depended on necessity.",
+        "apply": "When someone says a structure is required at scale, ask them for the mechanism and then for a case where scale arrived without it.",
+        "format": "single",
+        "tags": [
+          "scale",
+          "bureaucracy",
+          "assumptions"
+        ]
+      },
+      {
+        "id": "the-dawn-of-everything-s08",
+        "hook": "Take the word 'state' apart and only three kinds of domination are left.",
+        "insight": "The state is treated as one thing that a society either has or lacks. Pulled apart, it turns out to bundle three separate capacities: the ability to threaten violence, the ability to control information and administration, and the ability to win a competition for personal followers. History shows them appearing singly and in pairs far more often than all three together. Ancient societies that look bewildering — enormous bureaucracy with no army, huge kings with no paperwork — become legible once you stop expecting a package deal.",
+        "why": "This is an analytical tool rather than a discovery, and its usefulness is in what it lets you see. Some specialists find the three-part scheme too neat for the cases it is applied to.",
+        "apply": "Take any authority you are trying to understand and score it separately on force, information and personal following. The gaps tell you where it is actually weak.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Control of violence",
+            "body": "The capacity to hurt people without being answerable for it. Look for garrisons, weapon monopolies and fortifications, and for who is exempt from punishment rather than who administers it."
+          },
+          {
+            "step": 2,
+            "title": "Control of information",
+            "body": "Writing, accounting, calendars, archives, priesthoods. Administration is a form of power because it decides what is recorded, what is knowable, and who is allowed to check."
+          },
+          {
+            "step": 3,
+            "title": "Charismatic competition",
+            "body": "Politics as a contest for followers, prestige and spectacle. It looks like the least institutional of the three, which is exactly why it survives regime changes that destroy the other two."
+          }
+        ],
+        "tags": [
+          "state",
+          "domination",
+          "political-theory"
+        ]
+      },
+      {
+        "id": "the-dawn-of-everything-s09",
+        "hook": "People were raising monuments before anyone had a field to harvest.",
+        "insight": "Huge stone enclosures in what is now south-eastern Turkey were being constructed by populations that were not dependent on farming. That single fact reverses a long-assumed sequence in which surplus grain funds a priesthood which then organises building. Instead, ambitious collective construction turns up first, and cultivation follows. Whatever motivated those builders, it was not a full granary. Complex coordinated effort was available to people the old story classified as too simple to attempt it.",
+        "why": "Interpretations here are actively shifting. Continued excavation suggests more permanent habitation and early plant processing on site than the first accounts implied, so the tidy image of a temple built by pure hunter-gatherers is being revised.",
+        "apply": "When a finding overturns a sequence, check the excavation date and read the most recent report. Spectacular sites get reinterpreted faster than books get updated.",
+        "format": "single",
+        "tags": [
+          "monuments",
+          "archaeology",
+          "revision"
+        ]
+      },
+      {
+        "id": "the-dawn-of-everything-s10",
+        "hook": "This is an argument, and specialists have argued back hard against it.",
+        "insight": "Reviews split along a clear line. Almost everyone welcomed the demolition of the tidy staircase from bands to states. Many archaeologists and historians then objected that the evidence is selected to fit, that contested interpretations are presented as settled, and that inconvenient regions get less attention than helpful ones. Both things can be true. Read it as one strong side of a live dispute rather than a replacement textbook, and it becomes far more useful than reading it as either gospel or nonsense.",
+        "why": "Graeber died in 2020, shortly after the manuscript was completed, so he could not answer his critics. The broad reframing has held up better than several of the specific readings it rests on.",
+        "apply": "Read a big revisionist book with its reviews open beside it. Sort each criticism into one that hits a detail and one that hits the frame; only the second kind changes your conclusion.",
+        "format": "single",
+        "tags": [
+          "historiography",
+          "criticism",
+          "reading-well"
+        ]
+      }
+    ],
+    "actions": [
+      "Pick one claim in the book that surprised you, find the specialist review that disputes it, and write down which of the two you now believe and why.",
+      "Take a political arrangement you treat as permanent and research one society that ran it differently, then note what made the difference possible.",
+      "Re-read the origin story of any field you know well and mark every step that is evidence and every step that is assumption.",
+      "List the three freedoms — to move, to disobey, to remake rules — and assess one institution you belong to against each of them."
+    ],
+    "if_you_liked": [
+      "debt",
+      "the-sixth-extinction",
+      "spqr"
+    ],
+    "not_for_you_if": "You want a settled synthesis rather than a polemic, or you find long archaeological detours frustrating when the payoff is a reframed question rather than an answer.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2021, after Graeber's death in 2020. Several central interpretations are actively contested by archaeologists and anthropologists; that dispute is flagged in sparks three, nine and ten. All prose original."
+    }
+  },
+  {
+    "id": "homage-to-catalonia",
+    "title": "Homage to Catalonia",
+    "subtitle": null,
+    "author": "George Orwell",
+    "year": 1938,
+    "category": "history",
+    "subcategory": "modern-conflict",
+    "tags": [
+      "spanish-civil-war",
+      "propaganda",
+      "eyewitness",
+      "socialism",
+      "journalism",
+      "war"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 10,
+    "why_it_matters": "A first-hand account of a war whose official record was being falsified while the fighting was still going on. It is where Orwell learned that the past can be rewritten by living people, which is the engine of everything he wrote afterwards.",
+    "crux": {
+      "headline": "He watched history being falsified while he was still in it",
+      "body": "Orwell fought on the Aragon front, was shot through the throat, and then found the events he had personally witnessed in Barcelona described in the foreign press with the facts reversed. The lie was not a rumour; it was organised, repeated by respectable papers, and believed. The book is his attempt to put down what he saw, while telling the reader plainly that he was partisan and should be checked."
+    },
+    "sparks": [
+      {
+        "id": "homage-to-catalonia-s01",
+        "hook": "He arrived to write newspaper articles and joined a militia within days.",
+        "insight": "Orwell went to Spain intending to report the civil war and enlisted almost immediately in a militia column, on the strength of which political organisation happened to have processed his papers. That accident determined everything that followed: which front he fought on, which faction he was later hunted by, and what he was in a position to see. He was honest about it. The book is not a survey of the war but the narrow, muddy, specific view from one man's stretch of trench.",
+        "why": "A narrow view honestly labelled is more useful than a wide one that hides its vantage point. Most of what he could confirm at first hand, he could confirm because he was standing in it.",
+        "apply": "When reading any eyewitness, work out first how they came to be where they were. Accidents of arrival shape testimony more than convictions do.",
+        "format": "single",
+        "tags": [
+          "eyewitness",
+          "spain",
+          "vantage-point"
+        ]
+      },
+      {
+        "id": "homage-to-catalonia-s02",
+        "hook": "For a few months a European city ran without tipping, ranks or servants.",
+        "insight": "Barcelona in the winter of 1936 had been reorganised from below. Workers' committees ran buildings and transport, ordinary forms of polite address had been swapped for ones implying equality, tipping was treated as insulting, and the visible markers of class had largely gone from the streets. Orwell found it disorienting and then found it worth defending. The point is not that it was efficient or stable. It is that it existed, briefly, and was witnessed by a sceptical foreigner who wrote it down.",
+        "why": "He also recorded what he did not like: the shortages, the noise, the incompetence. An admiring account that catalogues its own irritations is more trustworthy than one that does not.",
+        "apply": "When someone describes a political moment as impossible, look for a first-hand account by a sceptic. Their reluctant details carry more weight than an enthusiast's.",
+        "format": "single",
+        "tags": [
+          "revolution",
+          "barcelona",
+          "equality"
+        ]
+      },
+      {
+        "id": "homage-to-catalonia-s03",
+        "hook": "At the front, firewood was scarcer than ammunition and mattered more.",
+        "insight": "Months of Orwell's war consisted of cold, hunger, filth, boredom and shortage. Rifles were antique and unreliable, the enemy was often too far off to shoot at, and the daily crisis was fuel and food rather than combat. He describes the war he was actually in, which is mostly a war of waiting badly equipped in a trench. That is not a debunking of courage. It is a correction to the way war gets remembered as a sequence of engagements with the waiting edited out.",
+        "why": "Memoirs written for effect compress the tedium and keep the action. The proportion of a book given to boredom is a reasonable test of how honestly it is reporting.",
+        "apply": "In any war narrative, measure how many pages go to waiting versus fighting, and treat a very low ratio as a signal that the account has been shaped.",
+        "format": "single",
+        "tags": [
+          "trench-warfare",
+          "boredom",
+          "memoir"
+        ]
+      },
+      {
+        "id": "homage-to-catalonia-s04",
+        "hook": "He read foreign reports of a street battle he had personally stood in.",
+        "insight": "During the internal fighting in Barcelona in May 1937, Orwell was there, on a roof, for days. He then read newspaper accounts abroad which described the same events with the causes, the sequence and the participants rearranged to suit a political line. Not exaggerated: inverted. What shook him was not that a lie was told but that it was told confidently, by serious papers, and absorbed by intelligent readers who had no way of knowing better and no particular wish to.",
+        "why": "The falsification worked because almost no readers had independent access to the events. That asymmetry, not the wickedness of any individual writer, is the mechanism worth understanding.",
+        "apply": "Once in your life, follow reporting on an event you witnessed yourself, and note the gap. Use that measured gap when reading coverage of events you cannot check.",
+        "format": "single",
+        "tags": [
+          "propaganda",
+          "press",
+          "truth"
+        ]
+      },
+      {
+        "id": "homage-to-catalonia-s05",
+        "hook": "A sniper's bullet went through his throat and he expected to be dead.",
+        "insight": "Orwell was hit in the neck near Huesca in May 1937 and survived, narrowly. His account of it is deliberately unheroic: the sensation, the assumption that this was the end, the strange practical thoughts, the doctors and stretcher-bearers, the slow partial recovery of his voice. There is no meaning extracted from it and no lesson drawn. A tall man had stood up in the wrong place at dawn and someone with a rifle had been competent.",
+        "why": "The refusal to make injury meaningful is itself an argument. Wars generate randomness, and accounts that convert every wound into significance are describing a story rather than a war.",
+        "apply": "Notice when a narrative assigns meaning to chance. Ask what the account would look like if the same event were simply reported as luck.",
+        "format": "single",
+        "tags": [
+          "combat",
+          "chance",
+          "memoir"
+        ]
+      },
+      {
+        "id": "homage-to-catalonia-s06",
+        "hook": "Overnight his own side was reclassified as the enemy, and the arrests began.",
+        "insight": "The militia organisation Orwell had fought with was suppressed by the government it had been fighting for, and denounced as secretly serving the other side. Comrades were jailed, including his commander, Georges Kopp. Orwell and his wife slept rough and moved constantly before getting out of Spain. The sequence matters more than the specifics: a political line changed, the press followed it, the police acted on it, and the written record was revised to make the new position look like it had always been true.",
+        "why": "Orwell had documentary reason to distrust the process — he had been inside the organisation being described and knew what it had actually been doing at the front.",
+        "apply": "When a group's status flips abruptly, date the change and then read what the same outlets said one month earlier. The revision is usually visible in the archive.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "The line changes",
+            "body": "A political decision is taken elsewhere, for reasons unrelated to the group's actual conduct. Nothing the group does causes it, which is why its behaviour is a poor guide to what happens next."
+          },
+          {
+            "step": 2,
+            "title": "The press catches up",
+            "body": "Papers aligned with the new position start describing the group's past in fresh terms. Old cooperation is reinterpreted as infiltration, and the change of tone spreads faster than any evidence."
+          },
+          {
+            "step": 3,
+            "title": "The police move",
+            "body": "Arrests follow the story rather than preceding it. Because the charge was written first, evidence is gathered to fit it, and denial becomes further proof of the charge."
+          },
+          {
+            "step": 4,
+            "title": "The record is rewritten",
+            "body": "Earlier statements are quietly dropped or reissued. Within months there is no accessible account of what was said before, and anyone insisting on it sounds eccentric."
+          }
+        ],
+        "tags": [
+          "purge",
+          "propaganda",
+          "political-repression"
+        ]
+      },
+      {
+        "id": "homage-to-catalonia-s07",
+        "hook": "He tells you outright that he is partisan and that you should discount him.",
+        "insight": "At more than one point Orwell interrupts his own narrative to warn the reader that he is writing from inside a faction, that his sympathies are engaged, and that the account should be weighed accordingly. He does not do it as false modesty and he does not then abandon his conclusions. He simply supplies the reader with what is needed to grade him. That combination — a strong claim plus an honest declaration of interest — is rarer in political writing than either half on its own.",
+        "why": "Declared bias is manageable; undeclared bias is not. The warning does not make him neutral, but it lets a reader test his claims against sources with different loyalties.",
+        "apply": "When an author declares their bias, do not discount the whole book. Use the declaration to decide which specific claims need a second source.",
+        "format": "single",
+        "tags": [
+          "bias",
+          "honesty",
+          "reading-well"
+        ]
+      },
+      {
+        "id": "homage-to-catalonia-s08",
+        "hook": "The book barely sold. Being right early looks a lot like failing.",
+        "insight": "The first printing was small and did not sell out in Orwell's lifetime, and no American edition appeared until after his death. The account cut across what much of the anti-fascist left wanted to hear about a war it was emotionally committed to, and the market for an inconvenient truth from a minor front was close to zero. Its reputation arrived decades later, when the archives and the survivors had made its central complaint hard to dismiss.",
+        "why": "Contemporary reception measures how a claim fits the moment's appetite, not whether it is accurate. Sales figures are evidence about audiences, never about facts.",
+        "apply": "Separate two questions when judging a book: was it believed at the time, and was it correct. Track down the reception history before treating obscurity as a verdict.",
+        "format": "single",
+        "tags": [
+          "reception",
+          "publishing",
+          "being-early"
+        ]
+      },
+      {
+        "id": "homage-to-catalonia-s09",
+        "hook": "Spain is where the author of the famous novels about lying was manufactured.",
+        "insight": "Before Spain, Orwell was a documentary writer of poverty and colonial life. After it, he had a specific and permanent obsession: that the record of events can be altered by the powerful while the witnesses are still alive to contradict it, and that people will accept the alteration. The later fiction is that experience turned into machinery. Reading the memoir first makes the novels look less like invention and more like extrapolation from something he had watched happen to himself.",
+        "why": "The connection is drawn by Orwell himself in later essays about why he wrote, and the chronology supports it. It is interpretation, but well-supported interpretation.",
+        "apply": "When a writer keeps circling one theme, find the earliest first-hand account they wrote. The obsession usually has a datable origin you can go and read.",
+        "format": "single",
+        "tags": [
+          "orwell",
+          "influence",
+          "writing"
+        ]
+      },
+      {
+        "id": "homage-to-catalonia-s10",
+        "hook": "One honest witness is a source, not a verdict. Learn to use one properly.",
+        "insight": "This book is the best available demonstration of how to read testimony. Orwell is observant, self-critical, physically present, and wrong about some things because his position let him see only a slice. Later historians have adjusted his sense of how significant his own faction was, and have far more archive material than he could. None of that discredits him. Handling a witness well means neither swallowing nor dismissing, but locating exactly what they were in a position to know.",
+        "why": "Historians treat memoirs as evidence about a viewpoint plus evidence about events, weighted differently. Applying that split yourself is the whole skill.",
+        "apply": "For any memoir, draw a line between what the writer saw, what they were told, and what they concluded. Grade the three parts separately.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Locate the narrator",
+            "body": "Establish physically where they were and when. Testimony is strongest about the few metres around a person and weakens sharply with every step outside that radius."
+          },
+          {
+            "step": 2,
+            "title": "Map the field of view",
+            "body": "Work out what their position made invisible. Orwell could not see the government's internal deliberations, so his account of motives is inference while his account of streets is observation."
+          },
+          {
+            "step": 3,
+            "title": "Look for self-correction",
+            "body": "Find the places where the writer admits error, revises an earlier impression, or records something unflattering. Accounts with no such moments have usually been smoothed."
+          },
+          {
+            "step": 4,
+            "title": "Read a rival account",
+            "body": "Find someone with different loyalties who was in the same place. Where the two agree despite wanting different things, you have something close to solid ground."
+          }
+        ],
+        "tags": [
+          "testimony",
+          "historiography",
+          "reading-well"
+        ]
+      }
+    ],
+    "actions": [
+      "Read the political background sections that later editions place as appendices, then reread the narrative and note which passages they change your reading of.",
+      "Find a modern historian's account of the Barcelona fighting of May 1937 and list the points on which it confirms, corrects or complicates Orwell.",
+      "Take one contemporary event you personally attended and write down what the reporting got wrong, then keep that note as a calibration tool.",
+      "Choose a memoir you already trust and mark up which claims rest on the author's own eyes and which rest on what someone told them."
+    ],
+    "if_you_liked": [
+      "the-guns-of-august",
+      "the-origins-of-totalitarianism",
+      "manufacturing-consent"
+    ],
+    "not_for_you_if": "You want a full history of the Spanish Civil War. This is one man's narrow front, deliberately so, and the wider political map has to be pieced together elsewhere.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 1938 by Secker & Warburg; first American edition 1952. Later historians dispute Orwell's weighting of his own faction's importance, which is flagged in spark ten. All prose original."
+    }
+  },
+  {
+    "id": "the-second-world-war",
+    "title": "The Second World War",
+    "subtitle": null,
+    "author": "Antony Beevor",
+    "year": 2012,
+    "category": "history",
+    "subcategory": "modern-conflict",
+    "tags": [
+      "world-war-two",
+      "military-history",
+      "strategy",
+      "twentieth-century",
+      "war"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 13,
+    "why_it_matters": "It puts the Asian and European wars into one narrative instead of two, and keeps ordinary testimony next to grand strategy on the same page. That combination is why a single-volume account of something this size can still be worth reading.",
+    "crux": {
+      "headline": "It was not one war, and it did not start in one place",
+      "body": "Separate conflicts in China, in Europe, in the Mediterranean and across the oceans were fought for different reasons before they fused into a single global war. Reading it as one story that opened in September 1939 makes the Asian half look like a sideshow and hides the decisions that connected them. Follow the joins instead, and the war becomes a system where a battle on the Mongolian border can determine what happens outside Moscow two years later."
+    },
+    "sparks": [
+      {
+        "id": "the-second-world-war-s01",
+        "hook": "A Korean man was reportedly captured in Normandy wearing a German uniform.",
+        "insight": "The book opens with a story that has circulated widely: a Korean conscripted by the Japanese army, captured by the Soviets, put into the Red Army, captured by the Germans, sent to defend the French coast, and taken prisoner there by American troops. As an image of a war that picked people up and moved them through three armies without ever asking, it is close to perfect. That is exactly why it should be handled carefully rather than repeated as established fact.",
+        "why": "The story is not securely documented and has been challenged; Beevor has acknowledged the uncertainty around it. It stands as an emblem, and an emblem is not the same thing as a source.",
+        "apply": "When a book opens with a flawless anecdote, check the note before you retell it. The better a story serves an argument, the harder it needs to be verified.",
+        "format": "single",
+        "tags": [
+          "anecdote",
+          "verification",
+          "war"
+        ]
+      },
+      {
+        "id": "the-second-world-war-s02",
+        "hook": "Ask when the war began and the answer depends on where you were standing.",
+        "insight": "In Britain and France the date is September 1939. In China, full-scale war with Japan was under way from 1937, and Japanese forces had taken Manchuria in 1931. In the Soviet Union the decisive rupture is June 1941, and in the United States December 1941. None of these are wrong. The choice of a starting date silently ranks whose suffering counts as part of the main event, which is why a global history has to hold several beginnings at once.",
+        "why": "Start dates are editorial decisions dressed as facts. Every one of them makes some theatre central and another peripheral, and readers usually inherit the choice without noticing it was made.",
+        "apply": "For any conflict, write out the start date as seen from three different countries. The disagreement shows you whose perspective your usual account assumes.",
+        "format": "single",
+        "tags": [
+          "chronology",
+          "perspective",
+          "global-history"
+        ]
+      },
+      {
+        "id": "the-second-world-war-s03",
+        "hook": "A border clash in Mongolia helped decide whether Moscow would hold.",
+        "insight": "In 1939, Soviet and Japanese forces fought a substantial battle on the Mongolian frontier, and the Japanese lost badly. That defeat strengthened the argument inside Japan for expanding southwards against European and American possessions rather than northwards into Siberia. Two years later, with Japan committed elsewhere and intelligence suggesting no attack was coming, Stalin was able to move forces from the east to the defence of Moscow. A remote engagement most people have never heard of shaped the outcome of one most people have.",
+        "why": "The causal chain runs through decisions, not destiny: a defeat changed which faction won an internal Japanese argument, and that changed what Soviet planners could risk.",
+        "apply": "When tracing a big outcome backwards, look for the small event that changed which faction won an internal argument. That is usually where the leverage sits.",
+        "format": "single",
+        "tags": [
+          "strategy",
+          "japan",
+          "eastern-front"
+        ]
+      },
+      {
+        "id": "the-second-world-war-s04",
+        "hook": "Separate wars merged into one, and the joins are where the strategy lives.",
+        "insight": "Through 1939 and 1940 there were parallel conflicts with little connection: Japan in China, Germany in Europe, an increasingly wide war at sea. Over about eighteen months they locked together, until by the end of 1941 a decision taken in Tokyo obliged a declaration in Berlin and transformed the resources available in Moscow and London. Understanding the war means understanding those linkages rather than the campaigns in isolation, because after the fusion no theatre could be resourced without taking from another.",
+        "why": "Treating theatres separately produces the impression that each was decided on its own merits. The competition for shipping, aircraft and oil across theatres is where a lot of the real decision-making happened.",
+        "apply": "Study one campaign by asking what it took away from another. Resource competition explains more command decisions than tactical brilliance does.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "The Asian war",
+            "body": "Japan's war in China from 1937 consumed enormous forces and produced a strategic dead end, which pushed planners towards seizing resources elsewhere rather than settling the conflict they were in."
+          },
+          {
+            "step": 2,
+            "title": "The European war",
+            "body": "Germany's rapid conquests in 1939 and 1940 left Britain undefeated and drew the Reich into the Mediterranean and Balkans, delaying and complicating the invasion of the Soviet Union."
+          },
+          {
+            "step": 3,
+            "title": "The war at sea",
+            "body": "Atlantic shipping decided what any land campaign could be given. Convoy losses in one ocean directly constrained what armies on two continents were able to attempt."
+          },
+          {
+            "step": 4,
+            "title": "The fusion",
+            "body": "By December 1941 attacks in the Pacific and declarations in Europe joined the conflicts into one system, in which every theatre now competed against the others for the same finite supplies."
+          }
+        ],
+        "tags": [
+          "strategy",
+          "global-history",
+          "logistics"
+        ]
+      },
+      {
+        "id": "the-second-world-war-s05",
+        "hook": "Most people killed in this war were not soldiers and were not shot.",
+        "insight": "Civilian deaths outnumbered military ones, and a very large share came from starvation and disease rather than combat. Food was used deliberately: sieges designed to starve cities, occupation policies that stripped regions of harvests, and colonial supply decisions that turned shortage into famine. These deaths are harder to narrate than battles because they have no date, no front line and no clear moment of decision, which is exactly why they slip out of popular memory.",
+        "why": "Total figures for the war are estimates with wide margins, and different national accountings use different definitions. What is not disputed is the ordering: more civilians died than soldiers.",
+        "apply": "For any war you read about, look up how the dead are counted and by whom. Definitions of a war death vary enough to change the picture entirely.",
+        "format": "single",
+        "tags": [
+          "civilians",
+          "famine",
+          "casualties"
+        ]
+      },
+      {
+        "id": "the-second-world-war-s06",
+        "hook": "The German army did most of its dying in the east, not in the west.",
+        "insight": "The overwhelming majority of German military casualties were suffered fighting the Soviet Union, and the Eastern Front absorbed the bulk of German divisions for most of the war. Western popular memory, shaped by the films and the countries that produced them, distributes attention very differently. This is not a competition over credit. It is a warning about how national memory allocates space, and about how a reader can end up with a mental map of the war that does not match where the fighting happened.",
+        "why": "The imbalance is not seriously disputed by historians of any nationality, though exact proportions vary by source and by how casualties are defined and dated.",
+        "apply": "Compare the page count a history gives to each theatre against the share of forces engaged there. A large gap tells you whose memory the book was written inside.",
+        "format": "single",
+        "tags": [
+          "eastern-front",
+          "memory",
+          "proportion"
+        ]
+      },
+      {
+        "id": "the-second-world-war-s07",
+        "hook": "Bombing cities to break civilian morale was tried, and it did not work.",
+        "insight": "The pre-war theory held that air attack on cities would collapse a population's will and force a government to negotiate. It was tested repeatedly, on several countries, and the predicted collapse did not occur in any of them. Where strategic bombing did make a measurable difference was against specific systems, particularly fuel production and the transport network, and by forcing the diversion of enormous defensive resources. The morale theory survived its own refutation for years because it was institutionally convenient.",
+        "why": "Historians still argue about how much bombing shortened the war and at what cost. The narrower claim, that the morale-collapse theory failed on its own terms, is far better supported than the broad ones.",
+        "apply": "When a doctrine outlives its evidence, ask who benefits from it institutionally. Theories persist through budgets as often as through proof.",
+        "format": "single",
+        "tags": [
+          "air-war",
+          "doctrine",
+          "evidence"
+        ]
+      },
+      {
+        "id": "the-second-world-war-s08",
+        "hook": "Two dictators kept losing armies to the same fault: nobody could tell them no.",
+        "insight": "Both Hitler and Stalin built command systems in which passing bad news upward was dangerous. The consequences show up repeatedly across the war: reserves committed on the basis of reports written to please, positions held long past the point of usefulness, and intelligence discounted because it contradicted a leader's expectation. Beevor is careful not to reduce this to a personality trait. It is a structural problem about what happens to information when the person receiving it can have you shot.",
+        "why": "The pattern is documented in the surviving orders and staff records on both sides, and it explains failures that are otherwise attributed to individual stupidity.",
+        "apply": "When reading about a disastrous decision, ask what would have happened to the person who raised the objection. That answer often explains more than the decision itself.",
+        "format": "single",
+        "tags": [
+          "command",
+          "information",
+          "dictatorship"
+        ]
+      },
+      {
+        "id": "the-second-world-war-s09",
+        "hook": "The letters and diaries are the point. They are also a biased sample.",
+        "insight": "Beevor's method is to set archival testimony from soldiers and civilians alongside the strategic narrative, so that a decision and its consequence appear within a few pages of each other. It is the reason the book reads the way it does. The honest limitation is that testimony survives unevenly: literate people write more, censored letters say less, and the dead leave gaps that no archive fills. What you get is vivid and partial at the same time.",
+        "why": "Archives preserve what someone chose to keep. Survivorship shapes every collection of wartime letters, which is a reason to read them closely but not to treat them as a representative sample.",
+        "apply": "With any collection of first-hand accounts, ask which people were most likely to leave a record. The silences in an archive are usually systematic, not random.",
+        "format": "single",
+        "tags": [
+          "sources",
+          "archives",
+          "survivorship"
+        ]
+      },
+      {
+        "id": "the-second-world-war-s10",
+        "hook": "One volume on something this big is a set of choices about what to cut.",
+        "insight": "A single-volume global war history cannot be complete, and the useful skill is reading the compression rather than resenting it. Every such book has an organising claim, a set of theatres it treats generously, and a set it summarises in a paragraph. Reviewers of this one have differed sharply on the Pacific coverage and on some moral judgements. Knowing where a synthesis has thinned out tells you exactly where to go next, which is the best thing an overview can do for you.",
+        "why": "No reviewer disputes that compression happens; they dispute where. Reading the disagreements is a fast way to find which specialist book you actually need.",
+        "apply": "After finishing any big synthesis, list three topics it covered in under two pages, then pick one and read a specialist on it.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Find the organising claim",
+            "body": "Every synthesis has one argument holding it together. Name it explicitly, because everything that gets space in the book was selected for its usefulness to that claim."
+          },
+          {
+            "step": 2,
+            "title": "Weigh the chapters",
+            "body": "Compare what receives a full chapter with what receives a sentence. The distribution is the author's real argument about importance, stated more honestly than the introduction does."
+          },
+          {
+            "step": 3,
+            "title": "Spot-check the sources",
+            "body": "Take one section covering something you already know well and check it against the notes. Accuracy there is your best available proxy for accuracy elsewhere."
+          },
+          {
+            "step": 4,
+            "title": "Go specialist next",
+            "body": "Use the thin sections as a reading list. An overview has done its job when it tells you which single-topic book to open, not when it replaces one."
+          }
+        ],
+        "tags": [
+          "historiography",
+          "reading-well",
+          "synthesis"
+        ]
+      }
+    ],
+    "actions": [
+      "Draw a timeline with three columns for Asia, Europe and the oceans, and mark the points where an event in one column changed something in another.",
+      "Pick one theatre the book compresses and read a specialist history of it, then note which of Beevor's judgements you would now qualify.",
+      "Check the notes for one anecdote you found striking and record whether the sourcing is documentary, testimonial, or uncertain.",
+      "Compare this book's chapter allocation with a history of the war written in another country, and write down where the two disagree about importance."
+    ],
+    "if_you_liked": [
+      "stalingrad",
+      "the-making-of-the-atomic-bomb",
+      "the-guns-of-august"
+    ],
+    "not_for_you_if": "You want depth on one campaign, or a book that settles the moral arguments rather than narrating decisions and letting the judgements sit unresolved.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2012. The opening anecdote about a Korean captured in Normandy is not securely documented and is flagged as uncertain in spark one. All prose original."
+    }
+  },
+  {
+    "id": "stalingrad",
+    "title": "Stalingrad",
+    "subtitle": "The Fateful Siege, 1942-1943",
+    "author": "Antony Beevor",
+    "year": 1998,
+    "category": "history",
+    "subcategory": "modern-conflict",
+    "tags": [
+      "world-war-two",
+      "eastern-front",
+      "military-history",
+      "soviet-union",
+      "war"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It reached Soviet archives that had been shut for fifty years and used them to write about a battle from inside both armies at once. It also reset what a mass-market military history was allowed to be.",
+    "crux": {
+      "headline": "The battle in the city was decided outside it",
+      "body": "Months of ruinous street fighting fixed the German Sixth Army in place while Soviet planners assembled forces to strike the weakly held flanks either side of it. When the counter-attack came, it did not go through the city at all. It went around it, through allied armies that were short of anti-tank weapons and holding too much ground. The most famous urban battle of the war was won by an operation that avoided the streets entirely."
+    },
+    "sparks": [
+      {
+        "id": "stalingrad-s01",
+        "hook": "The counter-attack never entered the city. It went round both sides of it.",
+        "insight": "While the world's attention was on ruined factories and cellar-to-cellar fighting, Soviet planning concentrated on the flanks, where Romanian, Italian and Hungarian formations held long stretches of open ground with thin artillery and few anti-tank guns. In November 1942 two pincers went through those sectors and met behind the city, sealing off the German Sixth Army. The city fighting had not been pointless. Its function was to hold the strongest enemy force in place while the decisive blow was prepared elsewhere.",
+        "why": "The operational logic is visible in the Soviet planning documents and in where the reserves were positioned for weeks beforehand. Fixing an enemy in place is a purpose, not a failure.",
+        "apply": "When a contest looks like a slugging match, check where each side is quietly placing its reserves. That allocation reveals the actual plan.",
+        "format": "single",
+        "tags": [
+          "operation-uranus",
+          "strategy",
+          "flanks"
+        ]
+      },
+      {
+        "id": "stalingrad-s02",
+        "hook": "Soviet troops were ordered to stay so close the Luftwaffe could not help.",
+        "insight": "German advantages in aircraft and artillery required separation between the armies to be usable. Chuikov's answer was to eliminate the separation: hold positions within grenade range, keep a strip of riverbank at all costs, and fight in small assault groups through buildings and sewers rather than in formations that could be shelled. It was appallingly expensive in lives. It also converted a technological disadvantage into a fight where the stronger army could not bring its strengths to bear.",
+        "why": "The tactic is documented in Soviet after-action reporting and corroborated by German complaints about being unable to use air and artillery support in the city.",
+        "apply": "When an opponent's advantage depends on distance, ask what closing the distance costs you. Sometimes the expensive option is the only one that neutralises it.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Hug the enemy",
+            "body": "Hold the line so close that bombing or shelling the defenders risks hitting the attackers too. Proximity is a defensive weapon when the other side owns the sky."
+          },
+          {
+            "step": 2,
+            "title": "Fight in small groups",
+            "body": "Break the company into assault parties clearing rooms and stairwells. Large formations are targets in open ground and useless inside a wrecked building."
+          },
+          {
+            "step": 3,
+            "title": "Hold the riverbank",
+            "body": "Every reinforcement and every wounded man crossed the Volga. The narrow strip of landing ground was worth more than any factory and was defended accordingly."
+          },
+          {
+            "step": 4,
+            "title": "Reinforce at night",
+            "body": "Move men and supplies across the water in darkness, feeding them in continuously rather than in one mass. A steady trickle is harder to interdict than a single crossing."
+          }
+        ],
+        "tags": [
+          "urban-warfare",
+          "tactics",
+          "chuikov"
+        ]
+      },
+      {
+        "id": "stalingrad-s03",
+        "hook": "The German summer plan tried to take the oil and the city at the same time.",
+        "insight": "The 1942 offensive in the south was meant to reach the Caucasus oilfields. Partway through, the effort was divided, sending one group towards the oil and another towards Stalingrad, so that neither had the strength of the original plan. Splitting an offensive between two objectives that are hundreds of kilometres apart stretches supply lines, thins flank cover and gives the defender the chance to deal with each in turn. The vulnerability that November exploited was manufactured in June.",
+        "why": "The division of the offensive is documented in the German operational orders. Historians differ on how avoidable it was, but not on the fact that it lengthened the front the Germans had to hold.",
+        "apply": "When examining a defeat, look for the moment the objective was split. Failures usually become inevitable one decision earlier than they become visible.",
+        "format": "single",
+        "tags": [
+          "strategy",
+          "planning",
+          "overreach"
+        ]
+      },
+      {
+        "id": "stalingrad-s04",
+        "hook": "The promise to supply an encircled army by air was arithmetic nobody checked.",
+        "insight": "Once the Sixth Army was surrounded, it was assured it would be supplied from the air until relieved. The daily tonnage required to feed, arm and fuel an army of that size was far beyond what the available transport fleet had ever delivered, and that was before winter weather, losses to fighters and anti-aircraft fire, and the loss of forward airfields. The commitment was made anyway, and it was the reason the surrounded force stayed put instead of attempting a breakout while one was still possible.",
+        "why": "The gap between required and actual delivery is well documented in Luftwaffe records. The promise mattered because it removed the argument for breaking out early, when the encirclement was still thin.",
+        "apply": "When a plan depends on a supply rate, find the historical maximum for that system. A promise that exceeds the best day ever recorded is a decision, not a forecast.",
+        "format": "single",
+        "tags": [
+          "logistics",
+          "airlift",
+          "wishful-thinking"
+        ]
+      },
+      {
+        "id": "stalingrad-s05",
+        "hook": "Red Army soldiers were shot in large numbers by their own side.",
+        "insight": "One of the things the opened archives showed was the scale of Soviet coercion against its own troops: an order forbidding retreat, blocking units behind the front, penal formations used for the worst tasks, and executions for desertion and self-inflicted wounds carried out in numbers that shocked readers when they were first published. Beevor put this next to the accounts of genuine determination rather than replacing them. Both are in the record, often in the same units on the same days.",
+        "why": "The material comes from NKVD reporting in the Russian archives. Some Russian historians have disputed Beevor's interpretation and emphasis, though the underlying documents are not in serious doubt.",
+        "apply": "When new archives open, expect the first books from them to be contested on emphasis rather than on documents. Read the objections to learn what is interpretation.",
+        "format": "single",
+        "tags": [
+          "coercion",
+          "archives",
+          "red-army"
+        ]
+      },
+      {
+        "id": "stalingrad-s06",
+        "hook": "The city's civilians were not evacuated before the fighting reached them.",
+        "insight": "Large numbers of inhabitants were still in Stalingrad when it was bombed and then fought over, and the decision not to evacuate was deliberate rather than an oversight. The reasoning was partly that a populated city would be defended more fiercely, and partly that ordering an evacuation would look like admitting the city might fall. Civilians then lived through months of urban combat in cellars and ruins, scavenging, and dying in numbers that no one has ever been able to establish with confidence.",
+        "why": "The evacuation decision and its rationale appear in Soviet records. Civilian death totals for the battle remain estimates with very wide margins, and no reliable count exists.",
+        "apply": "When a source gives a confident civilian casualty figure for an urban battle, look for how it was derived. Precision here is nearly always reconstructed, not counted.",
+        "format": "single",
+        "tags": [
+          "civilians",
+          "evacuation",
+          "casualties"
+        ]
+      },
+      {
+        "id": "stalingrad-s07",
+        "hook": "Paulus was promoted to field marshal as a hint. He surrendered instead.",
+        "insight": "In the last days of the encirclement, the commander of the trapped army was raised to the highest rank, on the reasoning that no German officer of that rank had ever been captured alive and that he would understand what was expected. He understood and declined. The surrender happened in stages, with separate pockets giving up at slightly different times, which is itself a reminder that the tidy single date in most accounts is a simplification of a collapse that happened in pieces.",
+        "why": "The promotion and its timing are documented, and the reading of it as an invitation to suicide is the standard interpretation among historians of the campaign.",
+        "apply": "Notice when a history gives one clean date for an event that actually unfolded over days. The rounding usually hides how disorderly the ending was.",
+        "format": "single",
+        "tags": [
+          "surrender",
+          "command",
+          "paulus"
+        ]
+      },
+      {
+        "id": "stalingrad-s08",
+        "hook": "For the prisoners, captivity turned out to be far deadlier than the battle.",
+        "insight": "Tens of thousands of German and allied soldiers marched into Soviet captivity already starving, frostbitten and diseased after weeks on air-dropped rations. Most did not survive the first months, and only a small fraction of those taken at Stalingrad ever returned home, some of them not for more than a decade. The battle's casualty figures, quoted in most accounts, undercount its cost because they stop at the surrender and the dying continued for years afterwards.",
+        "why": "Return figures are far lower than capture figures across all major sources, though exact totals vary. The mechanism is not disputed: men were captured in a condition few could survive.",
+        "apply": "When a history reports a battle's cost, check where the count stops. Deaths after the surrender date are routinely excluded from the headline number.",
+        "format": "single",
+        "tags": [
+          "prisoners",
+          "casualties",
+          "aftermath"
+        ]
+      },
+      {
+        "id": "stalingrad-s09",
+        "hook": "Sieges do not end in a moment. They end in a predictable sequence.",
+        "insight": "The final phase followed a shape visible in many encirclements: the ring closes, an outside relief attempt is launched and halted short, the resupply arrangement fails to match consumption, and the trapped force disintegrates from the edges inward until parts of it surrender independently of each other. Seeing the sequence makes the ending legible rather than dramatic. It also shows how early the outcome was effectively settled, weeks before anyone inside the pocket accepted it.",
+        "why": "The stages are documented day by day on both sides here. Whether an early breakout would have succeeded is genuinely argued over by historians and cannot be settled.",
+        "apply": "When studying any encirclement, mark the date the outcome became arithmetically settled and the date it was admitted. The gap is where most of the dying happens.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "The ring closes",
+            "body": "Two attacking forces meet behind the defenders. At this point the trapped army's supply becomes a fixed quantity plus whatever can be brought in from outside."
+          },
+          {
+            "step": 2,
+            "title": "Relief fails",
+            "body": "An outside force attacks towards the pocket and is stopped short of it. Once relief halts, the trapped force's only remaining options are breakout or slow starvation."
+          },
+          {
+            "step": 3,
+            "title": "Supply falls behind",
+            "body": "Deliveries run consistently below consumption. Rations shrink, ammunition is rationed, the wounded cannot be evacuated, and combat effectiveness declines faster than numbers do."
+          },
+          {
+            "step": 4,
+            "title": "Collapse in pieces",
+            "body": "The perimeter fragments and separate groups surrender at different times. There is rarely a single moment of defeat, which is why clean surrender dates mislead."
+          }
+        ],
+        "tags": [
+          "siege",
+          "encirclement",
+          "pattern"
+        ]
+      },
+      {
+        "id": "stalingrad-s10",
+        "hook": "Calling one battle the turning point is a story, not a measurement.",
+        "insight": "Stalingrad is routinely named the moment the war turned, and there is a real case for it. There are also real cases for the failure outside Moscow, for the tank battles of the following summer, and for the industrial and manpower arithmetic that arguably settled the outcome before either army reached the Volga. Turning points are chosen partly for narrative reasons, because a story needs a hinge. Holding several candidates at once is closer to how the war actually resolved.",
+        "why": "Historians genuinely disagree here, and the disagreement is about weighting rather than facts. Nobody can run the experiment again with one battle removed.",
+        "apply": "Whenever you meet the phrase turning point, ask what the alternative candidates are and what each choice implies about who or what was decisive.",
+        "format": "single",
+        "tags": [
+          "turning-point",
+          "historiography",
+          "causation"
+        ]
+      }
+    ],
+    "actions": [
+      "Draw the front line before and after November 1942 and mark which national contingents held each sector, then explain the plan from the map alone.",
+      "Find a Russian-language historian's assessment of this book in translation and list where they dispute Beevor's emphasis rather than his documents.",
+      "Take the casualty figures the book gives and write down for each one where the counting starts and stops.",
+      "Pick a different candidate turning point of the war and build the strongest case for it, then compare it against the case for Stalingrad."
+    ],
+    "if_you_liked": [
+      "the-second-world-war",
+      "the-making-of-the-atomic-bomb",
+      "the-guns-of-august"
+    ],
+    "not_for_you_if": "You are looking for grand strategy across the whole war, or you find sustained detail about starvation, wounds and executions hard to read.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 1998, drawing on Russian archives opened after 1991. Some Russian historians contest Beevor's emphasis on Soviet coercion; that dispute is flagged in spark five. All prose original."
+    }
+  },
+  {
+    "id": "the-anarchy",
+    "title": "The Anarchy",
+    "subtitle": "The Relentless Rise of the East India Company",
+    "author": "William Dalrymple",
+    "year": 2019,
+    "category": "history",
+    "subcategory": "colonialism",
+    "tags": [
+      "east-india-company",
+      "empire",
+      "india",
+      "colonialism",
+      "corporations",
+      "capitalism"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It tells the conquest of India as corporate history rather than national history, using Indian and Persian sources alongside the Company's own records. That shift changes who the actors are and what the conquest was for.",
+    "crux": {
+      "headline": "A company with shareholders conquered a subcontinent",
+      "body": "The British state did not take India and then hand it to a company. A private corporation, answerable to investors in London, took it first, using armies of Indian soldiers paid for with Indian tax revenue and financed by Indian bankers. Parliament arrived afterwards, first to regulate, then to rescue, and eventually to take over. Empire here begins as a business decision, with a balance sheet, a share price and a lobbying operation attached."
+    },
+    "sparks": [
+      {
+        "id": "the-anarchy-s01",
+        "hook": "The conquest of India began as a corporate acquisition, not a royal one.",
+        "insight": "For most of the eighteenth century the power expanding across India was a joint-stock company chartered in 1600, run from a small building in London, reporting to shareholders who wanted dividends. It raised armies, fought wars, signed treaties and collected taxes on its own account. Thinking of this as national conquest imports a state that was not yet in charge and hides the actual decision-makers, who were directors weighing military expenditure against returns in a way no government of the period did.",
+        "why": "The Company's own records show the chain running from board decisions to campaigns. The state's formal takeover came much later, after the Company had already been governing millions of people.",
+        "apply": "When reading about empire, check who legally owned the operation at each stage. National framing often conceals the corporate actor that was doing the work.",
+        "format": "single",
+        "tags": [
+          "corporations",
+          "empire",
+          "east-india-company"
+        ]
+      },
+      {
+        "id": "the-anarchy-s02",
+        "hook": "The battle that won Bengal was largely arranged before anyone fired.",
+        "insight": "At Plassey in 1757 a substantial part of the Nawab of Bengal's army stood still, because its commander had already agreed terms with the Company in exchange for the throne. The engagement was short and the outcome had been negotiated in advance through intermediaries and bankers. Reading it as a demonstration of European military superiority gets the mechanism wrong. It was a demonstration of the Company's ability to find the faction inside an opponent that would rather rule under new arrangements than lose under the old ones.",
+        "why": "The conspiracy behind the battle is documented on both sides, including the roles of the financiers who backed it. Later imperial accounts preferred the story of small numbers defeating large ones.",
+        "apply": "When a lopsided victory is explained by superior technique, look for who inside the losing side had a reason not to fight. Defection is usually cheaper than firepower.",
+        "format": "single",
+        "tags": [
+          "plassey",
+          "betrayal",
+          "conquest"
+        ]
+      },
+      {
+        "id": "the-anarchy-s03",
+        "hook": "Conquest was legally dressed up as a tax-collecting contract.",
+        "insight": "In 1765 the Company obtained from the Mughal emperor the right to collect the land revenue of Bengal, Bihar and Orissa. It was, on paper, an administrative appointment within an existing empire, granted by its legitimate sovereign. In practice it handed a foreign corporation the tax base of one of the richest regions on earth, with which it could fund the army that made further appointments unnecessary. The paperwork of legitimacy mattered because it let everyone involved describe what was happening as continuity.",
+        "why": "The grant is a documented legal act, and its consequences are traceable in Company revenue accounts. The gap between the legal form and the practical result is the point.",
+        "apply": "Read the legal instrument behind any transfer of power and then read what changed on the ground. The distance between the two is where the real transaction sits.",
+        "format": "single",
+        "tags": [
+          "diwani",
+          "legitimacy",
+          "taxation"
+        ]
+      },
+      {
+        "id": "the-anarchy-s04",
+        "hook": "The Company's army was overwhelmingly Indian, and Indian bankers paid for it.",
+        "insight": "The force that conquered India was recruited locally, drilled in European fashion, and grew into one of the largest standing armies anywhere. It was funded by revenue collected in India and by credit advanced by Indian financial houses, who preferred a stable payer to a chaotic one and backed the Company accordingly. This is not a story of one people overpowering another. It is a story about a foreign firm plugging itself into existing military labour markets and existing credit networks, and outbidding rivals inside them.",
+        "why": "Recruitment records, payroll accounts and the role of major banking families are documented in Indian and Company sources. The scale of local financing is one of the book's central contributions.",
+        "apply": "For any conquest, count who was actually in the ranks and who lent the money. Both answers usually complicate the national story you were told.",
+        "format": "single",
+        "tags": [
+          "sepoys",
+          "finance",
+          "collaboration"
+        ]
+      },
+      {
+        "id": "the-anarchy-s05",
+        "hook": "Revenue collection continued through the Bengal famine as if nothing had changed.",
+        "insight": "When drought and crop failure struck Bengal in 1770, the region was under Company revenue administration. Collection was pressed and in places increased, grain moved towards markets and garrisons rather than towards the starving, and dividends continued to be discussed in London. The deaths were counted in millions by contemporaries and the true toll cannot now be established. What is documented is the institutional behaviour: a revenue machine that had no mechanism for noticing that its taxpayers were dying.",
+        "why": "Contemporary estimates of the death toll vary widely and modern historians treat all of them as uncertain. The revenue policy during the famine, by contrast, is documented in the Company's own accounts.",
+        "apply": "Separate the disputed number from the documented behaviour. An argument about a death toll often distracts from evidence about policy that nobody disputes.",
+        "format": "single",
+        "tags": [
+          "famine",
+          "bengal",
+          "extraction"
+        ]
+      },
+      {
+        "id": "the-anarchy-s06",
+        "hook": "The Company went broke, got a state bailout, and helped start a revolution.",
+        "insight": "By the early 1770s the Company was overextended, its share price collapsing, and it turned to Parliament for a rescue. It got one, along with regulation and legislation designed to help it shift unsold tea into the American colonies. The reaction to that arrangement in Boston is more famous than its cause. A corporation too politically embedded to be allowed to fail was rescued by the state, and the terms of the rescue helped detonate a rebellion on the other side of the world.",
+        "why": "The financial crisis, the government loan and the tea legislation are documented and connected in the parliamentary record. How much weight the Company's role carries in the American story is argued over.",
+        "apply": "Trace a policy back to the balance sheet that required it. Legislation that looks ideological often turns out to be an accounting problem in disguise.",
+        "format": "single",
+        "tags": [
+          "bailout",
+          "lobbying",
+          "finance"
+        ]
+      },
+      {
+        "id": "the-anarchy-s07",
+        "hook": "There is a repeatable route from trading post to government. Watch it run.",
+        "insight": "The Company's expansion was not a single seizure but a sequence, repeated with variations in different regions. Secure a monopoly charter at home, fortify the warehouse, raise local troops to protect it, intervene in a succession dispute, acquire a revenue right as payment, then govern while insisting you are only trading. Each step is defensible on its own and looks modest at the time. The pattern is only visible when the steps are laid out together, which is how a commercial enterprise ends up with a treasury and a standing army.",
+        "why": "The sequence recurs across regions and decades in the Company's records. Seeing it as a pattern rather than a series of accidents is the book's structural argument.",
+        "apply": "When an organisation keeps saying each expansion is a one-off necessity, write the expansions down in order and check whether they form a sequence.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Get the monopoly",
+            "body": "A charter at home removes competitors from your own country, so profits from the trade accumulate in one organisation big enough to afford soldiers."
+          },
+          {
+            "step": 2,
+            "title": "Fortify the warehouse",
+            "body": "Defence of property is the least controversial justification for force. Walls and guns arrive framed as insurance, and they change what is possible later."
+          },
+          {
+            "step": 3,
+            "title": "Hire local soldiers",
+            "body": "Recruit and drill an army from the population you are trading with. It is cheaper than shipping troops and it makes the force expandable without any decision at home."
+          },
+          {
+            "step": 4,
+            "title": "Take the tax right",
+            "body": "Accept revenue collection as payment for services to a local ruler. Now the army funds itself from the territory, and expansion no longer needs approval from investors."
+          },
+          {
+            "step": 5,
+            "title": "Rule while denying it",
+            "body": "Keep the previous sovereign's name on the documents. Formal continuity delays interference from home and gives everyone involved a story they can defend."
+          }
+        ],
+        "tags": [
+          "expansion",
+          "pattern",
+          "corporate-power"
+        ]
+      },
+      {
+        "id": "the-anarchy-s08",
+        "hook": "Describing an era as chaos is a claim that flatters whoever ended it.",
+        "insight": "The period after Mughal central authority weakened is conventionally described as disorder, and that description does real work: it makes an outside power that imposes order look like a solution rather than a predator. Recent scholarship on the successor states argues they were often effective, commercially dynamic and militarily capable, not simply fragments of a collapse. Both things can be partly true. What matters is noticing that the word chosen for a period is already an argument about what happened next.",
+        "why": "This is a live historiographical debate. Historians of the eighteenth-century successor states have pushed back for decades against decline-and-chaos framings of the period.",
+        "apply": "Whenever a period is labelled as anarchy, decline or a dark age, ask who benefits from that label and which power it makes look necessary.",
+        "format": "single",
+        "tags": [
+          "historiography",
+          "mughal",
+          "framing"
+        ]
+      },
+      {
+        "id": "the-anarchy-s09",
+        "hook": "Conquest was close-run. Several Indian powers nearly stopped it outright.",
+        "insight": "The outcome reads as inevitable only from the far end. Maratha armies and the state of Mysore under Tipu Sultan fought the Company to standstills and defeats, adopted European drill and artillery, and at points came close to ending its expansion. Dalrymple works from Persian and Indian sources as well as Company ones, which restores the strategic judgement of the other side. Told from those records, the conquest becomes a series of contingent outcomes rather than a demonstration of anything about civilisations.",
+        "why": "The Indian-language sources are real and underused in earlier English-language accounts. Working from both archives produces a less determined story because both sides have plans and options.",
+        "apply": "Find out which language the surviving sources for a conquest are written in. Whoever's archive is easiest to read tends to become the story's only agent.",
+        "format": "single",
+        "tags": [
+          "contingency",
+          "sources",
+          "resistance"
+        ]
+      },
+      {
+        "id": "the-anarchy-s10",
+        "hook": "To understand any empire, read the accounts before you read the speeches.",
+        "insight": "Justifications for empire are written for audiences and change with fashion. Ledgers are written for shareholders and are much less flexible. Following money through this story shows who lent, who was paid, who bore the risk, who collected, and who was left holding the loss when a policy failed. It also explains timing that ideology cannot: why an expansion happened in one decade rather than another, and why a rescue arrived when it did.",
+        "why": "Financial records were kept to be checked by people with money at stake, which makes them a different class of evidence from public justification. They still reflect the priorities of whoever kept them.",
+        "apply": "For any institution you are trying to understand, find the earliest surviving financial record and read it before any of its public statements.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Find who financed it",
+            "body": "Identify the lenders and the terms. Credit decides what an organisation can attempt, and lenders are usually named in records that were never meant to persuade anyone."
+          },
+          {
+            "step": 2,
+            "title": "Follow who got paid",
+            "body": "Salaries, commissions, prize money and bribes reveal the incentives that actual decision-makers faced, which frequently differ from the stated aims of the organisation."
+          },
+          {
+            "step": 3,
+            "title": "Ask who bore the risk",
+            "body": "Losses fall somewhere. Note whether they landed on shareholders, on soldiers, on taxpayers at home, or on populations with no say in the arrangement at all."
+          },
+          {
+            "step": 4,
+            "title": "Check who kept the books",
+            "body": "Accounts are written by interested parties for particular readers. Knowing the intended audience tells you which entries were likely to be shaded and which were not worth faking."
+          }
+        ],
+        "tags": [
+          "follow-the-money",
+          "reading-well",
+          "sources"
+        ]
+      }
+    ],
+    "actions": [
+      "Build a timeline of the Company's expansion and mark beside each step whether the decision was taken in London or in India, and by whom.",
+      "Read a historian of the eighteenth-century Indian successor states and note where their picture of the period contradicts the idea of general anarchy.",
+      "Take one modern institution you know well and trace its finances the way this book traces the Company's: lenders, payments, risk, bookkeeping.",
+      "Compare an older imperial history of the same events with this one and list the actors that appear in one book and vanish from the other."
+    ],
+    "if_you_liked": [
+      "king-leopolds-ghost",
+      "debt",
+      "the-dawn-of-everything"
+    ],
+    "not_for_you_if": "You want an analytical economic history rather than narrative, or a full account of Indian society under Company rule rather than the story of the Company itself.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2019. The corporate framing and the depiction of the post-Mughal period as anarchy are both debated by historians; that debate is flagged in spark eight. All prose original."
+    }
+  },
+  {
+    "id": "midnight-in-chernobyl",
+    "title": "Midnight in Chernobyl",
+    "subtitle": "The Untold Story of the World's Greatest Nuclear Disaster",
+    "author": "Adam Higginbotham",
+    "year": 2019,
+    "category": "history",
+    "subcategory": "nuclear-age",
+    "tags": [
+      "chernobyl",
+      "nuclear-power",
+      "soviet-union",
+      "disaster",
+      "engineering",
+      "secrecy"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It reconstructs the accident from interviews and post-Soviet archives, separating the documented mechanism from decades of official story and later dramatisation. It is the version to read before arguing about Chernobyl at all.",
+    "crux": {
+      "headline": "The safety system triggered the explosion",
+      "body": "Pressing the emergency shutdown at Chernobyl briefly increased the reactor's power instead of cutting it, because of how the control rods were built and the state the reactor had been left in. The flaw was known inside the Soviet nuclear establishment and was classified. Blaming the operators was therefore convenient in a precise sense: the alternative was admitting that the design, and the secrecy protecting it, had produced the accident."
+    },
+    "sparks": [
+      {
+        "id": "midnight-in-chernobyl-s01",
+        "hook": "Pressing the emergency stop is what set the reactor off.",
+        "insight": "The control rods at Chernobyl had graphite sections at their tips. When they were driven into a reactor that was in a very particular unstable state, those tips briefly displaced water and increased reactivity in the lower part of the core before the absorbing sections could take effect. The shutdown button produced a power surge. Everything that follows in the story — the explosions, the fire, the evacuation, the trials — starts from a safety device that could, under the right conditions, do the opposite of its job.",
+        "why": "The mechanism is set out in post-Soviet technical reviews and international assessments, and is no longer seriously disputed. Details of the exact sequence in the final seconds are still discussed by specialists.",
+        "apply": "When examining a failure, check whether the safety mechanism has a regime where it makes things worse. Ask what state the system has to be in for that to happen.",
+        "format": "single",
+        "tags": [
+          "reactor-design",
+          "failure",
+          "safety"
+        ]
+      },
+      {
+        "id": "midnight-in-chernobyl-s02",
+        "hook": "The flaw had shown itself years earlier and the report was classified.",
+        "insight": "The reactor type's dangerous behaviour at low power was not discovered on the night of the accident. Related problems had appeared at other Soviet installations, including a serious incident at a plant near Leningrad in 1975, and the findings circulated only within a closed part of the nuclear establishment. Operators at Chernobyl were working a machine whose most dangerous characteristic was withheld from them by their own industry. They were then prosecuted for not anticipating it.",
+        "why": "The earlier incident and the restricted circulation of its findings are documented. Secrecy here was not a cover-up after the fact; it was the standing condition that made the accident possible.",
+        "apply": "When assessing operator error, first ask what the operators were permitted to know. Blame allocated without that question is nearly always misplaced.",
+        "format": "single",
+        "tags": [
+          "secrecy",
+          "institutions",
+          "blame"
+        ]
+      },
+      {
+        "id": "midnight-in-chernobyl-s03",
+        "hook": "A leftover safety test, postponed to the night shift, ran the reactor into a corner.",
+        "insight": "The test was meant to check whether a spinning turbine could power cooling pumps during the gap between losing outside electricity and starting the diesel generators. It had been attempted before without success and was still outstanding. Delayed by grid demand, it fell to a shift that had not prepared for it, at a moment when reactor power had dropped far below the planned level and had been dragged back up by pulling out most of the control rods. Each of those was an ordinary decision. Together they left the reactor in the exact state its design could not tolerate.",
+        "why": "The sequence is reconstructed from plant records, testimony and later technical inquiries. No single step required incompetence, which is precisely why the accident is instructive.",
+        "apply": "When reviewing a failure, list the decisions individually and ask whether each was reasonable alone. Accidents are usually built from defensible steps in an unlucky order.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "An unfinished task",
+            "body": "The test had been on the list for years and repeatedly deferred. Outstanding work carries pressure to complete it, and pressure to complete is how a task outlives the conditions it was designed for."
+          },
+          {
+            "step": 2,
+            "title": "Wrong shift, wrong time",
+            "body": "Grid demand pushed the test into the night, so it was run by people who had not prepared for it and who inherited a plan written for different circumstances."
+          },
+          {
+            "step": 3,
+            "title": "Power falls too far",
+            "body": "Reactor output dropped well below the intended level. Recovering from that state meant withdrawing far more control rods than normal practice allowed, which quietly removed the margin for shutdown."
+          },
+          {
+            "step": 4,
+            "title": "The button is pressed",
+            "body": "With the core in that configuration, the emergency insertion caused a surge rather than a shutdown. The last action in the chain was the one intended to make everything safe."
+          }
+        ],
+        "tags": [
+          "accident-analysis",
+          "process",
+          "engineering"
+        ]
+      },
+      {
+        "id": "midnight-in-chernobyl-s04",
+        "hook": "The men were put on trial. The reactor design never was.",
+        "insight": "The official Soviet account placed responsibility on the plant's staff, and senior figures including the director, the chief engineer and the deputy chief engineer were convicted in 1987. That verdict solved a political problem: dozens of similar reactors were still running across the country, and a finding that the design was unsafe would have implied shutting them down and admitting that the industry had concealed the reason. Choosing which explanation to accept was a decision with an enormous budget attached to it.",
+        "why": "The convictions and the international presentation of the operator-error account are documented. The design flaws were acknowledged more openly in later years, and modifications were made to the remaining reactors.",
+        "apply": "When an inquiry names a cause, ask what each candidate explanation would have cost the organisation. The cheapest true-sounding answer is the one to scrutinise hardest.",
+        "format": "single",
+        "tags": [
+          "accountability",
+          "inquiry",
+          "incentives"
+        ]
+      },
+      {
+        "id": "midnight-in-chernobyl-s05",
+        "hook": "A Swedish power station found the accident before the Soviet public did.",
+        "insight": "Two days after the explosion, staff arriving at a nuclear plant in Sweden set off radiation alarms. The contamination was on their clothes, from the air outside, and the search for a domestic leak came up empty. Working from wind patterns, the source was traced back to the Soviet Union, and the pressure of foreign detection forced an announcement that had not otherwise been coming. Information about the accident travelled across a continent faster than it travelled up the chain of command inside the country where it happened.",
+        "why": "The detection at Forsmark on 28 April 1986 and the sequence leading to the Soviet announcement are well documented in contemporary records from several countries.",
+        "apply": "In any closed system, look for the external detector. Outside measurement is often the fastest route to the truth when internal reporting is punished.",
+        "format": "single",
+        "tags": [
+          "secrecy",
+          "detection",
+          "information"
+        ]
+      },
+      {
+        "id": "midnight-in-chernobyl-s06",
+        "hook": "The three men who waded in to open the valves did not die doing it.",
+        "insight": "One of the most repeated Chernobyl stories has volunteers going into flooded basements on a suicide mission to drain water from beneath the reactor. Three men did go, in May 1986, and the job mattered. But they came back, and two of them lived for decades afterwards. The heroic-sacrifice version spread because it is a better story and because early reporting from a closed country filled gaps with drama. Higginbotham's account corrects several such episodes using interviews and documents.",
+        "why": "The survival of Alexei Ananenko, Valeri Bespalov and Boris Baranov is documented; two were still alive many years later. The suicide-mission version persisted in books and broadcasts long after it could have been checked.",
+        "apply": "When a disaster story features a perfect sacrifice, look for a later interview with the people involved. Survivors are the fastest way to test a legend.",
+        "format": "single",
+        "tags": [
+          "myths",
+          "correction",
+          "reporting"
+        ]
+      },
+      {
+        "id": "midnight-in-chernobyl-s07",
+        "hook": "The immediate dead can be counted. The eventual dead cannot.",
+        "insight": "A small number of people, firefighters and plant staff, died within weeks from acute radiation exposure, and those cases are individually documented. The long-term toll is a different kind of question. It depends on which dose model you accept, over what population, across what period, and estimates produced by serious bodies differ by orders of magnitude. The clearest documented long-term effect is a large rise in thyroid cancer among people exposed as children. Beyond that, honest sources disagree.",
+        "why": "The disagreement comes from applying small individual risks across very large populations, where the modelling assumption does most of the work. This is a genuine scientific dispute, not a cover-up on either side.",
+        "apply": "When two credible sources give wildly different death tolls, find the assumption they differ on before choosing between them. Usually one number, not the evidence, is doing the work.",
+        "format": "single",
+        "tags": [
+          "casualties",
+          "uncertainty",
+          "epidemiology"
+        ]
+      },
+      {
+        "id": "midnight-in-chernobyl-s08",
+        "hook": "The nearby town was not evacuated for well over a day.",
+        "insight": "Pripyat, built for the plant's workers, sat a few kilometres away. Its residents spent the day after the explosion outdoors in warm weather while officials waited for authorisation, argued over readings taken with instruments that could not measure the actual levels, and worried about causing panic. Buses arrived more than a day later. The delay was not produced by malice or by ignorance of the danger, but by a structure in which nobody at the scene had the authority to act and everybody had a reason not to be the one reporting a catastrophe.",
+        "why": "The evacuation timing and the instrument limitations are documented. The pattern of deferred authority appears throughout the response, not only at the plant.",
+        "apply": "When examining a slow response, map who had authority to act and who had information. Disasters widen in the gap between those two sets of people.",
+        "format": "single",
+        "tags": [
+          "evacuation",
+          "bureaucracy",
+          "response"
+        ]
+      },
+      {
+        "id": "midnight-in-chernobyl-s09",
+        "hook": "The robots failed in the radiation, so the machines used were men.",
+        "insight": "Remote-controlled vehicles brought in to clear highly radioactive debris from the roof had their electronics destroyed by the radiation field. The work was completed by soldiers sent up in shifts measured in seconds, each making a single run. Hundreds of thousands of people were eventually involved in the cleanup and containment across several years, building a shelter over a wrecked reactor under conditions no one had ever engineered for. Valery Legasov, who presented the Soviet account internationally, took his own life in 1988.",
+        "why": "The failure of the remote machines and the use of short-exposure human shifts are documented, as is the scale of the cleanup workforce. Long-term health outcomes among those workers remain studied and debated.",
+        "apply": "When technology is proposed as a way to avoid human risk, ask under what conditions it stops working. The fallback plan is usually people.",
+        "format": "single",
+        "tags": [
+          "liquidators",
+          "containment",
+          "technology"
+        ]
+      },
+      {
+        "id": "midnight-in-chernobyl-s10",
+        "hook": "Most of what people know about Chernobyl came from a drama, not a document.",
+        "insight": "A hugely successful television series shaped the popular picture of the accident, and it compressed characters, invented scenes and dramatised threats that the record does not support. It also got a great deal right. The problem is that a viewer cannot tell which is which, and dramatisation is now the main channel through which historical events reach people. Reading a documented account after watching one is the cheapest way to find out how much of what you believe came from a script.",
+        "why": "The book draws on interviews with participants and post-Soviet archives, so its divergences from dramatisations are checkable. Higginbotham has discussed specific inventions in the screen version.",
+        "apply": "After any historical drama, read one documented account and list three things the screen version changed. Do it once and you will never watch the next one the same way.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Separate mechanism from morality",
+            "body": "Work out what physically happened before deciding who was culpable. Moral framing arrives first in most retellings and quietly determines which technical facts get airtime."
+          },
+          {
+            "step": 2,
+            "title": "Ask who chose the story",
+            "body": "Every account of a disaster serves someone: a state, an industry, a broadcaster, a campaign. Identify the interest before weighing the claims made on its behalf."
+          },
+          {
+            "step": 3,
+            "title": "Check the near-miss",
+            "body": "Serious accidents almost always have a rehearsal that was survived and filed away. Find the earlier incident and see what was learned, ignored or classified."
+          },
+          {
+            "step": 4,
+            "title": "Test the best scene",
+            "body": "Take the most memorable moment in the dramatisation and look for it in a documented account. If it is absent or altered, treat the rest of your impressions with the same suspicion."
+          }
+        ],
+        "tags": [
+          "dramatisation",
+          "reading-well",
+          "sources"
+        ]
+      }
+    ],
+    "actions": [
+      "Write out the accident sequence in your own words from the technical chapters, then find where your understanding still relies on a dramatisation.",
+      "Look up two published estimates of the long-term death toll and identify the specific modelling assumption that separates them.",
+      "Find the reports of the earlier Soviet reactor incident and note what was known, by whom, and who was excluded from knowing it.",
+      "Take a failure in an organisation you know and map who had information against who had authority, then mark where the two did not overlap."
+    ],
+    "if_you_liked": [
+      "the-making-of-the-atomic-bomb",
+      "the-sixth-extinction",
+      "the-second-world-war"
+    ],
+    "not_for_you_if": "You want a policy argument for or against nuclear power, or a short account. This is long, technical in places, and deliberately refuses to deliver a verdict.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2019, based on interviews and post-Soviet archival material. Long-term casualty estimates remain genuinely disputed among scientific bodies; that dispute is flagged in spark seven rather than resolved. All prose original."
+    }
   }
 ]
