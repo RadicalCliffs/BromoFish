@@ -70,7 +70,7 @@ export function DogearButton({
       onPress={handle}
       accessibilityRole="switch"
       accessibilityState={{ checked: saved }}
-      accessibilityLabel={saved ? 'Dogeared. Tap to remove from your saves.' : 'Dogear this. Tap to save it.'}
+      accessibilityLabel={saved ? 'Saved. Tap to remove from your saves.' : 'Save this. Tap to save it.'}
       hitSlop={12}
       style={styles.press}
     >
@@ -87,8 +87,8 @@ export function DogearButton({
           </Svg>
           <Animated.View style={[styles.fold, { width: size, height: size }, foldStyle]} pointerEvents="none">
             <Svg width={size} height={size} viewBox="0 0 24 24">
-              <Path d="M13.6 2.6 19.4 8.4h-4.4a1.4 1.4 0 0 1-1.4-1.4V2.6Z" fill={palette.paper} />
-              <Path d="M13.6 2.6 19.4 8.4h-4.4a1.4 1.4 0 0 1-1.4-1.4V2.6Z" fill={palette.black} opacity={0.18} />
+              <Path d="M13.6 2.6 19.4 8.4h-4.4a1.4 1.4 0 0 1-1.4-1.4V2.6Z" fill={theme.saved} />
+              <Path d="M13.6 2.6 19.4 8.4h-4.4a1.4 1.4 0 0 1-1.4-1.4V2.6Z" fill={palette.black} opacity={0.4} />
             </Svg>
           </Animated.View>
         </View>

@@ -35,7 +35,7 @@ export function SparkCard({ item, height, saved, onToggleSave }: Props) {
 
   const onShare = () => {
     Share.share({
-      message: `${item.spark.hook}\n\n${item.spark.insight}\n\n— from ${item.title} by ${item.author}, via Dogear`,
+      message: `${item.spark.hook}\n\n${item.spark.insight}\n\n— from ${item.title} by ${item.author}, via Shift for Brains`,
     }).catch(() => {
       // The user dismissing the share sheet is not an error worth surfacing.
     });
@@ -133,16 +133,16 @@ const styles = StyleSheet.create({
   fill: { position: 'absolute', top: 0, left: 0, right: 0, bottom: 0 },
   content: { paddingLeft: space.xl, paddingRight: space.xl + RAIL_WIDTH, paddingTop: space.xxl, gap: space.lg },
   metaRow: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', gap: space.md },
-  categoryPill: { paddingHorizontal: space.md, paddingVertical: 6, borderRadius: radius.pill },
+  categoryPill: { paddingHorizontal: space.md, paddingVertical: 6, borderRadius: radius.sm },
   hook: { marginTop: space.xs },
   block: { borderTopWidth: 1, paddingTop: space.md, gap: space.xs },
-  apply: { borderLeftWidth: 4, borderRadius: radius.md, padding: space.lg, gap: space.xs },
+  apply: { borderLeftWidth: 4, borderRadius: radius.sm, padding: space.lg, gap: space.xs },
   source: {
     flexDirection: 'row',
     alignItems: 'center',
     gap: space.md,
-    borderWidth: 1.5,
-    borderRadius: radius.md,
+    borderWidth: 2,
+    borderRadius: radius.sm,
     padding: space.lg,
   },
   rail: { position: 'absolute', right: space.sm, bottom: space.xxl, width: RAIL_WIDTH, alignItems: 'center', gap: space.lg },

@@ -1,110 +1,71 @@
 /**
- * Dogear design tokens.
+ * Shift for Brains design tokens.
  *
- * The brand is warm, bright and paper-like rather than neon: a dog-eared page is a physical,
- * friendly gesture, so the palette leans on marigold, rose and ink instead of the saturated
- * blue-purple every learning app defaults to.
+ * The brand is aggressive, neon, and high-contrast. Dark bg with cyan glows, pink accents,
+ * sharp corners, and uppercase typography. Designed to stop scrollers and command attention.
  *
- * Accessibility is a constraint, not a pass at the end. Every foreground/background pair
- * defined here clears WCAG AA (4.5:1) for body text, verified by `scripts/check-contrast.mjs`,
- * which runs in CI. Category accents are generated the same way in `scripts/gen-categories.mjs`.
+ * Accessibility: contrast ratios verified for cyan (#00D9FF) and pink (#FF006E) on dark bg.
  */
 
 export const palette = {
-  ink: '#1C1B29',
-  inkSoft: '#2A2838',
-  inkLift: '#3A3750',
-  paper: '#FFFCF5',
-  paperSoft: '#F4EFE4',
-  /** Decorative hairline between cards. Not used to define an interactive boundary. */
-  paperEdge: '#E4DCCB',
-  /** Boundary of an interactive control. Meets the 3:1 required by WCAG 1.4.11. */
-  paperEdgeStrong: '#857C6B',
-  inkEdge: '#453F5C',
-  inkEdgeStrong: '#8D87A6',
+  bg: '#0A0E27',
+  bgDeep: '#050710',
+  surface: '#131829',
+  surfaceLight: '#1A1F3A',
 
-  marigold: '#FFB627',
-  marigoldDeep: '#8A5900',
-  rose: '#FF5A7E',
-  roseDeep: '#B01236',
-  jade: '#00B58A',
-  jadeDeep: '#006B52',
-  slate: '#6B6880',
-  slateLight: '#9C99AE',
+  cyan: '#00D9FF',
+  cyanAccent: '#00B8CC',
+  pink: '#FF006E',
+  pinkAccent: '#DC143C',
+
+  text: '#FFFFFF',
+  textMuted: '#8D87A6',
 
   white: '#FFFFFF',
   black: '#000000',
 } as const;
 
-export type ThemeName = 'light' | 'dark';
+export type ThemeName = 'dark';
 
 export interface Theme {
   name: ThemeName;
-  /** Page background. */
   bg: string;
-  /** Raised surface — cards, sheets, inputs. */
   surface: string;
-  /** A surface one step further forward, for nested cards. */
   surfaceLift: string;
-  /** Hairlines and dividers. Decorative — deliberately low contrast. */
   border: string;
-  /** Boundary of an interactive control: inputs, buttons, selectable chips. Clears 3:1. */
   borderStrong: string;
-  /** Primary body text. AA against bg and surface. */
   text: string;
-  /** De-emphasised text. Still AA against bg. */
   textMuted: string;
-  /** Text on a coloured accent fill. */
   onAccent: string;
-  /** Brand accent for primary actions. */
   accent: string;
-  /** Accent tuned to be legible as *text* on this theme's bg. */
   accentText: string;
-  /** The dogear/save state. */
   saved: string;
   savedText: string;
   positive: string;
   positiveText: string;
-  /** Scrim over imagery so text stays readable. */
   scrim: string;
+  glowColor: string;
 }
 
 export const themes: Record<ThemeName, Theme> = {
-  light: {
-    name: 'light',
-    bg: palette.paper,
-    surface: palette.white,
-    surfaceLift: palette.paperSoft,
-    border: palette.paperEdge,
-    borderStrong: palette.paperEdgeStrong,
-    text: palette.ink,
-    textMuted: '#57536B',
-    onAccent: palette.ink,
-    accent: palette.marigold,
-    accentText: palette.marigoldDeep,
-    saved: palette.rose,
-    savedText: palette.roseDeep,
-    positive: palette.jade,
-    positiveText: palette.jadeDeep,
-    scrim: 'rgba(28,27,41,0.55)',
-  },
   dark: {
     name: 'dark',
-    bg: palette.ink,
-    surface: palette.inkSoft,
-    surfaceLift: palette.inkLift,
-    border: palette.inkEdge,
-    borderStrong: palette.inkEdgeStrong,
-    text: palette.paper,
-    textMuted: '#B4B0C6',
-    onAccent: palette.ink,
-    accent: palette.marigold,
-    accentText: palette.marigold,
-    saved: palette.rose,
-    savedText: palette.rose,
-    positive: palette.jade,
-    positiveText: '#3DE0B4',
-    scrim: 'rgba(12,11,20,0.62)',
+    bg: palette.bg,
+    surface: palette.surface,
+    surfaceLift: palette.surfaceLight,
+    border: palette.surfaceLight,
+    borderStrong: palette.cyan,
+    text: palette.text,
+    textMuted: palette.textMuted,
+    onAccent: palette.bg,
+    accent: palette.cyan,
+    accentText: palette.cyan,
+    saved: palette.pink,
+    savedText: palette.pink,
+    positive: palette.cyan,
+    positiveText: palette.cyan,
+    scrim: 'rgba(10,14,39,0.8)',
+    glowColor: 'rgba(0, 217, 255, 0.3)',
   },
 };
 
@@ -120,9 +81,10 @@ export const space = {
 } as const;
 
 export const radius = {
-  sm: 8,
-  md: 14,
-  lg: 22,
+  xs: 2,
+  sm: 4,
+  md: 8,
+  lg: 12,
   xl: 32,
   pill: 999,
 } as const;
@@ -145,18 +107,18 @@ export const type = {
 
 export const shadow = {
   card: {
-    shadowColor: palette.ink,
-    shadowOpacity: 0.14,
-    shadowRadius: 18,
-    shadowOffset: { width: 0, height: 8 },
-    elevation: 6,
+    shadowColor: palette.cyan,
+    shadowOpacity: 0.2,
+    shadowRadius: 16,
+    shadowOffset: { width: 0, height: 0 },
+    elevation: 4,
   },
   lift: {
-    shadowColor: palette.ink,
-    shadowOpacity: 0.22,
-    shadowRadius: 28,
-    shadowOffset: { width: 0, height: 14 },
-    elevation: 12,
+    shadowColor: palette.cyan,
+    shadowOpacity: 0.3,
+    shadowRadius: 24,
+    shadowOffset: { width: 0, height: 0 },
+    elevation: 8,
   },
 } as const;
 

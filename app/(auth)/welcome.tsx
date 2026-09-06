@@ -5,7 +5,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { useTheme } from '../../src/theme/ThemeProvider';
 import { radius, space, type } from '../../src/theme/tokens';
 import { Button } from '../../src/components/Button';
-import { DogearMark, Wordmark } from '../../src/components/Logo';
+import { ShiftMark, Wordmark } from '../../src/components/Logo';
 import { categories, libraryCounts } from '../../src/lib/library';
 
 const fmt = (n: number) => n.toLocaleString('en-GB');
@@ -18,12 +18,11 @@ export default function Welcome() {
     <SafeAreaView style={{ flex: 1, backgroundColor: theme.bg }}>
       <ScrollView contentContainerStyle={styles.content}>
         <View style={styles.hero}>
-          <DogearMark size={64} />
+          <ShiftMark size={64} />
           <Wordmark size={40} showMark={false} />
-          <Text style={[type.title, styles.tagline, { color: theme.text }]}>Fold the bits worth keeping.</Text>
+          <Text style={[type.title, styles.tagline, { color: theme.accent }]}>UNLEARN. REWIRE. EXECUTE.</Text>
           <Text style={[type.body, styles.blurb, { color: theme.textMuted }]}>
-            The best books ever written, cut down to the ideas that actually change something. One
-            insight per screen. Swipe, save the ones that land, use them today.
+            Replace doomscrolling with real insights. Feed-based microlearning that changes how you think, curated by your interests.
           </Text>
         </View>
 

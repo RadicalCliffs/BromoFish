@@ -130,8 +130,8 @@ export default function BookDetail() {
         <View style={[styles.provenance, { borderColor: theme.border }]}>
           <Ionicons name="shield-checkmark-outline" size={16} color={theme.textMuted} />
           <Text style={[type.caption, { color: theme.textMuted, flex: 1, fontWeight: '400' }]}>
-            Every summary on Dogear is written from scratch — no wording is reproduced from the
-            book itself.
+            Every insight on Shift for Brains is written from scratch — no wording is reproduced from the
+            original text.
             {book.verification.notes ? ` ${book.verification.notes}` : ''}
           </Text>
         </View>

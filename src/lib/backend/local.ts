@@ -3,9 +3,9 @@ import type { Profile, SavedSpark } from '../types';
 import { Backend, BackendError } from './types';
 
 const K = {
-  profile: 'dogear.local.profile',
-  saved: 'dogear.local.saved',
-  seen: 'dogear.local.seen',
+  profile: 'shift.local.profile',
+  saved: 'shift.local.saved',
+  seen: 'shift.local.seen',
 };
 
 const read = async <T,>(key: string, fallback: T): Promise<T> => {

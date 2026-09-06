@@ -5,31 +5,25 @@ import { useTheme } from '../theme/ThemeProvider';
 import { palette, type } from '../theme/tokens';
 
 /**
- * The mark is a page with its top-right corner folded down — the gesture the app is named
- * after. It is drawn rather than shipped as an asset so it inherits the theme and stays crisp
- * at every size.
+ * The mark is a lightning bolt — fast, aggressive, cutting through the noise.
+ * It is drawn rather than shipped as an asset so it inherits the theme and stays crisp at every size.
  */
-export function DogearMark({ size = 28, color, foldColor }: { size?: number; color?: string; foldColor?: string }) {
+export function ShiftMark({ size = 28, color, glowColor }: { size?: number; color?: string; glowColor?: string }) {
   const theme = useTheme();
-  const page = color ?? theme.text;
-  const fold = foldColor ?? palette.marigold;
+  const bolt = color ?? theme.accent;
+  const glow = glowColor ?? 'rgba(0, 217, 255, 0.3)';
   return (
-    <Svg width={size} height={size} viewBox="0 0 24 24" accessibilityRole="image" accessibilityLabel="Dogear">
-      {/* Page body, with the corner cut away. */}
-      <Path d="M4 2.8h9.4L20 9.4V21a1.2 1.2 0 0 1-1.2 1.2H4A1.2 1.2 0 0 1 2.8 21V4A1.2 1.2 0 0 1 4 2.8Z" fill={page} />
-      {/* The folded corner itself, sitting proud of the page. */}
-      <Path d="M13.4 2.8 20 9.4h-5.4a1.2 1.2 0 0 1-1.2-1.2V2.8Z" fill={fold} />
-      <Path d="M13.4 2.8 20 9.4h-5.4a1.2 1.2 0 0 1-1.2-1.2V2.8Z" fill={palette.black} opacity={0.14} />
-      {/* Three lines of text on the page. */}
-      <Path
-        d="M6.4 12.6h9.6M6.4 15.6h9.6M6.4 18.6h6"
-        stroke={theme.bg}
-        strokeWidth={1.5}
-        strokeLinecap="round"
-        opacity={0.85}
-      />
+    <Svg width={size} height={size} viewBox="0 0 24 24" accessibilityRole="image" accessibilityLabel="Shift for Brains">
+      {/* Lightning bolt shape */}
+      <Path d="M13 1L2 11h7l2 12 9-10h-7l-2-12Z" fill={bolt} />
+      {/* Glow effect */}
+      <Path d="M13 1L2 11h7l2 12 9-10h-7l-2-12Z" fill={glow} opacity={0.6} />
     </Svg>
   );
+}
+
+export function DogearMark(props: any) {
+  return <ShiftMark {...props} />;
 }
 
 export function Wordmark({
@@ -45,14 +39,14 @@ export function Wordmark({
   const theme = useTheme();
   return (
     <View style={styles.row}>
-      {showMark && <DogearMark size={size * 1.25} />}
+      {showMark && <ShiftMark size={size * 1.25} />}
       <Text
         style={[
           styles.word,
-          { color: color ?? theme.text, fontSize: size, lineHeight: size * 1.15, letterSpacing: -size * 0.03 },
+          { color: color ?? theme.accent, fontSize: size, lineHeight: size * 1.15, letterSpacing: size * 0.05, fontWeight: '800' },
         ]}
       >
-        Dogear
+        SHIFT
       </Text>
     </View>
   );

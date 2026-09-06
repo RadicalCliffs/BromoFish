@@ -36,7 +36,7 @@ export default function EditProfile() {
     if (!permission.granted) {
       Alert.alert(
         'Photo access is off',
-        'Dogear needs permission to open your photo library. You can turn it on in Settings.'
+        'Shift for Brains needs permission to open your photo library. You can turn it on in Settings.'
       );
       return;
     }

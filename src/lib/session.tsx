@@ -27,7 +27,7 @@ interface SessionValue {
 
 const SessionContext = createContext<SessionValue | null>(null);
 
-const ACTIVITY_KEY = 'dogear.activity';
+const ACTIVITY_KEY = 'shift.activity';
 const today = () => new Date().toISOString().slice(0, 10);
 
 interface Activity {
