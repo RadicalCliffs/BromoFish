@@ -19,7 +19,7 @@ const sandbox = () => {
   mkdirSync(join(dir, 'content/raw'), { recursive: true });
   mkdirSync(join(dir, 'scripts'), { recursive: true });
   cpSync('content/schema', join(dir, 'content/schema'), { recursive: true });
-  for (const s of ['validate-content.mjs', 'build-content.mjs', 'gen-seed-sql.mjs']) {
+  for (const s of ['validate-content.mjs', 'build-content.mjs', 'gen-seed-sql.mjs', 'salvage-partial.mjs']) {
     cpSync(join('scripts', s), join(dir, 'scripts', s));
   }
   return dir;
@@ -147,5 +147,45 @@ test('seed sql escapes apostrophes rather than breaking the statement', () => {
   // Every statement that opens a string must close it: an odd count means a broken escape.
   const quotes = (sql.match(/'/g) ?? []).length;
   assert.equal(quotes % 2, 0, 'unbalanced quotes in generated SQL');
+  rmSync(dir, { recursive: true, force: true });
+});
+
+test('salvage recovers whole records from a file truncated mid-write', () => {
+  const dir = sandbox();
+  const [book] = exemplar();
+  const second = {
+    ...book,
+    id: 'second-book',
+    title: 'Second Book',
+    sparks: book.sparks.map((s, i) => ({ ...s, id: `second-book-s${String(i + 1).padStart(2, '0')}` })),
+  };
+  // Simulate an agent killed part-way through writing the third record.
+  const whole = JSON.stringify([book, second], null, 2);
+  const truncated = whole.slice(0, whole.lastIndexOf(']')) + ',\n  { "id": "third-book", "title": "Third';
+  const target = join(dir, 'content/raw/cut.json');
+  writeFileSync(target, truncated);
+
+  assert.throws(() => JSON.parse(readFileSync(target, 'utf8')), 'the fixture should start out unparseable');
+
+  const { code, out } = run('scripts/salvage-partial.mjs', [], dir);
+  assert.equal(code, 0, out);
+
+  const recovered = JSON.parse(readFileSync(target, 'utf8'));
+  assert.equal(recovered.length, 2);
+  assert.deepEqual(recovered.map((b) => b.id), ['atomic-habits', 'second-book']);
+  assert.equal(recovered[1].sparks.length, 10, 'a recovered record must keep all its sparks');
+  rmSync(dir, { recursive: true, force: true });
+});
+
+test('salvage drops a record whose own JSON is malformed rather than guessing', () => {
+  const dir = sandbox();
+  const [book] = exemplar();
+  const target = join(dir, 'content/raw/messy.json');
+  // A structurally balanced but invalid object, followed by a good one.
+  writeFileSync(target, `[\n  { "id": "broken", "title": }, \n  ${JSON.stringify(book)}\n`);
+  run('scripts/salvage-partial.mjs', [], dir);
+  const recovered = JSON.parse(readFileSync(target, 'utf8'));
+  assert.equal(recovered.length, 1);
+  assert.equal(recovered[0].id, 'atomic-habits');
   rmSync(dir, { recursive: true, force: true });
 });

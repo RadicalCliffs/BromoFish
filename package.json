@@ -1,7 +1,7 @@
 {
   "name": "dogear",
   "version": "0.1.0",
-  "description": "Dogear — fold the bits worth keeping. Micro-learning from the best books ever written.",
+  "description": "Dogear \u2014 fold the bits worth keeping. Micro-learning from the best books ever written.",
   "main": "expo-router/entry",
   "private": true,
   "scripts": {
@@ -18,7 +18,11 @@
     "content:all": "npm run content:validate && npm run content:build && npm run content:sql",
     "typecheck": "tsc --noEmit",
     "lint": "expo lint",
-    "test": "node --test tests/*.test.mjs"
+    "test": "node --test tests/*.test.mjs",
+    "content:salvage": "node scripts/salvage-partial.mjs",
+    "content:orphans": "node scripts/recover-orphans.mjs",
+    "content:remaining": "node scripts/remaining-work.mjs",
+    "content:recover": "node scripts/salvage-partial.mjs && node scripts/remaining-work.mjs"
   },
   "dependencies": {
     "@expo/metro-runtime": "^57.0.15",
