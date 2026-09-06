@@ -1,0 +1,2616 @@
+[
+  {
+    "id": "anything-you-want",
+    "title": "Anything You Want",
+    "subtitle": "40 Lessons for a New Kind of Entrepreneur",
+    "author": "Derek Sivers",
+    "year": 2011,
+    "category": "entrepreneurship",
+    "subcategory": "bootstrapping",
+    "tags": [
+      "bootstrapping",
+      "small-business",
+      "customers",
+      "autonomy",
+      "founder-story"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 8,
+    "why_it_matters": "A short, stubborn correction to the idea that a company has to get big to count. Sivers built CD Baby into a business worth tens of millions without taking a cent of outside money, then wrote the anti-playbook: revenue over funding, one delighted customer over a market study.",
+    "crux": {
+      "headline": "Design the small world you actually want to live in",
+      "body": "Most startup advice assumes you want scale, investors and an exit. Start somewhere else. Decide what kind of days you want, then build a business shaped to produce them. Fund it with customers instead of investors, so nobody else's timeline overrides yours. Stay small enough to still talk to the people who pay you. A company is an invented thing, and you are allowed to invent a different one."
+    },
+    "sparks": [
+      {
+        "id": "anything-you-want-s01",
+        "hook": "A company is an invented thing. You are allowed to invent a different one.",
+        "insight": "Nothing about a business is handed down. Opening hours, who you serve, how big you get, whether you take investment, what happens when someone calls — every one of those is a choice somebody made, and you can make it differently. Most founders inherit a default shape from the people around them and then spend a decade unhappy inside it. Decide first what an ordinary Tuesday should feel like. Then work backwards to the business that produces that Tuesday, even if it looks nothing like the ones being written about.",
+        "why": "Business form follows no natural law. The dominant model is dominant because it suits investors who need outsized returns, not because it is the only structure that survives contact with customers.",
+        "apply": "Write a page describing your ideal working week in detail, then list every part of your current plan that quietly contradicts it.",
+        "format": "single",
+        "tags": [
+          "business-design",
+          "autonomy",
+          "lifestyle"
+        ]
+      },
+      {
+        "id": "anything-you-want-s02",
+        "hook": "If nobody has paid you, you do not have a business yet.",
+        "insight": "Enthusiasm is free, so people give it away. Friends say they love the idea, surveys say people would definitely buy, and none of that survives contact with a card reader. The only real signal is money leaving somebody else's account for the thing you made. That makes the fastest test of an idea also the cheapest: put a price on it and try to collect. If you cannot collect, you have learned something enormous in a week instead of after two funded years.",
+        "why": "Stated intent and paid behaviour diverge badly, because saying yes to a survey costs nothing. Charging converts a vague opinion into a decision with a cost attached, and only that kind predicts anything.",
+        "apply": "Take your current idea and try to sell one unit this week, before it is finished. Charge real money, even a small amount, and see who actually pays.",
+        "format": "single",
+        "tags": [
+          "validation",
+          "revenue",
+          "customers"
+        ]
+      },
+      {
+        "id": "anything-you-want-s03",
+        "hook": "If your answer is not an obvious yes, treat it as a no.",
+        "insight": "Founders drown in decent opportunities. A partnership that might work, a client who is almost right, a feature one person asked for. Each is defensible on its own and together they eat the year. The filter is brutally simple: if a chance does not make you genuinely eager, refuse it. Saying no to the merely good is what leaves room for the rare thing worth everything you have. The cost of a mild yes is invisible, which is exactly why it keeps getting paid.",
+        "why": "Your time is the fixed input. Mediocre commitments do not fail loudly, they just occupy the slot the exceptional thing needed, and you never get to see the trade you made.",
+        "apply": "List every commitment currently on your plate. Mark each as genuinely exciting or merely fine, and start exiting one merely-fine item this month.",
+        "format": "single",
+        "tags": [
+          "focus",
+          "saying-no",
+          "priorities"
+        ]
+      },
+      {
+        "id": "anything-you-want-s04",
+        "hook": "You need no funding, no plan and no permission to begin this week.",
+        "insight": "The gap between wanting to start and starting is usually filled with preparation nobody asked for: a plan, a brand, an entity, a round. Sivers began by selling one album from a page he coded himself, then added the next thing only when a musician asked for it. Starting tiny is not humility, it is speed of learning. You find out what people actually want while your costs are still near zero and there is nobody who can stop you changing direction.",
+        "why": "Honest caveat: he could already code, and in the late nineties there was no other way for an independent musician to sell online. Scrappy starts still work, but a market opening that wide is rare and should not be assumed.",
+        "apply": "Strip your idea to the smallest version you could deliver by hand to one person, and deliver it to that person before you register a company.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Sell before you build",
+            "body": "Offer the thing to one real person and take their money first. What they ask for next is a better specification than anything you would have written alone in a room."
+          },
+          {
+            "step": 2,
+            "title": "Keep costs near zero",
+            "body": "Low overheads buy you the right to be wrong. No office, no hires and no debt means a bad month is a lesson rather than a crisis you must fundraise your way out of."
+          },
+          {
+            "step": 3,
+            "title": "Add only what is asked for",
+            "body": "Build the next feature when a paying customer requests it, not when you imagine somebody might. Requests arrive with evidence attached; imagination does not."
+          },
+          {
+            "step": 4,
+            "title": "Delay the machinery",
+            "body": "Entities, brand systems and funding rounds feel like progress and produce none. Set them up when revenue makes them necessary, not before."
+          }
+        ],
+        "tags": [
+          "bootstrapping",
+          "starting",
+          "lean"
+        ]
+      },
+      {
+        "id": "anything-you-want-s05",
+        "hook": "Your paying customers will write the roadmap if you let them.",
+        "insight": "CD Baby's features arrived as a queue of small requests from musicians who were already paying. Someone needed a barcode, someone needed a sales report, so those got built next. This is unglamorous and it beats planning, because a request from a paying customer carries proof that at least one person wants it, and usually means dozens more do. The discipline is to ship the small thing quickly rather than bundling requests into a grand release that lands a year late.",
+        "why": "A feature request from a paying user is a demand signal with money behind it. A feature from a roadmap workshop is a guess with a deadline behind it, and the deadline is the only part that is real.",
+        "apply": "Start a running list of every unprompted customer request. Ship the smallest one this week and tell the person who asked that it is live.",
+        "format": "single",
+        "tags": [
+          "product",
+          "customers",
+          "feedback"
+        ]
+      },
+      {
+        "id": "anything-you-want-s06",
+        "hook": "The dullest message you send is the cheapest place to be memorable.",
+        "insight": "Every business has moments everybody treats as plumbing: the order confirmation, the invoice, the hold music, the packaging. Because they are ignored by default, a small amount of personality in one of them stands out enormously. Sivers rewrote his shipping confirmation as a piece of comic theatre and customers forwarded it to friends for years, which cost nothing and did more than advertising would have. Delight is cheapest exactly where nobody else bothers to look.",
+        "why": "Attention is relative. A modest effort placed where the standard is zero reads as remarkable, while the same effort inside an already-crowded channel disappears without trace.",
+        "apply": "Pick one routine message your business sends automatically and rewrite it as though a human wrote it for a person they liked.",
+        "format": "single",
+        "tags": [
+          "marketing",
+          "word-of-mouth",
+          "customer-experience"
+        ]
+      },
+      {
+        "id": "anything-you-want-s07",
+        "hook": "Being small can be the destination, not a stage you pass through.",
+        "insight": "Growth is treated as automatic: get bigger until something stops you. But bigger buys you management, meetings, financing and a great many people whose problems are now yours. If the business already pays for the life you want, the question of what further growth is actually for deserves a real answer. Some of the best businesses ever run deliberately capped their size so the founder could keep doing the work instead of supervising it. Choosing not to expand is a strategy, not a failure of nerve.",
+        "why": "Scale changes what your job is. Past a certain headcount you stop making the thing and start operating a system for making it, which many founders discover only once it is expensive to reverse.",
+        "apply": "Calculate the annual revenue that would fund the life you want. Write it down, and treat everything above that line as optional rather than obligatory.",
+        "format": "single",
+        "tags": [
+          "small-business",
+          "growth",
+          "lifestyle"
+        ]
+      },
+      {
+        "id": "anything-you-want-s08",
+        "hook": "Handing over the work is fine. Handing over your attention is not.",
+        "insight": "Founders who hate managing often solve it by disappearing: appoint people, stop attending, hope. Sivers did a version of this and later found decisions being made in his own company that he would never have made himself. The alternative is not micromanagement. It is being transparent about how you decide. Write your reasoning down so other people can apply it without you in the room, then stay close enough to the work to notice when reality has drifted from the rules you wrote.",
+        "why": "Delegation transfers a task; it does not transfer judgement. Judgement only transfers when the criteria behind your decisions are written somewhere other people can actually read them.",
+        "apply": "Next time you settle a recurring decision, write the rule you used in one short paragraph and put it where your team can find it.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Decide out loud",
+            "body": "When you make a judgement call, say why in front of people. The reasoning is the reusable part; the decision itself only solves today's version of the problem."
+          },
+          {
+            "step": 2,
+            "title": "Write the rule down",
+            "body": "Turn repeated reasoning into a short written policy anyone can apply. A team holding your criteria makes your decisions without having to wait for you."
+          },
+          {
+            "step": 3,
+            "title": "Let them use it",
+            "body": "Ask people to decide using the rule and tell you afterwards. Correcting a rule is cheap; approving every case one at a time is a full-time job you will resent."
+          },
+          {
+            "step": 4,
+            "title": "Stay in the room",
+            "body": "Keep standing contact with the work itself, not just the reports about it. Distance is how founders end up surprised by their own company."
+          }
+        ],
+        "tags": [
+          "delegation",
+          "management",
+          "systems"
+        ]
+      },
+      {
+        "id": "anything-you-want-s09",
+        "hook": "An idea is a multiplier on execution, and most multipliers are small.",
+        "insight": "People guard ideas as though the idea were the asset. Treat it instead as a number that gets multiplied by what you actually build. A brilliant idea with nothing built is still worth nothing, because anything times zero is zero. A modest idea executed well beats a spectacular one described well, every time. This is why secrecy is usually wasted energy: telling somebody your idea costs you close to nothing, while getting an honest reaction to it can change what you build.",
+        "why": "The scarce input is finished work, not conception. Ideas are abundant and cheap to generate; the willingness to spend years making one of them real is not.",
+        "apply": "Tell three people your idea in full this week and ask each what would stop them buying it, then build the smallest testable piece.",
+        "format": "single",
+        "tags": [
+          "execution",
+          "ideas",
+          "building"
+        ]
+      },
+      {
+        "id": "anything-you-want-s10",
+        "hook": "Say clearly who you are not for, and the right people will find you.",
+        "insight": "Trying to be acceptable to everyone produces a business nobody chooses on purpose. Naming your exclusions does the opposite: it tells a smaller group that this thing was made specifically for them. CD Baby existed for independent musicians shut out by the major labels, which was a narrow claim and exactly why those musicians felt it belonged to them. A sharp no to most of the market is what makes the yes worth having.",
+        "why": "Positioning works by contrast. A business that fits everybody has no contrast to trade on, so nothing about it is distinct enough for a customer to describe to a friend.",
+        "apply": "Write one sentence naming the customer your business is deliberately not for, and put it somewhere public on your website.",
+        "format": "single",
+        "tags": [
+          "positioning",
+          "niche",
+          "brand"
+        ]
+      }
+    ],
+    "actions": [
+      "Write a one-page description of the life you want this business to fund, then audit your current plan against it and cut the parts that only serve someone else's idea of success.",
+      "Charge money for the smallest usable version of your idea this month, even if you deliver it by hand, and treat the first payment as your only real validation.",
+      "Start a decisions file. Each time you settle a recurring question, write down the rule and the reasoning so somebody else can apply it without asking you.",
+      "Rewrite one routine customer message so it sounds like a person wrote it, then watch whether anyone mentions it unprompted."
+    ],
+    "if_you_liked": [
+      "rework",
+      "company-of-one",
+      "small-giants"
+    ],
+    "not_for_you_if": "You are raising venture money and need tactics for scale. This is a short personal account of doing the opposite, and it does not pretend to be a general system.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2011 by The Domino Project. All prose original; no wording reproduced from the book."
+    }
+  },
+  {
+    "id": "blitzscaling",
+    "title": "Blitzscaling",
+    "subtitle": "The Lightning-Fast Path to Building Massively Valuable Companies",
+    "author": "Reid Hoffman and Chris Yeh",
+    "year": 2018,
+    "category": "entrepreneurship",
+    "subcategory": "hypergrowth",
+    "tags": [
+      "scaling",
+      "venture-capital",
+      "network-effects",
+      "growth",
+      "startups"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It names and defends a strategy Silicon Valley had been running for a decade without a manual: choose speed over efficiency while a winner-take-most market is still open. Useful as much for showing you when not to do it.",
+    "crux": {
+      "headline": "Trade efficiency for speed when the prize is winner-take-most",
+      "body": "Blitzscaling is prioritising growth over sane management while a market is still up for grabs. You accept known waste, unfinished products and half-run departments to reach scale before a rival does. It is a bet, not a virtue, and it only pays where network effects, huge market size and strong margins let a leader lock in the position. Everywhere else it is a costly way to buy customers who leave."
+    },
+    "sparks": [
+      {
+        "id": "blitzscaling-s01",
+        "hook": "Growing faster than you can manage is sometimes the correct decision.",
+        "insight": "Blitzscaling means choosing to grow faster than you can comfortably run the company, deliberately, while the market is still open. You will hire people you would not hire in calmer times, ship things that are unfinished, and let whole functions operate badly. That is the trade: known waste in exchange for reaching scale before anybody else can. Efficiency is what you buy later with the position you won. The mistake is not the chaos, it is running the play without admitting you are placing a bet.",
+        "why": "Where one winner takes most of the value, being second with a cleaner operation is worth far less than being first with a messy one. Outside those markets the same behaviour is just an expensive way to fail.",
+        "apply": "Before spending on speed, write down the specific mechanism that would let a leader lock in this market. If you cannot name one, optimise for margin instead.",
+        "format": "single",
+        "tags": [
+          "growth",
+          "speed",
+          "strategy"
+        ]
+      },
+      {
+        "id": "blitzscaling-s02",
+        "hook": "Most companies should never blitzscale, and yours is probably one.",
+        "insight": "The strategy only pays when the market has winner-take-most dynamics: real network effects, a very large addressable market, or distribution that compounds. Without those, growing faster than your economics simply converts investor money into customers who churn. The advice also has an era attached. It was written when capital was abundant and cheap, and the same playbook wrecked companies once funding tightened. Read it as a conditional strategy with a short list of preconditions, not as a description of how ambitious companies behave.",
+        "why": "The famous examples are survivors selected after the fact. For every company that outran its own chaos, many did the identical things and ran out of money before scale ever arrived.",
+        "apply": "Score your market honestly on network effects, size, gross margin and distribution. Two weak scores out of the four means the answer is no.",
+        "format": "single",
+        "tags": [
+          "survivorship-bias",
+          "strategy",
+          "markets"
+        ]
+      },
+      {
+        "id": "blitzscaling-s03",
+        "hook": "Four properties decide whether fast growth can actually stick.",
+        "insight": "Some businesses can absorb explosive growth and some cannot, and the difference is structural rather than a matter of effort. Market size caps how far you can run. Distribution decides how cheaply you reach the next customer. Gross margin decides how much of each sale is left over to fund the next one. Network effects decide whether early scale makes you harder to beat or merely bigger. Check all four before you spend, because a weakness in any one turns aggressive growth into an expensive treadmill.",
+        "why": "These are the properties that make growth self-reinforcing rather than self-funded. A business missing them can still be excellent; it just has to be built patiently instead of quickly.",
+        "apply": "Rate your business from one to five on each of the four factors, then show the ratings to somebody who has no reason to flatter you.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Size the real market",
+            "body": "Count the customers who could plausibly buy, not the industry the analysts describe. A market that is too small caps your outcome however well you execute."
+          },
+          {
+            "step": 2,
+            "title": "Find compounding distribution",
+            "body": "Look for a channel whose cost per customer falls as you grow: referrals, a platform, an existing user base. Paid channels that stay expensive cannot carry this strategy."
+          },
+          {
+            "step": 3,
+            "title": "Protect gross margin",
+            "body": "High margin means each sale funds the next one. Thin margins mean growth burns cash faster the better it goes, which is the worst kind of success."
+          },
+          {
+            "step": 4,
+            "title": "Test for network effects",
+            "body": "Ask whether each new user makes the product measurably better for the existing ones. If not, scale gives you size with no defence attached."
+          }
+        ],
+        "tags": [
+          "growth",
+          "unit-economics",
+          "network-effects"
+        ]
+      },
+      {
+        "id": "blitzscaling-s04",
+        "hook": "Two things stop growth: nobody wants it, or you cannot serve them.",
+        "insight": "Growth stalls for boring reasons. Either people do not want the thing enough to stay, or the company physically cannot serve more of them without falling over. The first is fatal and cannot be spent past, since pouring money on weak product fit buys you a bigger leak. The second is solvable, but only with time, hiring and systems, which is why founders in a hypergrowth phase spend their nights on operations rather than strategy. Diagnose which one is biting before you pick a remedy.",
+        "why": "Marketing amplifies whatever the product already does. If retention is weak, amplification raises your costs and your churn at the same time and hides the problem behind a rising top line.",
+        "apply": "Look at retention by signup cohort before you increase spend. If cohorts decay to zero, fix the product; if they flatten and hold, fix the operations.",
+        "format": "single",
+        "tags": [
+          "product-market-fit",
+          "operations",
+          "retention"
+        ]
+      },
+      {
+        "id": "blitzscaling-s05",
+        "hook": "Your job changes completely each time headcount multiplies by ten.",
+        "insight": "A company at five people, fifty, five hundred and five thousand is four different organisms wearing the same name. What works at each size actively breaks the next one. At the smallest scale everyone does everything and information travels because you can hear each other. Later you need specialists, written process, managers of managers, and a way to communicate that does not depend on your voice reaching the room. Founders usually fail not by doing the wrong thing but by continuing to do the thing that worked one stage ago.",
+        "why": "Coordination cost grows faster than headcount does. The structures that feel like bureaucracy at ten people are the same ones that stop five hundred people working at cross purposes.",
+        "apply": "Write down the three habits that make your team effective today, then ask which of them becomes impossible at four times your current size.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Everyone does everything",
+            "body": "At a handful of people, generalists win and process is pure overhead. Communication happens because you can overhear it. Optimise for range and speed, not job titles."
+          },
+          {
+            "step": 2,
+            "title": "Hire the first specialists",
+            "body": "In the tens, gaps open that a generalist cannot fill. Bring in people genuinely better than you at one thing, and let them own it rather than reviewing their every move."
+          },
+          {
+            "step": 3,
+            "title": "Manage the managers",
+            "body": "In the hundreds you stop directing work and start choosing the people who direct work. Your leverage becomes hiring, standards, and deciding what the company will not do."
+          },
+          {
+            "step": 4,
+            "title": "Broadcast, do not chat",
+            "body": "Past a certain size you cannot repeat context in conversation. Write things down, say them repeatedly in public, and accept that under-communicating is now the default failure."
+          }
+        ],
+        "tags": [
+          "scaling",
+          "management",
+          "org-design"
+        ]
+      },
+      {
+        "id": "blitzscaling-s06",
+        "hook": "You cannot put out every fire. Choose the one that kills you.",
+        "insight": "A fast-growing company is on fire in several places at once: support is drowning, the infrastructure is fragile, finance is improvised, half the team is unmanaged. Trying to fix everything guarantees everything gets fixed badly. Rank the fires by what actually ends the company this quarter, put your attention there, and consciously let the others burn. Letting something burn is a decision you make and announce, not neglect you apologise for eighteen months later.",
+        "why": "Attention is the binding constraint in a scaling company, not money. Spreading it evenly across problems of wildly different severity is how founders end up with a dozen half-solved crises.",
+        "apply": "List every problem you know about and mark only the ones that could end the company within ninety days. Work those, and tell your team the rest are deferred.",
+        "format": "single",
+        "tags": [
+          "prioritisation",
+          "triage",
+          "chaos"
+        ]
+      },
+      {
+        "id": "blitzscaling-s07",
+        "hook": "Hire the person who fits the next year, not the next decade.",
+        "insight": "Founders stall for months hunting an executive who could run the function at a size the company may never reach. In a fast-moving business the role will be unrecognisable in eighteen months anyway, so the candidate who is excellent for the stage you are actually in beats the impressive one waiting for you to catch up. This does mean people will outgrow their jobs, and the honest version involves saying so at offer stage rather than pretending every hire is permanent.",
+        "why": "Stage fit predicts performance better than pedigree, because the required skills genuinely differ by stage. The real cost is turnover among your leaders, which is uncomfortable and often handled badly.",
+        "apply": "Write the job description for the next twelve months only, hire against that, and say plainly in the offer conversation that the role will change.",
+        "format": "single",
+        "tags": [
+          "hiring",
+          "stages",
+          "talent"
+        ]
+      },
+      {
+        "id": "blitzscaling-s08",
+        "hook": "Do the unscalable thing now and plan to throw it away.",
+        "insight": "Manual work that could never survive at scale is often the fastest route to scale. Onboard the first customers yourself, deliver the service by hand, personally recruit the first hundred users. It teaches you precisely what the product must eventually automate, and it produces customers who stay because a person paid attention to them. The discipline is treating it as temporary scaffolding with a planned demolition date, instead of accidentally building your company around permanent heroics.",
+        "why": "Manual delivery gives you high-resolution information about what customers actually need, which is exactly what you lack early on. It only fails when nobody ever decides to replace it.",
+        "apply": "Pick one part of your product you plan to automate and do it by hand for ten customers first, writing down every exception you hit.",
+        "format": "single",
+        "tags": [
+          "early-stage",
+          "customers",
+          "learning"
+        ]
+      },
+      {
+        "id": "blitzscaling-s09",
+        "hook": "The crew that wins the raid cannot be trusted to run the fleet.",
+        "insight": "Early teams win by being fast, informal and slightly lawless. Later the same company needs predictability, coordination and people who will follow a plan they did not invent. Both cultures are correct for their moment, which is what makes the transition so painful: the people who got you here are being asked to behave in the exact way that would once have killed the company. Handle it explicitly. Name the change, explain why, and find new roles for those who cannot make the switch.",
+        "why": "Neither mode is superior. What changes is the cost of error: at five people an unreviewed decision is cheap, at five hundred it silently commits hundreds of hours of other people's work.",
+        "apply": "Name one process you have resisted adding because it feels corporate, then add the lightest possible version of it this quarter.",
+        "format": "single",
+        "tags": [
+          "culture",
+          "scaling",
+          "transitions"
+        ]
+      },
+      {
+        "id": "blitzscaling-s10",
+        "hook": "Speed transfers risk onto people who never agreed to the bet.",
+        "insight": "Growing faster than you can govern means shipping decisions before you understand them. Safety work gets postponed, moderation gets outsourced, and the people carrying the cost are usually users, contractors and the cities the company moves through, rather than the founders or the investors. Hoffman is unusually direct about this and still concludes the strategy is worth running, which is the part worth arguing with. If you choose speed, know whose downside you are spending.",
+        "why": "The last decade supplied the evidence. Platforms scaled well past their ability to police what they had built, and the correction arrived as regulation, litigation and permanently lost trust.",
+        "apply": "List three harms your product could cause at a hundred times its current size, and decide now which one you will resource before it happens.",
+        "format": "single",
+        "tags": [
+          "ethics",
+          "responsibility",
+          "platforms"
+        ]
+      }
+    ],
+    "actions": [
+      "Score your market on network effects, addressable size, gross margin and distribution cost, and only consider a growth-at-all-costs plan if all four are strong.",
+      "Build a cohort retention chart before you raise your marketing budget, and treat decaying cohorts as a signal to stop spending rather than to spend harder.",
+      "Write down the three biggest fires in your company, pick the single one that could kill you this quarter, and tell your team the others are deliberately deferred.",
+      "Draft the twelve-month version of your next senior job description, and rehearse the honest conversation about how the role will change as you grow."
+    ],
+    "if_you_liked": [
+      "the-cold-start-problem",
+      "the-startup-owners-manual",
+      "super-founders"
+    ],
+    "not_for_you_if": "You run a services, retail or hardware business with normal margins. Almost none of this applies, and following it would mean spending money you can never earn back.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2018 by Currency. Written during an era of unusually cheap capital; several of its case companies later contracted sharply. Prose here is original."
+    }
+  },
+  {
+    "id": "the-startup-owners-manual",
+    "title": "The Startup Owner's Manual",
+    "subtitle": "The Step-by-Step Guide for Building a Great Company",
+    "author": "Steve Blank and Bob Dorf",
+    "year": 2012,
+    "category": "entrepreneurship",
+    "subcategory": "customer-development",
+    "tags": [
+      "customer-development",
+      "lean-startup",
+      "validation",
+      "market-type",
+      "startups"
+    ],
+    "difficulty": "challenging",
+    "read_time_min": 13,
+    "why_it_matters": "The full checklist version of customer development, the method that gave the lean startup movement its engine. Nearly every accelerator curriculum in the world is a compressed version of what is set out here.",
+    "crux": {
+      "headline": "A startup is a search party, not a small company",
+      "body": "An established company executes a business model it already understands. A startup has only a stack of guesses about who the customer is, what hurts, and what they will pay. Confusing the two makes you build the wrong thing efficiently. Organise to search instead: numbered assumptions, cheap tests run by the founders themselves, and a rule that failing a test sends you backwards rather than forwards."
+    },
+    "sparks": [
+      {
+        "id": "the-startup-owners-manual-s01",
+        "hook": "A startup is not a small company. It is a search party.",
+        "insight": "A company executes a business model it already knows. A startup does not have one yet — it has a set of guesses about who the customer is, what problem they have, and what they will pay. Confusing the two is the most expensive mistake in early business. If you organise like a company, with a sales target, a launch date and a functional org chart, you will spend the money building the wrong thing very efficiently. Organise to search instead: cheap experiments, fast rewrites, no permanent structures.",
+        "why": "The failure mode is structural rather than personal. Execution machinery makes commitments hard to reverse, and a search phase needs everything to stay reversible until the model is proven.",
+        "apply": "Write your business model as a list of numbered guesses. Mark the one that kills everything if it is wrong, and go and test that one first.",
+        "format": "single",
+        "tags": [
+          "customer-development",
+          "search",
+          "business-model"
+        ]
+      },
+      {
+        "id": "the-startup-owners-manual-s02",
+        "hook": "There are no facts inside your building. Go outside and get some.",
+        "insight": "Everything inside the office is opinion dressed as analysis: your roadmap, your persona document, your pricing, your competitive matrix. The facts live with the people who might pay you, and the only way to get them is to sit in front of those people repeatedly and ask. Founders have to do this themselves rather than hiring a research agency, because the point is not the report. The point is that the person deciding what to build has heard a customer be unimpressed, in their own voice.",
+        "why": "Second-hand research strips out the tone, the hesitation and the ugly workaround the customer has already built, which is usually where the actual product is hiding.",
+        "apply": "Book five conversations this week with people who fit your target customer, and ask about their current workaround before you describe your product at all.",
+        "format": "single",
+        "tags": [
+          "customer-discovery",
+          "research",
+          "interviews"
+        ]
+      },
+      {
+        "id": "the-startup-owners-manual-s03",
+        "hook": "Four steps stand between a guess and a company that can scale.",
+        "insight": "Customer development runs in a fixed order, and skipping ahead is why startups explode. First you discover whether the problem and the customer are real. Then you validate that you can sell the solution repeatedly, yourself, at a price that works. Only then do you spend on creating demand, and only after that do you convert the search team into a functioning organisation. Each step has an exit test, and failing it sends you backwards rather than forwards. That backwards move is what a pivot actually is.",
+        "why": "The order encodes cost. Every step forward multiplies your burn rate, so proving the cheap things first is what keeps a wrong answer survivable rather than terminal.",
+        "apply": "Identify which of the four steps you are honestly in right now, then stop any spending that properly belongs to a later step.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Discover the problem",
+            "body": "Turn your assumptions into testable statements and take them to real customers. You are looking for a problem people already spend time or money trying to solve badly."
+          },
+          {
+            "step": 2,
+            "title": "Validate the sale",
+            "body": "Sell to strangers with the founders doing the selling. If you cannot close repeatedly without heroics, you have not found a business model yet, only interest."
+          },
+          {
+            "step": 3,
+            "title": "Create demand",
+            "body": "Now spend on marketing to pull buyers into the funnel. How much you spend and how you spend it depends entirely on which kind of market you are entering."
+          },
+          {
+            "step": 4,
+            "title": "Build the company",
+            "body": "Only once the model repeats do you replace the search team with departments, process and the ordinary machinery of execution."
+          }
+        ],
+        "tags": [
+          "customer-development",
+          "process",
+          "validation"
+        ]
+      },
+      {
+        "id": "the-startup-owners-manual-s04",
+        "hook": "The kind of market you enter changes every number in your plan.",
+        "insight": "Entering an existing market is a race on features against known rivals, and customers already understand what you sell. Creating a new market means nobody is searching for you, adoption takes years, and your early budget goes on education rather than competition. Resegmenting means carving a niche or a cheaper position inside somebody else's market. Cloning means bringing a proven model to a new country. These paths have completely different spending curves, and borrowing the wrong one's plan is a reliable way to die on schedule.",
+        "why": "Market type determines when revenue can plausibly arrive. New-market companies that budget like existing-market companies run out of cash during the education phase, which was always the expected phase.",
+        "apply": "Name your market type in one word, then rebuild your first three years of forecasts around its adoption curve rather than a competitor's.",
+        "format": "single",
+        "tags": [
+          "market-type",
+          "positioning",
+          "planning"
+        ]
+      },
+      {
+        "id": "the-startup-owners-manual-s05",
+        "hook": "Your first customers should already be trying to fix this themselves.",
+        "insight": "The best early buyers are not the ones who enjoy your demo. They are people who have the problem, know they have it, have gone looking for a solution, and have already improvised something ugly — a spreadsheet, a manual process, three tools taped together. That improvisation is the strongest evidence of demand you will ever get, and it also means they will tolerate your unfinished product, because their current alternative is worse. Selling to anyone earlier on that ladder means doing the customer's realising for them.",
+        "why": "Awareness of a problem is a prerequisite for buying. A customer who has not yet built a workaround is telling you the pain has not reached the threshold where money moves.",
+        "apply": "For each prospect, ask what they do about this problem today. Deprioritise anyone whose honest answer is that they do nothing at all.",
+        "format": "single",
+        "tags": [
+          "early-adopters",
+          "sales",
+          "demand"
+        ]
+      },
+      {
+        "id": "the-startup-owners-manual-s06",
+        "hook": "A pivot is a change to the model, not a change of mind.",
+        "insight": "The word gets used for any wobble, which makes it useless. Use it precisely: a pivot is a substantive change to one component of the business model — the customer, the problem, the channel, the pricing, the value proposition — made because a test told you the current version is wrong. That definition has teeth. It means a pivot requires a failed test to justify it, it means you change one component and re-test rather than rebuilding everything, and it means constant pivoting is a sign you are not testing at all.",
+        "why": "Naming the specific component stops you discarding the parts that were working. Most failed pivots throw away validated learning along with the broken assumption, and start again from zero.",
+        "apply": "Before your next big change, write down which single component of the model is changing and what evidence forced it. If you cannot, it is not a pivot.",
+        "format": "single",
+        "tags": [
+          "pivot",
+          "business-model",
+          "evidence"
+        ]
+      },
+      {
+        "id": "the-startup-owners-manual-s07",
+        "hook": "Do not hire a salesperson until you have sold it yourself.",
+        "insight": "Founders often treat selling as beneath them and hire a sales team to find out whether the product sells. It never works, because the first sales are not a sales job. They are research that happens to produce revenue. Until you know who buys, which objection kills the deal, what creates urgency and what price sticks, there is no roadmap for a salesperson to follow, so you are asking somebody to execute a process nobody has discovered. Sell it yourself until the sale is boringly repeatable.",
+        "why": "An early sales hire fails for structural reasons and then looks like a bad hire. The company loses a year and frequently concludes, wrongly, that the market was the problem.",
+        "apply": "Set an explicit threshold before your first sales hire, such as ten closed deals you personally ran using the same pitch and the same price.",
+        "format": "single",
+        "tags": [
+          "sales",
+          "founders",
+          "repeatability"
+        ]
+      },
+      {
+        "id": "the-startup-owners-manual-s08",
+        "hook": "Build the smallest thing capable of proving you wrong.",
+        "insight": "A minimum viable product is not a cheap version of the finished product. It is an instrument for answering one question you currently cannot answer, built to the lowest fidelity that still gives a trustworthy answer. Sometimes that means working software, and often it means a page, a document, a demo or a service you perform by hand. The test of a good one is not whether customers like it but whether their reaction changes what you do next. If every outcome leaves your plan unchanged, you built the wrong instrument.",
+        "why": "Cost per experiment sets how many wrong guesses you can survive. Anything in the build that does not serve the current question is money you will not get back.",
+        "apply": "Write the question your next build answers, plus the two possible results and the different action each would trigger, before anyone writes code.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "State the question",
+            "body": "Name the single uncertainty that matters most right now, phrased so that it can come back false. Vague questions produce builds that cannot fail and therefore cannot teach."
+          },
+          {
+            "step": 2,
+            "title": "Pick the cheapest instrument",
+            "body": "Choose the lowest-fidelity thing that would still convince you: a landing page, a manual service, a clickable mock. Fidelity costs money and rarely changes the answer."
+          },
+          {
+            "step": 3,
+            "title": "Set the threshold first",
+            "body": "Decide before the test what result counts as a pass. Deciding afterwards guarantees you will find some way to read the data as encouraging."
+          },
+          {
+            "step": 4,
+            "title": "Run it on strangers",
+            "body": "Test with people who have no relationship with you. Friends and advisers give you politeness, which is indistinguishable from demand right up until you invoice."
+          },
+          {
+            "step": 5,
+            "title": "Act on the answer",
+            "body": "Write down the decision the result forces and take it within the week. An experiment nobody acts on is an expensive kind of procrastination."
+          }
+        ],
+        "tags": [
+          "mvp",
+          "experiments",
+          "evidence"
+        ]
+      },
+      {
+        "id": "the-startup-owners-manual-s09",
+        "hook": "Failing a checkpoint sends you backwards. That is the system working.",
+        "insight": "Every stage of customer development has an exit condition, and if you do not meet it the instruction is to go back, not to press on with a smaller version of the same plan. That is uncomfortable, because backwards looks like failure to everybody watching, investors included. But the alternative is scaling a model you have not proven, which converts a recoverable setback into an unrecoverable one. Startups that die have usually passed a checkpoint they had actually failed.",
+        "why": "The cost of continuing rises steeply at each step, so an unproven assumption carried forward gets more expensive the longer it goes unexamined, and harder to admit to.",
+        "apply": "Define the pass condition for your current stage in one measurable sentence, and agree with your co-founders in advance what happens if you miss it.",
+        "format": "single",
+        "tags": [
+          "iteration",
+          "discipline",
+          "milestones"
+        ]
+      },
+      {
+        "id": "the-startup-owners-manual-s10",
+        "hook": "This is a manual, not a book. Use it like one.",
+        "insight": "It runs to several hundred pages of checklists and is close to unreadable cover to cover, which is a format rather than a flaw. Used properly you open it at the stage you are in, follow the specific list for that stage, and close it again. That makes it far more useful as a shared reference for a founding team than as something one person reads alone. The checklist form also imposes a real discipline: it is much harder to pretend you completed a step when the step has a list attached.",
+        "why": "Checklists work by removing reliance on memory and optimism, the same reason they hold up in aviation and surgery. Their weakness is that they invite box-ticking in place of judgement.",
+        "apply": "Print the checklist for the single stage you are actually in, put it on the wall, and review it with your co-founder every Friday.",
+        "format": "single",
+        "tags": [
+          "reference",
+          "checklists",
+          "teams"
+        ]
+      }
+    ],
+    "actions": [
+      "Write your business model out as numbered assumptions, rank them by how fatal each would be if wrong, and design a cheap test for the top three this month.",
+      "Do ten customer conversations yourself, with no slides, asking only about how they handle the problem today and what that workaround costs them.",
+      "Name your market type in writing and rebuild your revenue forecast around the adoption curve that type implies, not the one your pitch deck wants.",
+      "Agree a written pass condition for your current stage with your co-founders, including what you will do if the condition is not met."
+    ],
+    "if_you_liked": [
+      "the-four-steps-to-the-epiphany",
+      "the-mom-test",
+      "blitzscaling"
+    ],
+    "not_for_you_if": "You want an evening read or a narrative. This is a dense reference volume of checklists, and reading it straight through will exhaust you well before it helps you.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2012 by K&S Ranch. Expands the customer development method Blank first set out in 2005. Prose here is original."
+    }
+  },
+  {
+    "id": "hooked",
+    "title": "Hooked",
+    "subtitle": "How to Build Habit-Forming Products",
+    "author": "Nir Eyal",
+    "year": 2014,
+    "category": "entrepreneurship",
+    "subcategory": "product-design",
+    "tags": [
+      "product-design",
+      "habits",
+      "user-behaviour",
+      "retention",
+      "ethics"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 10,
+    "why_it_matters": "It gave product teams a shared vocabulary for how software becomes automatic, and that vocabulary went on to shape a decade of consumer apps. Worth reading as a description of what is being done to your attention, not only as a toolkit.",
+    "crux": {
+      "headline": "Habits are built by a loop, not by persuasion",
+      "body": "A product becomes automatic through a cycle that runs repeatedly: something prompts you, you take an easy action, you get a reward that varies, and then you put something of your own in. Each pass makes the next more likely, until an internal feeling replaces the external prompt. Design each of the four stages deliberately, and ask honestly whether the habit you are building is one the user would thank you for."
+    },
+    "sparks": [
+      {
+        "id": "hooked-s01",
+        "hook": "Habit-forming products do not persuade you. They train you.",
+        "insight": "A product becomes a habit when using it stops being a decision. That happens through a loop that runs over and over: something prompts you, you take a small action, you get a reward that varies, and then you put something of your own into the product. Each pass makes the next one more likely, until an internal feeling — boredom, anxiety, loneliness — is enough to trigger the behaviour with no nudge from outside. Once that link forms, the product no longer needs advertising to bring you back.",
+        "why": "The mechanism draws on well-established learning research and on the Fogg behaviour model. What is far less established is the case selection, which comes from products that had already succeeded.",
+        "apply": "Map one of your own daily app habits through the four stages, and name the internal feeling that triggers it before the phone ever does.",
+        "format": "single",
+        "tags": [
+          "habits",
+          "product-design",
+          "behaviour"
+        ]
+      },
+      {
+        "id": "hooked-s02",
+        "hook": "Trigger, action, reward, investment. Then the whole thing runs again.",
+        "insight": "The loop has four parts and each does a different job. Triggers start the behaviour, first from outside and eventually from inside your own head. The action is the simplest thing you can do in anticipation of a reward, so it has to be trivially easy. The reward must vary, because a payoff you can predict stops holding attention. The investment is what you put in — data, content, followers, effort — which both improves the product for you and gives you a reason to return to what you built.",
+        "why": "The parts are dependent on one another. A product with a great reward but a hard action fails, and one with an easy action and a fixed reward gets boring inside a fortnight.",
+        "apply": "Take one feature you are building and write out its four stages on a single page. Fix whichever stage you find you cannot fill in.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Start with the trigger",
+            "body": "External prompts get people in the door: a notification, a link, a recommendation. The aim is to attach the behaviour to an internal feeling so the prompt becomes unnecessary."
+          },
+          {
+            "step": 2,
+            "title": "Make the action trivial",
+            "body": "Behaviour happens when motivation, ability and a prompt line up. Ability is the cheapest to change, so cut steps until the action takes one tap and no thought."
+          },
+          {
+            "step": 3,
+            "title": "Vary the reward",
+            "body": "Unpredictable payoffs hold attention far better than fixed ones. Rewards arrive as social approval, as the hunt for something good, or as a felt sense of progress."
+          },
+          {
+            "step": 4,
+            "title": "Ask for an investment",
+            "body": "Get people to add something: a profile, a playlist, a review, a connection. Stored value makes the product better next time and makes leaving feel like a loss."
+          }
+        ],
+        "tags": [
+          "hook-model",
+          "design",
+          "engagement"
+        ]
+      },
+      {
+        "id": "hooked-s03",
+        "hook": "Easy beats motivating. Remove a step before you add a reason.",
+        "insight": "When somebody does not do the thing you want, the instinct is to persuade harder. Usually the cheaper fix is to make the action simpler. Behaviour needs three things at once: enough motivation, enough ability, and a prompt. Motivation is expensive and unstable, prompts are easy but irritating, and ability is the one you can actually engineer. Cutting a form field, removing a login step, defaulting a choice — each of those does more for adoption than any amount of copy about why the product is good.",
+        "why": "This comes from the Fogg behaviour model, a design heuristic rather than a strong empirical law. It holds up in practice because friction reliably suppresses low-motivation behaviour.",
+        "apply": "Count the taps between opening your product and the first moment of real value, then delete one of those steps this week.",
+        "format": "single",
+        "tags": [
+          "friction",
+          "usability",
+          "adoption"
+        ]
+      },
+      {
+        "id": "hooked-s04",
+        "hook": "A reward that always arrives eventually stops being a reward.",
+        "insight": "Predictability kills interest. A feed that always shows the same thing, a game you always win, a notification that always says the same words — each becomes background noise fast. Variation keeps the searching behaviour alive, because the outcome is worth checking. That is why feeds are endless, why loot boxes exist and why pulling to refresh feels like something. It is also the part of the model carrying the most ethical weight, since the same mechanism sits underneath a slot machine.",
+        "why": "Variable reinforcement is among the most replicated findings in learning research. Its sheer strength is exactly what makes it easy to use against the person on the other end.",
+        "apply": "Find one place your product is predictable and add genuine variety of value there, not a random number. Novelty with no substance stops working quickly.",
+        "format": "single",
+        "tags": [
+          "variable-rewards",
+          "psychology",
+          "engagement"
+        ]
+      },
+      {
+        "id": "hooked-s05",
+        "hook": "The work people put in is what stops them leaving later.",
+        "insight": "Effort creates attachment. A playlist you curated, a profile you filled in, a network you built, a skill you learned inside an interface — all of it is value stored in the product that you cannot take with you. This is why the fourth stage of the loop is asked for after the reward rather than before: people invest far more readily once they have already received something. Stored value also loads the next trigger, because your own contributions give the product something new to tell you about.",
+        "why": "People overvalue what they had a hand in making, an effect robust enough to appear in laboratory studies of self-assembled furniture and folded paper. Switching cost then does the rest of the work.",
+        "apply": "Identify what your users accumulate inside your product over time. If the honest answer is nothing, design one thing genuinely worth accumulating.",
+        "format": "single",
+        "tags": [
+          "retention",
+          "switching-costs",
+          "investment"
+        ]
+      },
+      {
+        "id": "hooked-s06",
+        "hook": "Ask which feeling your product gets used to relieve.",
+        "insight": "External triggers get replaced by internal ones, and internal triggers are nearly always uncomfortable emotions: boredom, loneliness, uncertainty, the fear of missing something. A habit forms when your product becomes the fastest available relief for one specific feeling. That tells you where to look when designing — not at features, but at the moment of discomfort you can reliably resolve. It also explains why competing on features rarely dislodges an incumbent habit. The incumbent owns the feeling.",
+        "why": "Emotion-linked cues are learned quickly and fire without deliberation, which is what makes them so much more durable than a reminder you have to consciously notice.",
+        "apply": "Write down the exact feeling a user has in the ten seconds before they open your product, and design the first screen to resolve that feeling.",
+        "format": "single",
+        "tags": [
+          "internal-triggers",
+          "emotion",
+          "product-design"
+        ]
+      },
+      {
+        "id": "hooked-s07",
+        "hook": "If nobody would miss it after a week, it is not a habit.",
+        "insight": "Habit-forming is a frequency question before it is a design question. A behaviour that recurs often enough, and delivers enough perceived value each time, can become automatic. A behaviour that happens twice a year cannot, however good the interface is. Before investing in engagement mechanics, check whether the underlying need actually shows up frequently. Insurance, house moves and tax filing are not habit businesses, and trying to force them into that shape wastes money a better first-use experience would have earned.",
+        "why": "Automaticity requires repetition against a stable cue. Without natural frequency there is nothing to repeat, so the product manufactures occasions instead, and users experience that as nagging.",
+        "apply": "Estimate how often a typical user genuinely needs what you do. If the answer is monthly or rarer, invest in making the single use excellent.",
+        "format": "single",
+        "tags": [
+          "frequency",
+          "habits",
+          "strategy"
+        ]
+      },
+      {
+        "id": "hooked-s08",
+        "hook": "Ask two questions before you make anything deliberately sticky.",
+        "insight": "The same techniques that build a habit people are grateful for can build one they resent. Eyal offers a blunt test with two axes: does this materially improve the user's life, and would you use it yourself? Two yeses put you on solid ground. If you would use it but it does not really help, you are in entertainment, which is honest enough. If it helps but you would not touch it, be careful. If neither holds, you are extracting value from people rather than making any, whatever the marketing says.",
+        "why": "The test is a moral heuristic, not a shield. It is easy to convince yourself a product helps when your revenue depends on believing that, so it works best applied by somebody outside the company.",
+        "apply": "Run both questions past a person who is not paid by your company, and write down every place their answer differs from yours.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Would you use it",
+            "body": "Answer honestly for yourself, not for a persona. Builders who would not touch their own product are usually relying on the user knowing less than they do."
+          },
+          {
+            "step": 2,
+            "title": "Does it improve a life",
+            "body": "Not entertain, not occupy: improve. Ask what the user would say a year later about the hours they spent, and whether they would call it time well spent."
+          },
+          {
+            "step": 3,
+            "title": "Name who pays the cost",
+            "body": "If attention is the product, somebody is paying in hours. Write down whose hours and how many, then decide whether the trade survives being explained to them."
+          },
+          {
+            "step": 4,
+            "title": "Build the exit",
+            "body": "Give people real controls: honest defaults, easy off switches, no dark patterns on cancellation. A habit that survives an easy exit is a habit you actually earned."
+          }
+        ],
+        "tags": [
+          "ethics",
+          "design",
+          "responsibility"
+        ]
+      },
+      {
+        "id": "hooked-s09",
+        "hook": "Measure whether the habit exists instead of assuming it does.",
+        "insight": "You can test for habit formation rather than hoping for it. Find the users who stuck around, look at what they did in their first days that the leavers did not, then deliberately push new users through that same sequence. This turns an abstract goal into a specific onboarding change. It also protects you from a common illusion: a growing user count can hide the fact that almost nobody returns, because fresh signups keep replacing the people quietly leaving out the back.",
+        "why": "Cohort behaviour separates acquisition from retention. Aggregate numbers blur the two together and can climb for months while the underlying product gets steadily worse.",
+        "apply": "Compare the first-week behaviour of users still active after two months against those who left, then pick one difference to design around.",
+        "format": "single",
+        "tags": [
+          "retention",
+          "cohorts",
+          "onboarding"
+        ]
+      },
+      {
+        "id": "hooked-s10",
+        "hook": "The person who wrote this manual later wrote the antidote.",
+        "insight": "This is a growth manual, and the decade after it appeared showed exactly what growth teams do with one. Engagement techniques scaled into infinite feeds, streak mechanics aimed at teenagers, and notification systems tuned to interrupt. Eyal went on to write about resisting precisely these designs, which is a useful admission. Read the model as a description of how attention gets captured and you gain a defence as well as a weapon. Read it only as a toolkit and you will build something you would not want your own family using.",
+        "why": "The techniques are neutral only in the limited sense that any powerful method is. What decides the outcome is whose interest the designer optimises for, and the incentives usually point one way.",
+        "apply": "Audit your product for one mechanic you would struggle to justify to a regulator, and remove it before anybody asks you to.",
+        "format": "single",
+        "tags": [
+          "ethics",
+          "attention",
+          "critique"
+        ]
+      }
+    ],
+    "actions": [
+      "Write out the four stages of the loop for your product's core behaviour, and rebuild whichever stage you cannot describe in a single concrete sentence.",
+      "Time the path from opening your product to the first moment of value, then remove one step from it and measure the effect on week-one retention.",
+      "Ask somebody outside your company whether the product genuinely improves a user's life, and write down honestly where their answer differs from yours.",
+      "Compare the first-week behaviour of long-term users against those who churned, and redesign onboarding around the single biggest difference."
+    ],
+    "if_you_liked": [
+      "the-cold-start-problem",
+      "atomic-habits",
+      "build"
+    ],
+    "not_for_you_if": "You want rigorous behavioural science with the evidence weighed. This is a practitioner framework built from successful products, and the causal claims are looser than they sound.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2014, co-written with Ryan Hoover, who is generally credited as collaborator rather than co-author. Eyal's later work argues the other side. Prose original."
+    }
+  },
+  {
+    "id": "lost-and-founder",
+    "title": "Lost and Founder",
+    "subtitle": "A Painfully Honest Field Guide to the Startup World",
+    "author": "Rand Fishkin",
+    "year": 2018,
+    "category": "entrepreneurship",
+    "subcategory": "founder-memoir",
+    "tags": [
+      "venture-capital",
+      "founder-story",
+      "transparency",
+      "startups",
+      "mental-health"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "A founder who did not win writing candidly about why, while most startup books are written by the survivors. Fishkin publishes the numbers, the debt, the depression and the board dynamics that the usual account leaves out.",
+    "crux": {
+      "headline": "The startup story you have been sold is heavily edited",
+      "body": "Almost everything published about building companies comes from people it worked out for, which makes the advice look far more reliable than it is. Fishkin describes the version underneath: raising money narrows what counts as success, growth targets set by a board override your own judgement, and the founder's health is treated as an infinite resource. Knowing that changes which choices you make while they are still cheap to reverse."
+    },
+    "sparks": [
+      {
+        "id": "lost-and-founder-s01",
+        "hook": "Startup advice comes almost entirely from people it worked out for.",
+        "insight": "The books, the conference talks and the podcasts share one hidden property: they were made by winners. Companies that did the same things and failed do not get invited to speak, so their evidence never enters the record. The result is advice that sounds like a method and is closer to a description of what lucky people happened to do. Fishkin's account is unusual because he tells it from inside a company that survived without ever reaching the outcome its funding assumed, and describes what that felt like.",
+        "why": "Selecting cases on the outcome is one of the oldest errors in reasoning about causes. Without the failures you cannot tell which behaviours mattered and which merely accompanied a good result.",
+        "apply": "For every piece of founder advice you adopt, ask what a company that followed it and failed would look like, and whether you would ever have heard of them.",
+        "format": "single",
+        "tags": [
+          "survivorship-bias",
+          "advice",
+          "honesty"
+        ]
+      },
+      {
+        "id": "lost-and-founder-s02",
+        "hook": "Raising money quietly deletes most of your acceptable outcomes.",
+        "insight": "Before you take venture capital, a profitable company with steady growth is a great result. Afterwards it is a disappointment, because the fund's economics only work if a small number of investments return enormous multiples. Nobody has to be dishonest for this to bite. The maths of the fund simply reprices every option you have, and choices that would build a durable business start looking like a lack of ambition to the people around your board table. Decide whether you want that repricing before you sign, not afterwards.",
+        "why": "A venture fund needs a handful of outsized exits to return the whole portfolio, so the pressure toward risky, growth-maximising strategy is structural rather than a matter of any individual investor's temperament.",
+        "apply": "Write down what outcome would make you personally happy in seven years, then ask whether a fund's return model can tolerate that outcome.",
+        "format": "single",
+        "tags": [
+          "venture-capital",
+          "fundraising",
+          "incentives"
+        ]
+      },
+      {
+        "id": "lost-and-founder-s03",
+        "hook": "A sale can be a headline win and leave founders with nothing.",
+        "insight": "Investor shares usually come with liquidation preferences, meaning that money goes back to them first when a company is sold. Stack a few rounds of that and a sale price that sounds impressive can be entirely consumed before ordinary shares see anything. Founders and employees hold those ordinary shares. Most people learn this after the wire arrives. The terms of a round matter at least as much as the valuation, and the valuation is the only number anybody talks about at the time.",
+        "why": "Preferences, participation rights and multiples are contract terms, not market forces. They are negotiable at signing and effectively fixed forever afterwards, which makes early inattention permanent.",
+        "apply": "Ask a lawyer to model your last term sheet at three sale prices, including a mediocre one, and see what your own shares receive in each.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Read the preference stack",
+            "body": "List each round, the money raised and whatever preference attaches to it. That total gets paid before common shareholders receive anything at all in a sale."
+          },
+          {
+            "step": 2,
+            "title": "Model a mediocre exit",
+            "body": "Everyone models the great outcome. Run the numbers on a decent-but-unspectacular sale, which is statistically the most likely liquidity event you will ever face."
+          },
+          {
+            "step": 3,
+            "title": "Check participation terms",
+            "body": "Some preferences pay out and then share in the remainder too. That single clause can cost employees more than the headline valuation ever gave them."
+          },
+          {
+            "step": 4,
+            "title": "Tell your team the truth",
+            "body": "Explain what their options are really worth under realistic outcomes. People make life decisions on these numbers and deserve the arithmetic, not the pitch."
+          }
+        ],
+        "tags": [
+          "equity",
+          "term-sheets",
+          "exits"
+        ]
+      },
+      {
+        "id": "lost-and-founder-s04",
+        "hook": "Build the audience before you build the thing you will sell.",
+        "insight": "Moz was a consultancy with an unusually generous blog long before it was a software company, and the audience that blog attracted became the distribution the software launched into. That ordering is the whole advantage. Most products fail not because they are bad but because nobody was waiting for them. An audience earned by being useful for years in public is slow to build and almost impossible for a competitor to buy, and it converts far better than any paid channel.",
+        "why": "Distribution is usually scarcer than product capability. Building an audience first means the launch has an audience by construction, rather than depending on a channel you have never tested.",
+        "apply": "Publish something genuinely useful to your target customer every week for three months before your product is ready, and track who subscribes.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Choose one audience",
+            "body": "Name a single group narrowly enough that you could list where they gather. An audience defined as everybody produces content nobody feels was written for them."
+          },
+          {
+            "step": 2,
+            "title": "Give away your best work",
+            "body": "Publish the thing you would normally charge for. Holding back the useful parts is what makes most company content worthless and unshared."
+          },
+          {
+            "step": 3,
+            "title": "Keep an unglamorous schedule",
+            "body": "Publish on a fixed rhythm for long enough to feel pointless. Audience growth is slow and compounding, and most people stop during the flat part."
+          },
+          {
+            "step": 4,
+            "title": "Own the connection",
+            "body": "Move readers onto a list or channel you control. An audience that lives entirely on somebody else's platform can be taken away without notice."
+          },
+          {
+            "step": 5,
+            "title": "Launch into the room",
+            "body": "When the product is ready, you are introducing it to people who already trust you, rather than paying strangers to consider it for eight seconds."
+          }
+        ],
+        "tags": [
+          "marketing",
+          "audience",
+          "distribution"
+        ]
+      },
+      {
+        "id": "lost-and-founder-s05",
+        "hook": "Publishing your own numbers is a strategy, not a confession.",
+        "insight": "Moz put out revenue, salary bands, board material and accounts of its own failures, at a time when almost nobody did. It cost something: competitors learned things, and bad quarters were public. It also bought a level of trust that marketing cannot purchase, made recruiting easier and forced internal honesty, because a number you must publish is a number you cannot quietly reframe. Transparency works as a strategy specifically when your market rewards being believed.",
+        "why": "Disclosure is credible precisely because it is costly. Anyone can claim to be trustworthy; publishing figures that could embarrass you is a signal that a dishonest company cannot cheaply copy.",
+        "apply": "Pick one metric you have been vague about with your team or customers and publish it, along with what you plan to do about it.",
+        "format": "single",
+        "tags": [
+          "transparency",
+          "trust",
+          "culture"
+        ]
+      },
+      {
+        "id": "lost-and-founder-s06",
+        "hook": "A minimum viable product only works if nobody is watching yet.",
+        "insight": "Shipping something rough and learning from the reaction is sound advice when you are unknown, because a bad first version reaches ten people who will try again later. Once you have an audience, a launch is a one-shot event. People form a view, tell each other, and mostly do not come back to check whether you improved. If you have spent years earning attention, spend the extra months making the first version genuinely good rather than merely viable.",
+        "why": "The value of iterating in public depends on your audience size. Small audience means cheap mistakes and fast learning; large audience means a weak launch consumes goodwill you cannot rebuild at the same price.",
+        "apply": "Before launching, ask honestly how many people are paying attention. Above a few thousand, raise your quality bar and delay rather than ship rough.",
+        "format": "single",
+        "tags": [
+          "mvp",
+          "launch",
+          "quality"
+        ]
+      },
+      {
+        "id": "lost-and-founder-s07",
+        "hook": "Broadening your product is how focused competitors overtake you.",
+        "insight": "Moz was excellent at one thing and then spent years and a great deal of money trying to become a full marketing platform, competing on every front at once against companies that each did only one of those fronts. The rebuild swallowed the roadmap, the original product stagnated, and the new one was never best at anything. Expansion feels like ambition and often it is a way of avoiding the harder work of being clearly better at the thing you already own.",
+        "why": "Breadth splits engineering, support and marketing across fronts while a focused rival concentrates all of theirs on one. You lose on every axis simultaneously without ever making a single obviously bad decision.",
+        "apply": "List your product areas and rank them by how close each is to being the best available. Cut or freeze everything outside your top one.",
+        "format": "single",
+        "tags": [
+          "focus",
+          "product-strategy",
+          "scope"
+        ]
+      },
+      {
+        "id": "lost-and-founder-s08",
+        "hook": "Founding a company does not qualify you to run it.",
+        "insight": "The person who can find a market and build the first version is not automatically the person who should manage two hundred employees, chair a board and run an operating plan. Those are different jobs requiring different skills, and enjoying the first one says little about the second. Fishkin eventually stepped out of the chief executive role and writes plainly about how long he stayed past the point where he knew. Self-awareness about which job you are good at is worth more than the resolve to endure the wrong one.",
+        "why": "Founder and chief executive are conflated by convention and by ego, not by evidence. The skills correlate weakly, and the cost of the mismatch is paid by everyone in the company.",
+        "apply": "Write out the parts of your role you dread, and ask whether they are temporary discomfort or a permanent mismatch with what you are good at.",
+        "format": "single",
+        "tags": [
+          "leadership",
+          "self-awareness",
+          "founders"
+        ]
+      },
+      {
+        "id": "lost-and-founder-s09",
+        "hook": "Your health is a company asset and you are depreciating it fast.",
+        "insight": "Fishkin describes a stretch of severe depression while running the company, and is direct that the culture around him treated exhaustion as evidence of commitment. The arithmetic is simple and mostly ignored: a founder who cannot think clearly makes worse decisions, and in a small company decisions are the entire output. Sleep, treatment and time away are not rewards for hitting a target. They are inputs to the only asset the business genuinely cannot replace at short notice.",
+        "why": "Sleep loss measurably degrades judgement and risk assessment. In a company where a handful of people make every consequential call, that degradation is a direct operating cost rather than a personal matter.",
+        "apply": "Book the medical or therapeutic appointment you have deferred, this week, and put a recurring non-negotiable stop time in your calendar.",
+        "format": "single",
+        "tags": [
+          "mental-health",
+          "burnout",
+          "founders"
+        ]
+      },
+      {
+        "id": "lost-and-founder-s10",
+        "hook": "A funding announcement is marketing, not a scoreboard.",
+        "insight": "A rival raising a large round tells you that some investors made a bet, and nothing about whether the business works. The number is chosen partly for the press, the valuation reflects terms nobody publishes, and the announcement is timed for recruiting and sales rather than accuracy. Founders read these as evidence they are losing and reshape strategy in response. The only comparisons worth acting on are the ones you can verify: retention, revenue, and whether customers switch.",
+        "why": "Announcements are a controlled disclosure by a party with an interest in appearing strong. Treating them as information about business quality is reading a company's own advertising as an audit.",
+        "apply": "The next time a competitor announces a round, write down what it actually tells you about their customers. Then get back to your own retention numbers.",
+        "format": "single",
+        "tags": [
+          "competition",
+          "fundraising",
+          "signals"
+        ]
+      }
+    ],
+    "actions": [
+      "Model your own equity at three exit prices, including a mediocre one, using the actual preference terms in your signed documents rather than the headline valuation.",
+      "Write down the outcome that would genuinely make you happy in seven years, then check whether your current funding structure can accommodate it.",
+      "Choose one number you have kept vague with your team and publish it internally along with your plan for it.",
+      "Book the health appointment you have been deferring and set a recurring weekly stop time that you defend as firmly as a customer meeting."
+    ],
+    "if_you_liked": [
+      "rework",
+      "anything-you-want",
+      "the-hard-thing-about-hard-things"
+    ],
+    "not_for_you_if": "You want a tactical playbook with frameworks and checklists. This is a personal account whose value is in its honesty, not in a reusable system.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2018 by Portfolio. Fishkin co-founded Moz and later SparkToro. Prose here is original; no wording reproduced."
+    }
+  },
+  {
+    "id": "super-founders",
+    "title": "Super Founders",
+    "subtitle": "What Data Reveals About Billion-Dollar Startups",
+    "author": "Ali Tamaseb",
+    "year": 2021,
+    "category": "entrepreneurship",
+    "subcategory": "startup-data",
+    "tags": [
+      "startups",
+      "venture-capital",
+      "founders",
+      "data",
+      "myths"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 11,
+    "why_it_matters": "Someone finally went and gathered the data instead of retelling the folklore. Tamaseb compared hundreds of billion-dollar companies against a randomly drawn comparison group, and most of what the industry believes about founders did not survive.",
+    "crux": {
+      "headline": "Almost everything you believe about founders is folklore",
+      "body": "The picture of the young technical dropout, first to market with a novel idea and a co-founder from college, is drawn from a handful of famous cases. Compared against a control group, most of those traits fail to separate the companies that reached enormous scale from the ones that did not. What did stand out was prior experience of building something significant, and entering a market big enough to matter. Use the finding to stop disqualifying yourself."
+    },
+    "sparks": [
+      {
+        "id": "super-founders-s01",
+        "hook": "Compare winners against a control group and the folklore collapses.",
+        "insight": "Almost all startup wisdom is drawn from famous companies only, which cannot tell you anything. If ninety percent of enormous successes had a particular trait, but ninety percent of failures had it too, the trait is worthless as a signal. Tamaseb built a dataset of billion-dollar companies alongside a randomly selected comparison group of startups that raised money and did not get there, then checked which characteristics actually differed. Most of the celebrated ones did not.",
+        "why": "This is the base-rate problem in plain form. Any claim about what winners have in common is empty until somebody checks whether the losers have it in common too.",
+        "apply": "Next time you hear a rule about what successful founders do, ask what proportion of failed founders also did it. If nobody checked, discount the rule.",
+        "format": "single",
+        "tags": [
+          "base-rates",
+          "evidence",
+          "myths"
+        ]
+      },
+      {
+        "id": "super-founders-s02",
+        "hook": "The billion-dollar founder is usually not in their twenties.",
+        "insight": "The dropout-in-a-dorm image is drawn from a handful of unusually famous cases, and it does not describe the distribution. Founders of companies that reached extreme scale skew considerably older than the myth, with a great many starting in their thirties and forties, and older founders are not rarer among the biggest outcomes. Age brings the things that actually help: knowing an industry, knowing which problems are real, and having people who will take your call.",
+        "why": "Independent work on entrepreneurial age using tax and census records has pointed the same way, finding that older founders are at least as likely to build fast-growing companies. Two different methods agreeing is worth something.",
+        "apply": "If you have been treating your age as a reason not to start, replace that with an inventory of the industry knowledge and contacts you already hold.",
+        "format": "single",
+        "tags": [
+          "founders",
+          "age",
+          "myths"
+        ]
+      },
+      {
+        "id": "super-founders-s03",
+        "hook": "The strongest signal is having built something significant before.",
+        "insight": "Across the comparisons, one attribute stood out more than the usual candidates: founders who had previously built something of real consequence, whether a company that reached meaningful scale, a widely used product, or an outstanding record inside a serious organisation. Not merely having founded something before, and certainly not having attended the right school. The pattern points to demonstrated capacity to make a difficult thing exist, which is far rarer than either credentials or enthusiasm.",
+        "why": "A track record is an observed sample of your actual output rather than a proxy for it. Note that this is a correlation in one hand-built dataset, and prior success also buys access to capital and talent that others cannot get.",
+        "apply": "If you have not built anything at scale yet, pick a project small enough to finish this year and large enough that finishing it proves something.",
+        "format": "single",
+        "tags": [
+          "track-record",
+          "founders",
+          "signals"
+        ]
+      },
+      {
+        "id": "super-founders-s04",
+        "hook": "You do not need a co-founder, and you do not need to be technical.",
+        "insight": "Two rules of thumb are handed out constantly: find a co-founder, and make sure someone on the founding team can build the product. Neither separated the huge outcomes from the rest. Solo founders are well represented among companies that reached enormous scale, and so are teams where nobody wrote code. What matters is whether the specific business needs deep technical work, and whether you can attract people who supply what you lack. The general rule is not a rule.",
+        "why": "The advice is really about coverage of critical skills, which many teams achieve by hiring rather than by co-founding. Turning it into a screening rule mostly filters on convention.",
+        "apply": "List the three capabilities your business genuinely requires in its first year, then decide whether each is best covered by a founder, a hire or a contract.",
+        "format": "single",
+        "tags": [
+          "co-founders",
+          "teams",
+          "myths"
+        ]
+      },
+      {
+        "id": "super-founders-s05",
+        "hook": "Competitors in your market are a good sign, not a warning.",
+        "insight": "Founders panic when they find rivals and take comfort in an empty field. The data suggests the opposite reading. Companies that reached extreme scale frequently entered markets that already had competitors, sometimes many, and often arrived years after the first entrants. An empty market usually means no demand has been proven, whereas a crowded one means customers exist and are already paying somebody. The question is not whether rivals exist but whether the incumbents are actually good.",
+        "why": "Competition is evidence of a market. The genuine risk is not rivalry but choosing a problem nobody is willing to pay to solve, which is invisible precisely because there is nobody to look at.",
+        "apply": "Map the three closest competitors and interview five of their customers about what still annoys them. Treat a crowded field as validation to exploit.",
+        "format": "single",
+        "tags": [
+          "competition",
+          "markets",
+          "strategy"
+        ]
+      },
+      {
+        "id": "super-founders-s06",
+        "hook": "First-mover advantage is mostly a story told afterwards.",
+        "insight": "Being early is celebrated because the winners of any market look, in retrospect, as if they had a head start. Many companies that reached the largest outcomes were not first at all. They arrived once the market had been proven by somebody else, learned from that company's mistakes, and executed better. Being first means paying for customer education and building on immature technology. Being second or fifth means somebody else absorbed those costs on your behalf.",
+        "why": "Order of entry predicts far less than execution quality and timing of the underlying technology. Pioneers frequently spend their capital proving a market that a later entrant then wins.",
+        "apply": "Stop treating a competitor's launch as a lost race. Write down the three things they are doing badly and make one of those your entire pitch.",
+        "format": "single",
+        "tags": [
+          "first-mover",
+          "timing",
+          "competition"
+        ]
+      },
+      {
+        "id": "super-founders-s07",
+        "hook": "Four credentials the industry worships and the data barely notices.",
+        "insight": "A cluster of things founders chase turn out to be weak separators between the enormous outcomes and everyone else. Elite university names, accelerator participation, patents held, and having a novel idea nobody has had before all appear on both sides of the comparison. They are not useless, and some open doors that matter. But treating them as prerequisites means declining to start until you have collected tokens that do not predict the thing you want.",
+        "why": "These attributes are highly visible, which is why they get overweighted. Visibility and predictive power are different properties, and the first is what shapes how a community talks.",
+        "apply": "Write down what you are waiting to acquire before starting. For each item, ask what evidence exists that it predicts anything, then start anyway.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Pedigree is weakly predictive",
+            "body": "Elite degrees show up among huge successes and among ordinary startups alike. They help with access to investors, which is not the same as helping the company work."
+          },
+          {
+            "step": 2,
+            "title": "Accelerators are not a filter",
+            "body": "Programmes give structure, contacts and a deadline, all genuinely useful. Getting in is not evidence about the outcome, and being rejected is not evidence either."
+          },
+          {
+            "step": 3,
+            "title": "Patents rarely decide it",
+            "body": "Outside a few sectors such as pharmaceuticals, patents seldom separate the enormous outcomes from the rest. Distribution and execution usually decide who wins."
+          },
+          {
+            "step": 4,
+            "title": "Novelty is overrated",
+            "body": "Plenty of the largest companies did something already being done. Many also changed their idea substantially, so the original concept was not the asset anyway."
+          }
+        ],
+        "tags": [
+          "credentials",
+          "myths",
+          "signals"
+        ]
+      },
+      {
+        "id": "super-founders-s08",
+        "hook": "The idea is negotiable. The size of the market is not.",
+        "insight": "A great many companies that reached the largest outcomes ended up selling something meaningfully different from what they started with, which tells you the initial idea was rarely the decisive asset. What is much harder to change is the market you chose to enter. A brilliant execution inside a small market produces a small company, and a mediocre execution inside an enormous one can still produce a large one. Choose the pond deliberately, because you will keep changing the fish.",
+        "why": "Product direction is cheap to alter and market position is not, since it determines your customers, your channels and your ceiling. Pivots within a market are common; pivots between markets usually mean starting again.",
+        "apply": "Before your next big product decision, estimate how many customers exist in your chosen market and what they currently spend on this problem.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Count the actual buyers",
+            "body": "Estimate how many organisations or people could realistically purchase, not the size of the industry a research firm describes in a headline."
+          },
+          {
+            "step": 2,
+            "title": "Check what they spend today",
+            "body": "Money already leaving their account for this problem is the clearest proof that a budget exists. A market with no current spending has to be created first."
+          },
+          {
+            "step": 3,
+            "title": "Check the direction",
+            "body": "A market shrinking slowly can look comfortable for years and then remove your whole business. Growth covers a great many execution mistakes; decline hides none."
+          },
+          {
+            "step": 4,
+            "title": "Check you can reach them",
+            "body": "Ask how you would contact a thousand of these buyers next month. A market you cannot address cheaply is somebody else's opportunity, not yours."
+          }
+        ],
+        "tags": [
+          "markets",
+          "pivots",
+          "strategy"
+        ]
+      },
+      {
+        "id": "super-founders-s09",
+        "hook": "This is a correlation study on a hand-built dataset. Read it that way.",
+        "insight": "The comparison is far more rigorous than the anecdotes it replaces, and it is still not causal evidence. The company list was assembled by one investor, the control group required judgement calls to construct, the attributes were coded by hand, and none of it went through peer review. It also only covers companies that raised venture money, which excludes most businesses in the world. Treat the findings as a strong corrective to folklore rather than as a formula for predicting anything.",
+        "why": "Descriptive comparison can rule things out convincingly while proving very little about what causes success. Rarity plus a small number of extreme outcomes makes statistical inference genuinely hard here.",
+        "apply": "Use these findings to remove reasons you are not starting, and refuse to use them to predict whether a specific company will work.",
+        "format": "single",
+        "tags": [
+          "evidence",
+          "limitations",
+          "data"
+        ]
+      },
+      {
+        "id": "super-founders-s10",
+        "hook": "Use the data to disqualify fewer people, starting with yourself.",
+        "insight": "The practical value of all this is negative rather than positive. It does not tell you who will build an enormous company, because nothing does. It does dismantle the reasons people give for not trying and the reasons investors give for passing: wrong age, no co-founder, not technical, not first, no famous degree. Each of those filters removes real candidates on evidence that does not hold up, which is expensive for the person filtered out and for whoever is doing the filtering.",
+        "why": "Screening criteria with no predictive power still shape who gets funded, because they are easy to apply and they feel like judgement. That is how a whole industry can be systematically wrong for a long time.",
+        "apply": "Write down every reason you think you are not the right person to start this. Cross out the ones this data contradicts, and address whatever is left.",
+        "format": "single",
+        "tags": [
+          "founders",
+          "bias",
+          "starting"
+        ]
+      }
+    ],
+    "actions": [
+      "List the reasons you have given yourself for not starting, then mark each as either contradicted by the evidence here or a real gap you can close this year.",
+      "Estimate the size of your chosen market in customers and current spending, and treat that number as the ceiling on everything else you do.",
+      "Interview five customers of your nearest competitor about what still frustrates them, and turn the sharpest complaint into your positioning.",
+      "Identify one capability your first year genuinely requires, and decide explicitly whether to co-found, hire or contract for it."
+    ],
+    "if_you_liked": [
+      "blitzscaling",
+      "founders-at-work",
+      "the-cold-start-problem"
+    ],
+    "not_for_you_if": "You are building a small or bootstrapped business. The entire dataset is drawn from venture-funded companies chasing extreme outcomes, and little of it transfers.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2021 by PublicAffairs. Tamaseb is a venture investor; the dataset is self-assembled and not peer reviewed, which the book itself acknowledges. Prose original."
+    }
+  },
+  {
+    "id": "the-cold-start-problem",
+    "title": "The Cold Start Problem",
+    "subtitle": "How to Start and Scale Network Effects",
+    "author": "Andrew Chen",
+    "year": 2021,
+    "category": "entrepreneurship",
+    "subcategory": "network-effects",
+    "tags": [
+      "network-effects",
+      "marketplaces",
+      "growth",
+      "product-design",
+      "startups"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "Network effects were treated as a mystical property that either appeared or did not. This breaks them into a lifecycle with named stages and specific tactics, drawing on how marketplaces and social products were actually launched.",
+    "crux": {
+      "headline": "Do not launch a network. Launch one tiny network that works",
+      "body": "A product whose value comes from other users is worthless on day one, and no amount of marketing fixes an empty room. The escape is to ignore the market entirely and build the smallest group that is genuinely useful to itself: one campus, one office, one neighbourhood on one night. Get that group self-sustaining, then repeat it. Networks grow by copying a working cell, not by broadcasting to everyone at once."
+    },
+    "sparks": [
+      {
+        "id": "the-cold-start-problem-s01",
+        "hook": "A network product is worthless on the day you launch it.",
+        "insight": "Anything whose value comes from other people using it starts at zero and stays there until enough of them arrive. The first user of a messaging app has nobody to message. The first driver has no riders. This is not a marketing problem and cannot be spent past, because paid users arrive into an empty room and leave. Every successful network product got past this somehow, usually with tactics that look ridiculous at scale, and copying the mature version of a network tells you nothing about how it began.",
+        "why": "Value depends on participation, so the product genuinely is bad early. Ordinary growth tactics assume the product already delivers value on arrival, which is precisely what is missing here.",
+        "apply": "Write down what a single new user experiences if nobody else joins that week. If the answer is nothing, your first job is density rather than reach.",
+        "format": "single",
+        "tags": [
+          "network-effects",
+          "launch",
+          "marketplaces"
+        ]
+      },
+      {
+        "id": "the-cold-start-problem-s02",
+        "hook": "Find the smallest group that would be useful to itself.",
+        "insight": "The unit that matters is not the market, it is the smallest collection of people that keeps working without any help from you. For a workplace tool that might be one team of five in one office. For a ride service it might be a handful of drivers covering a few square miles on a Friday night. Get one of those to stability and you have proof plus a template. Aiming at a city or an industry from the start spreads your users so thinly that no group anywhere ever reaches the density that makes the product good.",
+        "why": "Network value is local rather than global. A million scattered users can each have an empty experience, while a few hundred concentrated in one place have a working product.",
+        "apply": "Define your smallest self-sustaining unit in one sentence with a place and a number in it, then pour everything into filling exactly one of them.",
+        "format": "single",
+        "tags": [
+          "atomic-network",
+          "density",
+          "launch"
+        ]
+      },
+      {
+        "id": "the-cold-start-problem-s03",
+        "hook": "Every network has a hard side, and it is not the one you count.",
+        "insight": "Networks are lopsided. A small minority does most of the work that makes the thing valuable: the drivers, the hosts, the sellers, the people who actually post. That group is harder to recruit, harder to keep and usually has better alternatives. Yet product effort tends to flow to the easy side, because those users are numerous and their metrics move. Ask who does the work in your network, then build for them first, pay them properly and make their job easier before you optimise anything else.",
+        "why": "Supply-side participants have higher switching flexibility and higher effort costs, so they defect faster. Losing them collapses the value proposition for everybody else almost immediately.",
+        "apply": "Name the hard side of your network in one word, then find the single most tedious part of their experience and fix it this month.",
+        "format": "single",
+        "tags": [
+          "hard-side",
+          "marketplaces",
+          "supply"
+        ]
+      },
+      {
+        "id": "the-cold-start-problem-s04",
+        "hook": "Give people a reason to show up before the network exists.",
+        "insight": "A common escape from the empty room is to ship something useful to a single person alone, then let the network form on top of it. Photo filters were worth having before anybody followed you. A calendar or a document editor is useful before your colleagues join. The tool creates a reason to arrive and a reason to return, and the network quietly assembles in the background. The tool has to be genuinely good on its own, though, or you are simply describing an empty product with a slogan attached.",
+        "why": "Single-player value removes the dependency on other users during the period when there are none, which is exactly when a network product is at its weakest.",
+        "apply": "Design one feature that is worth using when the user is completely alone, and make it the first thing they encounter on signup.",
+        "format": "single",
+        "tags": [
+          "single-player",
+          "product-design",
+          "cold-start"
+        ]
+      },
+      {
+        "id": "the-cold-start-problem-s05",
+        "hook": "Fake the supply by hand until real supply turns up.",
+        "insight": "Many networks were bootstrapped with work that looks nothing like software. Founders posted the first listings themselves, drove the first cars, staffed the first requests, copied content from elsewhere, or simply stood in the street recruiting. It is unglamorous, unscalable and entirely legitimate, because the alternative is a product that never demonstrates its value to anyone. The trap is being unwilling to do it. Founders who insist the system must work on its own from day one usually get a system that works for nobody.",
+        "why": "Manual supply substitutes founder labour for network density during the period when density cannot exist. It becomes a problem only when nobody plans the handover to real participants.",
+        "apply": "Choose one side of your network and supply it yourself for the next two weeks, with a written date for when real participants must take over.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Pick one side to fake",
+            "body": "Decide which side of the network you will personally supply. Usually it is the hard side, because that is the one nobody joins voluntarily into an empty room."
+          },
+          {
+            "step": 2,
+            "title": "Do it embarrassingly manually",
+            "body": "Post the listings, make the calls, deliver the service yourself. Every awkward part you hit is a specification for what the product eventually has to automate."
+          },
+          {
+            "step": 3,
+            "title": "Concentrate it in one place",
+            "body": "Put all of your manual effort into a single network unit rather than spreading it. Density in one location beats a thin presence across ten of them."
+          },
+          {
+            "step": 4,
+            "title": "Set a handover date",
+            "body": "Write down when real participants must replace you and what threshold proves it. Without that date the manual work quietly becomes the business model."
+          }
+        ],
+        "tags": [
+          "bootstrapping",
+          "supply",
+          "manual"
+        ]
+      },
+      {
+        "id": "the-cold-start-problem-s06",
+        "hook": "Grow by copying a working network, not by adding users.",
+        "insight": "Once one small network works, growth becomes a repeatable operation rather than a marketing budget. You go to the next campus, the next city, the next company, and reproduce the same conditions that made the first one succeed. This is why network businesses launch geographically and why their playbooks read like field manuals. It also gives you a real test: if a second unit fails using the same method, you have not yet understood why the first one worked.",
+        "why": "Replication converts a lucky success into a process. It also isolates variables, since a unit that fails in a new place reveals which local conditions the original success quietly depended on.",
+        "apply": "Write down the exact conditions present when your first network unit succeeded, then attempt to reproduce all of them in a second unit.",
+        "format": "single",
+        "tags": [
+          "scaling",
+          "playbook",
+          "replication"
+        ]
+      },
+      {
+        "id": "the-cold-start-problem-s07",
+        "hook": "Sustained growth needs three loops running, not one growth hack.",
+        "insight": "Fast growth in a network product comes from loops that feed themselves. The acquisition loop means existing users bring new ones, through invitations, shared content or visible use. The engagement loop means the product gives people reasons to return without a prompt from you. The economic loop means the money earned from users funds acquiring more of them. Any one loop alone stalls. Together they compound, and the job of a growth team is to find which of the three is currently broken.",
+        "why": "Loops compound where campaigns do not. A channel spends money once for each customer, while a loop uses the output of the last cycle as the input to the next.",
+        "apply": "Draw your three loops on one page and mark where each breaks. Fix the broken link rather than adding a fourth acquisition channel.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Acquisition loop",
+            "body": "Users bring users, through invitations, shared content or visible public use. If new arrivals come only from paid channels, you have a funnel and not a loop."
+          },
+          {
+            "step": 2,
+            "title": "Engagement loop",
+            "body": "Something the network produces gives people a reason to come back on their own. Notifications count only when the thing they announce is genuinely worth returning for."
+          },
+          {
+            "step": 3,
+            "title": "Economic loop",
+            "body": "Revenue from existing users pays to bring in more. If each new customer costs more than they will ever return, growth is a countdown rather than a strategy."
+          }
+        ],
+        "tags": [
+          "growth-loops",
+          "retention",
+          "economics"
+        ]
+      },
+      {
+        "id": "the-cold-start-problem-s08",
+        "hook": "Every acquisition channel decays. Assume yours is already decaying.",
+        "insight": "A channel that works well attracts everybody else, audiences get saturated, and response rates fall. This happens to banner ads, email, referral schemes, social feeds and whatever is currently working for you. It means growth teams are never finished, and it means a company that built its whole model on one cheap channel has a hidden expiry date. Plan for channel decay in the same way you plan for equipment wearing out, rather than treating each decline as a failure of execution.",
+        "why": "Channels degrade because attention is finite and competitors copy anything that works. The decline is structural, so it continues regardless of how well your team executes.",
+        "apply": "Chart the cost per acquisition of your main channel over the past year. If the line is rising, start testing a second channel now.",
+        "format": "single",
+        "tags": [
+          "marketing",
+          "channels",
+          "growth"
+        ]
+      },
+      {
+        "id": "the-cold-start-problem-s09",
+        "hook": "Networks stop growing for reasons your team cannot work harder at.",
+        "insight": "Growth eventually slows and the internal instinct is to blame effort. Usually the causes are structural. The easiest users have already joined, so each new one is harder to reach. Scale attracts spam and low-quality participants, which degrades the experience for everyone. Crowding makes the network less useful, as anybody who has watched a feed fill with noise knows. Recognising a ceiling for what it is changes the response from pushing harder to changing the product.",
+        "why": "Saturation, quality degradation and overcrowding are properties of large networks rather than symptoms of poor management. They arrive on schedule for products that are working exactly as designed.",
+        "apply": "Split your growth curve by cohort and by segment to find which specific group has stalled, then treat that as a product problem rather than a marketing one.",
+        "format": "single",
+        "tags": [
+          "saturation",
+          "growth",
+          "quality"
+        ]
+      },
+      {
+        "id": "the-cold-start-problem-s10",
+        "hook": "The big launch is the wrong weapon against a network incumbent.",
+        "insight": "Attacking an established network with an enormous simultaneous launch tends to fail, even with a great deal of money behind it. Everyone arrives at once into a product with no local density, finds nobody they know, and leaves. The approach that works is to find an edge of the incumbent's network where the experience is bad or a group they serve poorly, take that segment properly, and grow inward. Networks are beaten at their weakest corner, not at their strongest point.",
+        "why": "Mass launches spread users too thinly for any single group to reach density, so the product feels empty precisely when curiosity is highest and first impressions are being formed.",
+        "apply": "Identify one group your dominant competitor serves badly and build a product that is unmistakably the best option for that group alone.",
+        "format": "single",
+        "tags": [
+          "competition",
+          "launch",
+          "positioning"
+        ]
+      }
+    ],
+    "actions": [
+      "Define your atomic network in one sentence that includes a place and a number, then concentrate all acquisition effort on filling exactly one of them.",
+      "Name the hard side of your network and spend a week doing their job yourself, listing every friction point you encounter along the way.",
+      "Draw your acquisition, engagement and economic loops on a single page, mark where each one breaks, and fix the weakest link before adding a channel.",
+      "Chart cost per acquisition for your main channel across the last twelve months and begin testing an alternative if the trend is upward."
+    ],
+    "if_you_liked": [
+      "hooked",
+      "blitzscaling",
+      "super-founders"
+    ],
+    "not_for_you_if": "Your product delivers full value to a single user with no one else involved. Most of this concerns problems your business will never have.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2021 by Harper Business. Chen is a venture investor and formerly led growth at Uber. Prose here is original."
+    }
+  },
+  {
+    "id": "loonshots",
+    "title": "Loonshots",
+    "subtitle": "How to Nurture the Crazy Ideas That Win Wars, Cure Diseases, and Transform Industries",
+    "author": "Safi Bahcall",
+    "year": 2019,
+    "category": "entrepreneurship",
+    "subcategory": "innovation-structure",
+    "tags": [
+      "innovation",
+      "org-design",
+      "research",
+      "incentives",
+      "strategy"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It reframes why organisations stop innovating as a structural change rather than a cultural failing, and gives leaders something they can actually adjust: how teams are separated and how people are paid.",
+    "crux": {
+      "headline": "Innovation dies by structure, not by culture",
+      "body": "Groups do not lose their appetite for fragile new ideas because people become timid. They change state, the way water becomes ice, once incentives tip so that defending the existing business pays better than championing something unproven. The remedy is architectural: keep the inventors and the operators in separate structures with equal standing, manage the exchange between them carefully, and adjust the incentives that decide which behaviour pays."
+    },
+    "sparks": [
+      {
+        "id": "loonshots-s01",
+        "hook": "Companies do not lose their nerve. They change state, like water freezing.",
+        "insight": "When an organisation stops backing fragile new ideas, everybody blames culture, and hiring bolder people rarely fixes it. Bahcall's argument is that the same people behave differently once the surrounding structure crosses a threshold, in the way identical water molecules behave completely differently either side of freezing. Below the threshold, championing an unproven idea is the best career move available. Above it, defending the existing business pays better. Nothing about the individuals changed; the payoff structure did.",
+        "why": "The physics is an analogy rather than a proven mechanism, and the historical cases are selected in hindsight. It still directs attention somewhere useful: the incentives, not the personalities.",
+        "apply": "Ask which behaviour genuinely gets people promoted where you work: shipping something unproven, or protecting what already earns money.",
+        "format": "single",
+        "tags": [
+          "innovation",
+          "org-design",
+          "incentives"
+        ]
+      },
+      {
+        "id": "loonshots-s02",
+        "hook": "Keep the inventors and the operators apart, and both of them respected.",
+        "insight": "Fragile new ideas need protection from the people running the profitable business, because those people are correctly measured on reliability and will kill anything unpredictable. The profitable business equally needs protection from constant disruption by enthusiasts. So separate them structurally, give each its own goals and metrics, and refuse to treat either as the senior partner. Most organisations either fold the new group into the old one, where it suffocates, or exile it so far that nothing it invents is ever adopted.",
+        "why": "Nurturing an unproven idea and running a reliable operation demand opposite tolerances for risk and mess. One structure judged by one set of metrics cannot do both without one side losing every argument.",
+        "apply": "Look at how your exploratory work is judged. If it shares targets with your core business, give it separate goals and a separate reporting line.",
+        "format": "single",
+        "tags": [
+          "structure",
+          "teams",
+          "innovation"
+        ]
+      },
+      {
+        "id": "loonshots-s03",
+        "hook": "Be the gardener of the exchange, not the prophet of the idea.",
+        "insight": "Leaders often think their job in innovation is to pick the winning bet and champion it. That concentrates the organisation's judgement in one person and creates a queue of people trying to please them rather than testing anything. The better role is quieter: tend the exchange between the inventors and the operators, make sure ideas actually cross over and criticism flows back, and keep both sides talking. Your value is in the quality of the transfer, not in your taste in projects.",
+        "why": "A leader who anoints one favourite project turns evidence-gathering into politics, because contradicting the boss now costs something. The organisation loses the ability to learn that a favoured idea is wrong.",
+        "apply": "Stop advocating for a specific project in meetings for one month. Spend that attention on how research findings reach the people who could use them.",
+        "format": "single",
+        "tags": [
+          "leadership",
+          "innovation",
+          "decision-making"
+        ]
+      },
+      {
+        "id": "loonshots-s04",
+        "hook": "Most breakthrough ideas die for reasons that have nothing to do with the idea.",
+        "insight": "An experiment fails, everybody concludes the concept is wrong, and the project ends. Often the real cause was the test rather than the theory: the wrong animal model, the wrong dose, the wrong customer segment, a bug in the rig. Statins nearly died this way, after early animal work showed no benefit for reasons that turned out to be a quirk of how those particular animals carry cholesterol. Before you kill a project, work out precisely why it failed, not merely that it did.",
+        "why": "Failure is uninformative until the cause is identified. Treating an outcome as a verdict on the concept confuses the instrument with the thing being measured, which is how good ideas get buried.",
+        "apply": "Before shutting anything down, write one page naming the specific mechanism of failure and what test would distinguish a bad idea from a bad experiment.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Name the failure precisely",
+            "body": "Write what actually happened in one sentence, in physical or commercial terms. Nobody wanted it is a summary, not a mechanism you can investigate."
+          },
+          {
+            "step": 2,
+            "title": "Suspect the instrument",
+            "body": "Ask whether the test could have produced this result even if the idea were sound. Wrong model, wrong dose, wrong segment, wrong measurement all look identical to failure."
+          },
+          {
+            "step": 3,
+            "title": "Check the conditions",
+            "body": "List what was unusual about the circumstances: the market at that moment, the price, the people running it. Conditions kill more projects than concepts do."
+          },
+          {
+            "step": 4,
+            "title": "Design the deciding test",
+            "body": "Write the one cheap experiment whose result would separate a bad idea from a bad trial, then either run it or record honestly that you chose not to."
+          }
+        ],
+        "tags": [
+          "experiments",
+          "failure",
+          "research"
+        ]
+      },
+      {
+        "id": "loonshots-s05",
+        "hook": "Strategy ideas look boring and can be worth more than the product ones.",
+        "insight": "Everyone recognises a breakthrough product. Far fewer people notice a breakthrough in how a business charges, distributes or locks in customers, because it arrives as an administrative change rather than a machine. American Airlines built its position partly on a loyalty scheme and a reservation and pricing system that rivals took years to match. Those decisions moved more value than most new aircraft did. If your idea pipeline only contains products, you are ignoring half the available territory.",
+        "why": "Strategy innovations are harder to copy than products, because they are embedded in contracts, systems and habits rather than in something a competitor can buy and disassemble.",
+        "apply": "Run one idea session restricted entirely to pricing, distribution and business model, with all product suggestions ruled out of order.",
+        "format": "single",
+        "tags": [
+          "strategy",
+          "business-model",
+          "innovation"
+        ]
+      },
+      {
+        "id": "loonshots-s06",
+        "hook": "Four dials decide whether your organisation still backs risky ideas.",
+        "insight": "The tipping point is not mysterious. It moves with a handful of measurable things: how much of a person's reward depends on the outcome of their project rather than on their rank, how big a pay step promotion brings, how many people each manager oversees, and how much a career can be advanced through internal politics. Shift those and behaviour shifts, without any change in staff or slogans. That is the practical value of thinking about this structurally instead of culturally.",
+        "why": "These are incentive parameters a leader can genuinely adjust, unlike culture. The specific model in the book is a stylised illustration rather than a validated formula, so treat the direction as the useful part.",
+        "apply": "Pick one dial and move it this quarter, most easily by tying a visible share of reward to project outcomes rather than to seniority.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Tie reward to outcomes",
+            "body": "When pay tracks the results of the work rather than position on a chart, backing an uncertain project becomes rational. When it tracks rank, safety wins every time."
+          },
+          {
+            "step": 2,
+            "title": "Flatten the promotion prize",
+            "body": "A very large jump in pay and status at each level makes climbing the most valuable activity available. People then optimise for the climb rather than for the work."
+          },
+          {
+            "step": 3,
+            "title": "Widen the span of control",
+            "body": "Fewer layers with more people each means fewer rungs to fight over. Deep hierarchies multiply the number of promotions worth playing politics for."
+          },
+          {
+            "step": 4,
+            "title": "Reduce the return on politics",
+            "body": "Make promotion decisions on visible evidence rather than on advocacy. Where lobbying reliably works, lobbying is the highest-return activity in the building."
+          }
+        ],
+        "tags": [
+          "incentives",
+          "compensation",
+          "org-design"
+        ]
+      },
+      {
+        "id": "loonshots-s07",
+        "hook": "Take the criticism of your fragile idea more seriously, not less.",
+        "insight": "The standard advice for a new idea is to ignore the doubters and persist. That produces a lot of persistence in the wrong direction. The more useful stance is to listen carefully to why people think it fails, treat each objection as a specific technical claim, and go and test the sharpest one. Champions who genuinely engage with the strongest criticism find the fatal flaw early, and the projects that survive that treatment are worth backing far more heavily than the ones nobody examined.",
+        "why": "Criticism arrives full of information about failure modes. Reframing it as data rather than opposition converts an emotional confrontation into a testable list.",
+        "apply": "Collect the three strongest objections to your current project, rank them by how badly each would hurt, and design a cheap test for the worst one.",
+        "format": "single",
+        "tags": [
+          "criticism",
+          "testing",
+          "resilience"
+        ]
+      },
+      {
+        "id": "loonshots-s08",
+        "hook": "The leader who backed the last breakthrough usually blocks the next one.",
+        "insight": "Being right once is dangerous. The founder whose judgement built the company acquires enormous authority, and the natural next move is to keep making the calls personally. Polaroid's leadership stayed committed to instant film long after digital imaging was obviously coming, and Pan Am's chief bet the company on aircraft rather than on how the industry was about to be repriced. In both cases the trap was the same: past vindication converted into a refusal to run the next experiment.",
+        "why": "Success provides very strong evidence about the last situation and almost none about the next. Authority earned by one correct call makes an organisation reluctant to test the second.",
+        "apply": "Identify the decision your leadership treats as settled because it worked before, and commission a small team to test the opposite assumption.",
+        "format": "single",
+        "tags": [
+          "leadership",
+          "incumbents",
+          "bias"
+        ]
+      },
+      {
+        "id": "loonshots-s09",
+        "hook": "Wartime research worked because somebody protected it from the generals.",
+        "insight": "The American scientific effort in the Second World War is Bahcall's central example of the structure working properly. Research sat outside the military chain of command, so promising work could not be shut down by officers focused on the current battle, but it was deliberately connected to the field so that what was invented actually got used. That combination of separation plus a well-managed exchange is the design being argued for. Either half alone produces isolated laboratories or a suffocated project.",
+        "why": "Separation alone yields research nobody adopts, while integration alone yields research nobody funds through its ugly early phase. The distinctive claim is that both are required together.",
+        "apply": "Name one person whose job is moving results between your exploratory work and your operating business, and give them the authority to convene both.",
+        "format": "single",
+        "tags": [
+          "history",
+          "structure",
+          "research"
+        ]
+      },
+      {
+        "id": "loonshots-s10",
+        "hook": "A phase transition is a metaphor. Do not mistake it for a proof.",
+        "insight": "The argument is elegant, and elegance is exactly when to be careful. The physics of phase transitions is real, but its application to how organisations behave is an analogy supported by historical cases chosen after the fact, which is the same selection problem that afflicts most business books. What survives the scepticism is still useful: incentives shape whether risky work gets backed, structure beats exhortation, and separating exploration from operations is a real and repeatable design choice.",
+        "why": "The value of a framework is not the same as the truth of its underlying metaphor. Judge it by whether it points at variables you can change, and this one does.",
+        "apply": "Adopt the incentive and structure advice, and treat the tipping-point mathematics as illustration rather than as something to calculate with.",
+        "format": "single",
+        "tags": [
+          "critique",
+          "evidence",
+          "frameworks"
+        ]
+      }
+    ],
+    "actions": [
+      "Map how your exploratory projects are measured and separate their goals and reporting line from the metrics that govern your core business.",
+      "Appoint someone whose explicit job is moving findings between exploratory and operating teams, and give them standing to convene both sides.",
+      "Change one compensation rule so that a visible share of reward depends on project outcomes rather than on seniority or headcount.",
+      "Write a one-page failure analysis for the last project you cancelled, distinguishing a flawed idea from a flawed test."
+    ],
+    "if_you_liked": [
+      "the-innovators-dilemma",
+      "build",
+      "blitzscaling"
+    ],
+    "not_for_you_if": "You run a team of under ten people. The structural remedies here assume an organisation large enough to have separate groups and a promotion ladder.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2019 by St Martin's Press. Bahcall is a physicist and former biotech chief executive. Historical cases are selected retrospectively. Prose original."
+    }
+  },
+  {
+    "id": "small-giants",
+    "title": "Small Giants",
+    "subtitle": "Companies That Choose to Be Great Instead of Big",
+    "author": "Bo Burlingham",
+    "year": 2005,
+    "category": "entrepreneurship",
+    "subcategory": "small-business",
+    "tags": [
+      "small-business",
+      "ownership",
+      "growth",
+      "culture",
+      "community"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 10,
+    "why_it_matters": "It documented a category nobody was writing about: privately held companies that deliberately refused to grow and became remarkable instead. It gave a generation of owners permission to define success on their own terms.",
+    "crux": {
+      "headline": "Growth is a choice, and refusing it takes more nerve",
+      "body": "Every company profiled here could have expanded and decided not to, because expansion would have cost the things that made the business worth owning: control, closeness to customers, quality, a life. Refusing growth is not passive. It requires an ownership structure that permits it, an owner who actively wants it, and the discipline to turn down opportunities that any spreadsheet would tell you to take."
+    },
+    "sparks": [
+      {
+        "id": "small-giants-s01",
+        "hook": "Turning down growth was the hardest decision each of these owners made.",
+        "insight": "Every one of these companies faced a moment where expanding was obviously available: a chain could open branches, a brewery could scale nationally, a manufacturer could take the contract that would triple its size. Each said no, and none found it comfortable. The pressure to grow does not come only from investors. It comes from staff wanting advancement, from suppliers, from peers, and from a culture that treats a business staying the same size as a business quietly failing.",
+        "why": "Growth is the default assumption, so declining it requires an active decision repeated many times, while accepting it requires only drifting. Defaults win unless somebody deliberately resists them.",
+        "apply": "Write down the last growth opportunity you accepted and list what it cost you in time, quality and control. Do the arithmetic you skipped then.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Price the whole cost",
+            "body": "Write what the opportunity takes as well as what it pays: your hours, borrowed money, new management layers, and the quality you can no longer personally check."
+          },
+          {
+            "step": 2,
+            "title": "Ask who it actually serves",
+            "body": "Some expansion serves customers and some serves an idea of what a proper company looks like. Be specific about which one you are being paid in."
+          },
+          {
+            "step": 3,
+            "title": "Test how reversible it is",
+            "body": "A lease, a loan and a headcount jump are commitments you cannot unwind next year. Reversible bets deserve a yes far more readily than permanent ones."
+          },
+          {
+            "step": 4,
+            "title": "Decide who you become",
+            "body": "Describe your working week after the growth in concrete detail. If you would not choose that week on its own merits, the revenue does not change the answer."
+          }
+        ],
+        "tags": [
+          "growth",
+          "choices",
+          "ownership"
+        ]
+      },
+      {
+        "id": "small-giants-s02",
+        "hook": "Anchor Brewing stayed small on purpose and became the reference point.",
+        "insight": "Fritz Maytag took over a failing brewery and could have chased volume like every other producer. He built instead for quality and stayed deliberately small, and the result was that an entire generation of American brewers took their standards from what he did. Being the best in a narrow space is a durable position, because it is defended by craft and reputation rather than by price or scale. Bigger competitors can outspend you but cannot easily become better than you at one specific thing.",
+        "why": "Reputation for excellence compounds slowly and does not transfer with an acquisition. That makes it one of the few advantages a small company can hold against a much larger one for decades.",
+        "apply": "Name the one thing your business could plausibly be the best at within fifty miles, and move your next three decisions toward it.",
+        "format": "single",
+        "tags": [
+          "quality",
+          "craft",
+          "positioning"
+        ]
+      },
+      {
+        "id": "small-giants-s03",
+        "hook": "Who owns your company decides whether you are allowed to stay small.",
+        "insight": "None of these businesses could have made their choices with outside investors demanding growth. Ownership structure is the mechanism, not the philosophy. Closely held shares, no venture capital, conservative debt and clear agreements among the owners are what convert a preference for staying small into an actual right to do it. Founders who intend to build this kind of company and then take money on standard growth terms discover that their intentions were never the binding part of the arrangement.",
+        "why": "Capital carries obligations regardless of anyone's good intentions. Whoever can force a sale or a strategy change ultimately decides how large the company becomes, no matter what was said at the start.",
+        "apply": "Read your shareholder agreement and identify who could force a sale or a growth strategy. If that person is not you, decide whether you accept that.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Keep control concentrated",
+            "body": "Decide early how much of the company you must hold to protect its direction, and treat that threshold as a constraint on every funding conversation you have."
+          },
+          {
+            "step": 2,
+            "title": "Choose patient money",
+            "body": "If you need capital, prefer sources with no fixed exit horizon: retained profit, a bank facility, or investors who explicitly do not require a sale."
+          },
+          {
+            "step": 3,
+            "title": "Write the intent into the documents",
+            "body": "Put your position on growth, dividends and sale into the shareholder agreement. A shared understanding that lives only in conversation is worth nothing during a dispute."
+          },
+          {
+            "step": 4,
+            "title": "Plan the handover early",
+            "body": "Decide who inherits control and on what terms. Most companies of this kind are lost at succession, when ownership passes to people who never chose the constraint."
+          }
+        ],
+        "tags": [
+          "ownership",
+          "equity",
+          "control"
+        ]
+      },
+      {
+        "id": "small-giants-s04",
+        "hook": "These companies belong to a place rather than merely sitting in one.",
+        "insight": "A striking common feature is deep local rootedness. Zingerman's answered demand for expansion by building more businesses in the same town rather than opening branches in other cities, keeping the founders close enough to run them properly. Being genuinely part of a community gives you suppliers who will help in a crisis, staff who stay, and customers who feel some ownership of your success. It is an advantage that a national competitor with a local branch cannot buy at any price.",
+        "why": "Local reputation is built through repeated dealings with people who talk to each other. That density of relationship is what makes it costly to acquire and hard for an outsider to imitate.",
+        "apply": "Pick one local relationship you have treated as transactional, and invest in it this quarter with no expectation of a return.",
+        "format": "single",
+        "tags": [
+          "community",
+          "local",
+          "relationships"
+        ]
+      },
+      {
+        "id": "small-giants-s05",
+        "hook": "Staying small keeps the owner in the room with the customer.",
+        "insight": "The advantage these companies protect most fiercely is closeness. The owner still knows the significant customers personally, still hears the complaints directly and still notices when the quality slips. Growth breaks that link first. It gets replaced with reports, surveys and account managers, all of which are lossy translations of what one conversation would have told you. Once a founder has to read about their own customers, the speed and accuracy of every decision they make drops.",
+        "why": "Direct contact carries information that surveys and dashboards strip out: tone, hesitation, the complaint the customer would not commit to a form. That information is what makes a small company adaptable.",
+        "apply": "Book three customer conversations for yourself this month with no agenda and no salesperson present, and take your own notes.",
+        "format": "single",
+        "tags": [
+          "customers",
+          "closeness",
+          "leadership"
+        ]
+      },
+      {
+        "id": "small-giants-s06",
+        "hook": "Generous workplaces here are demanding ones, not comfortable ones.",
+        "insight": "The companies profiled treat their staff unusually well, and none of them are soft places to work. Standards are high, poor performance is addressed, and the care shows up in stability, training, honesty about the numbers and a genuine interest in what people want from their lives. Confusing generosity with lenience produces a pleasant company that slowly gets worse. The combination that actually works is a high bar plus visible commitment to the people expected to clear it.",
+        "why": "People invest in work when they believe both that the standard is real and that the organisation is invested in them. Either one alone produces cynicism, in one direction or the other.",
+        "apply": "Identify the performance conversation you have been avoiding and hold it this week, opening with what you are committing to do for that person.",
+        "format": "single",
+        "tags": [
+          "culture",
+          "management",
+          "standards"
+        ]
+      },
+      {
+        "id": "small-giants-s07",
+        "hook": "Know which business you are actually in before you optimise it.",
+        "insight": "A restaurant that believes it is in the food business optimises the menu. One that understands it is in the hospitality business optimises how people feel when they arrive. A record label that thinks it sells discs behaves differently from one that thinks it protects an artist's independence. The definition determines what you measure, who you hire and what you refuse. Getting it wrong is expensive and invisible, because everything you do afterwards is competent work aimed at slightly the wrong target.",
+        "why": "Business definition sets the metric, and the metric silently reorganises the company. A wrong definition rarely announces itself; it simply produces steady effort in a direction customers do not care much about.",
+        "apply": "Write one sentence defining what your customers actually buy from you, then check whether your top three metrics measure that thing.",
+        "format": "single",
+        "tags": [
+          "strategy",
+          "purpose",
+          "positioning"
+        ]
+      },
+      {
+        "id": "small-giants-s08",
+        "hook": "Clif Bar's founder walked away from a signed sale at the last moment.",
+        "insight": "Gary Erickson had a sale agreed and the paperwork ready, and he decided he did not want to hand over the company he had built. Taking the money would have been rational by every conventional measure, and he would have spent the rest of his life not running the thing he cared about. That is the trade a sale actually is. The number is the visible part; what you are selling is your own daily work and every decision about the company's future.",
+        "why": "Sale decisions get made on financial models that price the business but not the seller's remaining working life. Founders who regret selling almost always describe losing the work rather than mispricing the deal.",
+        "apply": "Before entertaining an offer, write down in detail what you would actually do for the next five years afterwards. Read it before you negotiate.",
+        "format": "single",
+        "tags": [
+          "exits",
+          "ownership",
+          "decisions"
+        ]
+      },
+      {
+        "id": "small-giants-s09",
+        "hook": "The company stays remarkable only while somebody actively wants it to.",
+        "insight": "Every business here depends on an owner who keeps choosing the constraint. That is a real vulnerability. When the founder tires, sells or dies, the successor inherits the company but not the conviction that produced it, and the default pull toward growth resumes immediately. If you build this kind of business, succession is not an administrative task for later. It is the central design problem, because a set of choices held in one person's head does not survive them.",
+        "why": "Culture maintained by a single individual's judgement has no independent existence. Passing on ownership without passing on the reasoning leaves a structure that will be optimised by whoever comes next.",
+        "apply": "Write down the three growth opportunities you have refused and exactly why, and give that document to whoever would run this after you.",
+        "format": "single",
+        "tags": [
+          "succession",
+          "ownership",
+          "culture"
+        ]
+      },
+      {
+        "id": "small-giants-s10",
+        "hook": "Fourteen admired companies, chosen after they were already admired.",
+        "insight": "The book selects businesses that were thriving at the time of writing and looks for what they share, which is the same method that makes most business books unreliable. Plenty of companies stayed deliberately small and simply struggled. Several of these later grew, sold or ran into trouble. What survives the scepticism is narrower but genuinely useful: staying small is an available strategy, it requires specific ownership arrangements, and it works best where you can charge a premium for being distinctly better.",
+        "why": "Choosing cases on the outcome cannot establish cause. The honest reading is that these are existence proofs that the choice can work, not evidence that the choice reliably works.",
+        "apply": "Check whether your margins could support staying small. Without pricing power, refusing growth means refusing the only route to a viable business.",
+        "format": "single",
+        "tags": [
+          "survivorship-bias",
+          "critique",
+          "strategy"
+        ]
+      }
+    ],
+    "actions": [
+      "Read your shareholder and loan agreements and write down exactly who has the power to force a sale or a growth strategy on your business.",
+      "Write one sentence defining what customers really buy from you, then check whether the three numbers you watch most closely actually measure it.",
+      "Book three unstructured customer conversations for yourself this month, take your own notes, and share one uncomfortable finding with your team.",
+      "Document the growth opportunities you have declined and your reasons, and hand that record to whoever might one day run the company."
+    ],
+    "if_you_liked": [
+      "company-of-one",
+      "anything-you-want",
+      "rework"
+    ],
+    "not_for_you_if": "You are building a venture-backed company aiming at a large exit. The choices described here are structurally unavailable to you once you take that money.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2005 by Portfolio; a revised edition followed. Companies were selected while thriving, so the sample is chosen on outcome. Prose original."
+    }
+  },
+  {
+    "id": "profit-first",
+    "title": "Profit First",
+    "subtitle": "Transform Your Business from a Cash-Eating Monster to a Money-Making Machine",
+    "author": "Mike Michalowicz",
+    "year": 2014,
+    "category": "entrepreneurship",
+    "subcategory": "startup-finance",
+    "tags": [
+      "cash-flow",
+      "small-business",
+      "profit",
+      "money-habits",
+      "accounting"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 9,
+    "why_it_matters": "It took a behavioural insight that accountants had ignored — owners manage from their bank balance, not their accounts — and turned it into a cash system that thousands of small businesses actually stuck with.",
+    "crux": {
+      "headline": "Take your profit first and run the business on what is left",
+      "body": "The conventional formula treats profit as whatever survives after expenses, which in practice means nothing survives. Reverse it. When money arrives, move a fixed share into a profit account you do not touch, along with tax and your own pay, and operate on the remainder. Constraining the operating balance forces the cost decisions you would otherwise defer indefinitely, because you can only spend what you can see."
+    },
+    "sparks": [
+      {
+        "id": "profit-first-s01",
+        "hook": "Profit is not a leftover. Take it out before you spend anything.",
+        "insight": "The standard formula says revenue minus expenses equals profit, which quietly makes profit the last thing considered and the first thing sacrificed. Reverse the order. The moment money arrives, move an agreed share into an account earmarked as profit and treat the rest as everything the business has to live on. Nothing about the business changed except what you can see, and that turns out to be the part that governs your spending. You will find the costs to cut, because you have to.",
+        "why": "Expenses expand to consume whatever is available, an observation that holds well for household and business spending alike. Removing money from view before you plan is the reliable countermeasure.",
+        "apply": "Open a separate profit account today and move one percent of every payment into it. Do not adjust anything else for a month.",
+        "format": "single",
+        "tags": [
+          "profit",
+          "cash-flow",
+          "habits"
+        ]
+      },
+      {
+        "id": "profit-first-s02",
+        "hook": "Owners run their businesses off the bank balance, so use the balance.",
+        "insight": "Very few small business owners read a profit and loss statement before deciding whether they can afford something. They check the bank balance. Accountants find this exasperating and it is not going to change, so the practical move is to design around the behaviour instead of against it. If the balance is the instrument people actually read, split the money across accounts so that the balance you look at every day tells you the truth about what you can spend.",
+        "why": "Systems that require a behaviour change fail more often than systems that redirect the behaviour people already have. This one succeeds mainly because it demands no new financial literacy.",
+        "apply": "Set your operating account as the default view in your banking app, and move every other account out of that first screen.",
+        "format": "single",
+        "tags": [
+          "behaviour",
+          "cash-flow",
+          "systems"
+        ]
+      },
+      {
+        "id": "profit-first-s03",
+        "hook": "Five accounts turn an abstract budget into a physical constraint.",
+        "insight": "The mechanism is a small set of bank accounts with defined jobs. Everything lands in one account and is then distributed: a share for profit, a share for the tax you will owe, a share for paying yourself properly, and whatever remains for running the business. It looks like envelope budgeting because it is, and that is the point. A budget in a spreadsheet is a suggestion, while a budget enforced by which account holds the money is a constraint you cannot argue with at four in the afternoon.",
+        "why": "Physical separation removes the decision from the moment of temptation. That is the same mechanism that makes automatic pension contributions work far better than the intention to save.",
+        "apply": "Open the accounts this week and set your first allocation percentages low enough that the business survives without any changes.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Collect in one account",
+            "body": "Every payment lands in a single income account that you never spend from. Its only job is to be the place where allocations get calculated twice a month."
+          },
+          {
+            "step": 2,
+            "title": "Take profit and tax first",
+            "body": "Move the profit share and the tax share out immediately, into accounts you have made deliberately awkward to reach. Tax money was never yours to spend."
+          },
+          {
+            "step": 3,
+            "title": "Pay yourself properly",
+            "body": "Move an owner's pay allocation next. A business that only survives by underpaying its owner is not profitable, it is subsidised by you."
+          },
+          {
+            "step": 4,
+            "title": "Operate on what remains",
+            "body": "Whatever is left runs the company. When it is tight, you cut costs or raise prices, which are exactly the decisions the old formula let you postpone."
+          },
+          {
+            "step": 5,
+            "title": "Distribute every quarter",
+            "body": "Take a real distribution from the profit account each quarter. Profit you never receive is a number on a screen and will not change how you behave."
+          }
+        ],
+        "tags": [
+          "accounts",
+          "system",
+          "cash-flow"
+        ]
+      },
+      {
+        "id": "profit-first-s04",
+        "hook": "Start at one percent, because the point is the habit forming.",
+        "insight": "Owners who try to start with an ambitious profit allocation usually break the business, panic and abandon the system within two months. Beginning at a share small enough that nothing has to change makes the practice survivable, and the practice is what you are actually installing. Raise the percentage by a small step each quarter and let the business adapt each time. The discipline arrives from repetition rather than from a single dramatic decision that impresses you and then collapses.",
+        "why": "Behaviour change that requires no immediate sacrifice survives the first difficult month, which is when nearly all financial resolutions die. The amount matters far less than the fact that it happens every time.",
+        "apply": "Set your profit allocation at one percent now and add one percentage point at the start of each quarter for the next two years.",
+        "format": "single",
+        "tags": [
+          "habits",
+          "small-steps",
+          "profit"
+        ]
+      },
+      {
+        "id": "profit-first-s05",
+        "hook": "Do your money on two fixed days and never think about it in between.",
+        "insight": "Allocating money whenever you happen to remember means you allocate it whenever the balance looks reassuring, which is the worst possible rule. Fixing two days a month for all transfers, supplier payments and financial review removes the daily judgement calls entirely. It also gives you a real view of your rhythm, because you see a fortnight's activity at once rather than reacting to individual payments. The rest of the month you are free to do the work that generates the money.",
+        "why": "Recurring decisions consume attention and get made worse by mood and recent events. Batching them onto fixed dates converts a stream of small judgements into two considered ones.",
+        "apply": "Put two recurring appointments in your calendar for money admin, on the same dates every month, and refuse to move payments between them.",
+        "format": "single",
+        "tags": [
+          "routine",
+          "cash-flow",
+          "discipline"
+        ]
+      },
+      {
+        "id": "profit-first-s06",
+        "hook": "Put the profit account where reaching it is genuinely inconvenient.",
+        "insight": "Money you can move in three taps is money you will move. Keeping the profit and tax accounts at a different bank, with no card attached and ideally with a second signature needed, is not theatre. It converts a moment of weakness into a two-day process, and almost every impulse to raid the profit account dies inside those two days. The system works because of friction rather than willpower, which is fortunate, because willpower is at its lowest exactly when cash is tight.",
+        "why": "Delay between impulse and action reduces the action, a robust finding across saving, spending and consumption habits. Friction is doing the work here, not resolve.",
+        "apply": "Move your profit and tax accounts to a different bank this month, remove any card, and add a second approver if you have a partner.",
+        "format": "single",
+        "tags": [
+          "friction",
+          "temptation",
+          "cash-flow"
+        ]
+      },
+      {
+        "id": "profit-first-s07",
+        "hook": "A tight operating account is a feature. It makes you cut the right things.",
+        "insight": "When the money available for running the business shrinks, you discover which costs were genuinely load-bearing. Most owners find subscriptions nobody uses, a supplier who has quietly raised prices for years, and services that were bought during an optimistic quarter. The constraint does the auditing that you have been meaning to do since last spring. Businesses reliably adapt to a smaller operating budget without customers noticing, which tells you how much of the previous spending was doing nothing at all.",
+        "why": "Scarcity focuses attention on what matters, which is why the constraint works. The genuine risk is cutting investment in growth alongside the waste, and that requires judgement the system does not supply.",
+        "apply": "List every recurring payment your business makes and cancel the three you would not sign up for again today.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "List every outgoing",
+            "body": "Export twelve months of transactions and write down every recurring payment. Most owners find several they had entirely forgotten they were still making."
+          },
+          {
+            "step": 2,
+            "title": "Cancel the obvious",
+            "body": "Remove anything you would not sign up for again today. If you are unsure whether it is used, cancelling is the cheapest way to find out."
+          },
+          {
+            "step": 3,
+            "title": "Renegotiate the largest three",
+            "body": "Your biggest suppliers expect to be asked and rarely are. A single conversation about rate or terms usually beats a month of small economies."
+          },
+          {
+            "step": 4,
+            "title": "Protect one investment line",
+            "body": "Ring-fence the spending that genuinely produces future revenue before you cut. A constraint that eats your growth budget improves this quarter and damages next year."
+          }
+        ],
+        "tags": [
+          "costs",
+          "constraints",
+          "spending"
+        ]
+      },
+      {
+        "id": "profit-first-s08",
+        "hook": "Revenue is the number you brag about. Profit is the one you keep.",
+        "insight": "Growing revenue while margins stay thin makes every problem larger: more customers to serve, more staff to manage, more working capital tied up, and no more money in your pocket. Owners chase the top line because it is visible and socially rewarding, and because a bigger business feels like a safer one. Often the opposite is true. A smaller business that keeps a healthy share of what it earns is more resilient than a larger one that keeps almost nothing.",
+        "why": "Scale multiplies whatever your unit economics already are. If each sale earns you little, more sales mainly add operational risk and complexity while the owner's position stays the same.",
+        "apply": "Calculate your profit per customer, then identify the customers or products below that line and either reprice them or stop serving them.",
+        "format": "single",
+        "tags": [
+          "profit",
+          "growth",
+          "margins"
+        ]
+      },
+      {
+        "id": "profit-first-s09",
+        "hook": "Paying yourself last is not a virtue. It is a hidden subsidy.",
+        "insight": "A large number of owners take whatever is left over, which is often less than they would earn as an employee doing the same work elsewhere. That is a real cost the business is not being charged for, and it hides the fact that the model does not work. Allocating your own pay before operating expenses forces the true picture into view. If the company cannot cover a market wage for the person running it, that is information about the business, not a temporary sacrifice you can absorb indefinitely.",
+        "why": "Unpaid founder labour is an off-books expense. Leaving it out makes an unprofitable business look viable for years, which is how owners end up trapped in something they cannot afford to keep or leave.",
+        "apply": "Write down what your role would pay elsewhere, allocate that from every payment received, and see what the business looks like afterwards.",
+        "format": "single",
+        "tags": [
+          "owner-pay",
+          "margins",
+          "honesty"
+        ]
+      },
+      {
+        "id": "profit-first-s10",
+        "hook": "This is behaviour design, not accounting. Do not confuse the two.",
+        "insight": "The system changes when you see money and how it feels to spend, and it does not change what your business actually earns. Accountants object to it for fair reasons: cash in accounts is not profit, it obscures the accrual picture, and a rigid allocation can starve a genuinely growing company of the investment it needs. Run it as a spending discipline sitting on top of real bookkeeping. If your underlying model is broken, moving money between accounts will make that obvious but will not fix it.",
+        "why": "The evidence for it is practitioner experience rather than research, and the target percentages are rules of thumb rather than findings. The mechanism it borrows from behavioural economics is nonetheless well supported.",
+        "apply": "Keep proper accounts alongside the system and review both with an accountant twice a year, adjusting allocations if you are underinvesting.",
+        "format": "single",
+        "tags": [
+          "critique",
+          "accounting",
+          "limits"
+        ]
+      }
+    ],
+    "actions": [
+      "Open separate profit, tax and owner's pay accounts this week, with the profit and tax accounts held at a different bank and no card attached.",
+      "Set your first profit allocation at one percent, schedule two fixed transfer days a month, and increase the percentage by one point each quarter.",
+      "List every recurring payment the business makes and cancel the three you would not choose to start today.",
+      "Calculate your profit per customer or per product, and either reprice or retire everything sitting below the line."
+    ],
+    "if_you_liked": [
+      "the-personal-mba",
+      "company-of-one",
+      "small-giants"
+    ],
+    "not_for_you_if": "You run a venture-funded company burning capital by design, or you already have a finance function and disciplined accrual reporting you actually read.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First self-published 2014, expanded edition 2017 by Portfolio. The method is a behavioural cash system, not an accounting standard. Prose original."
+    }
+  },
+  {
+    "id": "100m-offers",
+    "title": "$100M Offers",
+    "subtitle": "How to Make Offers So Good People Feel Stupid Saying No",
+    "author": "Alex Hormozi",
+    "year": 2021,
+    "category": "entrepreneurship",
+    "subcategory": "sales-offers",
+    "tags": [
+      "pricing",
+      "sales",
+      "offers",
+      "marketing",
+      "positioning"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 10,
+    "why_it_matters": "A blunt, unusually specific treatment of the thing most founders leave vague: what exactly you are selling and why anyone should pay a premium for it. It reset how a generation of small service businesses package and price their work.",
+    "crux": {
+      "headline": "Build an offer nobody can price-compare",
+      "body": "If a customer can line you up beside three alternatives, the cheapest one wins and your margin disappears. The escape is to construct an offer specific enough that no direct comparison exists: a defined outcome for a defined person, with the obstacles between them and that outcome removed, the risk shifted onto you, and a price set by the value of the result rather than by what competitors charge."
+    },
+    "sparks": [
+      {
+        "id": "100m-offers-s01",
+        "hook": "If customers can compare you like for like, you have already lost.",
+        "insight": "Selling something that looks like everyone else's version forces the conversation onto price, and there is always somebody willing to go lower. The way out is not better salesmanship but a different offer: aimed at a narrower customer, promising a specific result rather than a service category, and bundled so that no competitor's package maps onto yours. When there is nothing directly comparable, the customer has to evaluate the outcome instead of the rate, and that is a conversation you can win.",
+        "why": "Price competition is a consequence of substitutability. Reduce how substitutable you look and you change what the buyer is actually weighing up, without changing what you deliver.",
+        "apply": "Rewrite your main offer to name one specific customer and one specific result, and remove every phrase a competitor could also honestly use.",
+        "format": "single",
+        "tags": [
+          "pricing",
+          "positioning",
+          "differentiation"
+        ]
+      },
+      {
+        "id": "100m-offers-s02",
+        "hook": "Choose the hungry market first. A great offer cannot rescue a bad one.",
+        "insight": "The most carefully built offer will fail if it is pointed at people who do not urgently want the outcome or cannot pay for it. Market choice comes first and it dominates everything after. Look for people in real pain about this problem, with money to spend, who can be reached as a group, in a category that is growing rather than shrinking. Get those four right and a mediocre offer still sells. Get them wrong and no amount of packaging will rescue the business.",
+        "why": "Demand is a property of the market, not of your marketing. Persuasion can shift which supplier a motivated buyer chooses; it cannot manufacture urgency in people who do not have the problem.",
+        "apply": "Score your current market on pain, purchasing power, reachability and growth. If any score is low, fix the market before touching the offer.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Find real pain",
+            "body": "Look for a problem people already lose sleep, money or status over. Mild inconvenience does not produce buyers, however elegantly you describe the solution."
+          },
+          {
+            "step": 2,
+            "title": "Check they can pay",
+            "body": "Confirm the buyer has budget and the authority to spend it. Serving people who genuinely need you and cannot afford you is charity with a pricing page."
+          },
+          {
+            "step": 3,
+            "title": "Check you can reach them",
+            "body": "Ask how you would put a message in front of a thousand of these people next month. A group with no gathering place is expensive to sell to for ever."
+          },
+          {
+            "step": 4,
+            "title": "Check the direction",
+            "body": "Prefer a market growing for structural reasons. Rising demand forgives ordinary execution; a shrinking market punishes even very good work."
+          }
+        ],
+        "tags": [
+          "markets",
+          "demand",
+          "targeting"
+        ]
+      },
+      {
+        "id": "100m-offers-s03",
+        "hook": "Four levers set perceived value, and only one of them is the result.",
+        "insight": "What a buyer feels an offer is worth rises with the outcome they want and how likely they think you are to deliver it. It falls with how long they will wait and how much effort or sacrifice it demands from them. Most sellers push only on the first lever by promising bigger results. The other three are usually easier to move and far more credible: prove the likelihood with evidence, shorten the time to a first visible win, and take work off the customer's plate.",
+        "why": "The framework is a practitioner heuristic rather than a measured model, but it directs attention usefully, because effort and delay are the objections buyers raise most and sellers address least.",
+        "apply": "Take your offer and improve one lever other than the promise: cut the time to first result, or remove one thing the customer has to do.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Sharpen the outcome",
+            "body": "State the result in the customer's own terms and make it concrete. A vague benefit cannot be valued, so buyers default to comparing your price instead."
+          },
+          {
+            "step": 2,
+            "title": "Raise believability",
+            "body": "Show evidence that it works: case detail, references, a trial, a guarantee. Most buyers doubt the likelihood far more than they doubt the value."
+          },
+          {
+            "step": 3,
+            "title": "Shorten the wait",
+            "body": "Engineer a visible win in the first days rather than the first quarter. Delayed payoff reduces perceived value and increases the chance of cancellation."
+          },
+          {
+            "step": 4,
+            "title": "Remove the effort",
+            "body": "Every task you hand back to the customer lowers what your offer is worth. Do it for them wherever the cost to you is less than the value they place on it."
+          }
+        ],
+        "tags": [
+          "value",
+          "pricing",
+          "offers"
+        ]
+      },
+      {
+        "id": "100m-offers-s04",
+        "hook": "Charging more can improve the results your customers get.",
+        "insight": "A higher price changes who buys and how they behave after buying. People who pay seriously turn up, do the work and take the advice, and consequently get better outcomes, which produces better testimonials and more referrals. A low price attracts buyers who are least committed and most demanding, which is a miserable combination. Raising prices also funds a better product. The obvious caveat is that this only holds if you can genuinely deliver at the higher price.",
+        "why": "Higher commitment correlates with follow-through, which is the mechanism behind the effect. It is not magic, and a premium price attached to a weak service produces refunds and reputational damage quickly.",
+        "apply": "Raise the price of your main offer for the next five prospects only, and record the conversion rate and the quality of clients you get.",
+        "format": "single",
+        "tags": [
+          "pricing",
+          "premium",
+          "clients"
+        ]
+      },
+      {
+        "id": "100m-offers-s05",
+        "hook": "Never discount. Add something instead.",
+        "insight": "Cutting price to close a deal teaches the buyer that your first number was not real and sets the anchor for every renewal. Adding something of value keeps the price intact and gives the customer more reason to say yes. The addition should cost you far less than it is worth to them, which is why templates, extra access, a faster start or an extended guarantee work well. You are moving the perceived value up rather than the price down, and only one of those is reversible.",
+        "why": "Discounts anchor future expectations and signal that the price was arbitrary. Additions preserve the anchor and are far easier to withdraw later without a confrontation.",
+        "apply": "Prepare three additions you can offer instead of a discount, each costing you little and clearly worth something to the buyer.",
+        "format": "single",
+        "tags": [
+          "pricing",
+          "negotiation",
+          "sales"
+        ]
+      },
+      {
+        "id": "100m-offers-s06",
+        "hook": "List everything standing between the customer and the result, then remove it.",
+        "insight": "A structured way to build an offer is to write down every obstacle a customer would hit on the way to the outcome they want, including the ones that are their own fault: no time, no confidence, a previous bad experience, a spouse to convince. Each obstacle becomes something you can solve, and the solutions become the components of your package. This is why strong offers feel comprehensive. They were assembled from a real list of reasons people fail rather than from a list of features you happen to have.",
+        "why": "Buyers weigh the whole path to the outcome, not the product in isolation. An offer that only addresses the central task leaves every peripheral obstacle as an unanswered objection.",
+        "apply": "Write twenty reasons a customer would fail to get the result, and design one small component of your offer for the five most common.",
+        "format": "single",
+        "tags": [
+          "offers",
+          "objections",
+          "design"
+        ]
+      },
+      {
+        "id": "100m-offers-s07",
+        "hook": "A guarantee moves the risk from the buyer onto you, where it belongs.",
+        "insight": "Most hesitation is about risk rather than price. The buyer is not sure it will work for them specifically, and they have been disappointed before. A guarantee answers that directly, and the stronger and more specific it is, the more it says about your own confidence. It will be exploited occasionally, and that cost is usually far smaller than the sales it wins. The condition is that you can genuinely deliver, because a guarantee attached to a weak service simply accelerates the refunds.",
+        "why": "Shifting risk works because buyers weigh potential losses more heavily than equivalent gains. A guarantee also functions as a costly signal, which is why a specific one persuades more than a vague reassurance.",
+        "apply": "Write a guarantee specific enough to be uncomfortable, run it for a quarter, and track refund rate alongside conversion rate.",
+        "format": "single",
+        "tags": [
+          "guarantees",
+          "risk",
+          "conversion"
+        ]
+      },
+      {
+        "id": "100m-offers-s08",
+        "hook": "Scarcity works, which is exactly why faking it is a bad idea.",
+        "insight": "Limits on quantity or time move people to decide, and both are legitimate when true: you really can only take six clients this month, the price really does rise in January. Manufactured urgency is a different thing. Customers eventually notice the countdown that resets, the last few places that never run out, and once they do, everything else you say gets discounted too. In several countries these tactics are also regulated. Use real constraints, state them plainly, and then honour them.",
+        "why": "Urgency raises the cost of deferring a decision, which is often the actual competitor. The effect depends entirely on being believed, so a discovered fake destroys the mechanism permanently.",
+        "apply": "Identify a genuine constraint in your business, such as delivery capacity, and build your next offer honestly around that real limit.",
+        "format": "single",
+        "tags": [
+          "scarcity",
+          "urgency",
+          "ethics"
+        ]
+      },
+      {
+        "id": "100m-offers-s09",
+        "hook": "The name of the offer does a surprising amount of the selling.",
+        "insight": "The same service sells very differently depending on what it is called. A name that states who it is for, what result it delivers and over what period does work that the sales conversation would otherwise have to do, and it makes the offer feel like a specific thing rather than a block of hours. This is packaging rather than substance, which is precisely why it is worth attention: the substance is often fine and the packaging is what stopped anyone finding out.",
+        "why": "A name sets expectations before any explanation happens, and buyers judge relevance in seconds. Naming works only when the thing behind it delivers, otherwise it just raises the disappointment.",
+        "apply": "Rename your main offer so the title alone contains the customer, the outcome and the timeframe, then test it on ten prospects.",
+        "format": "single",
+        "tags": [
+          "naming",
+          "packaging",
+          "marketing"
+        ]
+      },
+      {
+        "id": "100m-offers-s10",
+        "hook": "Written by someone selling to people who want to sell things.",
+        "insight": "The tactics here work best in high-margin service and information businesses, which is where the author made his money and where his audience sits. They transfer poorly to thin-margin products, long enterprise sales with procurement departments, and regulated markets where claims and guarantees are constrained by law. The core reasoning about differentiation, risk and perceived value is sound and general. The aggressive packaging and pricing advice is specific to a business type, and the book does not always mark the boundary.",
+        "why": "The examples are drawn from the author's own successes and from his coaching clients, which is a selected sample with a commercial interest attached. Take the mechanisms and check each one against your own margins and regulator.",
+        "apply": "Before applying any tactic here, ask whether your gross margin and your regulator permit it. Adapt the reasoning rather than copying the script.",
+        "format": "single",
+        "tags": [
+          "critique",
+          "limits",
+          "survivorship-bias"
+        ]
+      }
+    ],
+    "actions": [
+      "Score your market on pain, purchasing power, reachability and growth, and change market before changing offer if any of the four is weak.",
+      "Rebuild your main offer from a written list of every obstacle between a customer and their desired result, adding one component per common obstacle.",
+      "Write a guarantee specific enough to make you slightly uncomfortable, then run it for a quarter and measure refunds against conversion.",
+      "Raise your price for the next five prospects and record both the conversion rate and the quality of the clients who accept."
+    ],
+    "if_you_liked": [
+      "the-mom-test",
+      "the-personal-mba",
+      "profit-first"
+    ],
+    "not_for_you_if": "You sell thin-margin products, or into enterprises with procurement processes. The pricing and packaging tactics assume a market that most businesses do not operate in.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Self-published 2021 by Acquisition.com. Advice is drawn from the author's own gym and services businesses; applicability outside high-margin services is limited. Prose original."
+    }
+  },
+  {
+    "id": "build",
+    "title": "Build",
+    "subtitle": "An Unorthodox Guide to Making Things Worth Making",
+    "author": "Tony Fadell",
+    "year": 2022,
+    "category": "entrepreneurship",
+    "subcategory": "product-craft",
+    "tags": [
+      "product-management",
+      "hardware",
+      "careers",
+      "leadership",
+      "design"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 13,
+    "why_it_matters": "Detailed, unsentimental advice from someone who shipped the iPod and the iPhone and then founded Nest. Rare in covering the whole arc from your first job to running a company, with the hardware specifics most product books skip.",
+    "crux": {
+      "headline": "Make the intangible tangible before you build it",
+      "body": "Most products fail because nobody could explain, in ordinary language, why anyone would want them. Before writing code or cutting metal, write the story: the problem a real person has, why existing solutions fail, and what changes for them. If that story is not compelling on a page, no amount of engineering will rescue it. The story is not marketing that comes later; it is the specification everything else is built against."
+    },
+    "sparks": [
+      {
+        "id": "build-s01",
+        "hook": "Choose your next job for what you will learn, not what you will be called.",
+        "insight": "Early in a career the compounding asset is skill and the people you meet, not salary or title. That argues for going where the interesting problems are and where you will be the least capable person in the room, even when the money is worse and the company might fail. A failed company you learned enormously at leaves you more valuable than three comfortable years somewhere stable. The rule weakens as obligations accumulate, so the time to take this seriously is now.",
+        "why": "Skills and relationships compound over decades while a salary increment does not. The honest caveat is that taking risky jobs requires a financial cushion that not everybody has.",
+        "apply": "Write down the three capabilities you most want in five years, then judge your next role only on how much of each it would give you.",
+        "format": "single",
+        "tags": [
+          "careers",
+          "learning",
+          "decisions"
+        ]
+      },
+      {
+        "id": "build-s02",
+        "hook": "If you cannot tell the story on one page, do not build the thing.",
+        "insight": "Before anything is designed, write out in plain language who has the problem, why what exists today annoys them, and what is different afterwards. Reading that page back tells you quickly whether there is a product here at all. If the reason to care needs a diagram, a market projection or a technical explanation, real customers will not follow it either. The story is not something the marketing team writes at the end. It is the specification everyone builds against.",
+        "why": "Writing forces the vagueness out. A product idea can survive indefinitely inside a slide deck of features and will not survive one honest paragraph explaining why a stranger would change their behaviour.",
+        "apply": "Write one page describing your product as a story about a person with a problem, then read it aloud to somebody outside your company.",
+        "format": "single",
+        "tags": [
+          "storytelling",
+          "product",
+          "clarity"
+        ]
+      },
+      {
+        "id": "build-s03",
+        "hook": "Answer why enough times that a customer stops asking it.",
+        "insight": "A convincing product story chains reasons together: this happens, which causes that, which is why the thing you have now does not work, which is why we built this. Each link has to be one a customer would nod at from their own experience rather than one you had to teach them. When the chain is solid, people finish it themselves and feel they arrived at the conclusion. When a link is weak, the pitch collapses at exactly that point, every time, with every audience.",
+        "why": "Buyers accept conclusions they reach themselves and resist ones they are handed. The chain also exposes assumptions you were relying on quietly, because each link has to be independently believable.",
+        "apply": "Write your pitch as a chain of because statements and test it on five strangers, noting the exact link where each of them hesitates.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Start where they already are",
+            "body": "Open with a situation the customer recognises from their own life. Beginning with your technology means the audience is doing translation work instead of listening."
+          },
+          {
+            "step": 2,
+            "title": "Name the real cost",
+            "body": "Say what the current situation costs in money, time or frustration. Without a cost there is no reason to change, however clever the alternative is."
+          },
+          {
+            "step": 3,
+            "title": "Explain why nothing fixes it",
+            "body": "Show why the obvious solutions fail. If the audience can think of an easy answer you have not addressed, they stop believing the rest of the chain."
+          },
+          {
+            "step": 4,
+            "title": "Land the change",
+            "body": "Describe what is different afterwards in concrete, everyday terms. Specifics are persuasive; adjectives about how revolutionary it is are not."
+          }
+        ],
+        "tags": [
+          "storytelling",
+          "pitching",
+          "why"
+        ]
+      },
+      {
+        "id": "build-s04",
+        "hook": "Disrupt one thing, maybe two. Three at once and you will not ship.",
+        "insight": "Every genuinely new thing in your product multiplies the risk, because each one can fail independently and all of them have to work together. A new technology plus a new business model plus a new category is three simultaneous bets, and the odds compound against you. Choose the one or two things that are truly novel and be conventional about everything else. Being ordinary in the areas that do not differentiate you is not a compromise, it is how the novel part gets a chance to reach anybody.",
+        "why": "Risks multiply rather than add. Two independent novel elements each with a decent chance of working still give you a project more likely to fail than to succeed.",
+        "apply": "List everything genuinely new in your product. Keep the two that matter most to the customer and make deliberately conventional choices elsewhere.",
+        "format": "single",
+        "tags": [
+          "risk",
+          "product-strategy",
+          "focus"
+        ]
+      },
+      {
+        "id": "build-s05",
+        "hook": "Plan three generations before you ship the first one.",
+        "insight": "The first version of anything will be worse than you imagined, constrained by cost, time and what is physically possible. That is normal, and it becomes a problem only if the first version was designed as though it were the last. Knowing roughly what the second and third versions do lets you make architecture decisions now that will not have to be undone later, and lets you cut features from version one without panic, because you know when they are coming back.",
+        "why": "Early architecture choices constrain everything after them. Planning ahead separates a deliberate omission from a permanent limitation, which is the difference between a lean first release and a dead end.",
+        "apply": "Sketch what versions two and three of your product do, then check that nothing in your current architecture makes those versions impossible.",
+        "format": "single",
+        "tags": [
+          "roadmap",
+          "product",
+          "planning"
+        ]
+      },
+      {
+        "id": "build-s06",
+        "hook": "Some decisions have no data, and hiding behind numbers is a decision too.",
+        "insight": "Plenty of choices can be settled by measurement, and those should be. But the important early ones usually cannot, because the thing does not exist yet and nobody can tell you whether they would want it. Those calls are made on judgement, taste and conviction, and pretending otherwise leads to endless research that answers a smaller question than the one you have. Know which kind of decision you are facing. Demanding data for an opinion-driven call is a way of delaying it while looking rigorous.",
+        "why": "Data describes what exists. For a genuinely new product the relevant evidence has not been generated yet, so waiting for it means either never deciding or deciding on evidence about something else.",
+        "apply": "Label your next three big decisions as data-driven or opinion-driven, and for the opinion ones set a date and decide without further research.",
+        "format": "single",
+        "tags": [
+          "decision-making",
+          "data",
+          "judgement"
+        ]
+      },
+      {
+        "id": "build-s07",
+        "hook": "Becoming a manager is starting a new career from zero.",
+        "insight": "Being excellent at the work is the usual reason people get promoted to managing it, and the two jobs share almost nothing. The new one is about hiring, standards, communication, uncomfortable conversations and getting results through people who do the task differently from you. Expect to be bad at it for a while, in the same way you were bad at your craft when you started. The common failure is refusing to accept the reset and continuing to do the old job while your team waits.",
+        "why": "Management is a distinct skill set with a distinct learning curve. Treating it as a promotion rather than a change of profession is why so many strong specialists become poor managers and lose their craft too.",
+        "apply": "Name the part of your old job you are still doing because it is comfortable, and hand it to somebody on your team this month.",
+        "format": "single",
+        "tags": [
+          "management",
+          "careers",
+          "leadership"
+        ]
+      },
+      {
+        "id": "build-s08",
+        "hook": "The product includes the advert, the box and the support call.",
+        "insight": "Customers do not experience your product in isolation. They meet the advertisement, the website, the price, the packaging, the setup, the first week, the moment something breaks, and the person who answers the phone. Every one of those shapes what they think of you, and most companies leave the majority of them to whoever happens to own that department. Fadell's approach at Nest treated the unboxing and the support script as design problems with the same seriousness as the hardware.",
+        "why": "Judgement of a product is formed across the whole journey, and the worst moment tends to dominate the memory. Excellence confined to the object itself gets undone by a bad delivery or a hopeless help page.",
+        "apply": "Map every touchpoint from first advert to first support contact, then pick the worst one and assign it an owner this week.",
+        "format": "single",
+        "tags": [
+          "customer-experience",
+          "design",
+          "detail"
+        ]
+      },
+      {
+        "id": "build-s09",
+        "hook": "A company needs a heartbeat: a rhythm it ships to.",
+        "insight": "Organisations without a predictable cadence drift, because everything can always be improved slightly more. A visible rhythm — a release schedule, a planning cycle, a regular review that never moves — forces decisions to be made and work to be finished. It also lets everyone else in the company plan around you. Deadlines are frequently treated as a management imposition, and their real function is to convert an infinite set of possible improvements into a finite set of decisions.",
+        "why": "Without a fixed endpoint, scope expands to fill whatever time exists. A rhythm creates the pressure that makes teams choose, which is the actual scarce activity in product work.",
+        "apply": "Set a shipping cadence and hold the next date even if the release is smaller than planned. Cut scope rather than moving the date.",
+        "format": "single",
+        "tags": [
+          "execution",
+          "deadlines",
+          "shipping"
+        ]
+      },
+      {
+        "id": "build-s10",
+        "hook": "Learn to tell a demanding colleague from a genuinely destructive one.",
+        "insight": "Difficult people are not all the same and the differences matter enormously. Some are relentless about the work itself, hard to satisfy and worth every argument, because the standard they hold is real and they will help you meet it. Others are difficult about status, credit and control, and no amount of accommodation improves them. Fadell is candid that his own reputation for being demanding was enabled by working somewhere with the margins and the leadership cover to indulge it, which most workplaces do not have.",
+        "why": "Sorting on behaviour alone conflates high standards with cruelty. The useful test is whether the person's difficulty is aimed at the quality of the work or at their own position within the group.",
+        "apply": "For the most difficult person on your team, write down whether their friction is about the work or about their standing, then act accordingly.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Ask what they push on",
+            "body": "Someone who argues about the work, in detail, with reasons, is usually worth keeping. Someone who argues about ownership, credit and reporting lines is not."
+          },
+          {
+            "step": 2,
+            "title": "Watch what they do when wrong",
+            "body": "A person with high standards updates when the evidence changes. A person defending status escalates instead, because the point was never the argument."
+          },
+          {
+            "step": 3,
+            "title": "Check who else is drained",
+            "body": "Ask the quiet people on the team. Destructive behaviour shows up first in the output of everyone around the person, not in their own results."
+          },
+          {
+            "step": 4,
+            "title": "Act quickly either way",
+            "body": "Coach the demanding one on how they deliver it, and remove the political one early. Waiting costs you the people who had other options."
+          }
+        ],
+        "tags": [
+          "teams",
+          "hiring",
+          "management"
+        ]
+      }
+    ],
+    "actions": [
+      "Write a one-page story for your current product describing a real person's problem and what changes for them, then read it aloud to someone outside the company.",
+      "List everything genuinely novel in what you are building, keep the two the customer would care most about, and make conventional choices everywhere else.",
+      "Map every customer touchpoint from first advert through to a support call, then assign a named owner to the worst one.",
+      "Set a shipping cadence and protect the next date by cutting scope rather than moving it, then repeat until the rhythm is believed."
+    ],
+    "if_you_liked": [
+      "hooked",
+      "loonshots",
+      "shoe-dog"
+    ],
+    "not_for_you_if": "You want a gentle read or a lean-startup process. It is long, opinionated, shaped by an unusually well-resourced career, and assumes you want to make physical things well.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2022 by Harper Business. Fadell led iPod and iPhone development at Apple and founded Nest. Advice reflects unusually well-funded environments. Prose original."
+    }
+  }
+]

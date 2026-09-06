@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "Dogear",
+    "slug": "dogear",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "scheme": "dogear",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1C1B29"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "app.dogear.mobile"
+    },
+    "android": {
+      "package": "app.dogear.mobile",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1C1B29"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Dogear uses your photos so you can set a profile picture."
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "batch": "philosophy-1",
+  "category": "philosophy",
+  "books": [
+    {
+      "title": "Meditations",
+      "author": "Marcus Aurelius"
+    },
+    {
+      "title": "Letters from a Stoic",
+      "author": "Seneca"
+    },
+    {
+      "title": "Discourses and Selected Writings",
+      "author": "Epictetus"
+    },
+    {
+      "title": "The Republic",
+      "author": "Plato"
+    },
+    {
+      "title": "Nicomachean Ethics",
+      "author": "Aristotle"
+    },
+    {
+      "title": "Beyond Good and Evil",
+      "author": "Friedrich Nietzsche"
+    },
+    {
+      "title": "Thus Spoke Zarathustra",
+      "author": "Friedrich Nietzsche"
+    },
+    {
+      "title": "The Myth of Sisyphus",
+      "author": "Albert Camus"
+    },
+    {
+      "title": "Being and Time",
+      "author": "Martin Heidegger"
+    },
+    {
+      "title": "Critique of Pure Reason",
+      "author": "Immanuel Kant"
+    },
+    {
+      "title": "On Liberty",
+      "author": "John Stuart Mill"
+    },
+    {
+      "title": "Leviathan",
+      "author": "Thomas Hobbes"
+    }
+  ]
+}

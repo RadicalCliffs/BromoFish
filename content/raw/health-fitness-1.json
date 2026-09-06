@@ -1,0 +1,2537 @@
+[
+  {
+    "id": "why-we-sleep",
+    "title": "Why We Sleep",
+    "subtitle": "Unlocking the Power of Sleep and Dreams",
+    "author": "Matthew Walker",
+    "year": 2017,
+    "category": "health-fitness",
+    "subcategory": "sleep",
+    "tags": [
+      "sleep",
+      "recovery",
+      "circadian-rhythm",
+      "memory",
+      "energy"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 12,
+    "why_it_matters": "Sleep went from the thing you skipped to prove you were serious to something athletes, employers and doctors now track. This book did most of that cultural work, and it also became a case study in how hard a popular science writer can push the evidence.",
+    "crux": {
+      "headline": "Sleep is the work, not the pause",
+      "body": "You are not switched off at night. Memory is sorted and stored, hormones are released on a schedule that only deep sleep provides, and the immune system runs maintenance it cannot run while you are busy. Cutting the night short does not buy you hours, it defers the work those hours were going to do. Almost everything else you try to fix with supplements and routines is downstream of whether you sleep enough, at a consistent time."
+    },
+    "sparks": [
+      {
+        "id": "why-we-sleep-s01",
+        "hook": "Sleep is not the off switch. It is the shift where the repair actually happens.",
+        "insight": "Your body does things while you are unconscious that it cannot do while you are awake. Growth hormone is released in pulses during deep sleep. The immune system runs maintenance. The brain replays parts of the day and files what matters, discarding most of the rest. Waking life is spending; sleep is the accounting. Treat the night as time you can borrow against and you are not saving hours, you are deferring the maintenance those hours were going to do.",
+        "why": "Deep non-REM and REM carry distinct physiological signatures, and depriving people of either produces measurable deficits in memory, mood and glucose handling within days. The direction of that effect is not seriously disputed.",
+        "apply": "Pick a fixed wake time and hold it for two weeks, weekends included. Bedtime tends to drift toward where it needs to be on its own.",
+        "format": "single",
+        "tags": [
+          "sleep",
+          "recovery"
+        ]
+      },
+      {
+        "id": "why-we-sleep-s02",
+        "hook": "Two separate systems decide when you feel sleepy, and they can disagree.",
+        "insight": "Sleepiness is not one signal. A clock in your brain runs a roughly 24-hour cycle telling you when it is night, and a chemical called adenosine builds up the entire time you are awake, creating pressure to sleep. Usually the two line up. Jet lag, night shifts and a long lie-in pull them apart, which is why you can be exhausted and wide awake at the same time. Fixing sleep means fixing both, not just going to bed earlier.",
+        "why": "The two-process model is one of the oldest and best supported frameworks in sleep research. It correctly predicts why light exposure and hours spent awake have separate, additive effects on when you fall asleep.",
+        "apply": "Work out which one is broken. Lying awake after a full day points at the clock; nodding off mid-afternoon points at pressure. Treat the one you actually have.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Set the clock with light",
+            "body": "Morning daylight is the strongest signal your internal clock receives. Ten minutes outside soon after waking anchors the whole cycle more effectively than any evening routine."
+          },
+          {
+            "step": 2,
+            "title": "Build pressure by staying up",
+            "body": "Adenosine accumulates only while you are awake. Long naps and lie-ins spend that pressure early, so protect it if you want to fall asleep quickly at night."
+          },
+          {
+            "step": 3,
+            "title": "Stop blocking the signal",
+            "body": "Caffeine does not remove adenosine. It sits in the receptors so you cannot feel it. The pressure is still building and arrives all at once when the drug clears."
+          },
+          {
+            "step": 4,
+            "title": "Keep the wake time fixed",
+            "body": "A constant wake time holds both systems in phase. A variable bedtime is survivable; a variable wake time drags your clock around all week."
+          }
+        ],
+        "tags": [
+          "circadian-rhythm",
+          "sleep-pressure"
+        ]
+      },
+      {
+        "id": "why-we-sleep-s03",
+        "hook": "Your afternoon coffee is still in your bloodstream when you turn the light off.",
+        "insight": "Caffeine works by occupying the receptors that would otherwise report how tired you are. The tiredness does not go anywhere while it waits. Half-life in a typical adult runs around five to six hours, though genetics swing that enormously, so a cup at four in the afternoon can leave a real dose circulating near midnight. You may still fall asleep. What suffers is the depth of it, and you wake up wanting the thing that caused the problem.",
+        "why": "Half-life means half the dose remains after that window and a quarter after two. Laboratory studies show caffeine reduces deep sleep even in people who report falling asleep normally and sleeping fine.",
+        "apply": "Move your last caffeine to at least eight hours before bed for two weeks, then judge it by how you feel on waking rather than by how fast you fell asleep.",
+        "format": "single",
+        "tags": [
+          "caffeine",
+          "sleep-quality"
+        ]
+      },
+      {
+        "id": "why-we-sleep-s04",
+        "hook": "Cutting sleep from seven hours to five costs you far more than two hours.",
+        "insight": "Sleep stages are not spread evenly through the night. Deep non-REM dominates the early hours and REM gets progressively longer toward morning. So when you go to bed at your usual time and get up two hours early, you are not removing a representative slice of the night, you are removing most of your REM. That is the stage most involved in emotional processing and in connecting new learning to what you already know.",
+        "why": "The shifting ratio across the night is a basic, repeatedly measured feature of sleep architecture. It explains why short nights hit mood and creative recall harder than they hit simple alertness.",
+        "apply": "When a night has to be compressed, protect the morning end. Go to bed later rather than setting the alarm earlier if you are forced to choose.",
+        "format": "single",
+        "tags": [
+          "rem-sleep",
+          "sleep-architecture"
+        ]
+      },
+      {
+        "id": "why-we-sleep-s05",
+        "hook": "Alcohol is a sedative, and sedation is not sleep.",
+        "insight": "A drink shortens the time it takes to lose consciousness, which is exactly why it feels like it helps. What follows is a different night. Alcohol suppresses REM early on, fragments the second half with brief awakenings you mostly will not remember, and adds a diuretic effect on top. You wake unrefreshed and conclude you need a better mattress. The loop is easy to enter because the part that works is immediate and the part that does not is invisible.",
+        "why": "Sleep laboratory recordings consistently show REM suppression and second-half fragmentation after evening alcohol, at doses low enough that people wake up believing they slept perfectly well.",
+        "apply": "Run a two-week test with no alcohol within three hours of bed, and score your morning energy out of ten each day so you compare data rather than impressions.",
+        "format": "single",
+        "tags": [
+          "alcohol",
+          "sleep-quality"
+        ]
+      },
+      {
+        "id": "why-we-sleep-s06",
+        "hook": "Being a night owl is mostly inherited, not a character flaw.",
+        "insight": "People differ genetically in when their internal clock wants to run, and the spread across a population is wide. A late chronotype forced onto an early schedule is not lazy. They are living several hours out of phase with their own biology and paying for it in accumulated sleep loss from Monday to Friday. Most schools and offices are built around morning types. That is an institutional choice, not a fact about who has discipline.",
+        "why": "Chronotype tracks with identified clock gene variants and shifts predictably with age. The mismatch between biological and social timing is measurable and correlates with worse health outcomes.",
+        "apply": "Track when you naturally wake on free days for a fortnight. If it is more than ninety minutes later than your alarm, negotiate a later start before blaming your willpower.",
+        "format": "single",
+        "tags": [
+          "chronotype",
+          "schedules"
+        ]
+      },
+      {
+        "id": "why-we-sleep-s07",
+        "hook": "Sleep works on what you learn twice: once before and once after.",
+        "insight": "A rested brain takes in new material more readily, and the night after learning is when those traces get stabilised and linked to older knowledge. This is why working through the night is a poor trade even on its own terms. You damage the encoding on the way in and skip the consolidation that would have made it stick. Studying less material with a full night on either side beats studying more with neither.",
+        "why": "Experiments that reactivate specific memories during sleep show it actively strengthens traces rather than merely protecting them from interference. Next-day recall benefits are reliable in laboratory conditions.",
+        "apply": "Move your hardest study or practice session into the two hours before bed, then sleep normally instead of reviewing the material again in the morning rush.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Arrive rested",
+            "body": "A short night before studying reduces how much goes in at all. The encoding deficit happens before you open the book, so the night before is part of the study plan."
+          },
+          {
+            "step": 2,
+            "title": "Put the hard part last",
+            "body": "Schedule the material you most need to retain in the final session of the day, close to sleep, rather than burying it mid-afternoon between easier tasks."
+          },
+          {
+            "step": 3,
+            "title": "Sleep the whole night",
+            "body": "Consolidation is spread across stages that appear at different points, so a truncated night processes the material unevenly. Do not trade the back half for one more review."
+          },
+          {
+            "step": 4,
+            "title": "Test before you reread",
+            "body": "Recall the material from memory the next day before opening your notes. Retrieval shows you what actually consolidated and strengthens it further in the process."
+          }
+        ],
+        "tags": [
+          "memory",
+          "learning"
+        ]
+      },
+      {
+        "id": "why-we-sleep-s08",
+        "hook": "A tired driver is not a slower driver. For a second, they are an absent one.",
+        "insight": "Fatigue does not merely blunt reaction time, it produces microsleeps: lapses of a few seconds where the brain goes offline while the eyes stay open. At motorway speed a single lapse covers a long stretch of road with nobody steering. Alcohol slows your response; sleep loss removes it altogether for a moment. That is why tired driving is harder to compensate for than most people assume, and why feeling alert is not evidence that you are.",
+        "why": "Microsleeps show up on EEG during sustained attention tasks in sleep-deprived people, and they routinely go unnoticed by the person having them. Self-rated alertness is a poor guide to actual lapse rate.",
+        "apply": "Treat a night under five hours as a no-driving night. If you are already out and yawning, pull over for a twenty-minute nap rather than opening a window.",
+        "format": "single",
+        "tags": [
+          "safety",
+          "sleep-deprivation"
+        ]
+      },
+      {
+        "id": "why-we-sleep-s09",
+        "hook": "Short sleep quietly changes what your body asks you to eat.",
+        "insight": "Restrict people's sleep in a laboratory and appetite hormones shift, glucose handling worsens and they reach for more calories, particularly from carbohydrate-heavy snacks. The effect shows up within days. Where the evidence thins out is the leap from those short experiments to the claim that sleep loss is a major driver of population obesity, which rests largely on observational data and is tangled up with shift work, income and stress.",
+        "why": "The short-term laboratory effects replicate well. The long-term causal story is plausible but confounded, so hold the strong version of the claim loosely while acting on the weak version anyway.",
+        "apply": "Before overhauling your diet, spend three weeks getting an extra hour in bed and watch whether your evening snacking changes without any effort.",
+        "format": "single",
+        "tags": [
+          "appetite",
+          "metabolism"
+        ]
+      },
+      {
+        "id": "why-we-sleep-s10",
+        "hook": "The sleep book that changed the conversation also overstated its case.",
+        "insight": "Some of the strongest claims in popular sleep writing do not survive close reading. A detailed public critique of this book documented misreported figures and overstated causal language, and the author accepted corrections to parts of it. None of that overturns the core message that most adults are chronically underslept and that it matters a great deal. It does mean you should hold the alarming specifics loosely and the general direction firmly.",
+        "why": "Most sleep epidemiology is observational, and the association between sleep duration and mortality is U-shaped, so long sleep looks harmful too. That pattern usually signals reverse causation rather than a simple dose response.",
+        "apply": "When a health claim arrives with a dramatic number attached, check whether it came from a controlled experiment or a population correlation before you change anything.",
+        "format": "single",
+        "tags": [
+          "evidence",
+          "scepticism"
+        ]
+      }
+    ],
+    "actions": [
+      "Fix your wake time first and hold it constant for a month, weekends included, then let bedtime settle wherever your body puts it.",
+      "Get outside within an hour of waking every day for two weeks and note whether evening sleepiness starts arriving earlier.",
+      "Audit the three inputs that break most nights: caffeine timing, evening alcohol, and a bedroom that is too warm or too bright.",
+      "Read one of the published critiques of this book alongside it so you can separate the well-supported core from the oversold specifics."
+    ],
+    "if_you_liked": [
+      "outlive",
+      "breath",
+      "spark"
+    ],
+    "not_for_you_if": "You want a careful, hedged review of the sleep literature. The argument here is deliberately alarming, and several of its sharper claims have been publicly disputed.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2017. Widely read and widely criticised; the author has acknowledged corrections to some figures. All prose here is original."
+    }
+  },
+  {
+    "id": "outlive",
+    "title": "Outlive",
+    "subtitle": "The Science and Art of Longevity",
+    "author": "Peter Attia",
+    "year": 2023,
+    "category": "health-fitness",
+    "subcategory": "longevity",
+    "tags": [
+      "longevity",
+      "prevention",
+      "exercise",
+      "metabolic-health",
+      "ageing",
+      "heart-health"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 13,
+    "why_it_matters": "It moved the popular conversation about health from how long you will live to what you will be able to do in your last decade, and it gave ordinary readers the specific markers and training targets that discussion needs.",
+    "crux": {
+      "headline": "Train now for the decade you want at ninety",
+      "body": "Most medicine waits for a diagnosis, which arrives near the end of a process that has been running for decades. The alternative is to decide what you want your final ten years to look like, work out what physical capacity and what blood markers that requires, and start building the margin now. The four diseases that will most likely kill you share risk factors, so a small number of interventions do most of the work."
+    },
+    "sparks": [
+      {
+        "id": "outlive-s01",
+        "hook": "Adding years to your life is a different project from adding life to your years.",
+        "insight": "Most medicine aims at postponing death. That is not the same thing as extending the years in which you can carry your own shopping, follow a conversation and get off the floor unaided. The two curves come apart at the end, and the decline is usually long. Planning for the final decade means asking what you want to still be able to do at eighty-five, then noticing that the training for it has to start several decades earlier.",
+        "why": "Chronic disease develops over decades before it is diagnosed, so treating at the point of symptoms is intervening near the end of the process. Prevention has a long lead time by definition.",
+        "apply": "Write down five physical things you want to be able to do at eighty-five, and keep the list wherever you plan your training.",
+        "format": "single",
+        "tags": [
+          "healthspan",
+          "prevention"
+        ]
+      },
+      {
+        "id": "outlive-s02",
+        "hook": "Four diseases account for most of how you are likely to die.",
+        "insight": "Barring accidents, the overwhelming majority of deaths in wealthy countries come from four directions: atherosclerotic cardiovascular disease, cancer, neurodegenerative disease, and metabolic dysfunction ending in type 2 diabetes. They share risk factors and they take decades to build. Naming them narrows the problem usefully. Instead of chasing general wellness you can ask what specifically moves each of the four, and notice that exercise, metabolic health and blood lipids appear in more than one column.",
+        "why": "This is descriptive epidemiology rather than a theory, which is what makes it useful. The overlap in risk factors is why a small number of interventions do a disproportionate amount of the work.",
+        "apply": "Ask for the markers tied to each of the four rather than a general check-up: a full lipid panel including ApoB, a fasting insulin or glucose tolerance test, and blood pressure.",
+        "format": "single",
+        "tags": [
+          "chronic-disease",
+          "risk"
+        ]
+      },
+      {
+        "id": "outlive-s03",
+        "hook": "Train for the life you want at ninety, not the workout you want today.",
+        "insight": "Pick the specific physical tasks you want to still be doing in your last decade: lifting a case into an overhead locker, getting off the floor without using your hands, walking uphill with a grandchild, opening a stiff jar. Then work backwards. Because capacity declines with age, whatever you want at ninety you need a substantial margin above today. That turns a vague intention to stay healthy into a training specification you can test yourself against every year.",
+        "why": "Strength and aerobic capacity decline at a fairly predictable rate after midlife, so a target set in the final decade implies a much higher target now. Backwards planning makes the required margin visible.",
+        "apply": "List ten physical tasks you want available at ninety, then test yourself on each one this month and write down the result as a baseline.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Write the list",
+            "body": "Name ten to twenty physical tasks you want available in your last decade. Be specific about weight, distance and time, not just active or independent."
+          },
+          {
+            "step": 2,
+            "title": "Add the decline margin",
+            "body": "Strength and aerobic capacity fall across the decades. Whatever a task needs at ninety, you need a comfortable multiple of it now, not a matching level."
+          },
+          {
+            "step": 3,
+            "title": "Turn tasks into training",
+            "body": "Each task maps to a trainable quality. Carrying maps to grip and loaded walking, floor transfers map to hip strength and balance, hills map to aerobic base."
+          },
+          {
+            "step": 4,
+            "title": "Retest every year",
+            "body": "Measure the same tasks annually. Targets that never get tested quietly drift, and the retest tells you which quality is falling away first."
+          }
+        ],
+        "tags": [
+          "training",
+          "healthspan"
+        ]
+      },
+      {
+        "id": "outlive-s04",
+        "hook": "Aerobic fitness is one of the strongest predictors of dying early.",
+        "insight": "Across large observational studies, low cardiorespiratory fitness sits alongside smoking as a marker for early death, and the biggest single step on the curve is between the least fit group and the one just above it. You do not need to be an athlete for this. Moving from unfit to moderately fit is where most of the available benefit lives. The caveat matters though: these are associations, and fitness partly reflects illness you may already be carrying.",
+        "why": "Fitness is measured rather than self-reported, which makes it a cleaner variable than most in epidemiology. Even so, reverse causation is real, since early disease lowers fitness long before it is diagnosed.",
+        "apply": "Get a rough aerobic capacity estimate from a supervised test or a wearable, then retest in six months after adding two aerobic sessions a week.",
+        "format": "single",
+        "tags": [
+          "cardio",
+          "vo2-max"
+        ]
+      },
+      {
+        "id": "outlive-s05",
+        "hook": "The fall that ends someone's independence is usually years in the making.",
+        "insight": "Muscle mass and strength fall away slowly from midlife, and the loss stays invisible until a task exposes it. Grip strength and leg strength both track with survival and with the ability to keep living independently. Stability is the neglected third piece: the ability to control a joint through a range under load, which is what stops an awkward step from becoming a fracture. None of it is trained by walking alone.",
+        "why": "Muscle loss progresses for decades before anyone notices, and resistance training reverses part of it at any age. Grip strength is a crude but consistently predictive proxy in large cohort studies.",
+        "apply": "Add two resistance sessions a week containing a loaded carry, a hip hinge and a single-leg movement, and hold the carry until your grip actually fails.",
+        "format": "single",
+        "tags": [
+          "strength",
+          "stability"
+        ]
+      },
+      {
+        "id": "outlive-s06",
+        "hook": "Your arteries keep a running total, and it starts in your twenties.",
+        "insight": "Atherosclerosis is not an event in your sixties. It is a process that begins decades earlier and accumulates roughly in proportion to how much cholesterol-carrying particle you have circulating and for how long. That reframes prevention entirely. The question is not whether your number crosses a threshold today, it is what your total exposure will be by the time it matters, which is why acting early is worth far more than acting hard later.",
+        "why": "Particle count, measured as ApoB, predicts cardiovascular risk better than standard LDL cholesterol, and genetic studies of people with lifelong low levels support a cumulative exposure model rather than a threshold.",
+        "apply": "Ask for an ApoB measurement rather than a standard lipid panel alone, and record it with the date so you can watch the trend across years rather than visits.",
+        "format": "single",
+        "tags": [
+          "heart-health",
+          "cholesterol"
+        ]
+      },
+      {
+        "id": "outlive-s07",
+        "hook": "Most of your training should be easy enough to hold a conversation.",
+        "insight": "A large base of low-intensity aerobic work builds the machinery that handles fuel efficiently, and it is the part most people skip because it feels unproductive. The intensity is set by your breathing: hard enough to be working, easy enough to speak in full sentences. On top of that base sits a small amount of genuinely hard interval work to raise the ceiling. Doing everything at a moderate middle intensity collects the drawbacks of both ends.",
+        "why": "Polarised training distributions are common among endurance athletes and hold up reasonably well in trials. The rationale is that low and high intensities drive genuinely different adaptations.",
+        "apply": "Convert three weekly sessions to a pace where you can talk in full sentences, and keep exactly one session that is genuinely, uncomfortably hard.",
+        "format": "single",
+        "tags": [
+          "cardio",
+          "training"
+        ]
+      },
+      {
+        "id": "outlive-s08",
+        "hook": "There are only three things any diet can actually do to you.",
+        "insight": "Strip the branding off any eating plan and it is doing one or more of three things: reducing how much you eat, removing a category of food, or narrowing the window in which you eat. That is the entire toolkit. Which combination suits you is an individual question about adherence, muscle mass and blood markers, not a moral one. It also explains why two plans that look like opposites so often produce almost identical results.",
+        "why": "Controlled feeding trials repeatedly find similar outcomes between diets once calories and protein are matched, which points at adherence rather than macronutrient magic as the deciding factor.",
+        "apply": "Name which of the three levers your current eating pattern actually uses. If it uses none of them deliberately, pick one and run it for eight weeks.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Restrict calories",
+            "body": "Eat less overall while keeping food types unchanged. Simple, effective and hard to sustain, because hunger scales with the deficit and nothing else about the day changes."
+          },
+          {
+            "step": 2,
+            "title": "Restrict a category",
+            "body": "Remove something: added sugar, alcohol, refined flour, meat. It works by cutting calories indirectly and removing decisions, not because the category is uniquely fattening."
+          },
+          {
+            "step": 3,
+            "title": "Restrict time",
+            "body": "Shorten the window in which you eat. It lowers intake for many people, but watch your protein and muscle: a very short window makes both harder to protect."
+          },
+          {
+            "step": 4,
+            "title": "Check what it costs",
+            "body": "Whichever you pick, track strength, energy and lean mass alongside weight. A method that strips muscle is buying a worse outcome with a better-looking number."
+          }
+        ],
+        "tags": [
+          "nutrition",
+          "diet"
+        ]
+      },
+      {
+        "id": "outlive-s09",
+        "hook": "Testing early is not free, and neither is waiting to find out.",
+        "insight": "Aggressive early screening finds problems sooner, and finding a cancer early usually helps. It also produces false alarms, incidental findings, biopsies and months of anxiety, and it can detect things that would never have harmed you. The position argued here is to accept more of those costs in exchange for earlier detection. That is defensible, but it is not settled: guideline bodies read the same evidence and land considerably more conservatively.",
+        "why": "Overdiagnosis is a documented harm of screening programmes, and reasonable experts disagree about where the balance sits. This is a values question wearing the clothes of a technical one.",
+        "apply": "Before agreeing to any screening test, ask what happens if the result is ambiguous, and decide in advance whether you would act on that answer.",
+        "format": "single",
+        "tags": [
+          "screening",
+          "medicine"
+        ]
+      },
+      {
+        "id": "outlive-s10",
+        "hook": "You can get every biomarker right and still have a life you dislike.",
+        "insight": "The chapter most readers skim is the one about anger, isolation and the way driven people postpone their relationships until a milestone that keeps moving. Longevity work attracts people who enjoy optimising, and optimising is a comfortable place to hide from harder questions. If the last decade is the goal, then who you will spend it with, and whether they will still want to spend it with you, belongs in the plan next to grip strength.",
+        "why": "Social connection is among the more robust predictors of health outcomes in long-running cohort studies, and unlike most markers it responds to deliberate effort rather than to measurement.",
+        "apply": "Put one recurring commitment with a person into your calendar this week, and defend it as strictly as you would defend a training session.",
+        "format": "single",
+        "tags": [
+          "relationships",
+          "emotional-health"
+        ]
+      }
+    ],
+    "actions": [
+      "Book a blood panel that includes ApoB and a marker of insulin resistance, and file the results somewhere you can compare them in five years.",
+      "Write your own list of physical tasks for your final decade, test yourself against each one, and set a date to retest in twelve months.",
+      "Restructure your training week so most aerobic work is conversational, one session is genuinely hard, and two are resistance sessions.",
+      "Pick one relationship you have been postponing and schedule a standing commitment with that person before you optimise anything else."
+    ],
+    "if_you_liked": [
+      "why-we-sleep",
+      "exercised",
+      "good-energy"
+    ],
+    "not_for_you_if": "You want simple rules rather than a framework, or you are put off by an approach built around expensive testing that most health systems will not fund.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2023, written with Bill Gifford. The screening and supplement positions are more aggressive than mainstream guidelines and are flagged as contested above."
+    }
+  },
+  {
+    "id": "breath",
+    "title": "Breath",
+    "subtitle": "The New Science of a Lost Art",
+    "author": "James Nestor",
+    "year": 2020,
+    "category": "health-fitness",
+    "subcategory": "breathing",
+    "tags": [
+      "breathing",
+      "nasal-breathing",
+      "stress",
+      "sleep",
+      "anxiety"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 10,
+    "why_it_matters": "It took a subject that sat between yoga studios and respiratory clinics and made it a mainstream health topic. The physiology it gets right is genuinely useful; the parts it oversells are a good lesson in reading health writing.",
+    "crux": {
+      "headline": "How you breathe changes how you feel",
+      "body": "Breathing is the one automatic system that also accepts instructions, and because it is wired into the same circuitry as heart rate and blood pressure, changing it changes your state. Two things carry most of the benefit: breathe through your nose rather than your mouth, and breathe more slowly than feels natural, with the exhale longer than the inhale. Almost everything else in this field is a variation on those two, or is still speculation."
+    },
+    "sparks": [
+      {
+        "id": "breath-s01",
+        "hook": "Your nose does about thirty jobs. Your mouth does one of them, badly.",
+        "insight": "Air taken in through the nose is filtered, warmed, humidified and slowed, and it picks up nitric oxide produced in the sinuses, which helps open blood vessels in the lungs. Mouth breathing skips all of that. Do it habitually, especially at night, and you get a dry throat, more disturbed sleep and a mouth that stays open because it has learned to. The nose is the default the whole system was designed around.",
+        "why": "Nasal nitric oxide production and the conditioning of incoming air are well-established physiology. Claims about long-term structural consequences are weaker and rest mostly on observational and orthodontic work.",
+        "apply": "Spend one week breathing through your nose during easy exercise, slowing your pace as much as it takes to keep your mouth closed throughout.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Start at rest",
+            "body": "Spend a few days noticing whether your mouth hangs open while you read, drive or work. Closing it is most of the change and costs nothing."
+          },
+          {
+            "step": 2,
+            "title": "Clear the passage first",
+            "body": "If your nose is genuinely blocked, fix that before anything else. Chronic congestion, allergy and structural problems need treating rather than pushing through."
+          },
+          {
+            "step": 3,
+            "title": "Take it to easy exercise",
+            "body": "Walk or jog slowly enough that your mouth stays shut. Your pace will drop noticeably at first and recover over a few weeks of practice."
+          },
+          {
+            "step": 4,
+            "title": "Leave the night until last",
+            "body": "Night breathing is the hardest to control and the easiest to get wrong. Get an airway assessment before trying to force anything while you sleep."
+          }
+        ],
+        "tags": [
+          "nasal-breathing",
+          "physiology"
+        ]
+      },
+      {
+        "id": "breath-s02",
+        "hook": "The book's central experiment had two participants, and both wrote it.",
+        "insight": "The most memorable evidence here is a self-experiment: two people blocked their noses for ten days, measured themselves throughout, and reported that blood pressure, sleep quality and snoring all worsened, then reversed when they went back to nasal breathing. It is vivid and it is consistent with known physiology. It is also a sample of two, unblinded, run by the people making the argument. That makes it a good illustration and poor proof.",
+        "why": "Self-experiments cannot separate an effect from expectation, and two people cannot tell you how a result varies across a population. Treat it as a hypothesis worth testing on yourself, not a finding.",
+        "apply": "Run your own version honestly. Pick one thing you can measure, change one variable for two weeks, and write your prediction down before you start.",
+        "format": "single",
+        "tags": [
+          "evidence",
+          "self-experiment"
+        ]
+      },
+      {
+        "id": "breath-s03",
+        "hook": "Around six breaths a minute is where your heart and lungs synchronise.",
+        "insight": "Breathe slowly and evenly at roughly five to six breaths per minute and heart rate variability rises, blood pressure tends to drop slightly, and most people feel calmer within a few minutes. The rate is not mystical. It sits close to the frequency at which the reflex controlling your blood pressure naturally oscillates, so breathing at that pace amplifies it. This is the best-evidenced idea in the entire subject.",
+        "why": "Slow-paced breathing has been tested in controlled trials for blood pressure, anxiety and heart rate variability, and the short-term effects are consistent even where the long-term ones look modest.",
+        "apply": "Set a timer for five minutes and breathe in for about five seconds and out for about five, through your nose, once a day at a fixed time.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Sit up and close your mouth",
+            "body": "Sit upright with your mouth closed and your tongue resting on the roof of your mouth. Everything that follows happens through the nose only."
+          },
+          {
+            "step": 2,
+            "title": "Slow the count",
+            "body": "Breathe in for roughly five seconds and out for roughly five. Adjust until it feels unforced. Straining for a longer count defeats the whole purpose."
+          },
+          {
+            "step": 3,
+            "title": "Let the movement be low",
+            "body": "The movement should be quiet and low, with the ribs widening sideways. A heaving chest and audible air mean you are pulling harder than you need to."
+          },
+          {
+            "step": 4,
+            "title": "Stay for five minutes",
+            "body": "The shift in heart rate variability takes a few minutes to appear. Five minutes daily does far more than one long session once a week."
+          }
+        ],
+        "tags": [
+          "slow-breathing",
+          "stress"
+        ]
+      },
+      {
+        "id": "breath-s04",
+        "hook": "A long exhale is the closest thing you have to a manual brake.",
+        "insight": "Your heart rate rises slightly on the in-breath and falls on the out-breath. Lengthening the exhale relative to the inhale leans on that asymmetry and shifts you toward the calming branch of the nervous system. It is a small effect per breath and a noticeable one after a minute or two. Unlike most calming advice it works during the situation rather than afterwards, and nobody in the room can tell you are doing it.",
+        "why": "The rise and fall of heart rate with the breath is basic physiology, and extended-exhale breathing reliably raises vagal indices in short laboratory studies. It changes your state, it does not cure anxiety.",
+        "apply": "Take six breaths with a four-second inhale and an eight-second exhale immediately before anything that makes you nervous.",
+        "format": "single",
+        "tags": [
+          "anxiety",
+          "slow-breathing"
+        ]
+      },
+      {
+        "id": "breath-s05",
+        "hook": "The urge to breathe is not your body asking for oxygen.",
+        "insight": "What triggers the desperate need to inhale is rising carbon dioxide, not falling oxygen. Your blood stays well saturated far longer than the panic suggests. This is why people who train breath-holding are mostly training tolerance to discomfort rather than storage capacity, and why anxious over-breathing makes things worse: blowing off carbon dioxide changes your blood chemistry and produces the tingling and light-headedness that feel like proof something is badly wrong.",
+        "why": "Carbon dioxide sensing driving air hunger is standard respiratory physiology, and the symptoms of hyperventilation can be reproduced deliberately in a clinic and resolved by slowing the breath.",
+        "apply": "Slow down instead of gulping air the next time stress leaves you breathless, and make the out-breath longer than the in-breath for a full minute.",
+        "format": "single",
+        "tags": [
+          "carbon-dioxide",
+          "panic"
+        ]
+      },
+      {
+        "id": "breath-s06",
+        "hook": "Most people breathe more air than they actually need, all day long.",
+        "insight": "Light chronic over-breathing is common and invisible: slightly fast, slightly deep, through the mouth, especially under stress. Because it feels like getting more oxygen it never registers as a problem. Correcting it is uncomfortable at first, since breathing less means tolerating a little more carbon dioxide, and that feels like air hunger even while your oxygen saturation is completely fine. The discomfort usually fades within a couple of weeks of practice.",
+        "why": "Reduced-breathing methods have a plausible mechanism and small trials in asthma showing fewer symptoms and less reliever medication, though measured lung function itself changes little.",
+        "apply": "Practise five minutes where the goal is to make each nasal breath so small and quiet that a mirror held under your nose would barely fog.",
+        "format": "single",
+        "tags": [
+          "over-breathing",
+          "practice"
+        ]
+      },
+      {
+        "id": "breath-s07",
+        "hook": "Mouth taping went viral on far less evidence than you would guess.",
+        "insight": "The idea is simple: hold your mouth closed at night so you breathe through your nose. Plenty of people report less snoring and a less parched throat. The published evidence is thin, limited to small studies, and it does not show that taping treats sleep apnoea. If your nose is blocked, or if you have undiagnosed apnoea, taping your mouth shut is an actively bad idea rather than a neutral one. Get the airway looked at first.",
+        "why": "Small trials suggest a modest snoring reduction in mild cases. Sleep physicians warn against using taping as a substitute for diagnosis, because obstructive apnoea needs proper assessment and treatment.",
+        "apply": "Get a sleep assessment before experimenting with your airway at night, especially if you snore heavily or wake up unrefreshed most mornings.",
+        "format": "single",
+        "tags": [
+          "sleep",
+          "evidence"
+        ]
+      },
+      {
+        "id": "breath-s08",
+        "hook": "Softer food may have given modern humans smaller jaws and worse airways.",
+        "insight": "The argument runs that industrial food requires far less chewing than anything humans ate before it, that jaws develop partly in response to mechanical load, and that crowded teeth and narrow airways are the downstream result. It is genuinely interesting, and it fits the pattern of straighter, less crowded teeth in older skulls. It also runs well ahead of the evidence, and the proposed fixes range from mainstream orthodontics to devices with no support at all.",
+        "why": "Bone does respond to mechanical loading, and skeletal comparisons are suggestive. But diet is confounded with everything else about industrial life, and no trial shows that chewing more prevents airway problems.",
+        "apply": "Treat this as a hypothesis rather than a treatment plan. If you suspect an airway or jaw problem, see a specialist instead of buying a chewing device.",
+        "format": "single",
+        "tags": [
+          "jaw",
+          "speculation"
+        ]
+      },
+      {
+        "id": "breath-s09",
+        "hook": "Breathing is the only automatic system you can also drive by hand.",
+        "insight": "Heart rate, digestion and blood pressure run without you and largely refuse instructions. Breathing runs without you but accepts them, and because it is wired into the same autonomic circuitry, changing the breath changes the rest. That is why breath practices appear independently across so many unrelated traditions. It is a real lever, and its limits are just as real: it changes your state for minutes at a time and it is not a treatment for disease.",
+        "why": "Voluntary control of respiration influences heart rate and blood pressure through established reflex pathways. The effects are reliable in the moment and modest when measured over months.",
+        "apply": "Attach two minutes of slow nasal breathing to one recurring stressful moment in your day, at the same point every time, for three weeks.",
+        "format": "single",
+        "tags": [
+          "autonomic",
+          "habit"
+        ]
+      },
+      {
+        "id": "breath-s10",
+        "hook": "Breathing through your nose while training feels worse and may pay off later.",
+        "insight": "Switching to nasal-only breathing at easy intensity forces you to slow down, because the nose restricts airflow. Over a few weeks most people find that the same pace becomes possible with the mouth closed. Whether that improves performance is unsettled, since the studies are small and mixed. What it reliably does is give you an honest brake on easy days, and easy days are exactly what most amateur athletes ruin by running them too hard.",
+        "why": "Direct performance benefits are weakly supported at best. The indirect benefit, keeping easy sessions genuinely easy, is well supported by endurance training research in general.",
+        "apply": "Do your next three easy runs or rides with your mouth closed the whole way, and accept whatever slower pace that requires.",
+        "format": "single",
+        "tags": [
+          "endurance",
+          "training"
+        ]
+      }
+    ],
+    "actions": [
+      "Spend a week simply noticing when your mouth is open, and close it during every activity where you are not out of breath.",
+      "Practise five minutes of slow nasal breathing daily at a fixed time, in for about five seconds and out for about five.",
+      "Learn the extended-exhale pattern well enough to use it silently in a meeting, then actually use it the next time you are anxious.",
+      "Get a professional airway or sleep assessment before adopting any night-time breathing intervention you read about online."
+    ],
+    "if_you_liked": [
+      "why-we-sleep",
+      "exercised",
+      "spark"
+    ],
+    "not_for_you_if": "You want careful science writing with proportionate claims. The reporting is enthusiastic, the sourcing is uneven, and the historical sections outrun the evidence.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2020. Several central claims, including the craniofacial thesis and mouth taping, are speculative or thinly evidenced and are flagged as such above."
+    }
+  },
+  {
+    "id": "bigger-leaner-stronger",
+    "title": "Bigger Leaner Stronger",
+    "subtitle": "The Simple Science of Building the Ultimate Male Body",
+    "author": "Michael Matthews",
+    "year": 2012,
+    "category": "health-fitness",
+    "subcategory": "strength-training",
+    "tags": [
+      "strength-training",
+      "muscle-building",
+      "fat-loss",
+      "nutrition",
+      "gym",
+      "protein"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 10,
+    "why_it_matters": "It compressed the muscle-building internet into one plan a beginner can actually run: a handful of heavy compound lifts, a protein target, a calorie phase, and years of showing up. Millions of first gym programs came out of it.",
+    "crux": {
+      "headline": "Lift heavy on a few lifts, then eat for one goal",
+      "body": "Nothing in training is as powerful as getting stronger on a small set of compound movements over years. Nothing in nutrition is as powerful as choosing a single direction, surplus or deficit, and holding it for months while eating enough protein. Almost everything else that occupies gym conversation, the split, the machines, the supplements, the timing, is a rounding error placed on top of those two decisions."
+    },
+    "sparks": [
+      {
+        "id": "bigger-leaner-stronger-s01",
+        "hook": "The first two years in a gym are the cheapest muscle you will ever buy.",
+        "insight": "An untrained body responds to almost any sensible stimulus. Lift three or four times a week, add weight when you can, eat enough protein, and you will change more in eighteen months than in the decade that follows. That is not a reason to rush. It is a reason not to spend the window on programs you abandon after six weeks. People who look like they were born strong have usually just done one unremarkable thing for a very long time.",
+        "why": "Adaptation runs fastest when you are furthest from your ceiling. As you approach your limit the same effort buys steadily less, which is why advanced training gets complicated and beginner training does not.",
+        "apply": "Pick one program you can attend for six months and refuse to change it. Judge it on whether the weight on the bar moved, not on how the sessions felt.",
+        "format": "single",
+        "tags": [
+          "beginners",
+          "consistency"
+        ]
+      },
+      {
+        "id": "bigger-leaner-stronger-s02",
+        "hook": "Adding weight to the bar is the program. Everything else is decoration.",
+        "insight": "Muscle grows because it is asked to do something it could not do before. So the only thing your training log has to prove is that the load, the reps or the sets went up over time. Heavy sets in the region of four to six reps make that easy to see, because one extra rep is obvious and hard to argue with. New machines, clever splits and exotic techniques do not substitute for the plain arithmetic of more.",
+        "why": "Progressive overload is one of the few training principles with wide agreement behind it. The exact rep range matters far less than lifters think, as long as sets are taken close to failure.",
+        "apply": "Log every working set this week with weight and reps. Next session, beat exactly one number on one lift, then stop and go home.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Pick a rep window",
+            "body": "Choose a range, say four to six, and stay in it. The window is a rule for when you are allowed to add weight, not a magic zone where growth happens."
+          },
+          {
+            "step": 2,
+            "title": "Earn the top of it",
+            "body": "Hit the top of the range on every working set at the same load before you touch a heavier plate. Most people jump early, then stall for months and blame the program."
+          },
+          {
+            "step": 3,
+            "title": "Take the smallest jump",
+            "body": "Go up by the least your equipment allows. Small increments keep progress running for years. Big jumps end it in weeks and dent your confidence on the way."
+          },
+          {
+            "step": 4,
+            "title": "Reset rather than grind",
+            "body": "Stall twice at the same load and drop back about ten percent, then climb again. A stall is information about recovery, not a verdict on you."
+          }
+        ],
+        "tags": [
+          "progressive-overload",
+          "training"
+        ]
+      },
+      {
+        "id": "bigger-leaner-stronger-s03",
+        "hook": "After your first year you can add muscle or lose fat. Pick one.",
+        "insight": "Building tissue needs a small surplus of energy. Removing fat needs a deficit. A true beginner, or someone coming back after a long layoff, can briefly do both at once. Everyone else is choosing. Splitting the difference produces a year of eating carefully, training hard and looking identical in the mirror. Decide which problem is bigger, commit to a phase measured in months, then switch to the other one.",
+        "why": "The overlap window is real but narrow and closes as training age rises. Recomposition shows up mostly in untrained, overweight or previously trained people regaining muscle they already had.",
+        "apply": "Decide today whether the next twelve weeks are a surplus or a deficit. Write the end date on the calendar and stop renegotiating in between.",
+        "format": "single",
+        "tags": [
+          "fat-loss",
+          "muscle-building"
+        ]
+      },
+      {
+        "id": "bigger-leaner-stronger-s04",
+        "hook": "Calories decide the size of you. Protein decides what you keep.",
+        "insight": "In a deficit your body takes material from wherever it likes, including muscle. Enough protein plus hard resistance training tips that choice toward spending fat and keeping the muscle. Around a gram per pound of body weight is a generous target that is easy to remember, and eating somewhat less is not a catastrophe. The calorie number sets the direction of travel. Protein and lifting decide what the change is made of.",
+        "why": "Meta-analyses place the point of diminishing returns lower, nearer seven or eight tenths of a gram per pound. Higher targets are insurance rather than necessity, and harmless if the rest of the diet still fits.",
+        "apply": "Weigh yourself each morning for a week and take the average. Then set one protein target in grams and hit it four days in five before changing anything else.",
+        "format": "single",
+        "tags": [
+          "protein",
+          "nutrition"
+        ]
+      },
+      {
+        "id": "bigger-leaner-stronger-s05",
+        "hook": "Most of the supplement shop is priced for hope, not for evidence.",
+        "insight": "The short list that survives scrutiny is dull: creatine monohydrate, caffeine before hard sessions, protein powder treated as convenient food rather than medicine, and vitamin D if you are actually deficient. Nearly everything else, including fat burners, testosterone boosters and elaborate pre-workout blends, rests on tiny effects, weak studies, or research funded by the company selling the tub. This is the easiest money in fitness to stop spending.",
+        "why": "Creatine and caffeine are among the most replicated performance aids there are. Note the conflict of interest here too: the author founded a supplement company, so read his recommendations with that in view.",
+        "apply": "Cancel every supplement subscription except creatine monohydrate and protein powder for one month, and watch nothing get worse.",
+        "format": "single",
+        "tags": [
+          "supplements",
+          "evidence"
+        ]
+      },
+      {
+        "id": "bigger-leaner-stronger-s06",
+        "hook": "You cannot outrun a kitchen. Cardio is a fine tool and a poor eraser.",
+        "insight": "An hour of running costs a few hundred calories, roughly one generous snack, and it tends to leave you hungrier and more tired for lifting. That does not make it useless. It makes it the wrong lead instrument for fat loss. Use a modest amount for your heart and to widen your food budget a little, keep it easy or short so it does not eat into recovery, and let the deficit come from what you eat.",
+        "why": "Energy compensation is well documented. When exercise volume rises, people tend to eat more and move less the rest of the day, which blunts the scale effect even while fitness genuinely improves.",
+        "apply": "Cap steady cardio at two or three easy sessions a week while cutting, and make every fat-loss decision at the table instead of on the treadmill.",
+        "format": "single",
+        "tags": [
+          "cardio",
+          "fat-loss"
+        ]
+      },
+      {
+        "id": "bigger-leaner-stronger-s07",
+        "hook": "Five movements do most of the work. The other forty are seasoning.",
+        "insight": "Squats, deadlifts, bench presses, overhead presses and rows load the most muscle per unit of your attention, and they scale: you can keep adding weight to them for years. Isolation work is not banned, it just belongs at the end, in small amounts, for the parts that genuinely lag. The person doing three heavy compound sets while you run through nine cable variations is usually progressing faster and leaving earlier.",
+        "why": "Compound lifts recruit more total muscle per session and allow heavier absolute loading. Isolation work adds useful volume for specific muscles but cannot replace the base underneath it.",
+        "apply": "Rebuild your week so every session opens with one heavy compound lift and finishes with no more than two accessory movements.",
+        "format": "single",
+        "tags": [
+          "compound-lifts",
+          "programming"
+        ]
+      },
+      {
+        "id": "bigger-leaner-stronger-s08",
+        "hook": "The set that grows you is the one you actually recover from.",
+        "insight": "Training is the request. Food and sleep are the answer. Short sleep lowers the weight you can move, raises how hard everything feels, and makes appetite much harder to manage during a deficit. Adding sessions while cutting sleep is a way of working harder for a smaller result. When life compresses, cut volume before you cut recovery: three sessions you have recovered from beat five you crawl through.",
+        "why": "Sleep restriction reliably degrades strength performance and appetite control in controlled studies, though how large the effect is varies a lot from person to person.",
+        "apply": "Fix a lights-out time for two weeks. When the week gets full, drop a training session rather than an hour of sleep, and note what happens to your lifts.",
+        "format": "single",
+        "tags": [
+          "recovery",
+          "sleep"
+        ]
+      },
+      {
+        "id": "bigger-leaner-stronger-s09",
+        "hook": "Your mirror has an opinion. Your tape measure has a fact.",
+        "insight": "Body change is slow enough that day-to-day perception is useless and mood-dependent. Salt, water, sleep and stress move the scale by pounds overnight while fat moves by ounces over a week. The fix is boring: measure often, average away the noise, and judge only trends across weeks. It also stops you abandoning a plan that is working during a week when it does not look like it is working.",
+        "why": "Daily bodyweight swings from fluid and gut contents routinely exceed a whole week of real fat change, so any single reading carries almost no signal about progress.",
+        "apply": "Weigh in every morning under the same conditions, look only at the weekly average, and add one waist measurement every Sunday.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Weigh daily, read weekly",
+            "body": "Step on the scale every morning after the bathroom and before eating. Ignore each number. The only figure that means anything is this week's average against last week's."
+          },
+          {
+            "step": 2,
+            "title": "Add a tape measure",
+            "body": "Measure your waist at the navel once a week. When the scale stalls but the tape moves, you are still winning and would otherwise have quit."
+          },
+          {
+            "step": 3,
+            "title": "Log the lifts as well",
+            "body": "Body measurements are slow and noisy. Your working weights respond faster, so a rising log during a cut is good evidence the plan is set correctly."
+          },
+          {
+            "step": 4,
+            "title": "Change one thing at a time",
+            "body": "If two weeks of averages go the wrong way, adjust a single variable, usually food, and wait another two weeks before touching anything else."
+          }
+        ],
+        "tags": [
+          "tracking",
+          "measurement"
+        ]
+      },
+      {
+        "id": "bigger-leaner-stronger-s10",
+        "hook": "Nothing works if you keep switching to something else that works.",
+        "insight": "Every well-built program needs months of steady attendance before it can be judged, and most of them work when run that way. Switching after four weeks because progress felt slow guarantees you spend your whole training life in the least productive stretch of every plan you touch. Boredom is not evidence of failure. Choose something reasonable, accept that it will be repetitive, and let the log tell you when to change it.",
+        "why": "Adaptation lags the stimulus by weeks, so a short trial only samples the noisy part of the curve. Across studies, consistency over months explains far more of the result than program design does.",
+        "apply": "Commit to your current program in writing for twelve weeks. Allow only the changes your training log asks for, never the ones your mood asks for.",
+        "format": "single",
+        "tags": [
+          "consistency",
+          "programming"
+        ]
+      }
+    ],
+    "actions": [
+      "Write a four-day weekly schedule built around five compound lifts, at fixed times, and put it in your calendar as recurring appointments you do not move.",
+      "Spend one week weighing and logging everything you eat without changing anything, so you know your real starting point before you set any target.",
+      "Choose one phase, surplus or deficit, set a protein target in grams, and write the end date twelve weeks out on the calendar.",
+      "Cancel every supplement except creatine monohydrate and protein powder, and put the money into better food for a month."
+    ],
+    "if_you_liked": [
+      "starting-strength",
+      "outlive",
+      "exercised"
+    ],
+    "not_for_you_if": "You want physiology, nuance or a program written for anyone other than a healthy young man. The tone is confident salesmanship and it funnels toward the author's own supplement line.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Self-published 2012 with several later revised editions; a companion volume for women exists. All prose original. Protein and rep-range guidance summarised here is deliberately flagged as more generous than current meta-analyses require."
+    }
+  },
+  {
+    "id": "starting-strength",
+    "title": "Starting Strength",
+    "subtitle": "Basic Barbell Training",
+    "author": "Mark Rippetoe",
+    "year": 2005,
+    "category": "health-fitness",
+    "subcategory": "strength-training",
+    "tags": [
+      "strength-training",
+      "barbell",
+      "squat",
+      "deadlift",
+      "technique",
+      "beginners"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It made barbell coaching legible. Five lifts, described in mechanical terms, with cues a beginner and a coach can both check against the same standard. Most modern beginner strength programs are, one way or another, arguing with this one.",
+    "crux": {
+      "headline": "Get strong first, and the rest gets easier",
+      "body": "Strength is the base physical quality, and beginners do not need variety, machines or clever periodisation to build it. They need a handful of full-body barbell movements, performed the same way every time, loaded slightly heavier each session for as long as that keeps working. The barbell earns its place because it can be loaded in tiny increments for years, so progress stays measurable. The window where you can add weight almost every workout closes fast and never reopens."
+    },
+    "sparks": [
+      {
+        "id": "starting-strength-s01",
+        "hook": "For a few months you can add weight every session. Then never again.",
+        "insight": "A genuine novice can recover from a hard full-body session in about forty-eight hours, which means the next session can be heavier. That produces a straight upward line for a few months, and it is the single most valuable period in a lifting life. Waste it on machine circuits or on a program designed for advanced lifters and you never get it back. You do not need complexity yet. You need attendance and slightly more weight.",
+        "why": "The novice effect is uncontroversial: untrained people adapt faster than they fatigue. Once that gap closes, progress has to be organised across weeks and months rather than session to session.",
+        "apply": "If you have trained for less than six months, add the smallest available increment to each lift every session until you genuinely cannot, before considering any other plan.",
+        "format": "single",
+        "tags": [
+          "linear-progression",
+          "beginners"
+        ]
+      },
+      {
+        "id": "starting-strength-s02",
+        "hook": "Five lifts, learned properly, will occupy you for a decade.",
+        "insight": "Squat, press, deadlift, bench press and power clean cover pushing, pulling, hinging and squatting with the whole body under load. They are chosen not because they are fashionable but because they let a large amount of muscle work against a weight you can increase in small steps. Everything else is a variation or an accessory. Learning these five is a skill acquisition problem, closer to learning an instrument than to using a machine.",
+        "why": "Loading the whole body in one movement produces more adaptation per unit of time than isolating parts, and free weights force the stabilising work that machines quietly do for you.",
+        "apply": "Film one set of each lift from the side this week and compare it against a coaching standard, rather than against how the set felt.",
+        "format": "single",
+        "tags": [
+          "barbell",
+          "compound-lifts"
+        ]
+      },
+      {
+        "id": "starting-strength-s03",
+        "hook": "The half squat is not the safe version. It is the incomplete one.",
+        "insight": "Stopping above parallel keeps the hamstrings and adductors out of the movement and loads the knee without the balancing pull of the muscles behind it. Breaking parallel, so the hip crease drops below the top of the knee, brings the posterior chain in and shares the work. It looks more extreme and is usually kinder. The reason most people cannot do it is ankle and hip mobility plus fear, not anatomy.",
+        "why": "The evidence that deep squatting damages healthy knees is weak, while the evidence that it recruits more hip musculature is solid. Existing knee pathology is a real exception and needs individual advice.",
+        "apply": "Drop your squat to an empty bar for two weeks and rebuild depth with a box or a mirror to check the hip crease, before adding load back.",
+        "format": "single",
+        "tags": [
+          "squat",
+          "technique"
+        ]
+      },
+      {
+        "id": "starting-strength-s04",
+        "hook": "Every barbell lift is the same problem: keep the bar over your mid-foot.",
+        "insight": "A loaded bar wants to travel in a vertical line over the middle of your foot, because that is where your balance point is. Nearly every technical fault in every lift is the bar drifting away from that line and your body scrambling to compensate. Once you see it that way, coaching gets simpler: you are not memorising dozens of separate cues, you are learning one geometry that the squat, press, deadlift and bench each express differently.",
+        "why": "This is a mechanical model rather than a research finding, and it is deliberately simplified. It is useful because it generalises across lifts and gives you a single thing to check on video.",
+        "apply": "Record a set from the side, scrub through it frame by frame, and mark where the bar sits over your foot at the hardest point of the lift.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Find the balance point",
+            "body": "Stand under the bar and feel your weight across the middle of the foot, not on the toes or heels. This is the line the bar has to travel along."
+          },
+          {
+            "step": 2,
+            "title": "Set the back angle",
+            "body": "Your torso angle decides where your hips and shoulders sit relative to that line. Change the angle and the whole lift changes, which is why small setup errors cost so much."
+          },
+          {
+            "step": 3,
+            "title": "Watch the drift",
+            "body": "Film the set. If the bar swings forward out of the line, the fault is almost always upstream in the setup rather than in the muscle you feel working."
+          },
+          {
+            "step": 4,
+            "title": "Fix one cue at a time",
+            "body": "Take the load off, correct a single element, and rebuild. Trying to repair three faults in one heavy session teaches you nothing you can repeat."
+          }
+        ],
+        "tags": [
+          "technique",
+          "mechanics"
+        ]
+      },
+      {
+        "id": "starting-strength-s05",
+        "hook": "Training is a plan. Everything else in a gym is just exercise.",
+        "insight": "Exercise is activity done for how it feels today. Training is a sequence of sessions aimed at a performance you cannot yet produce, where each session is chosen because of where it sits in the sequence. The distinction matters because it changes what a bad session means: in training, a hard or ugly workout can still be the correct one, and a fun workout that does not fit the plan is a distraction with sweat on it.",
+        "why": "The framing is the book's, not a research finding, but it maps onto how coaching actually works in every sport with objective outcomes.",
+        "apply": "Write down the number you want on one lift in twelve weeks, then plan backwards to this week's weight in the smallest increments your gym allows.",
+        "format": "single",
+        "tags": [
+          "programming",
+          "mindset"
+        ]
+      },
+      {
+        "id": "starting-strength-s06",
+        "hook": "You do not get stronger in the gym. You get stronger in bed and at the table.",
+        "insight": "A hard session is damage and a signal. The adaptation happens afterwards, paid for with food and sleep. This is why underfed beginners stall while doing everything else right, and why adding sessions to fix a stall usually makes it worse. If the weights stop moving, the first questions are how much you slept and how much you ate, not which new exercise to insert.",
+        "why": "Stress, recovery and adaptation is a useful organising idea, though the general adaptation syndrome it borrows from was described in stress physiology and does not translate to training as neatly as strength coaching often implies.",
+        "apply": "Before changing your program at the next stall, run one week of eight hours in bed and a clear calorie surplus, then retest the same weight.",
+        "format": "single",
+        "tags": [
+          "recovery",
+          "adaptation"
+        ]
+      },
+      {
+        "id": "starting-strength-s07",
+        "hook": "A skinny beginner's real problem is almost always the fork.",
+        "insight": "Young lifters who cannot add weight are usually not undertrained, they are undereating. Building tissue requires surplus material, and someone who has never eaten for growth badly underestimates what that means. The honest version is a consistent surplus with plenty of protein and enough total food to support recovery. The famous advice to drink a gallon of milk a day gets this half right and half dangerous.",
+        "why": "The gallon-of-milk approach does add weight, but a large share is fat, it is hard on digestion, and it is poor advice for anyone who is not an underweight teenage male. Treat it as a caricature of a real point.",
+        "apply": "Add one substantial meal or shake a day for three weeks and track bodyweight weekly. If the scale is flat, the food, not the program, is the problem.",
+        "format": "single",
+        "tags": [
+          "nutrition",
+          "recovery"
+        ]
+      },
+      {
+        "id": "starting-strength-s08",
+        "hook": "Machines let you avoid the exact thing you came to train.",
+        "insight": "A machine fixes the path of the weight, which means your body no longer has to control balance, position or the order in which muscles fire. That is useful in rehabilitation and for isolating a lagging muscle. It is a poor way to build general strength, because coordinating the whole body under load is a large part of what strength actually is. The barbell is harder for the same reason it is more useful.",
+        "why": "Free-weight and machine training produce similar growth in isolated muscles, but free weights transfer better to tasks requiring balance and coordination, which is most tasks outside a gym.",
+        "apply": "Swap one machine exercise a session for its barbell or dumbbell equivalent, starting light enough that technique survives the whole set.",
+        "format": "single",
+        "tags": [
+          "barbell",
+          "training"
+        ]
+      },
+      {
+        "id": "starting-strength-s09",
+        "hook": "A stall is information. Grinding through it is just noise.",
+        "insight": "When the same weight beats you twice, the answer is rarely to try harder. It is to work out which input ran out: sleep, food, or the size of the jumps you were taking. The standard fix is to back the weight off by around ten percent and run the same climb again, arriving at the old sticking point better prepared. Handled that way a stall costs you two weeks. Handled by force it can cost months and an injury.",
+        "why": "Repeated failed sessions accumulate fatigue without adding adaptation, and technique degrades under grinding loads, which is where most beginner injuries actually come from.",
+        "apply": "Set your reset rule in advance: two failed sessions at one weight and you drop ten percent, no negotiation, no extra sets to compensate.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Check sleep and food first",
+            "body": "Two short nights or a week of undereating explains most stalls. Fix those before you change anything about the program itself."
+          },
+          {
+            "step": 2,
+            "title": "Shrink the jumps",
+            "body": "If you were adding five kilos, add one or two. Progress that continues slowly is better than progress that stops while looking impressive."
+          },
+          {
+            "step": 3,
+            "title": "Reset and rebuild",
+            "body": "Drop about ten percent and climb back over two or three weeks. You arrive at the same weight with more practice at it and usually pass it."
+          },
+          {
+            "step": 4,
+            "title": "Change the plan last",
+            "body": "Only after two clean resets fail is it time for intermediate programming, where progress is measured across a week rather than a session."
+          }
+        ],
+        "tags": [
+          "plateau",
+          "programming"
+        ]
+      },
+      {
+        "id": "starting-strength-s10",
+        "hook": "Strength is the quality that makes every other quality cheaper.",
+        "insight": "A stronger person moves the same load at a lower percentage of their maximum, which means more of their endurance, balance and skill is available for the task. That is why strength work shows up under sports that look nothing like lifting, and why it matters more with age, when losing the ability to rise from a chair or catch yourself falling is what ends independence. It is a general reserve you spend from.",
+        "why": "Resistance training's effects on muscle mass, bone density and function in older adults are among the better-supported findings in exercise science. The stronger claim that strength solves everything is the book's enthusiasm, not evidence.",
+        "apply": "Pick one non-gym task you want easier, carrying, climbing, standing up unaided, and choose the lift that most closely resembles it as your priority for a season.",
+        "format": "single",
+        "tags": [
+          "longevity",
+          "strength"
+        ]
+      }
+    ],
+    "actions": [
+      "Film one set of each main lift from the side at a light weight and compare it frame by frame against a coaching standard before adding load.",
+      "Run a simple full-body session three times a week, adding the smallest available increment each time, and log every set for eight weeks.",
+      "Write your reset rule down now: two failed sessions at a weight means a ten percent drop and a rebuild, with no extra work added.",
+      "Book two sessions with a qualified coach specifically to check squat depth and deadlift setup rather than to be given a program."
+    ],
+    "if_you_liked": [
+      "bigger-leaner-stronger",
+      "exercised",
+      "outlive"
+    ],
+    "not_for_you_if": "You want a gentle introduction, home workouts without a barbell, or a program adapted around existing injuries. The tone is blunt and the technical detail is heavy going.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First edition 2005 co-authored with Lon Kilgore; the widely read third edition, subtitled Basic Barbell Training, appeared in 2011. All prose original."
+    }
+  },
+  {
+    "id": "born-to-run",
+    "title": "Born to Run",
+    "subtitle": "A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",
+    "author": "Christopher McDougall",
+    "year": 2009,
+    "category": "health-fitness",
+    "subcategory": "running",
+    "tags": [
+      "running",
+      "endurance",
+      "injury",
+      "footwear",
+      "evolution",
+      "ultrarunning"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "It put a Mexican canyon, a fringe ultrarunning scene and an evolutionary hypothesis into one story and changed what millions of people put on their feet. It is also a clean case study in how a great narrative can outrun its evidence.",
+    "crux": {
+      "headline": "Humans are built to go far, not to go fast",
+      "body": "Against almost any animal over a short distance you lose badly. Over many hours in the heat, a trained human is one of the best endurance movers alive, because we sweat while four-legged animals must stop and pant. That capacity did not disappear when we started sitting down. Most modern running misery comes from doing too much too soon in a body that never learned to run, rather than from a body that was never meant to."
+    },
+    "sparks": [
+      {
+        "id": "born-to-run-s01",
+        "hook": "Over two hours in the heat, a fit human can outlast a horse.",
+        "insight": "Humans cool by sweating across bare skin while running. Most fast animals cool by panting, and panting is difficult at a gallop, so they must stop. Add long springy tendons, a stabilised head, and huge gluteal muscles that only make sense for running, and you get an animal built for long pursuit in heat. On a hot day over long distance, endurance beats speed, and that is the one race we are built to win.",
+        "why": "The anatomical evidence for endurance running adaptations is strong. The persistence hunting hypothesis built on top of it is plausible but rests on a small number of observed cases, and remains debated.",
+        "apply": "Run one session a week purely on time rather than pace, going slowly enough to hold a conversation, and stop before you want to.",
+        "format": "single",
+        "tags": [
+          "evolution",
+          "endurance"
+        ]
+      },
+      {
+        "id": "born-to-run-s02",
+        "hook": "Forty years of shoe technology has not lowered running injury rates.",
+        "insight": "Cushioning, motion control, gait analysis at the shop counter: the industry has sold increasingly engineered solutions since the seventies, and the proportion of runners hurt each year has stayed stubbornly high. That does not prove shoes cause injury. It does suggest the shoe is not the main variable, and that a runner shopping for a fix is usually solving the wrong problem. What changed is not our feet, it is how suddenly we ask them to work.",
+        "why": "The honest position is that evidence linking specific shoe types to injury rates is weak in both directions. Prescribing shoes by foot type has not held up in trials, and neither has the case against cushioning.",
+        "apply": "Before buying anything, write out your last four weeks of mileage. If any week rose by more than about ten percent, fix that before you change footwear.",
+        "format": "single",
+        "tags": [
+          "footwear",
+          "injury"
+        ]
+      },
+      {
+        "id": "born-to-run-s03",
+        "hook": "Minimal shoes change how you land. That is not the same as staying healthy.",
+        "insight": "Take the cushioning away and most people stop crashing down on the heel, because it hurts. The landing moves forward, the stride shortens, and the sharp impact spike at contact largely disappears. That is a real mechanical change. What it has not been shown to do is lower overall injury rates, and the loading it removes from the knee it adds to the calf, achilles and foot, which is exactly where new minimalist runners get hurt.",
+        "why": "The barefoot boom this book helped start produced a wave of metatarsal stress injuries in people who transitioned too fast. The main shoe brand riding the trend settled a false advertising claim over its health benefits in 2014.",
+        "apply": "If you want to try minimal shoes, walk in them for a month first, then run under a mile in them once a week and add distance no faster than that.",
+        "format": "single",
+        "tags": [
+          "footwear",
+          "barefoot-running",
+          "injury"
+        ]
+      },
+      {
+        "id": "born-to-run-s04",
+        "hook": "Take shorter, quicker steps and the ground hits you less hard.",
+        "insight": "Reaching out in front of you lands your foot ahead of your hips with the leg straight, which brakes on every stride and sends force up through the joints. Increasing your step rate slightly shortens each stride and brings the landing back underneath you. The effect is not magic and it will feel absurdly busy for a week or two, but it lowers the load your knees and hips absorb per step without you having to think about form at all.",
+        "why": "Small increases in cadence reliably reduce peak loading at the knee and hip in gait studies. Whether that prevents injury over a season is much less well established.",
+        "apply": "Count your steps for thirty seconds at an easy pace, then run to a metronome or playlist set about five percent faster for one short run a week.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Measure what you do now",
+            "body": "Count foot strikes on one side for thirty seconds at easy pace and double it. Do not judge the number, just record it as your baseline."
+          },
+          {
+            "step": 2,
+            "title": "Nudge it up slightly",
+            "body": "Aim for about five percent more steps per minute, not ten. Set a metronome app and run one easy session a week in time with it."
+          },
+          {
+            "step": 3,
+            "title": "Let the stride shorten itself",
+            "body": "Do not try to change your foot strike or your posture. Faster steps at the same speed shorten the stride automatically, which is the whole point."
+          },
+          {
+            "step": 4,
+            "title": "Give it six weeks",
+            "body": "Your calves and feet need time to take on work the shoe used to do. Expect soreness in new places and back off if it becomes sharp or localised."
+          }
+        ],
+        "tags": [
+          "running-form",
+          "cadence"
+        ]
+      },
+      {
+        "id": "born-to-run-s05",
+        "hook": "The Raramuri do not run to get fit. They run because it is a party.",
+        "insight": "In the canyons of northern Mexico, running is woven into festivals, betting, kickball games and long journeys between settlements. Nobody is doing intervals to improve a number. That framing matters more than any shoe: an activity you do for company, celebration or a reason outside yourself survives bad weather and bad moods in a way that a training plan rarely does. The most durable runners are usually the ones having the best time.",
+        "why": "Intrinsic motivation predicts long-term adherence to exercise far better than outcome goals do. It is also worth saying this portrait romanticises a community facing poverty, drought and violence.",
+        "apply": "Attach one weekly run to something you would want anyway: a friend, a route with a view, a coffee at the end. Remove the watch for that run.",
+        "format": "single",
+        "tags": [
+          "motivation",
+          "joy"
+        ]
+      },
+      {
+        "id": "born-to-run-s06",
+        "hook": "Most of your running should feel too easy to be doing anything.",
+        "insight": "Beginners tend to run every session at a moderately uncomfortable pace, which is too hard to recover from and too easy to build speed. The pattern that survives contact with a calendar is a large volume of genuinely easy running, where you could hold a conversation, with a small amount of hard work bolted on. It feels like cheating for the first month. It is the reason experienced runners can do five times your mileage and get hurt less.",
+        "why": "Polarised training distributions, mostly easy with a little very hard, show up consistently in successful endurance athletes across sports, though the ideal ratio for recreational runners is still argued over.",
+        "apply": "Run four of your next five sessions slow enough to speak in full sentences, even if that means walking the hills. Keep only one hard session.",
+        "format": "single",
+        "tags": [
+          "training",
+          "easy-running"
+        ]
+      },
+      {
+        "id": "born-to-run-s07",
+        "hook": "Ultra distance is one of the few sports where people peak in middle age.",
+        "insight": "At very long distances, raw speed matters less than pacing, fuelling, patience and the ability to keep making decent decisions while exhausted. Those improve with experience, so the field at a hundred-mile race looks nothing like a track meet: people in their forties and fifties are competitive, sometimes dominant. If you have decided you started too late for endurance sport, the distance may simply be wrong rather than the age.",
+        "why": "Age-related decline in endurance performance is gradual until roughly the mid-fifties and is smaller than in explosive sports. Selection effects also matter, since only durable people are still racing that far.",
+        "apply": "Enter one event at a distance you have never tried, at least four months out, and build to it with easy volume rather than harder sessions.",
+        "format": "single",
+        "tags": [
+          "ultrarunning",
+          "ageing"
+        ]
+      },
+      {
+        "id": "born-to-run-s08",
+        "hook": "The seed drink is good food. It is not a secret weapon.",
+        "insight": "Chia soaked into water, sweetened and sharpened with lime, appears in this story as canyon fuel and became briefly famous for it. It is a genuinely decent source of fibre, fat and a little protein, and it is easy on the stomach mid-run. What it is not is a substance with any demonstrated performance effect beyond the carbohydrate and fluid it delivers. Almost every food that gets a legend attached to it turns out to be ordinary.",
+        "why": "Trials of chia as a sports fuel show it performing about as well as a standard carbohydrate drink, not better. Traditional foods are worth respecting without being credited with powers they do not have.",
+        "apply": "Test one cheap familiar fuel on your next three long runs and keep notes on stomach comfort, rather than buying whatever the current legend recommends.",
+        "format": "single",
+        "tags": [
+          "nutrition",
+          "fuelling"
+        ]
+      },
+      {
+        "id": "born-to-run-s09",
+        "hook": "Almost nobody is injured by running. They are injured by more running.",
+        "insight": "Tendons, bone and connective tissue adapt far more slowly than the heart and lungs. So your fitness improves within weeks while the structures taking the impact are still weeks behind, and the gap between the two is where injuries live. The runner who feels great and doubles their mileage is not being ambitious, they are outrunning their own tissue. The boring rule about small weekly increases exists because that gap is real.",
+        "why": "Training load errors, sudden increases in volume or intensity, are the most consistently identified risk factor in running injury research. Individual anatomy explains far less than most runners assume.",
+        "apply": "Cap weekly mileage increases at roughly ten percent, and every fourth week drop volume by a quarter whether or not you feel you need it.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Write the last month down",
+            "body": "You cannot manage a load you have not measured. List weekly distance or time for the past four weeks before planning the next four."
+          },
+          {
+            "step": 2,
+            "title": "Add slowly and only one thing",
+            "body": "Increase distance or intensity in a given week, never both. Roughly ten percent more is a rule of thumb, not a law, and less is fine."
+          },
+          {
+            "step": 3,
+            "title": "Build in a down week",
+            "body": "Every fourth week, cut volume by about a quarter. This is when tissue catches up, and skipping it is how runners arrive at an injury feeling strong."
+          },
+          {
+            "step": 4,
+            "title": "Treat niggles as data",
+            "body": "Pain that changes your stride is a stop signal, not a toughness test. Two easy days now costs less than the six weeks a stress fracture costs."
+          }
+        ],
+        "tags": [
+          "injury",
+          "training-load"
+        ]
+      },
+      {
+        "id": "born-to-run-s10",
+        "hook": "A great story is not evidence, and this is a great story.",
+        "insight": "The book is vivid, well reported and genuinely enjoyable, which is exactly why it is worth reading carefully. Its central chain runs from an evolutionary hypothesis to a claim about modern shoes to a prescription for how you should train, and each link is weaker than the one before. The evolutionary biology is respectable. The shoe conclusion is not settled. Enjoy the narrative and take the training advice as one runner's hypothesis rather than a finding.",
+        "why": "Narrative writing selects the incidents that fit its arc, so a compelling book can be entirely truthful in its parts and still overstate its case as a whole. This one did, and the barefoot boom paid for it.",
+        "apply": "For any health book that moves you, write down its main claim and search for the strongest published criticism of it before changing your behaviour.",
+        "format": "single",
+        "tags": [
+          "evidence",
+          "critical-thinking"
+        ]
+      }
+    ],
+    "actions": [
+      "Log four weeks of running volume before changing anything, then plan the next block with increases of no more than about ten percent a week.",
+      "Convert four of every five runs to a genuinely conversational pace and keep one hard session, then reassess after two months.",
+      "If you want to test minimal footwear, spend a month walking in it and cap early runs at under a mile once a week.",
+      "Find one running partner or group and put a standing weekly slot in the calendar, so that motivation does not depend on your mood."
+    ],
+    "if_you_liked": [
+      "exercised",
+      "outlive",
+      "why-we-sleep"
+    ],
+    "not_for_you_if": "You want a training manual or a careful review of the evidence. This is narrative journalism, and its footwear conclusions have not held up well since publication.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2009 by Knopf. The barefoot and minimalist-shoe conclusions the book popularised are flagged here as contested; subsequent trials have not shown lower injury rates, and one prominent minimalist brand settled advertising claims in 2014. All prose original."
+    }
+  },
+  {
+    "id": "the-4-hour-body",
+    "title": "The 4-Hour Body",
+    "subtitle": "An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman",
+    "author": "Timothy Ferriss",
+    "year": 2010,
+    "category": "health-fitness",
+    "subcategory": "self-experimentation",
+    "tags": [
+      "self-experimentation",
+      "fat-loss",
+      "tracking",
+      "diet",
+      "habits"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 10,
+    "why_it_matters": "It made self-experimentation a mainstream habit, years before wearables were everywhere. The specific protocols range from sound to nonsense, but the method underneath, measure a baseline and change one thing, has outlasted most of them.",
+    "crux": {
+      "headline": "Find the smallest dose that produces the change",
+      "body": "Most people fail at physical change by doing an enormous amount of everything at once and abandoning it. The alternative is to treat your body as a system you are testing: measure a starting point, apply the smallest intervention that could plausibly work, hold everything else steady, and read the result after a set period. What you gain is not a magic protocol but a method that keeps working after the fashion changes."
+    },
+    "sparks": [
+      {
+        "id": "the-4-hour-body-s01",
+        "hook": "The right dose is the smallest one that produces the result you wanted.",
+        "insight": "More is not the same as better. Past the point where an intervention delivers its effect, extra effort mostly buys fatigue, soreness and a plan you will quit. So the useful question is never how much you could do, it is how little is enough. Two hard sets that produce growth beat six that leave you unable to train on Thursday. The habit of asking where the dose stops mattering will save you years across every area of health.",
+        "why": "Dose-response curves in exercise and nutrition are steepest at the bottom and flatten quickly. The largest health gains come from moving from nothing to something, not from something to a great deal.",
+        "apply": "Take your longest current health routine and cut it in half for three weeks. Measure the outcome you actually care about and see whether anything changed.",
+        "format": "single",
+        "tags": [
+          "minimum-effective-dose",
+          "efficiency"
+        ]
+      },
+      {
+        "id": "the-4-hour-body-s02",
+        "hook": "Without a baseline you are not experimenting. You are just hoping.",
+        "insight": "Nearly everyone who changes their diet or training has no honest record of what they were doing before, which means they cannot tell whether anything worked. Two weeks of measuring while changing nothing feels like wasted time and is the most valuable fortnight of the whole project. It gives you the number to compare against, and it reveals how much your habits vary day to day, which is usually much more than you would guess.",
+        "why": "Without a baseline, normal fluctuation gets read as a result and results get read as noise. This is the single most common flaw in personal health experiments.",
+        "apply": "Spend the next fourteen days recording weight, food, sleep and training exactly as they already are, changing nothing, before starting any new plan.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Pick one outcome number",
+            "body": "Choose the single measure you actually care about: waist, resting heart rate, a lift, hours slept. One measure keeps the experiment readable and honest."
+          },
+          {
+            "step": 2,
+            "title": "Record two weeks unchanged",
+            "body": "Track your current life without improving it. Resist the urge to be good during the baseline, because a flattering baseline ruins every comparison that follows."
+          },
+          {
+            "step": 3,
+            "title": "Change exactly one thing",
+            "body": "Alter one variable and hold the rest steady for a fixed period. Change three at once and a positive result tells you nothing about which one to keep."
+          },
+          {
+            "step": 4,
+            "title": "Decide the rule in advance",
+            "body": "Write down before you start what result would make you keep this and what would make you drop it. Deciding afterwards is how people talk themselves into anything."
+          }
+        ],
+        "tags": [
+          "tracking",
+          "measurement"
+        ]
+      },
+      {
+        "id": "the-4-hour-body-s03",
+        "hook": "A diet with five rules beats a diet with fifty, even if the fifty are better.",
+        "insight": "The slow-carb approach is built from a handful of blunt instructions: protein at every meal, plenty of beans and vegetables, no bread, rice, potatoes or sugar, and repeat a small number of meals rather than inventing new ones. Nutritionally it is unremarkable. Behaviourally it is clever, because it removes almost every decision from your day. Most diets fail at the point of choosing, not at the point of digesting.",
+        "why": "There is no controlled trial of this specific protocol. Where it works it almost certainly works by cutting total calories and eliminating choices, which is how most successful diets work.",
+        "apply": "Pick three breakfasts, three lunches and three dinners you like and eat only those for a month, so eating stops being a decision you make while hungry.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Write nine meals, not a philosophy",
+            "body": "Choose three breakfasts, three lunches and three dinners you genuinely like and would eat repeatedly. Nine is enough variety to survive a month and few enough to shop for."
+          },
+          {
+            "step": 2,
+            "title": "Build them around protein and plants",
+            "body": "Anchor each meal on a protein source and a large volume of vegetables or legumes. That combination is filling per calorie, which does most of the work."
+          },
+          {
+            "step": 3,
+            "title": "Shop only from that list",
+            "body": "The decision is made in the supermarket, not at the table. If the food that breaks your rules is not in the house, willpower never has to be involved."
+          },
+          {
+            "step": 4,
+            "title": "Schedule the exception",
+            "body": "Put one unrestricted day in the week on purpose. An expected release valve keeps the other six days intact far better than pure restriction does."
+          }
+        ],
+        "tags": [
+          "diet",
+          "habits",
+          "decision-fatigue"
+        ]
+      },
+      {
+        "id": "the-4-hour-body-s04",
+        "hook": "One planned day off the rails keeps six days on them.",
+        "insight": "A weekly day with no dietary rules sounds like sabotage and often works, for reasons that have nothing to do with metabolism. It gives you a scheduled place to put every craving, so a Tuesday temptation becomes a note rather than a collapse. It also caps the psychological cost of a strict week. The catch is that a genuine binge can undo a week's deficit, so the day is a release valve, not a suspension of arithmetic.",
+        "why": "The metabolic explanations offered for cheat days, mostly about hormones rebounding, are thin. The adherence explanation is much stronger and is supported by wider research on flexible dietary restraint.",
+        "apply": "Name your day off in advance, put cravings on a written list during the week, and eat from that list rather than improvising for twenty-four hours.",
+        "format": "single",
+        "tags": [
+          "adherence",
+          "diet"
+        ]
+      },
+      {
+        "id": "the-4-hour-body-s05",
+        "hook": "Change one variable at a time or your results mean nothing.",
+        "insight": "Start a new diet, a new training plan and a new supplement in the same week and you will learn nothing whatever from the outcome. If it works you do not know which part to keep. If it fails you do not know which part to drop. Personal experiments only pay off when they are boring: one change, a fixed window, an outcome you agreed to in advance. It is slower and it is the only version that compounds.",
+        "why": "Confounded interventions are unreadable, and the human tendency to credit whichever change was most effortful or most expensive makes it worse rather than better.",
+        "apply": "List every change you were about to make at once. Rank them by likely effect, run only the top one for four weeks, then decide about the next.",
+        "format": "single",
+        "tags": [
+          "self-experimentation",
+          "method"
+        ]
+      },
+      {
+        "id": "the-4-hour-body-s06",
+        "hook": "A sample of one is enough for you and useless for everyone else.",
+        "insight": "Running a careful experiment on yourself is a legitimate way to decide what to do with your own body, because you are the only person whose result you need. It is not a way to establish that something is true in general. Almost every problem with this book comes from that line being crossed: a protocol that worked on the author and a few readers gets described as a discovery. Use the method, distrust the generalisation.",
+        "why": "Individual results conflate the intervention with expectation, regression to the mean, seasonality and everything else changing in your life. That is fine for a personal decision and worthless as evidence for a claim.",
+        "apply": "When you find a protocol that works for you, describe it to others as what happened to you rather than as what will happen to them.",
+        "format": "single",
+        "tags": [
+          "evidence",
+          "self-experimentation"
+        ]
+      },
+      {
+        "id": "the-4-hour-body-s07",
+        "hook": "Two hard sets you take to the edge beat an hour of comfortable ones.",
+        "insight": "Growth responds to sets taken close to the point where you could not do another rep. Sets stopped well short of that mostly add time. So a very small amount of genuinely hard work, done slowly and with full control, can produce most of the result an hour-long session would, with far less recovery cost. The trade is that it hurts more per minute and it demands honesty about how close to failure you really got.",
+        "why": "Proximity to failure is one of the better-supported drivers of hypertrophy, though total weekly volume also matters and extremely low-volume protocols tend to underperform over the long run.",
+        "apply": "Take one exercise this week to genuine failure on a single set, count the reps honestly, and use that number as your reference from now on.",
+        "format": "single",
+        "tags": [
+          "training",
+          "intensity"
+        ]
+      },
+      {
+        "id": "the-4-hour-body-s08",
+        "hook": "The ice baths and the pill stacks are the weakest chapters here.",
+        "insight": "Cold exposure and multi-ingredient supplement stacks get presented with the same confidence as the dietary basics, but they are not in the same evidential category. Cold does activate brown fat and does raise energy expenditure briefly, and there is still no good evidence that this produces meaningful fat loss in humans. The supplement combinations are extrapolations from mechanism, and one of them involves a compound with a documented liver risk.",
+        "why": "Mechanism is not outcome. Something can plausibly influence a pathway and still change nothing you can measure on a scale, which is the usual fate of interventions sold on mechanism alone.",
+        "apply": "Before adopting any protocol from this book, search for a randomised trial of it in humans. If there is none, treat it as a hobby rather than a health plan.",
+        "format": "single",
+        "tags": [
+          "supplements",
+          "evidence",
+          "cold-exposure"
+        ]
+      },
+      {
+        "id": "the-4-hour-body-s09",
+        "hook": "Asking the outliers finds the interesting answers and the wrong ones.",
+        "insight": "The research method here is to seek out people at the extremes, athletes, doctors, obsessives, and ask what they do. It is a genuinely good way to generate ideas, because outliers try things institutions will not. It is a terrible way to decide what is true, because you only ever interview the survivors. The person whose identical protocol produced an injury or nothing at all is not in the room and never gets quoted.",
+        "why": "This is survivorship bias in its clearest form. Extreme results are the ones most likely to be produced by unusual genetics, unusual circumstances, or luck that will not repeat for you.",
+        "apply": "For any technique you learn from a high performer, ask who tried the same thing and failed, and go looking for that account before you copy it.",
+        "format": "single",
+        "tags": [
+          "survivorship-bias",
+          "critical-thinking"
+        ]
+      },
+      {
+        "id": "the-4-hour-body-s10",
+        "hook": "Treat the book as a menu. Ordering everything is how people get hurt.",
+        "insight": "It is a large collection of separate protocols, written to be sampled rather than followed. Read cover to cover as a program it is contradictory, exhausting and occasionally risky. Read as a catalogue you dip into, choosing one experiment that matches a problem you actually have, it is useful. The skill this book really teaches is not any protocol at all. It is the willingness to test something on yourself carefully and drop it without ego when the numbers say no.",
+        "why": "Bundled advice invites all-or-nothing adoption, which raises both the chance of harm and the chance of quitting. Selecting one intervention at a time keeps both risks small.",
+        "apply": "Choose the single chapter that addresses your actual current problem, run only that protocol for a month, and ignore the rest of the book entirely.",
+        "format": "single",
+        "tags": [
+          "method",
+          "focus"
+        ]
+      }
+    ],
+    "actions": [
+      "Spend fourteen days recording your current weight, food, sleep and training without changing anything, to establish an honest baseline.",
+      "Pick one protocol that matches a problem you genuinely have, write down in advance what result would make you keep it, and run it for four weeks.",
+      "Reduce your eating decisions by choosing nine repeatable meals and shopping only for those for a month.",
+      "Before trying anything from the supplement or cold exposure chapters, look for a human randomised trial and skip it if none exists."
+    ],
+    "if_you_liked": [
+      "bigger-leaner-stronger",
+      "outlive",
+      "good-energy"
+    ],
+    "not_for_you_if": "You want evidence-based medicine or a coherent single program. Much of this is untested self-experimentation presented with more confidence than the evidence supports.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published December 2010 by Crown Archetype. Several protocols in the book, particularly the supplement stacks and cold exposure claims, lack human trial support and are flagged as such here. All prose original."
+    }
+  },
+  {
+    "id": "spark",
+    "title": "Spark",
+    "subtitle": "The Revolutionary New Science of Exercise and the Brain",
+    "author": "John J. Ratey",
+    "year": 2008,
+    "category": "health-fitness",
+    "subcategory": "exercise-and-brain",
+    "tags": [
+      "exercise",
+      "brain",
+      "depression",
+      "anxiety",
+      "adhd",
+      "learning",
+      "ageing"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 11,
+    "why_it_matters": "It moved exercise out of the weight-loss conversation and into the mental health one, and it did so early enough to shape how schools, therapists and doctors now talk about movement. The framing stuck even where the evidence has since been trimmed back.",
+    "crux": {
+      "headline": "Exercise is a treatment for the brain, not just the body",
+      "body": "Movement changes the chemistry your brain runs on. It raises the signalling molecules involved in attention, mood and motivation, and it supports the growth and survival of connections between neurons. That makes physical activity a genuine intervention for mood, anxiety, attention and cognitive ageing, not just a way to manage weight. It is not a cure and it does not replace treatment, but it is the most under-prescribed thing available for the brain."
+    },
+    "sparks": [
+      {
+        "id": "spark-s01",
+        "hook": "A school district put fitness before first period and the story got out of hand.",
+        "insight": "A district in Illinois ran a physical education program built around heart rate rather than sport skill, and scheduled it early, before academic classes. Staff reported better behaviour, better fitness and strong results on international test comparisons, and that story travelled around the world. It is a genuinely interesting programme and worth copying. It is also a single affluent district with no control group, so it can suggest an effect and cannot demonstrate one.",
+        "why": "Uncontrolled district-level results confound the exercise with the leadership, the enthusiasm, the funding and the population. Randomised studies of school exercise programs show smaller and less consistent academic effects.",
+        "apply": "If you study or work with your brain, put twenty minutes of brisk movement immediately before your hardest cognitive block for two weeks and note the difference.",
+        "format": "single",
+        "tags": [
+          "schools",
+          "evidence",
+          "learning"
+        ]
+      },
+      {
+        "id": "spark-s02",
+        "hook": "Movement raises the chemical that helps neurons grow and survive.",
+        "insight": "Exercise increases brain-derived neurotrophic factor, a protein involved in keeping neurons alive and helping new connections form, particularly in the hippocampus. In animal studies this is dramatic: running rats grow more new hippocampal cells and learn mazes faster. In humans the evidence is more indirect, measured mostly in blood rather than brain tissue. The direction is consistent even if the size of the effect in a human head is genuinely unknown.",
+        "why": "Most of this mechanism comes from rodent work where the brain can be examined directly. Human studies rely on circulating markers and imaging, so the mechanistic story is stronger than the human dose-response data behind it.",
+        "apply": "Prioritise sustained aerobic work, thirty minutes at a pace that makes conversation difficult, three times a week, if brain benefits are what you are after.",
+        "format": "single",
+        "tags": [
+          "neuroscience",
+          "aerobic-exercise"
+        ]
+      },
+      {
+        "id": "spark-s03",
+        "hook": "For mild depression, exercise performs like a treatment, not like advice.",
+        "insight": "Randomised trials have compared structured aerobic exercise against antidepressant medication in adults with depression and found comparable improvement, with lower relapse in some follow-ups. That does not make exercise a replacement for treatment, especially in severe illness, and telling a depressed person to go for a run is still a bad way to help. But it does mean movement belongs in the treatment plan rather than in the lifestyle advice at the end.",
+        "why": "Effect sizes shrink noticeably in trials with better blinding and lower risk of bias, and you cannot blind someone to whether they are exercising. The effect is real but smaller than the enthusiastic version suggests.",
+        "apply": "If mood is the target, schedule exercise as an appointment with someone else three times a week, since motivation is exactly what depression removes.",
+        "format": "single",
+        "tags": [
+          "depression",
+          "mental-health"
+        ]
+      },
+      {
+        "id": "spark-s04",
+        "hook": "Anxiety is a racing heart looking for an explanation. Give it a better one.",
+        "insight": "Hard exercise produces the same bodily signals as a panic response: pounding heart, fast breathing, sweating, muscle tension. The difference is that you chose it, you know why it is happening, and it reliably ends. Repeating that on purpose teaches your nervous system that these sensations are survivable and not evidence of catastrophe. It is a physical version of what exposure therapy does deliberately, which is part of why it works for anxious people.",
+        "why": "The mechanism overlaps with interoceptive exposure used in anxiety treatment, and trials of exercise for anxiety symptoms show moderate benefit. It is a supplement to therapy, not a substitute for it.",
+        "apply": "When anxiety rises, do ten minutes of something hard enough to raise your heart rate and name the sensations aloud as exertion rather than alarm.",
+        "format": "single",
+        "tags": [
+          "anxiety",
+          "mental-health"
+        ]
+      },
+      {
+        "id": "spark-s05",
+        "hook": "Exercise raises the same chemicals that attention medication targets.",
+        "insight": "Attention depends heavily on dopamine and noradrenaline signalling in the prefrontal cortex, and vigorous exercise raises both for a period afterwards. That is why some people with attention difficulties find they can work for an hour after a hard session and cannot before it. It is a short window rather than a permanent fix, and it is an addition to established treatment rather than a replacement, but the window is usable if you schedule around it.",
+        "why": "Acute cognitive benefits after exercise are well replicated but short-lived, typically lasting under two hours. Evidence for lasting improvement in attention disorders from exercise alone is much weaker.",
+        "apply": "Move the task that needs the most focus to the hour straight after exercise for a week, and keep the task that needs the least for the afternoon.",
+        "format": "single",
+        "tags": [
+          "adhd",
+          "attention",
+          "focus"
+        ]
+      },
+      {
+        "id": "spark-s06",
+        "hook": "Move before you learn, not after. The order is the whole trick.",
+        "insight": "Exercise appears to prepare the brain for encoding: the alertness, blood flow and signalling that follow a hard session make new material easier to take in. So a run before a study block is doing different work from a run after one. The effect is modest, temporary and easy to waste by then checking your phone for forty minutes. Treat it as a window that opens for an hour or so and closes quietly.",
+        "why": "Acute exercise reliably improves attention and some memory measures for a short period afterwards. Whether it improves long-term retention is less clear, and the effect on complex learning is smaller than on simple tasks.",
+        "apply": "Pair one hard session with one study or deep work block for two weeks, starting the block within twenty minutes of finishing.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Choose intensity, not duration",
+            "body": "Twenty hard minutes does more for the following hour than an easy sixty. You want to arrive alert, not depleted, so stop while you still feel sharp."
+          },
+          {
+            "step": 2,
+            "title": "Cool down and go straight in",
+            "body": "Shower quickly, skip the phone, and open the work. The window is roughly an hour, and most of it gets spent on messages if you allow it to."
+          },
+          {
+            "step": 3,
+            "title": "Front-load the hardest material",
+            "body": "Use the window for new or difficult content rather than admin. Easy tasks do not need the state you just spent forty minutes creating."
+          },
+          {
+            "step": 4,
+            "title": "Test it against a control week",
+            "body": "Run one week with the pairing and one without, and compare what you actually finished rather than how alert you felt."
+          }
+        ],
+        "tags": [
+          "learning",
+          "timing",
+          "focus"
+        ]
+      },
+      {
+        "id": "spark-s07",
+        "hook": "Exercise is a stress you choose, and choosing it makes stress smaller.",
+        "insight": "A hard session is a controlled dose of physiological stress: heart rate up, stress hormones released, tissue damaged and repaired. Repeated in the right amounts, that trains the whole system to respond and, crucially, to recover faster. People who train regularly show smaller and shorter physiological responses to psychological stressors. The important word is dose. Enough is protective, and far too much stops being training and becomes another problem.",
+        "why": "Cross-stressor adaptation has decent support in laboratory studies of stress reactivity. Overtraining produces the opposite pattern, which is why the same activity can protect one person and exhaust another.",
+        "apply": "Add one deliberately hard session a week and keep the rest easy, then judge the effect by how you handle a stressful Tuesday rather than by soreness.",
+        "format": "single",
+        "tags": [
+          "stress",
+          "resilience"
+        ]
+      },
+      {
+        "id": "spark-s08",
+        "hook": "In older adults, a year of walking grew the part of the brain that shrinks.",
+        "insight": "The hippocampus, central to memory, loses volume with age. In a randomised trial, older adults assigned to a year of regular walking showed an increase in hippocampal volume, while a stretching group continued to decline. That is one of the few results in this field where people were randomly assigned, followed for a long time, and scanned. It suggests some age-related decline is a use-it-or-lose-it problem rather than a fixed schedule.",
+        "why": "It is a real randomised imaging trial, but a single one with a modest sample, and the change in brain volume was small. Treat it as encouraging rather than as settled, and note that walking was the intervention.",
+        "apply": "If you are over fifty, put three forty-minute brisk walks in the diary each week and treat them as non-negotiable medical appointments.",
+        "format": "single",
+        "tags": [
+          "ageing",
+          "memory",
+          "brain"
+        ]
+      },
+      {
+        "id": "spark-s09",
+        "hook": "The biggest gains come from moving at all, not from moving optimally.",
+        "insight": "The curve between activity and brain benefit is steepest right at the bottom. Going from nothing to a couple of walks a week is a much larger change than going from four sessions to six. This matters because people who read about optimal protocols often do nothing, having decided that anything less than the ideal is pointless. The person doing a mediocre amount consistently is beating the person waiting to do it properly.",
+        "why": "Dose-response curves for physical activity and both mental and physical health outcomes consistently show the largest marginal benefit at the low end, with clear flattening as volume increases.",
+        "apply": "Set a floor rather than a target: the smallest amount of movement you will do on your worst day, and never break it.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Name your worst day",
+            "body": "Think of your busiest, lowest, most disrupted day of the past month. Whatever you design has to survive that day, not a well-rested Saturday morning."
+          },
+          {
+            "step": 2,
+            "title": "Set an embarrassing floor",
+            "body": "Ten minutes of walking is a perfectly good floor. If the number feels too small to matter, it is probably small enough that you will actually keep it."
+          },
+          {
+            "step": 3,
+            "title": "Attach it to a fixed cue",
+            "body": "Tie the floor to something already in your day: after the school drop-off, before lunch, at the end of the working day. Free cues beat reminders."
+          },
+          {
+            "step": 4,
+            "title": "Raise it only after a month",
+            "body": "Keep the floor untouched for thirty days before adding anything. You are building an unbreakable minimum, not a training plan, and those are different jobs."
+          }
+        ],
+        "tags": [
+          "dose-response",
+          "consistency"
+        ]
+      },
+      {
+        "id": "spark-s10",
+        "hook": "Exercise is genuinely powerful and it is not a cure for anything.",
+        "insight": "The case here is strong enough that it does not need the enthusiasm layered on top of it. Movement helps mood, attention, stress and cognitive ageing, and it is cheap, available and safe for most people. It also fails to fix severe illness, cannot be prescribed at someone in crisis, and gets used as a way to avoid harder conversations about treatment, medication and circumstances. Both things are true and the second gets said too rarely.",
+        "why": "Overclaiming in popular science has a cost: when the result is smaller than promised, people conclude the whole idea was false and stop doing something that was helping them.",
+        "apply": "Keep exercise as one line in a plan that also names treatment, sleep and support, rather than as the plan itself.",
+        "format": "single",
+        "tags": [
+          "mental-health",
+          "honesty"
+        ]
+      }
+    ],
+    "actions": [
+      "Schedule three aerobic sessions a week in the calendar at fixed times, and treat the hour after each as your protected block for hard cognitive work.",
+      "Define a floor for your worst days, such as a ten minute walk, and commit to never breaking it regardless of mood or schedule.",
+      "If you are using exercise for mood or anxiety, arrange to do it with another person so that attendance does not depend on motivation.",
+      "Talk to a clinician before treating exercise as a substitute for any existing treatment for depression, anxiety or attention difficulties."
+    ],
+    "if_you_liked": [
+      "exercised",
+      "why-we-sleep",
+      "outlive"
+    ],
+    "not_for_you_if": "You want careful evidence weighting. The science is real but presented at its most optimistic, and several showcase examples are uncontrolled stories rather than trials.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2008, written with Eric Hagerman. The school programme described is a real Illinois district initiative but uncontrolled; exercise-versus-antidepressant trial results are summarised here with the caveat that effects shrink in lower-bias studies. All prose original."
+    }
+  },
+  {
+    "id": "exercised",
+    "title": "Exercised",
+    "subtitle": "Why Something We Never Evolved to Do Is Healthy and Rewarding",
+    "author": "Daniel E. Lieberman",
+    "year": 2020,
+    "category": "health-fitness",
+    "subcategory": "evolutionary-health",
+    "tags": [
+      "exercise",
+      "evolution",
+      "anthropology",
+      "ageing",
+      "sitting",
+      "myths"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It takes almost every popular belief about exercise, tests it against what people who have never seen a gym actually do, and quietly dismantles the ones that are wrong. It is the most reliable myth-clearing book in fitness.",
+    "crux": {
+      "headline": "You never evolved to exercise, so stop feeling guilty",
+      "body": "Our ancestors were physically active because survival required it, and they rested at every opportunity because calories were scarce. Nobody moved for the sake of moving. Voluntary discretionary exercise is a recent invention, which is why the urge to avoid it is normal rather than a failing of character. The useful response is not more shame but better design: make activity necessary, social or enjoyable, because those are the only conditions under which humans have ever done it reliably."
+    },
+    "sparks": [
+      {
+        "id": "exercised-s01",
+        "hook": "Not wanting to exercise is not laziness. It is the older instinct.",
+        "insight": "For nearly all of human history, moving cost calories you might not be able to replace, so avoiding unnecessary effort was intelligent behaviour. Nobody in a foraging society goes for a run for its own sake. The reluctance you feel before a workout is the same ancient arithmetic still running. Understanding that changes the fix: you are not fighting a personal weakness that willpower should have solved, you are trying to install a behaviour that never had an instinct behind it.",
+        "why": "The framing is evolutionary reasoning rather than a controlled result, but it fits the observed behaviour of subsistence populations, who are active when necessary and rest whenever they can.",
+        "apply": "Stop relying on motivation. Pick one way to make movement necessary or social this week, such as commuting by bike or a fixed appointment with a friend.",
+        "format": "single",
+        "tags": [
+          "motivation",
+          "evolution"
+        ]
+      },
+      {
+        "id": "exercised-s02",
+        "hook": "Hunter-gatherers rest as much as office workers. They just rest differently.",
+        "insight": "Foraging peoples are moderately active for a few hours a day and spend a great deal of the rest of the time sitting, talking and doing very little. The difference is not the amount of sitting. It is that their sitting is broken up constantly, often without a chair back, and their active hours involve walking, digging and carrying rather than one intense hour of effort. Continuous stillness, not sitting itself, is the modern problem.",
+        "why": "Field studies using activity monitors show sitting times in foraging groups comparable to those in industrialised populations, which undercuts the simplest version of the sitting-is-the-new-smoking claim.",
+        "apply": "Set an hourly prompt to stand and move for two minutes rather than trying to cut your total sitting time, and keep it up for a fortnight.",
+        "format": "single",
+        "tags": [
+          "sitting",
+          "anthropology"
+        ]
+      },
+      {
+        "id": "exercised-s03",
+        "hook": "Exercise is superb medicine and a disappointing way to lose weight.",
+        "insight": "Adding exercise produces far less weight loss than the calorie arithmetic predicts, because bodies compensate: you eat somewhat more, fidget less and spend less energy on other processes. Traditionally active populations burn roughly the same total daily energy as sedentary office workers despite moving far more. This is not a reason to skip exercise, which does a great deal for your health. It is a reason to stop judging it by the number on the scale.",
+        "why": "The constrained daily energy expenditure findings come from doubly labelled water measurements in foraging populations. The model is still debated in its strong form, but compensation itself is well documented.",
+        "apply": "Judge your training by strength, endurance, sleep and mood for three months, and take weight management decisions in the kitchen instead.",
+        "format": "single",
+        "tags": [
+          "weight-loss",
+          "metabolism",
+          "myths"
+        ]
+      },
+      {
+        "id": "exercised-s04",
+        "hook": "Evolution never optimised you for health. It optimised you for grandchildren.",
+        "insight": "Natural selection favours whatever leads to more surviving offspring, which is not the same as whatever keeps you well at seventy. Traits that helped early on can cost you later, and features that made sense when food was scarce become liabilities when it is abundant. That is the origin of mismatch diseases: type 2 diabetes, heart disease and much else are not failures of your body's design but the design working as intended in an environment it never expected.",
+        "why": "Mismatch is a well-established framework in evolutionary medicine. It explains patterns rather than predicting individual outcomes, and it is easy to stretch into just-so stories if used carelessly.",
+        "apply": "Pick one modern comfort that removes physical effort from your day, such as the lift or the car for short trips, and reinstate the effort deliberately.",
+        "format": "single",
+        "tags": [
+          "evolution",
+          "mismatch",
+          "disease"
+        ]
+      },
+      {
+        "id": "exercised-s05",
+        "hook": "You are a mediocre sprinter and one of the best distance movers alive.",
+        "insight": "Against most mammals over a hundred metres we are embarrassing. Over twenty kilometres in the heat, we are exceptional, thanks to sweat glands, springy tendons and an upright frame that carries weight efficiently. Our muscle composition reflects the compromise: humans are built for economy and endurance rather than power. This is why untrained people can build endurance surprisingly fast and why strength has to be deliberately and patiently added.",
+        "why": "The comparative anatomy behind human endurance capacity is solid. Claims that we are therefore meant to run long distances are a step further than the evidence takes you.",
+        "apply": "Build an endurance base first with several months of easy walking or jogging, then add strength work, rather than attempting both at maximum effort.",
+        "format": "single",
+        "tags": [
+          "endurance",
+          "anatomy",
+          "running"
+        ]
+      },
+      {
+        "id": "exercised-s06",
+        "hook": "People without electric light do not sleep eight hours either.",
+        "insight": "Sleep records from three foraging societies without artificial lighting show nights of roughly six to seven hours, no consistent afternoon nap and very little of the insomnia that industrialised populations report. That does not mean sleep is unimportant. It means the specific claim that humans are naturally eight-hour sleepers who have been robbed by modernity is not supported by the people who live closest to the ancestral condition.",
+        "why": "This directly contradicts the more alarming versions of the modern sleep-crisis narrative. It is a small number of populations, so treat it as a genuine challenge to the eight-hour claim rather than as a settled replacement for it.",
+        "apply": "Judge your sleep by daytime alertness and mood over a fortnight rather than by whether you hit a target number of hours.",
+        "format": "single",
+        "tags": [
+          "sleep",
+          "myths",
+          "anthropology"
+        ]
+      },
+      {
+        "id": "exercised-s07",
+        "hook": "Wear and tear is the wrong model. Bodies repair what you use.",
+        "insight": "The intuition that a body is a machine with a finite mileage is backwards. Bone, cartilage, muscle and tendon respond to load by remodelling and strengthening, and they weaken when unloaded. Runners do not have more knee arthritis than non-runners, and lifelong activity is associated with better joint health, not worse. The real damage comes from sudden loads on unprepared tissue, and from long periods of doing nothing at all.",
+        "why": "Population studies consistently fail to find higher osteoarthritis rates in recreational runners, and several find lower rates. Elite-level volume and previous joint injury are genuinely different cases.",
+        "apply": "If a joint worries you, load it gradually and regularly under guidance instead of resting it indefinitely, which weakens the surrounding tissue further.",
+        "format": "single",
+        "tags": [
+          "joints",
+          "ageing",
+          "myths"
+        ]
+      },
+      {
+        "id": "exercised-s08",
+        "hook": "Humans are the ape that stays useful for decades after fertility ends.",
+        "insight": "Unusually among animals, humans live long past their reproductive years and stay physically productive, gathering food and caring for grandchildren. Physical activity in later life is therefore not an unnatural strain on a body meant to wind down. It is the condition the later decades were built around. Activity in old age drives the repair and maintenance processes that keep muscle, bone and brain functioning, which is why stopping is what accelerates the decline.",
+        "why": "The grandmother hypothesis is a well-argued but still debated account of human longevity. The narrower claim, that continued activity preserves function in older adults, is strongly supported by trial evidence.",
+        "apply": "Add two short resistance sessions a week, whatever your age, and prioritise the movements that keep you able to stand, carry and climb unaided.",
+        "format": "single",
+        "tags": [
+          "ageing",
+          "longevity",
+          "strength"
+        ]
+      },
+      {
+        "id": "exercised-s09",
+        "hook": "Something is much better than nothing, and more is a little better again.",
+        "insight": "The relationship between activity and mortality risk is a curve that drops sharply at the start and then flattens. Moving from doing nothing to doing a modest amount buys most of the benefit available. Going from moderate to very high volumes adds a smaller amount, and at extreme levels the returns essentially disappear. The practical message is unglamorous: the guideline figure of a couple of hours of moderate activity a week is a floor worth reaching, not an ideal to feel inadequate about.",
+        "why": "This dose-response shape is one of the most consistently replicated findings in physical activity epidemiology, though observational data cannot fully separate activity from the health that permits it.",
+        "apply": "Count your current weekly minutes of moderate activity honestly, then add a single half-hour session rather than redesigning your whole week.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Count what you already do",
+            "body": "Add up the minutes a week you spend moving hard enough to breathe faster. Walking to the station counts. Most people are further from zero than they assume."
+          },
+          {
+            "step": 2,
+            "title": "Add one session, not five",
+            "body": "Put a single extra half hour in the diary at a fixed time. The step from nothing to something is where nearly all the health benefit lives."
+          },
+          {
+            "step": 3,
+            "title": "Add strength once it holds",
+            "body": "After a month of consistent aerobic work, add two short resistance sessions. Strength and endurance protect different things and you want both."
+          },
+          {
+            "step": 4,
+            "title": "Stop chasing the extremes",
+            "body": "Beyond a moderate volume the curve flattens hard. Extra hours buy enjoyment and performance, not much extra life, so spend them only if you want to."
+          }
+        ],
+        "tags": [
+          "dose-response",
+          "guidelines"
+        ]
+      },
+      {
+        "id": "exercised-s10",
+        "hook": "The only exercise plan that works is one you are somehow obliged to do.",
+        "insight": "Since there is no instinct to draw on, the workable strategies are all external: making activity necessary to get somewhere, doing it with people who will notice your absence, competing, or picking something enjoyable enough to want. Discipline works for a minority for a while. Obligation and pleasure work for far more people for far longer. Choosing an activity you find tolerable but hate the culture of is a slower way of quitting.",
+        "why": "Adherence research consistently finds social commitment and enjoyment predict long-term participation better than knowledge of health benefits, which almost everyone already has.",
+        "apply": "Make one weekly session socially binding this month: a class you paid for, a training partner, or a team that plays whether you turn up or not.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Make it necessary",
+            "body": "Build movement into something you have to do anyway: the commute, the school run, the shopping. Necessity outlasts motivation by years."
+          },
+          {
+            "step": 2,
+            "title": "Make it social",
+            "body": "Arrange to meet someone. Letting a friend stand in the rain is a stronger force than any intention you set on a Sunday night."
+          },
+          {
+            "step": 3,
+            "title": "Make it enjoyable",
+            "body": "Pick the activity you would still do if it had no health benefit. Efficiency matters far less than whether you will be doing it in a year."
+          },
+          {
+            "step": 4,
+            "title": "Make it hard to skip",
+            "body": "Pay in advance, fix the time, lay the kit out. Remove every small decision that a tired version of you could reasonably lose."
+          }
+        ],
+        "tags": [
+          "adherence",
+          "motivation",
+          "habits"
+        ]
+      }
+    ],
+    "actions": [
+      "Count your honest weekly minutes of moderate activity, then add one fixed half-hour session rather than redesigning your entire week.",
+      "Convert one weekly session into a social or paid commitment that carries a real cost if you skip it.",
+      "Replace one labour-saving convenience with effort each day, such as stairs instead of the lift or walking short journeys.",
+      "Add two short resistance sessions a week focused on standing up, carrying and climbing, and keep them going into later life."
+    ],
+    "if_you_liked": [
+      "born-to-run",
+      "outlive",
+      "why-we-sleep"
+    ],
+    "not_for_you_if": "You want a training program or quick prescriptions. This is an anthropologist patiently explaining why most of what you have been told is oversimplified.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2020 by Pantheon. Sleep duration and sitting time comparisons draw on published field studies of a small number of foraging populations; the constrained energy expenditure model is noted here as still debated. All prose original."
+    }
+  },
+  {
+    "id": "roar",
+    "title": "Roar",
+    "subtitle": "How to Match Your Food and Fitness to Your Unique Female Physiology for Optimum Performance, Great Health, and a Strong, Lean Body for Life",
+    "author": "Stacy T. Sims",
+    "year": 2016,
+    "category": "health-fitness",
+    "subcategory": "female-physiology",
+    "tags": [
+      "womens-health",
+      "sports-nutrition",
+      "hormones",
+      "endurance",
+      "menopause",
+      "training"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 11,
+    "why_it_matters": "It forced a conversation sports science had avoided: most training and fuelling advice was built on studies of men and handed to women unchanged. Even where its specific prescriptions outrun the data, the question it raised was overdue.",
+    "crux": {
+      "headline": "Women are not small men, and the advice assumed they were",
+      "body": "Female physiology differs in heat regulation, fluid balance, fuel use and recovery, and those differences shift across a menstrual cycle and again through menopause. Most sports nutrition guidance was derived from male subjects and simply scaled down. The practical response is not a rival set of rigid rules but attention: fuel before hard work rather than after, take sex differences in heat and hydration seriously, and track your own responses rather than trusting a template built on somebody else's body."
+    },
+    "sparks": [
+      {
+        "id": "roar-s01",
+        "hook": "Most of the training advice you were given was tested on men.",
+        "insight": "Reviews of sports and exercise science journals keep finding the same pattern: female participants are a minority of those studied, and studies that do include women often fail to record where they were in their cycle. So guidance on fuelling, hydration, recovery and training load was largely derived from male bodies and then handed over unchanged. That does not make it all wrong. It does mean nobody actually checked.",
+        "why": "The underrepresentation is well documented across the sports science literature. What follows from it is uncertainty rather than a ready-made alternative, which is an important distinction this book sometimes blurs.",
+        "apply": "When you read a training or nutrition recommendation, check who was studied. If it does not say, treat the advice as a starting hypothesis for your own body.",
+        "format": "single",
+        "tags": [
+          "research-gap",
+          "womens-health"
+        ]
+      },
+      {
+        "id": "roar-s02",
+        "hook": "In the second half of your cycle, your body starts hotter and holds less water.",
+        "insight": "After ovulation, rising progesterone raises resting core temperature slightly, blood plasma volume tends to drop, and you lose more sodium in sweat. The practical effect is that hard sessions in heat feel harder, hydration needs shift, and the same workout can land differently two weeks apart. Knowing this does not make the session easier, but it does stop you concluding that you have lost fitness or become lazy overnight.",
+        "why": "The underlying physiology is real and measurable. Study samples are small, individual variation is large, and the effect on actual performance is smaller than the effect on how the effort feels.",
+        "apply": "Log how hard your sessions feel alongside the date in your cycle for three months, then look for your own pattern rather than assuming the average one.",
+        "format": "single",
+        "tags": [
+          "menstrual-cycle",
+          "thermoregulation",
+          "hydration"
+        ]
+      },
+      {
+        "id": "roar-s03",
+        "hook": "Cycle-based training plans are a good idea with disappointing evidence.",
+        "insight": "The proposal is intuitive: schedule your hardest work in the low-hormone phase and back off in the high-hormone one. When systematic reviews have gathered the studies, the evidence has come out low quality, inconsistent, and showing average performance differences across the cycle that are small at best. That does not mean your cycle is irrelevant to you personally. It means a rigid template applied to everyone is not yet supported, and your own log is better data.",
+        "why": "Reviews of menstrual cycle and exercise performance repeatedly report low-quality evidence and trivial average effects, with wide individual variation. This is the honest state of the field rather than a settled finding either way.",
+        "apply": "Instead of adopting a phase-based plan wholesale, track sessions and symptoms for three cycles and adjust only where your own data shows a repeatable pattern.",
+        "format": "single",
+        "tags": [
+          "menstrual-cycle",
+          "evidence",
+          "training"
+        ]
+      },
+      {
+        "id": "roar-s04",
+        "hook": "Training hard on empty is a strategy with a bill attached.",
+        "insight": "Fasted morning sessions are popular and, for easy work, mostly harmless. For hard work the argument is weaker: you produce less power, recovery is slower, and the hormonal disruption that comes with going long stretches underfuelled appears to affect women more readily. A small amount of protein and carbohydrate beforehand costs almost nothing and removes the question entirely.",
+        "why": "The claim that women tolerate fasting worse is plausible and supported mainly by small studies and mechanism rather than by large trials. The narrower advice, to fuel hard sessions, is standard sports nutrition.",
+        "apply": "Eat something small containing protein and carbohydrate within half an hour of waking on days with a hard session, even if you train fasted otherwise.",
+        "format": "single",
+        "tags": [
+          "fasting",
+          "fuelling",
+          "sports-nutrition"
+        ]
+      },
+      {
+        "id": "roar-s05",
+        "hook": "Recovery starts with what you eat in the half hour after you stop.",
+        "insight": "After a hard session your body is dismantling and rebuilding tissue, and it needs raw material to do it. Protein soon afterwards, with some carbohydrate, gives it that material while the machinery is still running fast. This matters most when you train often, when sessions are close together, and during periods of high volume, when the difference between adequate and insufficient recovery accumulates session by session rather than showing up on any single day.",
+        "why": "Post-exercise protein intake supports muscle protein synthesis reliably. The idea of a narrow anabolic window has been considerably softened by later research; total daily protein matters more than exact timing.",
+        "apply": "Keep a simple recovery option ready, such as yoghurt and fruit or a shake, and take it within half an hour of finishing hard sessions.",
+        "format": "single",
+        "tags": [
+          "recovery",
+          "protein",
+          "sports-nutrition"
+        ]
+      },
+      {
+        "id": "roar-s06",
+        "hook": "A sweet sports drink hydrates you slowly. That is basic physics.",
+        "insight": "Fluid leaves your stomach and crosses into the blood faster when the drink is not heavily concentrated with sugar. Standard sports drinks are built to deliver fuel, and the sugar concentration that does that job well slows the absorption of the water. If your problem is hydration in heat, you want a weaker drink with sodium in it, and you should take your carbohydrate separately as food or gel.",
+        "why": "The osmolality argument is sound physiology. Note the commercial context: the author co-founded a sports drink company built around exactly this formulation, so read the strength of the recommendation with that in mind.",
+        "apply": "On hot sessions over an hour, dilute your usual sports drink, add a pinch of salt, and take carbohydrate separately as food.",
+        "format": "single",
+        "tags": [
+          "hydration",
+          "heat",
+          "sports-nutrition"
+        ]
+      },
+      {
+        "id": "roar-s07",
+        "hook": "Underfuelling stops your period before it stops your performance.",
+        "insight": "Eating too little for the training you do puts the body into a conservation state. It reduces reproductive hormone signalling, weakens bone, disrupts sleep and mood, and eventually removes the menstrual cycle altogether. A missing period in an active woman is not a convenient side effect of being fit, it is a warning about energy availability, and the bone density lost during those years is difficult to recover.",
+        "why": "Low energy availability and its consequences for bone and menstrual function are among the better-established findings in female sports medicine. Loss of periods in athletes should always prompt medical assessment.",
+        "apply": "If your period has become irregular or stopped while training, see a doctor and treat total daily food intake as the first thing to increase, not the last.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Notice the quiet signals",
+            "body": "Persistent fatigue, poor sleep, frequent illness, stalled progress and cold hands often arrive before anything dramatic. Together they are a pattern, not bad luck."
+          },
+          {
+            "step": 2,
+            "title": "Treat a missing period as data",
+            "body": "An absent or irregular cycle in an active woman warrants a medical appointment. It is a physiological signal about energy availability, not a badge of training hard."
+          },
+          {
+            "step": 3,
+            "title": "Add food before cutting training",
+            "body": "The usual instinct is to train less. Increasing intake first is often the faster fix, because the deficit rather than the volume is what the body is responding to."
+          },
+          {
+            "step": 4,
+            "title": "Protect the bone",
+            "body": "Ask about bone density if this has gone on for months, and keep resistance and impact work in your week. Bone lost during low availability is slow to return."
+          }
+        ],
+        "tags": [
+          "energy-availability",
+          "bone-health",
+          "womens-health"
+        ]
+      },
+      {
+        "id": "roar-s08",
+        "hook": "Perimenopause changes the training that works, not whether it works.",
+        "insight": "As oestrogen declines, muscle and bone become harder to maintain, heat tolerance shifts and sleep is often disrupted. Steady moderate cardio, which many women increase at exactly this point, does the least for the problems that are actually arriving. Heavier resistance work, short high-intensity intervals and impact loading do more, because they target muscle mass and bone directly rather than general fitness.",
+        "why": "Resistance and impact training's protective effect on bone density and muscle mass in midlife women is well supported. The specific programming this book recommends is more prescriptive than the evidence strictly warrants.",
+        "apply": "Swap one moderate cardio session a week for heavy resistance work and add a few short sprints or jumps, then build from there over a couple of months.",
+        "format": "single",
+        "tags": [
+          "menopause",
+          "strength",
+          "bone-health"
+        ]
+      },
+      {
+        "id": "roar-s09",
+        "hook": "Hormonal contraception changes your physiology and probably not your performance.",
+        "insight": "Taking hormonal contraception flattens the natural hormonal cycle and replaces it with a different pattern, which affects the same systems: temperature, fluid balance, mood. When researchers have looked for effects on athletic performance, the results have been mixed and the average differences small. So it is worth knowing your own responses, and not worth choosing contraception on the basis of a promised performance edge.",
+        "why": "Reviews of hormonal contraception and exercise performance report small and inconsistent effects with substantial variation between individuals and between formulations. Contraceptive choice is a medical decision, not a training one.",
+        "apply": "If you are on hormonal contraception, track sessions across a full pack cycle before concluding anything, and take contraceptive decisions with a clinician.",
+        "format": "single",
+        "tags": [
+          "contraception",
+          "hormones",
+          "evidence"
+        ]
+      },
+      {
+        "id": "roar-s10",
+        "hook": "Your own three-month log beats every general guideline in this field.",
+        "insight": "Given how thin the research on female athletes still is, the most reliable data available about your body is the data you collect. A simple record of session quality, sleep, food, cycle day and how you felt will show you patterns within a few months that no general recommendation can. It also protects you from adopting confident advice that happens not to apply to you, which is the main risk in an area this under-studied.",
+        "why": "Individual variation across cycles, formulations and life stages is large, so group averages transfer poorly. Personal tracking is not scientific evidence, but it is the best decision tool you have here.",
+        "apply": "Start a one-line daily log today with cycle day, sleep hours, session quality out of five and one note, and review it after three cycles.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Keep it to one line",
+            "body": "Cycle day, hours slept, session quality out of five, one word about how you felt. A log you can complete in fifteen seconds is a log you will still keep in March."
+          },
+          {
+            "step": 2,
+            "title": "Do not change anything yet",
+            "body": "Spend the first cycle just recording. Adjusting while you measure gives you a record of your interventions rather than a picture of your baseline."
+          },
+          {
+            "step": 3,
+            "title": "Look for repeats, not events",
+            "body": "One bad session in a given phase means nothing. The same pattern in the same phase across three cycles is worth planning around."
+          },
+          {
+            "step": 4,
+            "title": "Change one thing per cycle",
+            "body": "Adjust fuelling, or timing, or intensity, never all three. One change per cycle is slow and it is the only version that tells you anything."
+          }
+        ],
+        "tags": [
+          "tracking",
+          "self-experimentation"
+        ]
+      }
+    ],
+    "actions": [
+      "Start a one-line daily log recording cycle day, sleep, session quality and a note, and review it for patterns after three full cycles.",
+      "Fuel every hard session with protein and carbohydrate beforehand for a month, and compare session quality against your fasted baseline.",
+      "Add two heavy resistance sessions a week and keep them through midlife, prioritising bone and muscle over general cardio volume.",
+      "If your period is irregular or absent while training, book a medical appointment and raise total daily food intake before reducing training."
+    ],
+    "if_you_liked": [
+      "outlive",
+      "exercised",
+      "why-we-sleep"
+    ],
+    "not_for_you_if": "You want cautious evidence weighting. Several recommendations are stated far more confidently than the current research supports, and the author has commercial interests in this space.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2016 by Rodale, written with Selene Yeager. Cycle-phase training claims are flagged here as resting on low-quality evidence per later systematic reviews, and the author's sports drink company is noted as a conflict of interest. All prose original."
+    }
+  },
+  {
+    "id": "good-energy",
+    "title": "Good Energy",
+    "subtitle": "The Surprising Connection Between Metabolism and Limitless Health",
+    "author": "Casey Means",
+    "year": 2024,
+    "category": "health-fitness",
+    "subcategory": "metabolic-health",
+    "tags": [
+      "metabolic-health",
+      "blood-sugar",
+      "nutrition",
+      "ultraprocessed-food",
+      "prevention"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 11,
+    "why_it_matters": "It took metabolic health out of the diabetes clinic and made it a mainstream concern, complete with continuous glucose monitors on people who have no disease. The underlying point is sound; the confidence and the commercial context both need reading carefully.",
+    "crux": {
+      "headline": "One problem sits underneath many separate diagnoses",
+      "body": "Heart disease, type 2 diabetes, fatty liver, some cognitive decline and several other conditions share a set of upstream disturbances in how the body handles fuel. Medicine tends to treat each downstream diagnosis in a different department with a different drug. Looking at the shared metabolic ground first is a genuinely useful reframe. Where the argument overreaches is in presenting that shared ground as the single root cause of almost everything."
+    },
+    "sparks": [
+      {
+        "id": "good-energy-s01",
+        "hook": "Five specialists, five diagnoses, one problem nobody is treating.",
+        "insight": "A person with high blood pressure, rising blood sugar, poor cholesterol markers, a fatty liver and low energy will often be sent to five different clinics and given four different prescriptions. Those conditions cluster because they share upstream causes in how the body stores and burns fuel. Treating the cluster as one problem rather than five is a reasonable clinical instinct, and it is the strongest idea here.",
+        "why": "Metabolic syndrome as a cluster of co-occurring risk factors is well established. The stronger claim, that metabolic dysfunction is the root cause of nearly all chronic disease, goes considerably beyond the evidence.",
+        "apply": "Write your own health markers and diagnoses on one page and look at them together, then take that page to one doctor rather than five.",
+        "format": "single",
+        "tags": [
+          "metabolic-syndrome",
+          "prevention"
+        ]
+      },
+      {
+        "id": "good-energy-s02",
+        "hook": "By strict criteria, most adults are not metabolically healthy.",
+        "insight": "A widely cited analysis of American national survey data found only a small minority of adults met all five standard markers at once: blood sugar, blood pressure, triglycerides, good cholesterol and waist size, without medication. That figure is startling and it depends heavily on the strictness of the criteria used. Loosen them and the picture improves considerably. Either way, the point stands that being free of a diagnosis is not the same as being well.",
+        "why": "The often-quoted figure comes from one analysis with demanding thresholds; other criteria give substantially different numbers. Treat it as a signal about the population rather than a precise fact.",
+        "apply": "Look up your last blood test and check yourself against all five markers at once, rather than against whichever single number your doctor mentioned.",
+        "format": "single",
+        "tags": [
+          "metabolic-health",
+          "screening",
+          "evidence"
+        ]
+      },
+      {
+        "id": "good-energy-s03",
+        "hook": "The tests that would tell you most are not the ones you are given.",
+        "insight": "A standard checkup often measures fasting glucose and total cholesterol, both of which stay normal until a problem is well advanced. Markers that move earlier include fasting insulin, triglycerides relative to good cholesterol, long-term glucose averages and waist measurement. None of these are exotic or expensive. They are simply not routine, which means the early years of a slow problem often go unrecorded.",
+        "why": "Fasting glucose rises late in the process because the body compensates by producing more insulin for years first. That is why insulin-related markers can flag a trend that glucose alone will miss.",
+        "apply": "At your next appointment, ask specifically about fasting insulin, triglycerides, HDL and HbA1c together, and keep the results to compare year on year.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Ask for the full set",
+            "body": "Request fasting glucose, fasting insulin, HbA1c, triglycerides and HDL cholesterol in one draw, so you are looking at a pattern rather than a single number."
+          },
+          {
+            "step": 2,
+            "title": "Add the free measurements",
+            "body": "Waist circumference and blood pressure cost nothing and carry real information. Measure both at home and write them next to the blood results."
+          },
+          {
+            "step": 3,
+            "title": "Read them as a group",
+            "body": "One borderline value means little. Several drifting in the same direction over two years is the signal worth acting on, and it is only visible if you keep the records."
+          },
+          {
+            "step": 4,
+            "title": "Repeat on a schedule",
+            "body": "Book the same panel annually and keep the results in one file. The trend across years tells you far more than any single reading ever will."
+          }
+        ],
+        "tags": [
+          "blood-tests",
+          "screening",
+          "prevention"
+        ]
+      },
+      {
+        "id": "good-energy-s04",
+        "hook": "Chronic tiredness is a metabolic symptom often treated as a mood.",
+        "insight": "Every cell makes its usable energy in mitochondria, and how well that process runs depends on fuel supply, sleep, movement and inflammation. When the system is under strain, the earliest complaints are vague: fatigue, brain fog, poor recovery, low mood. Because they are vague they get attributed to stress or age and never investigated. The reframe is worth having even though the mechanism is far easier to describe than to measure.",
+        "why": "Mitochondrial function is a real and important area of biology, but it cannot be assessed directly in a clinic. Attributing specific everyday symptoms to it is a plausible story rather than a demonstrated chain.",
+        "apply": "If you have been tired for months, ask for metabolic markers alongside the usual thyroid and iron tests instead of accepting stress as the explanation.",
+        "format": "single",
+        "tags": [
+          "fatigue",
+          "mitochondria",
+          "symptoms"
+        ]
+      },
+      {
+        "id": "good-energy-s05",
+        "hook": "Wearing a glucose monitor changes what you eat. That is most of its value.",
+        "insight": "Strapping on a continuous monitor makes an invisible process visible, and people respond by eating differently: fewer sweet drinks, more walking after meals, better attention to sleep. That behavioural effect is real. What has not been shown is that using one improves health outcomes in people without diabetes, and the readings are noisy enough that two sensors on the same person can disagree.",
+        "why": "There is little outcome evidence for continuous glucose monitoring in people without diabetes, and a genuine risk of anxious over-interpretation. The author co-founded a company selling exactly this product, which is worth holding in mind.",
+        "apply": "If you try a monitor, treat it as a two-week educational exercise with specific questions, then take the habits it taught you and remove the device.",
+        "format": "single",
+        "tags": [
+          "cgm",
+          "tracking",
+          "conflict-of-interest"
+        ]
+      },
+      {
+        "id": "good-energy-s06",
+        "hook": "In a controlled trial, ultraprocessed food made people eat hundreds more calories.",
+        "insight": "Volunteers lived in a research unit and ate either ultraprocessed or minimally processed meals matched for sugar, fat, fibre and salt, with unlimited amounts on offer. On the ultraprocessed diet they ate around five hundred more calories a day and gained weight. The composition was not the difference. Something about the food itself, its texture, its energy density and how fast it is eaten, changed how much people consumed without noticing.",
+        "why": "This is one of the few tightly controlled inpatient feeding trials in nutrition, though it was small and short. It supports processing as a causal factor rather than only a correlate.",
+        "apply": "Replace one ultraprocessed item a week with a version you assemble yourself, starting with whatever you eat most often rather than what you eat rarely.",
+        "format": "single",
+        "tags": [
+          "ultraprocessed-food",
+          "diet",
+          "evidence"
+        ]
+      },
+      {
+        "id": "good-energy-s07",
+        "hook": "A ten minute walk after dinner does more than most supplements.",
+        "insight": "Muscle can take glucose out of the blood while it is contracting without needing much insulin to do it. So light movement in the half hour after eating flattens the rise that follows a meal, and it works with almost no effort. Eating fibre and protein before the starchy part of a meal has a similar smoothing effect. These are small, dull, free interventions and they are considerably better evidenced than anything sold in a bottle.",
+        "why": "Post-meal walking reliably lowers glucose excursions in controlled studies, and food order effects have been replicated in people with and without diabetes. Long-term outcome data is thinner.",
+        "apply": "Walk for ten minutes after your largest meal every day this week, and eat the vegetables and protein on your plate before the starch.",
+        "format": "single",
+        "tags": [
+          "blood-sugar",
+          "walking",
+          "habits"
+        ]
+      },
+      {
+        "id": "good-energy-s08",
+        "hook": "One bad night makes your body handle sugar like a different person's.",
+        "insight": "Sleep restriction reduces insulin sensitivity measurably, sometimes after only a few nights. So does chronic psychological stress, through a different route. This is why metabolic health cannot be treated as a diet problem alone: someone eating carefully on five hours of sleep is fighting their own physiology. It also means the cheapest available intervention for many people is not a change to the plate but a change to the bedtime.",
+        "why": "Experimental sleep restriction lowering insulin sensitivity in healthy adults is a well-replicated laboratory finding, though most studies are short and involve fairly severe restriction.",
+        "apply": "Before changing your diet again, spend two weeks protecting a consistent sleep window and see what happens to your energy and your appetite.",
+        "format": "single",
+        "tags": [
+          "sleep",
+          "stress",
+          "insulin"
+        ]
+      },
+      {
+        "id": "good-energy-s09",
+        "hook": "A system paid to treat disease will not be organised around preventing it.",
+        "insight": "Medical training, appointment lengths, billing codes and drug approval are all built around treating identifiable conditions. Prevention has no billing code, no specialty and no eight-minute consultation format. That structural critique explains a great deal about why upstream causes get skipped, and it is fair. It is also delivered here with a broad brush that sweeps in a good deal of medicine that is working, which weakens rather than strengthens the case.",
+        "why": "Incentive critiques of healthcare systems are legitimate and widely shared within medicine itself. Read this version knowing its authors have commercial and advocacy interests in the alternative being proposed.",
+        "apply": "Book one appointment whose only purpose is prevention, bring your own list of markers, and do not use it to discuss an existing complaint.",
+        "format": "single",
+        "tags": [
+          "healthcare",
+          "prevention",
+          "incentives"
+        ]
+      },
+      {
+        "id": "good-energy-s10",
+        "hook": "The gadget is the interesting part. The boring habits are the effective part.",
+        "insight": "Strip away the monitors, the panels and the mitochondrial language and what remains is a short list: eat mostly food you recognise, move regularly and especially after meals, sleep consistently, keep muscle on your frame, and get a few markers checked over time. None of that requires a device or a subscription. The technology is useful mainly for making the list feel urgent enough to act on.",
+        "why": "Every large-scale intervention that has actually reduced metabolic disease has rested on these basics. Testing and monitoring inform decisions but do not substitute for the behaviours themselves.",
+        "apply": "Choose the one item from that list you are furthest from and work only on it for a month before adding tests, devices or supplements.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Fix the food you eat most",
+            "body": "Change your default breakfast or lunch, not your rare treats. The meal you repeat five times a week is where nearly all the leverage sits."
+          },
+          {
+            "step": 2,
+            "title": "Attach movement to meals",
+            "body": "Ten minutes of walking after the largest meal of the day. It is small enough to keep and it targets exactly the moment that matters most."
+          },
+          {
+            "step": 3,
+            "title": "Defend the sleep window",
+            "body": "A consistent bedtime does more for how your body handles fuel than any supplement in the book. Treat it as a metabolic intervention, because it is one."
+          },
+          {
+            "step": 4,
+            "title": "Measure yearly, not hourly",
+            "body": "Get the same blood panel once a year and compare the trend. Continuous monitoring mostly produces anxiety; an annual line on a chart produces decisions."
+          }
+        ],
+        "tags": [
+          "habits",
+          "prevention",
+          "simplicity"
+        ]
+      }
+    ],
+    "actions": [
+      "Ask your doctor for fasting glucose, fasting insulin, HbA1c, triglycerides and HDL in one panel, and keep the results to compare each year.",
+      "Walk for ten minutes after your largest meal every day for a month and note the effect on afternoon energy.",
+      "Identify the one ultraprocessed item you eat most often and replace it with something you assemble yourself.",
+      "Protect a consistent sleep window for two weeks before making any further changes to your diet."
+    ],
+    "if_you_liked": [
+      "outlive",
+      "the-obesity-code",
+      "why-we-sleep"
+    ],
+    "not_for_you_if": "You are wary of single-cause explanations for complex disease, or of health advice from an author who sells the monitoring product the book recommends.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2024 by Avery, written with Calley Means. The metabolic health prevalence figure and the ultraprocessed food trial are real published findings, described here without invented numbers where uncertain. The author's role as co-founder of a glucose monitoring company is flagged in the text. All prose original."
+    }
+  },
+  {
+    "id": "the-obesity-code",
+    "title": "The Obesity Code",
+    "subtitle": "Unlocking the Secrets of Weight Loss",
+    "author": "Jason Fung",
+    "year": 2016,
+    "category": "health-fitness",
+    "subcategory": "weight-management",
+    "tags": [
+      "weight-loss",
+      "fasting",
+      "insulin",
+      "diet",
+      "metabolism",
+      "obesity"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 11,
+    "why_it_matters": "It moved the conversation about obesity from willpower to physiology and made intermittent fasting mainstream. Its central mechanism is contested and its reframing of hunger as a hormonal signal rather than a character flaw has held up well.",
+    "crux": {
+      "headline": "Your body defends a weight, and that is the real opponent",
+      "body": "Cutting calories works for a while, then the body responds: hunger rises, energy expenditure falls, and the lost weight comes back in most people. That response is physiological rather than a failure of resolve, which is why advice to simply eat less has such a poor long-term record. Where this book goes further than the evidence is in naming insulin as the single cause. The defended weight is real; the explanation for it is still argued over."
+    },
+    "sparks": [
+      {
+        "id": "the-obesity-code-s01",
+        "hook": "Regaining weight is not a failure of willpower. It is a defended system.",
+        "insight": "After significant weight loss, hunger hormones rise, fullness signals weaken, and the body burns fewer calories than its new size predicts. Those changes persist for years, not weeks. That is why the same person can lose thirty pounds twice and regain it twice while doing nothing differently in character. Understanding it does not make weight loss easy, but it does remove the blame, and it changes what a sustainable plan has to be designed against.",
+        "why": "Long-term follow-up of people who lost large amounts of weight has documented persistent metabolic slowing and elevated hunger hormones years afterwards. It is a small body of evidence but a consistent one.",
+        "apply": "Choose an approach you could still be doing in three years, and judge any diet by how you feel in month six rather than by what happens in week two.",
+        "format": "single",
+        "tags": [
+          "metabolic-adaptation",
+          "weight-regain",
+          "hunger"
+        ]
+      },
+      {
+        "id": "the-obesity-code-s02",
+        "hook": "Eat less and move more is correct arithmetic and terrible instructions.",
+        "insight": "Energy balance is not in doubt, but treating it as advice ignores that both sides of the equation adjust. Eat less and your body spends less, moves less unconsciously and generates more hunger. Move more and appetite tends to rise to meet it. So the instruction is technically true and practically hopeless, which is why decades of giving it have not worked. The useful questions are about what regulates appetite and expenditure, not about the arithmetic.",
+        "why": "Compensation on both sides of the energy balance equation is well documented. Note that this argues against the advice being useful, not against the physics, which the book sometimes blurs.",
+        "apply": "Stop setting a calorie target as your primary lever. Change what you eat and when you eat first, and let intake fall as a consequence.",
+        "format": "single",
+        "tags": [
+          "calories",
+          "appetite",
+          "myths"
+        ]
+      },
+      {
+        "id": "the-obesity-code-s03",
+        "hook": "The insulin explanation is elegant, popular and only partly supported.",
+        "insight": "The argument is that refined carbohydrate raises insulin, insulin promotes fat storage, and so carbohydrate rather than calories drives obesity. It explains a lot in one move, which is part of its appeal. When it has been tested directly, by feeding people carefully matched diets in metabolic wards, the predicted fat loss advantage for low-carbohydrate eating has generally not appeared, or has been far smaller than the model requires.",
+        "why": "The carbohydrate-insulin model is a genuine scientific debate, not a fringe position, but the controlled feeding studies designed to test its core prediction have mostly failed to support it. Treat it as contested.",
+        "apply": "Judge a way of eating by whether it keeps you full and is repeatable for years, not by which macronutrient theory it is built on.",
+        "format": "single",
+        "tags": [
+          "insulin",
+          "carbohydrate",
+          "evidence",
+          "contested"
+        ]
+      },
+      {
+        "id": "the-obesity-code-s04",
+        "hook": "How often you eat may matter more than how much is on the plate.",
+        "insight": "The advice to eat six small meals a day spread eating across almost every waking hour. Reducing the number of eating occasions, rather than shrinking each one, is easier for many people because it removes decisions instead of adding restraint at every one of them. Three meals with nothing in between is a rule you can follow while distracted, which is when most unplanned eating actually happens.",
+        "why": "Studies matching total calories find little metabolic difference from meal frequency itself. The benefit is behavioural: fewer eating occasions usually means less total intake without conscious restriction.",
+        "apply": "Cut to three eating occasions a day with nothing in between for two weeks, without changing what those meals contain.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Count your eating occasions",
+            "body": "For three days, note every time you eat or drink anything with calories. Most people find several more occasions than they expected, mostly unplanned."
+          },
+          {
+            "step": 2,
+            "title": "Remove the smallest ones first",
+            "body": "Start with the grazing that carries no enjoyment: the biscuit by the kettle, the handful from a colleague's desk. You will not miss what you barely noticed."
+          },
+          {
+            "step": 3,
+            "title": "Keep the meals intact",
+            "body": "Do not shrink the three meals while removing the snacks, or you create a deficit large enough to trigger genuine hunger and a rebound within a fortnight."
+          },
+          {
+            "step": 4,
+            "title": "Hold it for two weeks",
+            "body": "Appetite adjusts to a new eating rhythm over roughly ten days. Judge this after two weeks, not on the third afternoon when the old pattern is still expecting food."
+          }
+        ],
+        "tags": [
+          "meal-frequency",
+          "snacking",
+          "habits"
+        ]
+      },
+      {
+        "id": "the-obesity-code-s05",
+        "hook": "Fasting is not starving. The difference is whether you chose it.",
+        "insight": "Going without food for a defined period is a deliberate, reversible tool with a long history in most cultures. The body has well-developed machinery for it: it shifts fuel sources, protects protein reasonably well over short periods, and hunger typically comes in waves rather than rising continuously. That said, the strong claims made for fasting's unique metabolic advantages run ahead of the trials, which mostly show it performing about as well as ordinary calorie restriction.",
+        "why": "Trials comparing intermittent fasting to continuous calorie restriction generally find similar weight loss. Where fasting wins, it is usually because a particular person finds it easier to stick to, which is a real advantage.",
+        "apply": "Try one twelve to fourteen hour overnight window for a fortnight before attempting anything longer, and stop if it drives evening bingeing.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Check whether it is safe for you",
+            "body": "Speak to a doctor first if you take medication for diabetes or blood pressure, are pregnant or breastfeeding, or have any history of disordered eating. This is not optional."
+          },
+          {
+            "step": 2,
+            "title": "Start with the overnight gap",
+            "body": "Twelve to fourteen hours from your last bite to your first is a genuine fast and requires no heroics. Most people achieve it by removing evening snacking alone."
+          },
+          {
+            "step": 3,
+            "title": "Keep drinking and keep salt",
+            "body": "Water, tea and coffee are fine. Headaches and light-headedness during longer fasts are usually about fluid and salt rather than about food."
+          },
+          {
+            "step": 4,
+            "title": "Watch what happens afterwards",
+            "body": "If fasting is followed by uncontrolled eating, it is not working for you regardless of the theory. Adherence you can sustain beats any protocol you cannot."
+          }
+        ],
+        "tags": [
+          "fasting",
+          "practice",
+          "safety"
+        ]
+      },
+      {
+        "id": "the-obesity-code-s06",
+        "hook": "The low-fat advice of the eighties was adopted on remarkably thin evidence.",
+        "insight": "Whole populations were told to cut fat before any large trial had shown that doing so improved outcomes. When one of the biggest dietary trials ever run eventually tested a low-fat pattern in tens of thousands of women over years, it produced little weight change and no clear cardiovascular benefit. That history is a lesson about the confidence of dietary advice generally, including the confidence of the advice replacing it.",
+        "why": "The trial result is real and is one of the strongest arguments against the specific low-fat prescription. Applying the same scepticism to low-carbohydrate claims, as this book does not always do, is the consistent position.",
+        "apply": "Ask of any dietary rule you follow, including your current one, which trial actually tested it and what that trial found.",
+        "format": "single",
+        "tags": [
+          "nutrition-history",
+          "evidence",
+          "low-fat"
+        ]
+      },
+      {
+        "id": "the-obesity-code-s07",
+        "hook": "Sugar in whole fruit and sugar in a drink do not behave the same way.",
+        "insight": "Fibre, water and structure change how fast sugar arrives in the bloodstream and how full you feel afterwards. An apple takes minutes to eat and slows its own absorption. The same sugar in liquid form arrives quickly, delivers no fullness and is easy to consume repeatedly. This is the least controversial part of the book's argument and the one worth acting on regardless of what you conclude about insulin.",
+        "why": "Sugar-sweetened beverages are associated with weight gain more consistently than solid sugar sources, and their lack of effect on satiety is well demonstrated in feeding studies.",
+        "apply": "Remove sugar-sweetened drinks entirely for a month, replacing them with water, tea or coffee, and change nothing else about what you eat.",
+        "format": "single",
+        "tags": [
+          "sugar",
+          "fructose",
+          "drinks"
+        ]
+      },
+      {
+        "id": "the-obesity-code-s08",
+        "hook": "Obesity develops over twenty years. Most studies run for twelve weeks.",
+        "insight": "Weight is gained slowly, often at a rate too small to notice in any given month, and the physiology that maintains it takes years to establish. Almost all diet research runs for a few months, which means it measures the easy early phase and stops before the difficult part. That mismatch explains why so many approaches look impressive in trials and disappoint in life, and why any plan should be judged over years.",
+        "why": "Short trial durations are a genuine and widely acknowledged limitation in obesity research. Long-term data is scarce because it is expensive and participants drop out, not because it was found to be unnecessary.",
+        "apply": "Set your review date twelve months out, not twelve weeks, and record only monthly averages so that short-term noise cannot make the decision for you.",
+        "format": "single",
+        "tags": [
+          "evidence",
+          "long-term",
+          "research"
+        ]
+      },
+      {
+        "id": "the-obesity-code-s09",
+        "hook": "Sleep loss and stress make the same diet harder to follow.",
+        "insight": "Short sleep raises appetite hormones and increases the pull of energy-dense food, and chronic stress does something similar by another route. So two people on identical eating plans can have entirely different experiences of hunger depending on what the rest of their week looks like. Attacking food alone while sleeping five hours is choosing the hardest possible version of the problem.",
+        "why": "The effects of sleep restriction on appetite regulation are well replicated in laboratory studies. How much of everyday overeating they explain outside the lab is less clear.",
+        "apply": "Add an hour to your sleep window for two weeks before making any further change to your diet, and note whether evening cravings shift.",
+        "format": "single",
+        "tags": [
+          "sleep",
+          "stress",
+          "appetite"
+        ]
+      },
+      {
+        "id": "the-obesity-code-s10",
+        "hook": "Keep the reframe. Hold the mechanism loosely.",
+        "insight": "Two things can be true. Treating obesity as a regulated physiological condition rather than a moral failing is correct, humane and better supported every year. Attributing the whole of it to one hormone is a simplification that controlled studies have not backed. Take the first, which changes how you treat yourself and others, and stay agnostic about the second, which is still being argued over by people running the actual experiments.",
+        "why": "Single-cause explanations are attractive precisely because they are easy to act on. Obesity involves genetics, environment, food supply, sleep, medication, socioeconomics and behaviour, and no one factor accounts for it.",
+        "apply": "Pick the eating pattern you can sustain longest rather than the one with the best theory attached, and reassess it honestly after a year.",
+        "format": "single",
+        "tags": [
+          "contested",
+          "critical-thinking",
+          "obesity"
+        ]
+      }
+    ],
+    "actions": [
+      "Count your eating occasions for three days without changing anything, then remove the unplanned ones while leaving your meals intact.",
+      "Remove sugar-sweetened drinks entirely for a month and change nothing else, so you can see what that one variable does.",
+      "If you want to try fasting, speak to a doctor first if you take medication or have any history of disordered eating, then start with an overnight window only.",
+      "Set a twelve month review date for whatever eating pattern you adopt, and record monthly averages rather than daily weights."
+    ],
+    "if_you_liked": [
+      "good-energy",
+      "outlive",
+      "why-we-sleep"
+    ],
+    "not_for_you_if": "You want balanced coverage of a contested area. The core insulin argument is presented as settled when controlled feeding studies have largely failed to support it.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2016 by Greystone Books. The carbohydrate-insulin model at the centre of the book is flagged throughout as contested and not supported by controlled feeding trials; fasting is described as roughly equivalent to continuous calorie restriction in trials. Medical caution included. All prose original."
+    }
+  }
+]

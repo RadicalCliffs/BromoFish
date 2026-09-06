@@ -1,0 +1,2615 @@
+[
+  {
+    "id": "first-break-all-the-rules",
+    "title": "First, Break All the Rules",
+    "subtitle": "What the World's Greatest Managers Do Differently",
+    "author": "Marcus Buckingham and Curt Coffman",
+    "year": 1999,
+    "category": "leadership-management",
+    "subcategory": "people-management",
+    "tags": [
+      "management",
+      "employee-engagement",
+      "strengths",
+      "hiring",
+      "team-performance",
+      "promotion"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "It moved the argument about good workplaces off company policy and onto the individual manager, and left behind a short engagement survey that thousands of firms still run every year. Strengths-based management starts here.",
+    "crux": {
+      "headline": "The manager, not the company, is the workplace",
+      "body": "Pay, perks and mission statements are decided far above you and they barely shift how a person feels about their week. What shifts it is the person they report to: whether expectations are clear, whether the work uses what they are genuinely good at, whether anyone notices when it goes well. The managers who get the best numbers break the standard advice. They treat people unequally, hire for wiring rather than credentials, and spend their best hours on their strongest performers."
+    },
+    "sparks": [
+      {
+        "id": "first-break-all-the-rules-s01",
+        "hook": "People join a company. They quit the person they report to.",
+        "insight": "Ask someone what makes a job good and they name salary, brand and benefits. Watch how they actually feel week to week and something far more local is doing the work: whether their immediate boss sets clear expectations, notices good output and puts them on tasks that suit them. Two teams inside the same firm, on identical pay and identical policy, routinely report opposite experiences of the same employer. The company sets the conditions. The manager sets the weather inside them.",
+        "why": "This rests on very large employee surveys, so it shows association rather than proof of cause, and the slogan has been flattened by repetition. Even so, the size of the gap between teams in one company is hard to explain any other way.",
+        "apply": "Score your own team on one question this week: does each person know exactly what a good outcome looks like? Ask them out loud, do not assume you already know.",
+        "format": "single",
+        "tags": [
+          "management",
+          "engagement"
+        ]
+      },
+      {
+        "id": "first-break-all-the-rules-s02",
+        "hook": "The best managers break their own company's rules on purpose.",
+        "insight": "Standard management doctrine says treat everyone the same, promote the strong, and fix the weak. Managers whose teams consistently outperform tend to do the reverse on all three. They select for something they cannot train, agree on the result rather than the route, build on what a person is already unusually good at, and keep excellent people in the seat that fits instead of pushing them up a ladder. None of this is soft. It is a different theory of where performance comes from.",
+        "why": "The four moves share one assumption: people change far less than management systems pretend, so the leverage is in placement and framing rather than in remediation programmes.",
+        "apply": "Take one person on your team and write which of the four you are neglecting with them. Fix only that one over the next month.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Hire for the wiring",
+            "body": "Experience and knowledge can be added later. The way a person naturally thinks, what pulls their attention, what they do when nobody assigns anything: that arrives with them and rarely moves."
+          },
+          {
+            "step": 2,
+            "title": "Agree the destination",
+            "body": "Say what finished looks like and which few constraints are non-negotiable. Then stop specifying the route. Different people reach the same result by roads you would not have chosen."
+          },
+          {
+            "step": 3,
+            "title": "Build on the strong side",
+            "body": "Time spent lifting someone from poor to adequate buys less than the same time spent taking them from good to remarkable. Manage around the weakness instead of trying to erase it."
+          },
+          {
+            "step": 4,
+            "title": "Cast, do not promote",
+            "body": "The right move is often sideways into a role that fits better, not upward into one that fits worse. Make sideways moves respectable and well paid or nobody will accept one."
+          }
+        ],
+        "tags": [
+          "management",
+          "strengths",
+          "hiring"
+        ]
+      },
+      {
+        "id": "first-break-all-the-rules-s03",
+        "hook": "You can teach a skill. You cannot teach someone to enjoy the work.",
+        "insight": "Skills and knowledge transfer easily. You can show a person how to run a report, and you can send them on a course. What does not transfer is the recurring pattern underneath: what they notice first in a room, what they find satisfying, what they do without being asked. A recruiter who genuinely enjoys other people's stories will outlast one who has merely learned the interview script. So train the skill and select for the pattern, because you only get to choose the pattern once.",
+        "why": "The hard line between trainable and untrainable is overstated, and plenty does change with deliberate practice. But motivational patterns are stable enough over years that selection beats remediation on cost alone.",
+        "apply": "Add one interview question about unpaid behaviour: what did they build, organise or read about when no manager asked them to, in the last year?",
+        "format": "single",
+        "tags": [
+          "hiring",
+          "talent"
+        ]
+      },
+      {
+        "id": "first-break-all-the-rules-s04",
+        "hook": "Define the destination. Let people find their own road to it.",
+        "insight": "Standardising the steps is right where safety, law or a customer promise demands it. Everywhere else it quietly destroys value. Each person reaches a result along a route shaped by how they think, and forcing your route onto them costs you supervision time and costs them ownership. The manager's job is to be exact about the outcome, exact about the handful of things that are genuinely non-negotiable, and vague on purpose about everything in between.",
+        "why": "People execute a plan they authored more reliably than one they were handed, and route supervision does not scale past a handful of reports. The exception is any process where variation itself is the danger.",
+        "apply": "Take one process document you own and cut it down to the outcome plus the three real constraints. Delete the rest and see what breaks.",
+        "format": "single",
+        "tags": [
+          "delegation",
+          "outcomes"
+        ]
+      },
+      {
+        "id": "first-break-all-the-rules-s05",
+        "hook": "Fixing what someone is bad at usually produces an average version of them.",
+        "insight": "Most performance reviews are shaped like a deficit report. You list the gaps, agree a plan, and spend the year hauling someone from weak to acceptable. The return is small and the person is miserable. The same attention spent on what they are already unusually good at compounds, because they learn faster there and enjoy it more. Weaknesses still matter, but the move is to design around them: a partner, a checklist, a different slice of the job.",
+        "why": "Honest caveat: the strengths industry that grew from this book sells assessments with thin independent validation, and some weaknesses genuinely disqualify. Manage around a weakness openly rather than pretending it does not exist.",
+        "apply": "In your next one to one, spend the first fifteen minutes on what went unusually well and how to get more of that work onto their desk.",
+        "format": "single",
+        "tags": [
+          "strengths",
+          "feedback",
+          "performance"
+        ]
+      },
+      {
+        "id": "first-break-all-the-rules-s06",
+        "hook": "The golden rule is surprisingly bad management advice.",
+        "insight": "Treating everyone as you would want to be treated only works if everyone is you. One person wants praise in front of the team, another finds that excruciating and would rather be handed a harder problem. One wants a weekly check-in, another reads the same meeting as surveillance. Uniform treatment feels fair and lands unevenly. Deliberate unevenness, openly explained, is what people actually experience as being known.",
+        "why": "Recognition and autonomy only work as motivators when they match what the person values. A reward the recipient does not want carries no signal, and can read as a misunderstanding of who they are.",
+        "apply": "Ask each report two questions: how do you like to be recognised, and what do you want to be better at a year from now? Write the answers down.",
+        "format": "single",
+        "tags": [
+          "motivation",
+          "one-on-ones"
+        ]
+      },
+      {
+        "id": "first-break-all-the-rules-s07",
+        "hook": "Most managers spend their week on their weakest people. That is backwards.",
+        "insight": "Attention flows to whatever is on fire, so the struggling performer gets hours and the quiet excellent one gets a nod in the corridor. Flip it. Your strongest people have the most headroom, they convert coaching into output fastest, and they are the only live specification you have of what excellent looks like in your particular job. Neglect them long enough and they leave, taking the standard with them.",
+        "why": "This holds where performance is heavily skewed and weakly where the job is standardised and the struggler is genuinely fixable. It also looks unfair unless you say the logic out loud, so say it.",
+        "apply": "Look at last week's calendar and total the hours per person. If your top performer got the least of you, move an hour this week.",
+        "format": "single",
+        "tags": [
+          "management",
+          "time-allocation"
+        ]
+      },
+      {
+        "id": "first-break-all-the-rules-s08",
+        "hook": "Promoting your best engineer is often how you lose your best engineer.",
+        "insight": "Organisations offer one currency for excellence: a rung. So the finest craftsperson gets handed a job made of scheduling, staffing and conflict, and both the craft and the team suffer. The fix is structural rather than motivational. Make it possible to earn more money, more status and more say without changing what you are good at, and the ladder stops eating your specialists. If the only respectable direction is up, everyone eventually leaves the work they were best at.",
+        "why": "Research on sales organisations has found that firms tend to promote their strongest sellers and that those sellers then manage worse than colleagues who sold less. The pattern is real, not folklore.",
+        "apply": "Write down what your best individual contributor would have to give up to earn a raise. If the answer is their craft, redesign the pay bands.",
+        "format": "single",
+        "tags": [
+          "promotion",
+          "career-ladders"
+        ]
+      },
+      {
+        "id": "first-break-all-the-rules-s09",
+        "hook": "A wrong seat is a casting problem, not a character problem.",
+        "insight": "When someone competent is failing, the instinct is to escalate: more feedback, more monitoring, then an exit. Often the honest diagnosis is that the job asks for a pattern this person does not have, and no amount of effort supplies it. Handled as a moral failure it ends in a resignation and a grudge. Handled as casting it ends with a person doing work that suits them, usually in the same building, and with their reputation intact.",
+        "why": "Framing matters because the alternative frame triggers defence. Once the conversation is about fit rather than worth, the person can help you solve it instead of arguing with you about it.",
+        "apply": "Name the mismatch in one sentence with no adjectives about the person, then ask them where in the company they think their pattern would pay off.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Separate fit from worth",
+            "body": "Say plainly that the role is not working and that this is a statement about the shape of the job, not about their value. Do not soften it into vagueness, which reads as worse news."
+          },
+          {
+            "step": 2,
+            "title": "Find where the pattern pays",
+            "body": "Ask which parts of the last year felt effortless and which felt like wading. Look for a role in the organisation built mostly out of the effortless parts."
+          },
+          {
+            "step": 3,
+            "title": "Design the move openly",
+            "body": "Agree title, pay and scope before anyone else hears about it. An unfinished move leaks as a demotion rumour and poisons a decision that was meant to help."
+          },
+          {
+            "step": 4,
+            "title": "Announce it as a decision",
+            "body": "Tell the team it is a deliberate placement, not a punishment, and back the person publicly in the first month. Silence lets everyone invent a worse story."
+          }
+        ],
+        "tags": [
+          "role-fit",
+          "difficult-conversations"
+        ]
+      },
+      {
+        "id": "first-break-all-the-rules-s10",
+        "hook": "An engagement question is only useful if a manager can change the answer.",
+        "insight": "Most staff surveys drown in items nobody local can act on: strategy, executive pay, the office move. The useful ones ask about things a team leader controls this week. Do I know what is expected? Do I have what I need? Does anyone here care whether I do well? Those answers move when a manager behaves differently, which makes the score a working instrument rather than an annual mood report that everyone resents filling in.",
+        "why": "Survey scores and business results move together, but causation runs both ways: a good quarter lifts mood as surely as good management does. Treat the score as a prompt for conversation, not as proof.",
+        "apply": "Cut your team survey to five questions your managers can act on, run it quarterly, and publish what changed because of the last one.",
+        "format": "single",
+        "tags": [
+          "engagement",
+          "measurement"
+        ]
+      }
+    ],
+    "actions": [
+      "Write down, for each direct report, the one recurring pattern they bring that you cannot train into anyone else, and check their current work actually uses it.",
+      "Rewrite one job description so it specifies outcomes and constraints only, then hand it to the person doing the job and ask what they would now do differently.",
+      "Audit last month's calendar by person and rebalance so your strongest performers get at least as much of your attention as your weakest.",
+      "Create one respectable non-management route to higher pay and status in your team, and tell the team it exists before anyone asks for a promotion."
+    ],
+    "if_you_liked": [
+      "nine-lies-about-work",
+      "high-output-management",
+      "radical-candor"
+    ],
+    "not_for_you_if": "You want research you can inspect rather than conclusions drawn from a consultancy's proprietary survey data, or you manage a role where the process genuinely must be identical for everyone.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 1999, based on Gallup interview programmes. The underlying data is proprietary and correlational, which is flagged in the sparks. All prose original."
+    }
+  },
+  {
+    "id": "crucial-conversations",
+    "title": "Crucial Conversations",
+    "subtitle": "Tools for Talking When Stakes Are High",
+    "author": "Kerry Patterson, Joseph Grenny, Ron McMillan and Al Switzler",
+    "year": 2002,
+    "category": "leadership-management",
+    "subcategory": "difficult-conversations",
+    "tags": [
+      "communication",
+      "conflict",
+      "feedback",
+      "difficult-conversations",
+      "teams",
+      "trust"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 12,
+    "why_it_matters": "It gave ordinary managers a usable procedure for the handful of conversations that decide whether a team functions, and made silence visible as a failure mode rather than as politeness. Most modern feedback training borrows its structure.",
+    "crux": {
+      "headline": "Safety first, content second",
+      "body": "In any conversation that matters, people stop processing what you are saying the moment they feel unsafe. They go quiet or they go hard, and either way the useful information stops flowing. So when a discussion turns bad, the move is not a better argument. It is to step out of the content, rebuild the sense that you respect the person and share a purpose with them, and only then go back to the thing you disagree about. Content without safety is noise."
+    },
+    "sparks": [
+      {
+        "id": "crucial-conversations-s01",
+        "hook": "The conversations that shape your life are the ones you keep postponing.",
+        "insight": "A conversation turns crucial when three things line up: the stakes are real, opinions differ, and feelings are running. Those are exactly the conditions under which people perform worst, so the usual response is to defer it, hint at it, or send an email that pretends not to be about it. The cost is invisible and enormous. Projects fail slowly, resentment accrues, and the thing everyone knew is finally said at the exit interview.",
+        "why": "Avoidance feels like restraint but functions as a decision: you have chosen the worse outcome quietly. Difficulty is not evidence that a conversation should wait, it is usually evidence of the opposite.",
+        "apply": "List the three conversations you are currently avoiding. Pick the one whose cost is growing fastest and book fifteen minutes for it this week.",
+        "format": "single",
+        "tags": [
+          "difficult-conversations",
+          "avoidance"
+        ]
+      },
+      {
+        "id": "crucial-conversations-s02",
+        "hook": "There are only two ways to leave a hard conversation: go quiet or go hard.",
+        "insight": "Under pressure people either withdraw or attack. Withdrawal looks like joking it off, changing the subject, agreeing in the room and complaining afterwards. Attack looks like interrupting, exaggerating, labelling the other person, or moving from the issue to their character. Both are ways of removing yourself from an honest exchange, and both feel justified from the inside. Learning to spot which one you personally reach for is most of the skill, because you cannot stop a reflex you never notice.",
+        "why": "Both patterns are threat responses, so they arrive before your reasoning does. Naming your own default converts an automatic reaction into something you can catch a second earlier.",
+        "apply": "After your next tense meeting, write one line: did I withdraw or did I push? Do this for two weeks and your pattern will be obvious.",
+        "format": "single",
+        "tags": [
+          "conflict",
+          "self-awareness"
+        ]
+      },
+      {
+        "id": "crucial-conversations-s03",
+        "hook": "A decision can only be as good as what people were willing to say out loud.",
+        "insight": "Every group has a pool of information that has actually been shared, and a much larger pool of what individuals privately know, suspect or fear. Decisions are made from the first pool only. When someone holds back a concern because the room feels hostile or the boss has already signalled a preference, the group does not merely lose politeness, it loses data. Meetings that end quickly and unanimously are often the ones that will cost the most later.",
+        "why": "The mechanism is simple and unforgiving: information that is not said cannot be used. Groups routinely converge on what everyone already agreed with rather than pooling what only one person knows.",
+        "apply": "End your next decision meeting by asking each quiet person directly what they would want on record if this goes badly. Wait through the silence.",
+        "format": "single",
+        "tags": [
+          "decision-making",
+          "meetings",
+          "psychological-safety"
+        ]
+      },
+      {
+        "id": "crucial-conversations-s04",
+        "hook": "Notice when you swap what you want for the urge to win.",
+        "insight": "You walk in wanting a working relationship and a fixed problem. Two minutes later you want to be proved right, or to make them uncomfortable, or simply to end the discomfort. The goal quietly changed and nobody announced it. The correction is a question you ask yourself mid-conversation: what do I actually want here, for me, for them, for the relationship? Asking it forces your behaviour back toward the goal you came in with rather than the one your ego picked up on the way.",
+        "why": "You cannot control the other person, and trying to is what produces most escalation. The only reliable lever is your own aim, and it drifts fastest exactly when the conversation matters most.",
+        "apply": "Before a hard conversation, write one sentence naming what you want the relationship to look like afterwards. Reread it if you feel yourself scoring points.",
+        "format": "single",
+        "tags": [
+          "intent",
+          "conflict"
+        ]
+      },
+      {
+        "id": "crucial-conversations-s05",
+        "hook": "You do not react to what happened. You react to the story you told about it.",
+        "insight": "Between an event and your feeling about it sits an explanation you invented in under a second and then forgot inventing. Someone does not reply for two days, and you have already decided they are dismissive. The feeling is real, but it was generated by the story, not the silence. Learning to walk that chain backwards, from action to feeling to story to what actually happened, gives you a place to intervene. Usually the facts support several stories and you picked the least generous one.",
+        "why": "The favourite stories are the ones that make you blameless, the other person malicious, or the situation hopeless. Each conveniently removes your obligation to do anything difficult.",
+        "apply": "Write the bare facts of a recent annoyance in one column and your explanation in another. Then write two other explanations that also fit the facts.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Write only what a camera saw",
+            "body": "Strip out adjectives and motives. Not that they ignored you, but that a message sent Tuesday had no reply by Thursday. Facts are boring, which is the point."
+          },
+          {
+            "step": 2,
+            "title": "Name the story you added",
+            "body": "Say the interpretation out loud in your own head. Once it is a sentence rather than a feeling, you can see it is a claim about someone else's mind."
+          },
+          {
+            "step": 3,
+            "title": "Test the flattering ones",
+            "body": "Ask whether you are casting yourself as blameless, them as hostile, or the situation as impossible. Those three stories are common because they excuse inaction."
+          },
+          {
+            "step": 4,
+            "title": "Look for a decent motive",
+            "body": "Ask what a reasonable and busy person might have been doing that produces exactly these facts. You are not required to believe it, only to hold it open."
+          },
+          {
+            "step": 5,
+            "title": "Open with the facts",
+            "body": "Start the conversation from the camera version and ask for their side before you offer your reading. The story is a hypothesis, so present it as one."
+          }
+        ],
+        "tags": [
+          "stories",
+          "emotions",
+          "self-awareness"
+        ]
+      },
+      {
+        "id": "crucial-conversations-s06",
+        "hook": "When someone gets defensive, stop arguing and fix the safety.",
+        "insight": "Defensiveness is information. It usually means one of two things has gone missing: the other person no longer believes you want something they also want, or they no longer believe you respect them. Neither is repaired by more evidence. Step out of the topic, say plainly what you are not suggesting and then what you are, restate the goal you share, and watch the temperature drop. Then return to the content that was going nowhere thirty seconds ago.",
+        "why": "The threat response narrows attention and hardens position, so persuasion attempted during it mostly adds fuel. Restating shared purpose and respect removes the reason for the response rather than overpowering it.",
+        "apply": "Keep one repair sentence ready: name the thing you are not saying, then the thing you are. Use it the moment tone shifts, not at the end.",
+        "format": "single",
+        "tags": [
+          "safety",
+          "de-escalation",
+          "trust"
+        ]
+      },
+      {
+        "id": "crucial-conversations-s07",
+        "hook": "Lead with what you saw. Hold your conclusion loosely and last.",
+        "insight": "Most feedback opens with the verdict, which is the most disputable part, and buries the observation, which is the least. Reverse it. Start with what happened in terms the other person would also recognise, then offer your reading as a reading rather than a finding, then genuinely ask for theirs. The order matters because the first sentence sets what the conversation is about: either a shared look at some facts, or a defence against a charge.",
+        "why": "Facts are hard to argue with and conclusions are easy to argue with. Putting the arguable part last, and marking it as tentative, keeps the exchange on the evidence for longer.",
+        "apply": "Rewrite your next piece of feedback so the first sentence contains no adjectives about the person and the last sentence is a real question.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Open with the observable",
+            "body": "Describe what you saw or read in terms they would agree with. Two missed deadlines and a rewritten spec, not a pattern of unreliability."
+          },
+          {
+            "step": 2,
+            "title": "Say your reading is a reading",
+            "body": "Offer your interpretation as one possible explanation you are holding, not as a verdict already reached. The wording costs nothing and changes what they hear."
+          },
+          {
+            "step": 3,
+            "title": "Ask, and mean it",
+            "body": "Invite the other account and be visibly willing to change your mind. If you have already decided, they will know, and the question will make things worse."
+          },
+          {
+            "step": 4,
+            "title": "Stay soft on delivery, firm on substance",
+            "body": "Tentative wording is not the same as backing down. You can be gentle about how you say it and completely unmoving about the standard you need met."
+          }
+        ],
+        "tags": [
+          "feedback",
+          "communication"
+        ]
+      },
+      {
+        "id": "crucial-conversations-s08",
+        "hook": "When they go silent, ask before you guess.",
+        "insight": "Getting your own view out is the easy half. The hard half is drawing out someone who has decided it is safer to say nothing. Ask directly and then wait through the pause that feels far too long. Reflect back what you notice about their manner, not just their words. Restate their position in your own sentences until they agree you have it. Only when all of that stalls should you offer a guess at what they might be thinking, and offer it as a guess.",
+        "why": "Silence is usually a judgement about risk, not about content. Each of these moves lowers the cost of speaking, and the pause matters most because most managers fill it themselves.",
+        "apply": "In your next one to one, ask one open question and then say nothing for a full ten seconds. Count them. Let them fill the gap.",
+        "format": "single",
+        "tags": [
+          "listening",
+          "one-on-ones",
+          "psychological-safety"
+        ]
+      },
+      {
+        "id": "crucial-conversations-s09",
+        "hook": "A conversation with no owner and no decision rule will happen again.",
+        "insight": "Teams have the same discussion four times because they never agreed how the decision would be made or who would carry it. Settle the method before the debate: is this one person's call after listening, a genuine vote, or something that needs everyone on board? Then close with who does what, by when, and how anyone will know it happened. Without that last minute, agreement in the room decays into four different memories of what was agreed.",
+        "why": "Ambiguity about the decision rule is what makes people relitigate. If you never said whose call it was, everyone who disagreed can reasonably believe the matter is still open.",
+        "apply": "At the start of your next contentious meeting, state who decides and how. At the end, read the owner and the date back to the room.",
+        "format": "single",
+        "tags": [
+          "decision-making",
+          "accountability",
+          "meetings"
+        ]
+      },
+      {
+        "id": "crucial-conversations-s10",
+        "hook": "One person with these skills helps. A team with them changes the place.",
+        "insight": "Learning to handle a hard conversation makes you more effective on your own, but the compounding happens when a group shares the same expectations about how disagreement works. When everyone knows that raising a concern is normal and that going quiet will be noticed, the cost of speaking drops for the most junior person in the room. That is the difference between a manager with a technique and an organisation where problems surface early enough to be cheap.",
+        "why": "Be honest about the evidence: most of the outcome claims come from the authors' own training firm rather than independent trials. The practices are sensible and widely echoed elsewhere, but treat the numbers with caution.",
+        "apply": "Teach your team one shared move, such as separating facts from stories, and use its name in meetings until people use it on you.",
+        "format": "single",
+        "tags": [
+          "teams",
+          "culture",
+          "communication"
+        ]
+      }
+    ],
+    "actions": [
+      "Pick the conversation you have been avoiding longest, write the facts with no adjectives, and hold it inside seven days.",
+      "For two weeks, log after each tense exchange whether you withdrew or pushed, then share your pattern with someone who will call it out.",
+      "Add two lines to your meeting template: who decides this, and who owns the outcome by when. Refuse to close without both filled in.",
+      "Run one team session on separating what happened from the story you told about it, using a real recent disagreement rather than a made-up case."
+    ],
+    "if_you_liked": [
+      "difficult-conversations",
+      "radical-candor",
+      "the-fearless-organization"
+    ],
+    "not_for_you_if": "You want the underlying psychology rather than a procedure, or you are dealing with genuine bad faith and abuse, where conversational technique is not the right tool.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2002; later editions in 2011 and 2021. Four co-authors, of whom the batch listed two. Outcome evidence comes largely from the authors' own consultancy, flagged in spark ten."
+    }
+  },
+  {
+    "id": "the-advantage",
+    "title": "The Advantage",
+    "subtitle": "Why Organizational Health Trumps Everything Else in Business",
+    "author": "Patrick Lencioni",
+    "year": 2012,
+    "category": "leadership-management",
+    "subcategory": "organisational-health",
+    "tags": [
+      "organisational-health",
+      "leadership-teams",
+      "alignment",
+      "meetings",
+      "culture",
+      "communication"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 10,
+    "why_it_matters": "It argues that the biggest available advantage for most companies is not smarter strategy but a leadership team that trusts each other and says the same thing twice. That reframing is now standard vocabulary in executive coaching.",
+    "crux": {
+      "headline": "Health beats intelligence, and nobody works on health",
+      "body": "Companies pour effort into being smart: better strategy, better analytics, better hiring. Almost nobody works on being healthy, which means minimal politics, minimal confusion, and a leadership team that argues in the room and holds one line outside it. Health is unglamorous, hard to measure, and available to anyone willing to do the same few things repeatedly. That is precisely why it stays an advantage rather than being competed away."
+    },
+    "sparks": [
+      {
+        "id": "the-advantage-s01",
+        "hook": "Your competitors can copy your strategy. They will not copy your meetings.",
+        "insight": "Every firm invests in being clever, because cleverness is respectable and hiring consultants feels like progress. Far fewer invest in being coherent: an executive team that trusts each other enough to disagree, a handful of answers everyone gives the same way, and systems that reward the behaviour actually asked for. The second set is duller and much harder to imitate, because it lives in habits rather than documents.",
+        "why": "Honest framing: this comes from one consultant's decades of client work, not controlled research, and the case evidence is chosen after the fact. The argument still holds up because the failure mode it describes is so easy to recognise.",
+        "apply": "Ask your six most senior people, separately and in writing, why the organisation exists. Compare the answers before you fund anything else.",
+        "format": "single",
+        "tags": [
+          "organisational-health",
+          "strategy"
+        ]
+      },
+      {
+        "id": "the-advantage-s02",
+        "hook": "Your peers are your first team. Your department comes second.",
+        "insight": "Most executives are loyal to the people they lead rather than the people they sit beside. It feels like integrity and it produces a company of well-defended silos, each optimising its own numbers while the whole slowly seizes. The alternative is uncomfortable: your primary obligation is to the leadership group and the enterprise result, even when that means arguing against your own department's budget. Teams where nobody will do that cannot make a genuine trade-off.",
+        "why": "If every leader is advocating rather than deciding, nobody is left to weigh functions against each other. Someone has to hold the whole, and it cannot only be the chief executive.",
+        "apply": "At your next leadership meeting, ask each person to name one decision that is right for the company and bad for their own function.",
+        "format": "single",
+        "tags": [
+          "leadership-teams",
+          "silos",
+          "alignment"
+        ]
+      },
+      {
+        "id": "the-advantage-s03",
+        "hook": "Trust is not enjoying each other. It is being willing to look bad.",
+        "insight": "Teams that get on well can still be useless, because pleasantness is not the same as safety. The trust that matters is the willingness to say you were wrong, that you do not understand the number, that you are out of your depth. Once a group can do that, disagreement becomes cheap and information moves. Where nobody will admit weakness, every conversation carries a second layer of positioning, and the group's real opinions are only spoken in twos afterwards.",
+        "why": "Admitting weakness is costly, so doing it publicly is a credible signal that you are not playing a status game. The senior person has to go first, because everyone else is reading the risk off them.",
+        "apply": "Open your next leadership meeting by naming one thing you got wrong this quarter and what it cost. Then move on without seeking reassurance.",
+        "format": "single",
+        "tags": [
+          "trust",
+          "vulnerability",
+          "leadership-teams"
+        ]
+      },
+      {
+        "id": "the-advantage-s04",
+        "hook": "If two executives answer the same basic question differently, nothing downstream works.",
+        "insight": "Confusion in an organisation is nearly always inherited from the top. When the leadership group has never actually agreed why the company exists, what it does, how it intends to win, and which behaviours are non-negotiable, every team below invents its own answer and defends it. Getting alignment is not a workshop deliverable. It is a set of arguments the senior team must have properly once, write down in plain language, and then refuse to reopen every quarter.",
+        "why": "Ambiguity at the top is amplified downward: each layer resolves it locally and differently, so the variance grows with distance. Fixing it at the source is cheaper than reconciling it later.",
+        "apply": "Get your leadership team into a room and do not leave until the six core answers fit on one page everyone will sign.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Settle why you exist",
+            "body": "Not a marketing line. A plain statement of what would be lost if the organisation vanished. Expect this argument to take longer than anyone budgeted for."
+          },
+          {
+            "step": 2,
+            "title": "Name the behaviours you fire over",
+            "body": "Values are only real if they cost something. Choose the two or three you would part with a high performer over, and say so out loud."
+          },
+          {
+            "step": 3,
+            "title": "Say how you intend to win",
+            "body": "Three or four strategic choices that rule things out. If a competitor could sign the same list, you have written a description rather than a strategy."
+          },
+          {
+            "step": 4,
+            "title": "Pick one thing that matters most now",
+            "body": "A single shared priority for the next few months that belongs to the whole team, not to one function. Everything else is important but subordinate."
+          },
+          {
+            "step": 5,
+            "title": "Put a name against each part",
+            "body": "Every answer needs a human owner with a date, or the page becomes decoration within a fortnight. Read the owners back before anyone leaves."
+          }
+        ],
+        "tags": [
+          "clarity",
+          "alignment",
+          "strategy"
+        ]
+      },
+      {
+        "id": "the-advantage-s05",
+        "hook": "A shared priority beats a scoreboard of departmental targets.",
+        "insight": "Give each function its own goals and you get a team that can all hit their numbers while the company misses. A single named priority for a defined period, owned collectively, changes what people volunteer for. It also solves arguments in advance: when two good options compete, the one that serves the shared priority wins, and nobody has to litigate it from first principles. The time limit matters, because a permanent priority is just a slogan.",
+        "why": "Collective ownership removes the incentive to protect a local metric. The mechanism only works if the priority genuinely expires and is replaced, otherwise it stops guiding trade-offs.",
+        "apply": "Choose one company-level goal for the next quarter that every executive shares, and add it to the top of every leadership agenda.",
+        "format": "single",
+        "tags": [
+          "priorities",
+          "goals",
+          "alignment"
+        ]
+      },
+      {
+        "id": "the-advantage-s06",
+        "hook": "Leaders quit repeating the message at roughly the moment people start hearing it.",
+        "insight": "You have said it in three meetings and an email, you are bored, and you assume it has landed. Meanwhile most of the organisation has heard it once, in passing, while worrying about something else. Communication in a large group is not an event but a drumbeat, and the discomfort of repeating yourself is the price of a workforce that can say the same thing you would. The senior team also has to repeat it in their own words, or it reads as a memo rather than a belief.",
+        "why": "People discount a message until it is repeated by multiple sources over time. Boredom on the sender's side is a poor signal of saturation on the receiver's side.",
+        "apply": "Take this quarter's one priority and say it, unprompted, in every meeting you attend for a month. Ask your leads to do the same in their own words.",
+        "format": "single",
+        "tags": [
+          "communication",
+          "repetition",
+          "alignment"
+        ]
+      },
+      {
+        "id": "the-advantage-s07",
+        "hook": "Your values are whatever your promotion decisions say they are.",
+        "insight": "Nobody learns what an organisation believes from a poster. They learn it from who gets hired, who gets promoted, who gets quietly tolerated, and who gets let go. If the stated behaviours do not appear in the interview scorecard, the review form and the exit decision, they are ornamental and everyone can tell. Getting this right requires no new programme, only the willingness to run existing people processes off the same short list.",
+        "why": "Formal systems are the observable evidence people use to infer real rules. When stated and enacted rules conflict, the enacted ones win and the stated ones cost you credibility.",
+        "apply": "Put your three core behaviours into your interview scorecard and your review template this month, with one concrete example of each.",
+        "format": "single",
+        "tags": [
+          "culture",
+          "hiring",
+          "performance"
+        ]
+      },
+      {
+        "id": "the-advantage-s08",
+        "hook": "You do not have too many meetings. You have one meeting doing four jobs.",
+        "insight": "The standard weekly leadership meeting mixes status updates, an urgent operational fire, a half-argued strategic question and a bit of morale, so it does none of them properly and everyone leaves annoyed. Split them by purpose and rhythm. Short and frequent for coordination, longer and weekly for the live numbers and blockers, separate and unhurried for the two or three questions that are genuinely hard, and periodic time away from the building for the big review.",
+        "why": "Different decisions need different amounts of preparation and depth. Mixing them means the urgent always crowds out the important, because the urgent item is the one with a date on it.",
+        "apply": "Split your weekly leadership meeting in two this month: tactical items in one, and one strategic question with proper time in the other.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Keep a daily check-in short",
+            "body": "A few minutes standing up to sync what is happening today. It exists to prevent collisions, not to solve anything, and it dies the moment someone starts presenting."
+          },
+          {
+            "step": 2,
+            "title": "Run the week off live numbers",
+            "body": "Review the handful of measures you agreed matter, surface blockers, and resolve tactical items. Resist any topic that needs an hour of thinking."
+          },
+          {
+            "step": 3,
+            "title": "Give hard questions their own slot",
+            "body": "One or two genuinely difficult issues, scheduled separately, with enough time to argue properly. Nothing kills strategy like a fifteen-minute agenda item."
+          },
+          {
+            "step": 4,
+            "title": "Step out for the long view",
+            "body": "A few times a year, away from the office, review strategy, people and how the team itself is working. Treat it as maintenance, not a reward trip."
+          }
+        ],
+        "tags": [
+          "meetings",
+          "cadence",
+          "leadership-teams"
+        ]
+      },
+      {
+        "id": "the-advantage-s09",
+        "hook": "A calm leadership meeting usually means the argument moved to the corridor.",
+        "insight": "Harmony in a senior team is generally a sign of avoidance rather than agreement. Real disagreement gets suppressed in the room and reappears afterwards as slow implementation, side conversations and quiet non-compliance. The leader's job is to go looking for the unspoken objection, name it, and let the fight happen where everyone can hear it. People will support a decision they lost if they genuinely got to make their case.",
+        "why": "Commitment follows from having been heard, not from having agreed. Suppressed dissent does not disappear, it converts into the friction that shows up during execution.",
+        "apply": "When a decision passes with no objections, ask the most sceptical person in the room to argue the opposite case for two minutes before you close it.",
+        "format": "single",
+        "tags": [
+          "conflict",
+          "commitment",
+          "meetings"
+        ]
+      },
+      {
+        "id": "the-advantage-s10",
+        "hook": "Most stated values are either wishes or table stakes.",
+        "insight": "Company value lists collapse into three types and mixing them is what makes them useless. Some are simply the price of employment anywhere, like honesty. Some are aspirational, describing what you hope to become rather than what you are. Only a couple are genuinely distinctive: already true, visible in how you hire and fire, and off-putting to some good people. Say which is which. A list that pretends all six are core teaches everyone that none of them are.",
+        "why": "A value that costs nothing carries no information, so publishing it dilutes the ones that do. Labelling the aspirational ones honestly also protects you from being accused of hypocrisy.",
+        "apply": "Sort your value list into three piles: already true and distinctive, minimum standard, and aspiration. Publish the labels along with the list.",
+        "format": "single",
+        "tags": [
+          "values",
+          "culture",
+          "honesty"
+        ]
+      }
+    ],
+    "actions": [
+      "Run a leadership session that produces one page of agreed answers on purpose, behaviours, strategy and the current top priority, signed by everyone present.",
+      "Split your leadership meeting by purpose into a short tactical rhythm and a separate, properly timed slot for hard strategic questions.",
+      "Rewrite your interview scorecard and review template around the two or three behaviours you would actually part with a high performer over.",
+      "Pick one shared quarterly priority owned by the whole executive team, and open every leadership meeting with progress on it."
+    ],
+    "if_you_liked": [
+      "five-dysfunctions-of-a-team",
+      "high-output-management",
+      "measure-what-matters"
+    ],
+    "not_for_you_if": "You want data and citations rather than distilled consulting experience, or you are looking for strategy content rather than how a leadership team should operate.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2012. The argument rests on the author's consulting practice rather than controlled research, which is stated plainly in spark one. All prose original."
+    }
+  },
+  {
+    "id": "leadership-on-the-line",
+    "title": "Leadership on the Line",
+    "subtitle": "Staying Alive Through the Dangers of Leading",
+    "author": "Ronald A. Heifetz and Marty Linsky",
+    "year": 2002,
+    "category": "leadership-management",
+    "subcategory": "adaptive-leadership",
+    "tags": [
+      "adaptive-leadership",
+      "change",
+      "resilience",
+      "politics",
+      "conflict",
+      "self-management"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It treats leadership as a dangerous activity rather than a personality trait, and explains exactly how people get removed for asking a group to change. Nothing else in the field is as clear-eyed about the personal cost.",
+    "crux": {
+      "headline": "Leadership is dangerous because it asks people to lose something",
+      "body": "Some problems can be fixed by expertise. Most of the ones that persist cannot, because the fix requires people to change what they value, what they do, or who they think they are. Asking a group to absorb that loss reliably makes you the target, since attacking you is easier than facing the loss. Survival means separating your role from yourself, controlling how much pressure the group feels, and refusing to take the work back when they push it at you."
+    },
+    "sparks": [
+      {
+        "id": "leadership-on-the-line-s01",
+        "hook": "People do not resist change. They resist loss.",
+        "insight": "When a group fights a sensible proposal, the usual explanation is inertia or stupidity. It is almost never either. Look for what the change would take away: a skill that stops being valuable, a status that disappears, a relationship, a story people tell about who they are. Once you can name the specific loss for each group, resistance stops looking irrational and becomes a design problem. You either compensate for the loss, pace it, or acknowledge it honestly and go anyway.",
+        "why": "Framing resistance as ignorance leads to more explaining, which is exactly the wrong medicine. Naming the loss lets you address the actual objection instead of the one people are willing to state.",
+        "apply": "For your current change effort, list each affected group and write what specifically they lose. Then write what, if anything, you can offer against it.",
+        "format": "single",
+        "tags": [
+          "change",
+          "resistance",
+          "adaptive-leadership"
+        ]
+      },
+      {
+        "id": "leadership-on-the-line-s02",
+        "hook": "Fixing it yourself is the fastest way to guarantee it comes back.",
+        "insight": "There are two kinds of problem. One has a known answer that an expert can apply, and people want you to supply it. The other requires the people with the problem to change their own behaviour, and there is no expert answer at all. The failure that destroys most leaders is treating the second kind as the first: providing a solution, reorganising, hiring a consultant. It relieves the group's discomfort in the short term and leaves the underlying problem exactly where it was.",
+        "why": "If the work belongs to the group, doing it for them removes the pressure that would have made them change. The relief is real, which is why the pattern repeats even after it visibly fails.",
+        "apply": "Take the problem you keep solving for your team. Hand it back with a deadline and a constraint instead of an answer, and tolerate the discomfort.",
+        "format": "single",
+        "tags": [
+          "adaptive-leadership",
+          "delegation",
+          "problem-solving"
+        ]
+      },
+      {
+        "id": "leadership-on-the-line-s03",
+        "hook": "You cannot see the dance floor while you are dancing on it.",
+        "insight": "In the middle of a heated meeting your attention narrows to the argument in front of you, which is precisely when you most need to see the pattern. The discipline is to step mentally out of the action and watch the room as a system: who is aligned with whom, who has gone quiet, what is being avoided, whose interests the current fight actually serves. Then step back in. It is a rhythm rather than a position, and most people need a physical cue to remember it.",
+        "why": "Participants and observers notice different things, and you need both. Being only an observer makes you irrelevant, being only a participant makes you blind to the game you are inside.",
+        "apply": "In your next difficult meeting, stay silent for the first ten minutes and write down who allies with whom and what nobody is saying.",
+        "format": "single",
+        "tags": [
+          "perspective",
+          "meetings",
+          "systems-thinking"
+        ]
+      },
+      {
+        "id": "leadership-on-the-line-s04",
+        "hook": "Too little pressure and nothing changes. Too much and they turn on you.",
+        "insight": "Change only happens inside a band of discomfort. Below it people are content and will not move. Above it they panic, scapegoat, or flee, and the work collapses. Your job is thermostat rather than thermometer: raise the heat by naming the unspoken conflict, letting people feel responsibility, slowing the rush to a comfortable answer. Lower it by tackling the technical parts first, adding structure, offering reassurance, or simply pausing. The skill is reading which way to turn the dial today.",
+        "why": "The productive range is narrow and it moves. What one team can absorb in a stable quarter will break the same team during a reorganisation, so the dial has to be adjusted continuously.",
+        "apply": "Rate the current heat on your team from one to ten. If it is under four, name the conflict everyone is dodging at the next meeting.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Read the room's temperature",
+            "body": "Look for the symptoms. Complacent talk and easy consensus mean too cold. Personal attacks, scapegoating and people going silent or absent mean too hot."
+          },
+          {
+            "step": 2,
+            "title": "Turn it up deliberately",
+            "body": "Put the avoided question on the agenda, ask the group to solve it rather than you, and let the silence sit. Discomfort is the working condition, not a mistake."
+          },
+          {
+            "step": 3,
+            "title": "Turn it down when it spikes",
+            "body": "Solve a technical piece to show progress, break the problem into stages, add structure to the process, or call a break. Buying time is a legitimate move."
+          },
+          {
+            "step": 4,
+            "title": "Pace the work",
+            "body": "Sequence what people face rather than dumping it at once. Holding some issues back is not dishonesty, it is keeping the group inside the range where it can still think."
+          }
+        ],
+        "tags": [
+          "change",
+          "pressure",
+          "facilitation"
+        ]
+      },
+      {
+        "id": "leadership-on-the-line-s05",
+        "hook": "You will be removed politely, in one of four ways.",
+        "insight": "Groups rarely fire the person raising an uncomfortable issue. They neutralise them instead. You get marginalised, defined as the person who only cares about that one thing. You get diverted, handed so many worthy tasks that the real one never advances. You get attacked personally, which shifts the conversation from the issue to your conduct. Or you get seduced, flattered and included by the people you most needed to challenge. Each feels like something else while it happens.",
+        "why": "All four restore the group's equilibrium without anyone deciding to suppress the issue. Recognising the manoeuvre in progress is most of the defence, because none of them work once named.",
+        "apply": "Ask a trusted outsider which of the four is happening to you right now. You are the least reliable judge, especially about flattery.",
+        "format": "single",
+        "tags": [
+          "politics",
+          "resilience",
+          "power"
+        ]
+      },
+      {
+        "id": "leadership-on-the-line-s06",
+        "hook": "When they attack you, it is usually the issue they cannot face.",
+        "insight": "Personal attacks in a change effort are rarely about you, however precisely they land. They are what a group produces when the alternative is confronting a loss. That does not make the criticism false, and the discipline is to hold both: take the substance seriously enough to test it, and refuse to accept the framing that this is a referendum on your character. Confusing your role with yourself is what turns a professional setback into a personal collapse.",
+        "why": "Attacks feel personal because they are delivered personally. Separating the role from the self is not denial, it is the only way to keep judging the criticism accurately while under it.",
+        "apply": "Write the criticism in two columns: what is true about the work, and what is about the role I am carrying. Act on the first column only.",
+        "format": "single",
+        "tags": [
+          "resilience",
+          "criticism",
+          "identity"
+        ]
+      },
+      {
+        "id": "leadership-on-the-line-s07",
+        "hook": "Allies are not confidants, and mistaking one for the other is expensive.",
+        "insight": "Allies share your goal but carry loyalties of their own, to their department, their profession, their own constituents. They will support you until those loyalties pull the other way, and that is not betrayal. Confidants are different: they are loyal to you rather than the cause, and you can say the unfinished, unfair, uncertain thing to them. Most people in trouble have plenty of allies and no confidants, and end up saying too much to the wrong category.",
+        "why": "The distinction predicts who will still be there when the effort costs something. It also stops you resenting an ally for behaving exactly as their position requires.",
+        "apply": "Name your confidants. If you cannot list two people outside your organisation who owe you nothing professionally, go and build that before the next crisis.",
+        "format": "single",
+        "tags": [
+          "allies",
+          "support",
+          "politics"
+        ]
+      },
+      {
+        "id": "leadership-on-the-line-s08",
+        "hook": "Talk to the people who will lose the most, before you announce anything.",
+        "insight": "The instinct is to build support among those who already agree. The useful work is the opposite: sit with the people whose world your proposal damages, and understand their position well enough to state it better than they can. Sometimes you learn the proposal is wrong. More often you learn what would make the loss survivable, and you gain the one thing that reduces opposition, which is being visibly willing to hear it before the decision rather than after.",
+        "why": "Opposition hardens when people learn about a change at the same moment they learn it is final. Early contact converts a threat into a negotiation, even when the outcome does not change.",
+        "apply": "Before your next big announcement, hold three private conversations with the loudest expected opponents and ask what they would need to survive it.",
+        "format": "single",
+        "tags": [
+          "opposition",
+          "change",
+          "influence"
+        ]
+      },
+      {
+        "id": "leadership-on-the-line-s09",
+        "hook": "Ambition burns out. Purpose is what you still have at the bad point.",
+        "insight": "Leading something difficult will cost you sleep, friendships and a chunk of your reputation, and the payoff is uncertain and slow. People who survive that have something steadier than career motivation underneath, plus a life that is not entirely made of the work. That is not a wellbeing platitude. If the effort is your only source of meaning, every setback becomes existential, and you will start making decisions to protect yourself rather than to serve the purpose.",
+        "why": "A single source of identity turns professional risk into personal threat, which distorts judgement in exactly the direction that gets leaders removed. Diversification here is protective, not indulgent.",
+        "apply": "Name one place outside work where you are valued for something other than results, and put a recurring appointment in the calendar to be there.",
+        "format": "single",
+        "tags": [
+          "resilience",
+          "burnout",
+          "purpose"
+        ]
+      },
+      {
+        "id": "leadership-on-the-line-s10",
+        "hook": "Survive the effort by managing your own hungers before they are used.",
+        "insight": "Everyone has appetites that can be exploited: the need to be liked, the need to be important, the pull of intimacy or recognition. In a hard change effort, opponents and supporters alike will find them, usually without meaning to. The defence is knowing your own precisely enough to notice when one is being fed. The leader who needs the room's approval will soften the message; the one who needs to be indispensable will refuse to give the work back.",
+        "why": "Honest note: this rests on close observation of cases and years of teaching rather than measurement, so treat it as a useful lens rather than a proven model. It earns its place by being uncomfortably recognisable.",
+        "apply": "Write down which you crave most: approval, importance or belonging. Ask your confidant where that showed up in your last hard decision.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Name your appetite",
+            "body": "Approval, control, importance, being needed. Pick the one that best explains your worst decisions rather than the one you would prefer to admit to."
+          },
+          {
+            "step": 2,
+            "title": "Watch who feeds it",
+            "body": "Notice which people reliably give you that supply. They are not villains, but their access to you should not be a function of how good they make you feel."
+          },
+          {
+            "step": 3,
+            "title": "Build a sanctuary",
+            "body": "Protect one regular space with no agenda, where you process what happened rather than react to it. A run, a journal, a standing conversation. It must be routine, not a treat."
+          },
+          {
+            "step": 4,
+            "title": "Check decisions against it",
+            "body": "Before a big call, ask whether this choice quietly serves your appetite. If it does, get an outside opinion before you commit to it."
+          }
+        ],
+        "tags": [
+          "self-management",
+          "self-awareness",
+          "resilience"
+        ]
+      }
+    ],
+    "actions": [
+      "Take your hardest current problem and classify it: does it need expertise, or does it need people to change behaviour? Write down what you have been doing instead.",
+      "Map each group affected by your change effort and the specific loss it faces, then hold private conversations with the two who lose most.",
+      "Identify two confidants outside your organisation and set up a regular conversation with them before you need it.",
+      "Choose one problem you habitually solve for your team, hand it back with a constraint and a deadline, and stay out of it for a month."
+    ],
+    "if_you_liked": [
+      "team-of-teams",
+      "the-fearless-organization",
+      "immunity-to-change"
+    ],
+    "not_for_you_if": "You want checklists and quick technique. This is about political survival and personal cost, and its examples come from case observation rather than data.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2002 by Harvard Business School Press; a later edition added material. Built on case teaching rather than empirical study, flagged in spark ten. All prose original."
+    }
+  },
+  {
+    "id": "the-managers-path",
+    "title": "The Manager's Path",
+    "subtitle": "A Guide for Tech Leaders Navigating Growth and Change",
+    "author": "Camille Fournier",
+    "year": 2017,
+    "category": "leadership-management",
+    "subcategory": "engineering-management",
+    "tags": [
+      "engineering-management",
+      "career",
+      "one-on-ones",
+      "delegation",
+      "tech-leadership",
+      "hiring"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "It is the first book to describe the engineering management ladder rung by rung, from mentoring one intern to running an organisation, written by someone who did the job. It became the default reference for new technical managers.",
+    "crux": {
+      "headline": "Each rung is a different job, not more of the last one",
+      "body": "Technical careers are usually described as one ladder with increasing seniority. They are better understood as a sequence of genuinely different jobs, each of which invalidates part of what made you good at the previous one. Mentoring is not tech leading, tech leading is not managing people, and managing managers is not managing more people. The mistake that costs the most is carrying the previous job's habits upward and calling it staying hands-on."
+    },
+    "sparks": [
+      {
+        "id": "the-managers-path-s01",
+        "hook": "Every promotion in this field asks you to give up what you were praised for.",
+        "insight": "The senior engineer is rewarded for depth and for solving the hard thing personally. The tech lead is rewarded for the team shipping, which sometimes means letting someone else write worse code more slowly. The manager is rewarded for outcomes they did not produce. At each step, the behaviour that earned the promotion becomes the behaviour that limits you, and the discomfort people feel is real rather than a confidence problem. You are genuinely worse at the new job than the old one.",
+        "why": "Each rung changes what your output is measured on: your work, then your team's work, then your organisation's capability. Those require different skills, so competence resets partially at every level.",
+        "apply": "Write down what your output is now measured by. If it is still lines of code you personally wrote, you have not started the new job yet.",
+        "format": "single",
+        "tags": [
+          "career",
+          "promotion",
+          "engineering-management"
+        ]
+      },
+      {
+        "id": "the-managers-path-s02",
+        "hook": "Your one to ones are not status meetings. Status has a document.",
+        "insight": "The commonest way to waste a one to one is to spend it reading out a task list that a board or a written update already shows. The meeting exists for the things that do not fit a tracker: what is frustrating, what is unclear, where someone is stuck for reasons they will not put in writing, what they want in two years. It should be regular, it should belong partly to them, and cancelling it repeatedly tells the person exactly how much they matter.",
+        "why": "The value comes from consistency more than content. A conversation that only happens when there is a problem teaches people that being invited to one is bad news.",
+        "apply": "Move status into a written update before your next one to one, and open the meeting by asking what they want to use the time for.",
+        "format": "single",
+        "tags": [
+          "one-on-ones",
+          "management",
+          "communication"
+        ]
+      },
+      {
+        "id": "the-managers-path-s03",
+        "hook": "A tech lead is a role you take on, not a rank you are given.",
+        "insight": "Leading technical work is a set of responsibilities you can pick up and put down: holding the architecture in your head, breaking work into pieces others can own, representing the team in planning, and deciding what not to build. It is not seniority and it is not permanent. Treating it as a rank causes two failures. Good engineers refuse it because it sounds like management, and people who take it never let it go when the project ends.",
+        "why": "Separating the role from the title lets you rotate it, which builds leadership capacity in more people and stops one person becoming the only route through which work can pass.",
+        "apply": "Name the tech lead for your next project explicitly, say the role ends when the project does, and pick someone who has not held it before.",
+        "format": "single",
+        "tags": [
+          "tech-leadership",
+          "roles",
+          "delegation"
+        ]
+      },
+      {
+        "id": "the-managers-path-s04",
+        "hook": "Micromanaging and abdicating are the same mistake wearing different clothes.",
+        "insight": "New managers oscillate. They hover over every decision, then feel guilty and disappear entirely, then reappear angry when something goes wrong. Both extremes come from not deciding in advance what you need visibility on. Real delegation is specific: this person owns this outcome, these are the two checkpoints, this is the class of decision you should tell me about before making. Once that is written, you can genuinely stay out of everything else without pretending not to care.",
+        "why": "Autonomy without agreed boundaries is not freedom, it is ambiguity, and people fill ambiguity by either asking permission constantly or avoiding you until it is too late.",
+        "apply": "For each project, write who owns it, which two decisions need your input, and when you will look at it. Share it with the owner.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Name the owner and the outcome",
+            "body": "One person, one result, stated so both of you would recognise success. Shared ownership between two people usually means nobody feels responsible for the whole."
+          },
+          {
+            "step": 2,
+            "title": "Agree what escalates",
+            "body": "Decide in advance which decisions must come to you: money, external commitments, anything hard to reverse. Everything not on the list is genuinely theirs."
+          },
+          {
+            "step": 3,
+            "title": "Set the checkpoints early",
+            "body": "Two scheduled reviews beat constant checking, and they let you intervene while it is still cheap. Put them in the calendar before the work starts."
+          },
+          {
+            "step": 4,
+            "title": "Use the systems, not the person",
+            "body": "Read the code, the tickets and the dashboards for signal instead of asking for status. It costs the team nothing and tells you more than an update meeting."
+          }
+        ],
+        "tags": [
+          "delegation",
+          "trust",
+          "management"
+        ]
+      },
+      {
+        "id": "the-managers-path-s05",
+        "hook": "The manager who never touches the code loses the ability to judge it.",
+        "insight": "Somewhere between team lead and director, writing production code stops being your job, and many managers respond by disengaging from the technology altogether. Then they cannot tell an expensive estimate from a lazy one, they cannot spot when a rewrite is being sold to them, and their engineers stop bringing them real problems. The answer is not to grab a feature and block the release. It is to stay close enough to review designs, read incident reports and ask good questions.",
+        "why": "Technical credibility is what buys a manager the right to push back on estimates and to be trusted upward on risk. It decays quietly, and the loss usually only becomes visible during a crisis.",
+        "apply": "Book two hours a week to read code, review a design document or fix something small and non-blocking. Protect it like a meeting.",
+        "format": "single",
+        "tags": [
+          "tech-leadership",
+          "credibility",
+          "engineering-management"
+        ]
+      },
+      {
+        "id": "the-managers-path-s06",
+        "hook": "Debugging a team works like debugging a system: find the actual failure, not the symptom.",
+        "insight": "When a team is dysfunctional, the visible symptom is usually missed deadlines or a personality conflict, and the instinct is to address that directly. Better to treat it as an incident. What changed recently, who is holding information nobody else has, where does work queue up, which meetings does everyone dread and why. Often the personality clash disappears once the structural problem is fixed, because two people were fighting over a genuine ambiguity nobody had resolved.",
+        "why": "Interpersonal friction is frequently a downstream signal of unclear ownership, missing information or an impossible schedule. Treating it as a character issue leaves the cause untouched.",
+        "apply": "Take your worst team conflict and write the structural explanation first: who owns what, who knows what, what deadline is unrealistic. Test that before talking about behaviour.",
+        "format": "single",
+        "tags": [
+          "teams",
+          "conflict",
+          "diagnosis"
+        ]
+      },
+      {
+        "id": "the-managers-path-s07",
+        "hook": "You cannot manage more than a handful of people well. Pretending otherwise is a choice.",
+        "insight": "There is a real ceiling on how many people one person can support with attention, feedback and career development. Past it, one to ones get skipped, feedback becomes annual, and the strongest people drift because nobody notices. Managers accept oversized teams because refusing feels like a lack of ambition. It is better to say plainly what happens at that size: coaching stops, and you become a routing layer. Then let the organisation decide whether that trade is worth it.",
+        "why": "The constraint is attention, not org chart design. When span exceeds it, the cost shows up first in the people who need the least supervision, because they are the ones you can safely ignore.",
+        "apply": "Count your directs. If it is above eight, write down which two people got no real coaching last month and take that to your own manager.",
+        "format": "single",
+        "tags": [
+          "org-design",
+          "span-of-control",
+          "management"
+        ]
+      },
+      {
+        "id": "the-managers-path-s08",
+        "hook": "Managing managers means you now debug through two layers of translation.",
+        "insight": "Once your reports are managers, most of what reaches you has been summarised, softened and reframed at least once. You lose direct signal exactly when the stakes rise. The fixes are structural: skip-level conversations with a clear purpose, reading the team's own artefacts rather than a report about them, and holding your managers accountable for outcomes you can verify independently. Trust is required, but trust without an independent channel is just hoping.",
+        "why": "Every reporting layer compresses information and drops the awkward parts, not through dishonesty but because summarising means choosing. Independent channels restore what the summary removed.",
+        "apply": "Set up skip-level conversations on a schedule, tell your managers why they exist, and never use them to relay complaints back down.",
+        "format": "single",
+        "tags": [
+          "managing-managers",
+          "skip-levels",
+          "information"
+        ]
+      },
+      {
+        "id": "the-managers-path-s09",
+        "hook": "A performance problem you have not said out loud is not a performance problem yet.",
+        "insight": "Managers carry a private verdict about someone for months, drop hints, then arrive at a formal process that lands as an ambush. From the employee's side, nothing was wrong until suddenly everything was. The obligation is to say the difficult thing early, in specific terms, with a clear description of what different would look like and by when. Some people fix it. Some cannot, and then the exit is clean because the record and the conversation actually match.",
+        "why": "Delay does not soften the eventual conversation, it removes the person's chance to respond and converts an addressable issue into a surprise dismissal that damages the whole team's trust.",
+        "apply": "Name the concern you have been sitting on, put it in writing with two concrete examples, and say it in your next one to one.",
+        "format": "single",
+        "tags": [
+          "performance",
+          "feedback",
+          "difficult-conversations"
+        ]
+      },
+      {
+        "id": "the-managers-path-s10",
+        "hook": "Decide whether you want the management track before the promotion decides for you.",
+        "insight": "Many engineers become managers by accident: the team grew, nobody else would do it, and the title arrived. Two years later they are neither writing software nor enjoying the job. Both tracks are legitimate and both can go far, but they reward different things, and the choice is easier to make deliberately at the start than to unwind after you have built a reputation on it. Moving back is possible and is not a demotion, though your organisation may treat it as one.",
+        "why": "Honest caveat: this comes from one experienced practitioner's career rather than research, and the ladder it describes fits venture-funded software companies better than it fits smaller firms or other industries.",
+        "apply": "Write which parts of last month gave you energy and which drained you. If the coaching entries are all in the drain column, say so to your manager.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Audit where the energy went",
+            "body": "For two weeks, mark each block of work as energising or draining. Patterns show up fast, and they are more honest than what you think you should enjoy."
+          },
+          {
+            "step": 2,
+            "title": "Test the job before the title",
+            "body": "Mentor someone, run a project, take a rotation as tech lead. You learn more about whether you want the work from a month of it than from a year of speculating."
+          },
+          {
+            "step": 3,
+            "title": "Ask what each track pays for",
+            "body": "Find out how your organisation actually promotes senior individual contributors. If that route stops two levels below management, your choice is being made for you."
+          },
+          {
+            "step": 4,
+            "title": "Keep the return route open",
+            "body": "Say out loud, at the start, that you may want to return to building. Framing it early makes going back a plan rather than a failure."
+          }
+        ],
+        "tags": [
+          "career",
+          "engineering-management",
+          "decisions"
+        ]
+      }
+    ],
+    "actions": [
+      "Set up recurring one to ones with every direct report, move status into a written update beforehand, and stop cancelling them for anything short of an incident.",
+      "For each active project write the owner, the outcome, the two decisions that must escalate to you, and the review dates, then share it with the owner.",
+      "Block two hours a week to stay technically close by reviewing designs, reading code or handling something small and non-blocking.",
+      "Say the performance concern you have been holding back, with two specific examples and a description of what better looks like by a named date."
+    ],
+    "if_you_liked": [
+      "an-elegant-puzzle",
+      "the-making-of-a-manager",
+      "high-output-management"
+    ],
+    "not_for_you_if": "You do not work in or near software, or you want organisational theory rather than practical guidance shaped by one person's career at growing tech companies.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2017 by O'Reilly. Draws on the author's experience as an engineering leader rather than research, flagged in spark ten. All prose original."
+    }
+  },
+  {
+    "id": "confidence",
+    "title": "Confidence",
+    "subtitle": "How Winning Streaks and Losing Streaks Begin and End",
+    "author": "Rosabeth Moss Kanter",
+    "year": 2004,
+    "category": "leadership-management",
+    "subcategory": "turnarounds",
+    "tags": [
+      "turnarounds",
+      "culture",
+      "momentum",
+      "accountability",
+      "teams",
+      "change"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 11,
+    "why_it_matters": "It explains why organisations that are already winning keep winning and losers keep losing, using the same mechanism across sports teams, companies and schools. It is the clearest account of momentum as something leaders can engineer.",
+    "crux": {
+      "headline": "Confidence is an investment decision, not a feeling",
+      "body": "Confidence is the expectation that effort will pay off, and that expectation determines whether people put in the effort at all. When a group believes it can win, individuals invest more, help each other and tell the truth about problems. When it does not, they hoard, blame, hide and stop trying, which makes the next result worse. Streaks in either direction are self-reinforcing, and turning one around means changing the behaviour before the belief."
+    },
+    "sparks": [
+      {
+        "id": "confidence-s01",
+        "hook": "Winning streaks are not luck running long. They are behaviour changing.",
+        "insight": "When a group starts winning, something concrete changes in how people act. They put in discretionary effort because it looks likely to pay off, they share information because the group's success is now their success, and they take the small risks that produce the next win. The results cause the behaviour and the behaviour causes the results. That loop, not talent, is what makes streaks last longer than any statistical model of the underlying ability would predict.",
+        "why": "Honest caveat: the evidence is a set of case studies chosen because they had striking streaks, which is selection on the outcome. The mechanism is convincing, but the case list cannot prove it.",
+        "apply": "Find the smallest genuine win your team could produce in two weeks, ship it, and make sure everyone hears about it specifically.",
+        "format": "single",
+        "tags": [
+          "momentum",
+          "culture",
+          "performance"
+        ]
+      },
+      {
+        "id": "confidence-s02",
+        "hook": "Losing does not make people try harder. It makes them go quiet.",
+        "insight": "Failure sets off a recognisable sequence. Information stops moving because bad news is punished. People stop taking responsibility and start assigning it. Meetings become defensive and the strongest performers, who have options, leave first. Nobody decides to sabotage anything. Each person is making a rational choice given what they now expect, and the sum of those choices produces the next failure. Recognising the pattern early matters more than diagnosing which department is to blame.",
+        "why": "Each symptom is individually reasonable under low expectations, which is why the spiral is so hard to argue people out of. The behaviour changes only when the expected payoff changes.",
+        "apply": "Look for the three warning signs this week: secrecy, blame and passivity. If two are present, treat it as an emergency rather than a mood.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Watch information stop moving",
+            "body": "Bad news arrives later and in softer language. Problems get raised only when they are undeniable. Secrecy is the first symptom and the one that makes every other one worse."
+          },
+          {
+            "step": 2,
+            "title": "Notice blame replacing analysis",
+            "body": "Post-mortems become about who, not what. Departments start describing each other as the problem. At this stage people are protecting position rather than solving anything."
+          },
+          {
+            "step": 3,
+            "title": "See the isolation set in",
+            "body": "Teams stop helping across boundaries because collaboration now feels like exposure. Meetings shrink to the people who already agree with each other."
+          },
+          {
+            "step": 4,
+            "title": "Catch the passivity",
+            "body": "Nobody proposes anything. Decisions wait for someone senior. Effort drops to what is checkable, because discretionary work no longer looks like it will pay off."
+          }
+        ],
+        "tags": [
+          "decline",
+          "warning-signs",
+          "culture"
+        ]
+      },
+      {
+        "id": "confidence-s03",
+        "hook": "Restore the facts before you try to restore the mood.",
+        "insight": "The reflex in a turnaround is a rousing speech, and it is almost always the wrong first move. People who have been losing do not trust optimism, and a leader who supplies it without evidence looks either dishonest or uninformed. The first job is to make the real numbers visible to everyone, including the ugly ones. Shared facts end the private theories, kill the rumour economy, and give people something they can act on rather than something they are asked to believe.",
+        "why": "Confidence rebuilt on encouragement collapses at the next bad result. Confidence rebuilt on visible information survives it, because people can see for themselves that the trend has changed.",
+        "apply": "Publish the three numbers that actually show whether your team is winning, including the one you would rather not share, and update them weekly.",
+        "format": "single",
+        "tags": [
+          "turnarounds",
+          "transparency",
+          "measurement"
+        ]
+      },
+      {
+        "id": "confidence-s04",
+        "hook": "Accountability, collaboration and initiative are the three legs. Any two will not hold.",
+        "insight": "Groups that recover tend to rebuild three things together. People take responsibility for outcomes rather than for effort. They work across boundaries instead of defending them. And they start proposing things without being asked. Each supports the others: accountability without collaboration produces defensive silos, collaboration without accountability produces pleasant meetings and no results, and initiative without either burns out the few people who still try.",
+        "why": "The three map onto the three symptoms of decline: blame, isolation and passivity. Fixing one alone leaves the other two to regenerate the spiral, which is why partial turnarounds relapse.",
+        "apply": "Score your team one to five on each of the three this week, then pick the lowest and design one visible change against it.",
+        "format": "carousel",
+        "tags": [
+          "accountability",
+          "collaboration",
+          "initiative"
+        ],
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Put responsibility back on outcomes",
+            "body": "Shift the question in reviews from how hard people worked to what actually happened. Responsibility for a result is what ends the search for someone to blame."
+          },
+          {
+            "step": 2,
+            "title": "Force work across the boundary",
+            "body": "Give one important problem to a group drawn from two teams that currently avoid each other, with a shared deadline. Cooperation restarts through work, not through workshops."
+          },
+          {
+            "step": 3,
+            "title": "Make proposing safe again",
+            "body": "Ask for suggestions in public, adopt one visibly within a fortnight, and credit the person by name. Initiative returns only when people see it survive contact with management."
+          },
+          {
+            "step": 4,
+            "title": "Check all three together",
+            "body": "Score the group on each leg every month. Lifting one while the other two stay flat is how partial turnarounds relapse into the same spiral within a year."
+          }
+        ]
+      },
+      {
+        "id": "confidence-s05",
+        "hook": "Small wins are not consolation prizes. They are the mechanism.",
+        "insight": "A group that has lost repeatedly cannot be talked into believing in a large goal. It can be shown a small one and then shown that it was achieved. The win must be real, visible and clearly attributable to the group's own effort, or it reads as a manufactured morale exercise and makes cynicism worse. Sequence enough of them and the expectation shifts, which is what changes how much effort people are willing to risk on the next thing.",
+        "why": "Expectation is updated by evidence, not by assertion, and it updates fastest from outcomes people were personally involved in producing. Manufactured wins do not work because everyone can tell.",
+        "apply": "Break your biggest goal into a two-week piece that is genuinely useful on its own, and let the team present the result themselves.",
+        "format": "single",
+        "tags": [
+          "momentum",
+          "small-wins",
+          "turnarounds"
+        ]
+      },
+      {
+        "id": "confidence-s06",
+        "hook": "The advantage of winning is that people tell you the truth.",
+        "insight": "In a confident group, raising a problem is a contribution because everyone expects it to be fixed. In a frightened one, raising a problem marks you as the source of it. The difference in how much a leader actually knows about their own organisation is enormous, and it compounds: the confident group catches errors early and cheaply, while the losing group discovers them at the point where they are expensive and someone must be blamed.",
+        "why": "The information advantage is arguably the real mechanism behind streaks. It also means a leader's own view of the organisation is least reliable exactly when things are going worst.",
+        "apply": "Ask three people this week what problem they have decided not to raise, and respond to the first one by fixing something rather than investigating.",
+        "format": "single",
+        "tags": [
+          "transparency",
+          "psychological-safety",
+          "information"
+        ]
+      },
+      {
+        "id": "confidence-s07",
+        "hook": "Too much confidence produces the same blindness as too little.",
+        "insight": "The streak that runs long enough starts to erode the behaviour that created it. Success is attributed to inherent superiority rather than to effort and circumstance, warnings get filed as pessimism, and the group stops examining its own results because examining them seems disloyal. Arrogance looks like confidence from the inside and produces the opposite behaviour: less listening, less preparation, less willingness to hear the person who says the model is wrong.",
+        "why": "Confidence works because it drives investment of effort. Once success feels guaranteed, the effort is no longer seen as necessary, so the loop that produced the wins quietly disconnects.",
+        "apply": "After your next clear success, run a session on what nearly went wrong and what you got lucky on, before anyone celebrates.",
+        "format": "single",
+        "tags": [
+          "overconfidence",
+          "hubris",
+          "learning"
+        ]
+      },
+      {
+        "id": "confidence-s08",
+        "hook": "Leaders in a losing streak spend too much time on strategy and not enough on contact.",
+        "insight": "The instinct under pressure is to withdraw and work on the plan, because the plan is where the leader feels competent. Meanwhile the organisation reads absence as either abandonment or panic and fills the gap with rumour. Turnarounds are unusually contact-heavy: standing in front of people repeatedly, taking hard questions in public, being visibly present when the news is bad. The plan matters, but nobody executes a plan handed down by someone they have stopped seeing.",
+        "why": "In an information vacuum people assume the worst, and the assumption itself changes behaviour. Presence is not symbolism, it is the channel through which any new expectation has to travel.",
+        "apply": "Book a recurring open session where anyone can ask you anything, start it during the bad period rather than after, and answer the hardest question first.",
+        "format": "single",
+        "tags": [
+          "turnarounds",
+          "communication",
+          "presence"
+        ]
+      },
+      {
+        "id": "confidence-s09",
+        "hook": "Fixing the culture without fixing the process just moves the blame around.",
+        "insight": "You can run every workshop about trust you like, and it will not survive a system where two teams are measured on conflicting numbers or where nobody can find out what was decided last week. Confidence rests on structures that make responsibility legible and cooperation possible: clear ownership, information people can actually reach, and forums where cross-boundary problems get resolved rather than escalated. Behaviour follows the structure far more reliably than it follows the values statement.",
+        "why": "People behave well when the system makes it rational to. Attempting to change attitudes while leaving the incentives untouched produces temporary compliance and lasting cynicism.",
+        "apply": "Find one place where two teams are measured on conflicting numbers and change one of the measures this quarter.",
+        "format": "single",
+        "tags": [
+          "systems",
+          "incentives",
+          "culture"
+        ]
+      },
+      {
+        "id": "confidence-s10",
+        "hook": "The same mechanism runs in a school, a football team and a bank.",
+        "insight": "Streaks look like different phenomena in different settings, so people explain a struggling school by policy, a struggling team by coaching and a struggling company by strategy. Underneath, the sequence is recognisably the same: expectations fall, information stops moving, responsibility disperses, effort withdraws. That generality is useful because it means the interventions travel. A head teacher can borrow from a turnaround chief executive, and both are working on the same underlying loop.",
+        "why": "Be careful with the strength of the claim. Pattern-matching across very different institutions is suggestive rather than proof, and each setting has causes the model does not capture.",
+        "apply": "Describe your current situation using only the loop, with no industry vocabulary. If the description still fits, borrow a fix from an unrelated field.",
+        "format": "single",
+        "tags": [
+          "patterns",
+          "turnarounds",
+          "leadership"
+        ]
+      }
+    ],
+    "actions": [
+      "Publish a small set of honest performance numbers on a weekly rhythm, including at least one you would prefer not to share.",
+      "Design and ship a genuine two-week win that the team can attribute to its own work, and let them present the result.",
+      "Score your group on accountability, collaboration and initiative, then make one structural change against whichever is weakest.",
+      "Start a recurring open question session during the difficult period rather than after it, and answer the hardest question first each time."
+    ],
+    "if_you_liked": [
+      "good-to-great",
+      "the-culture-code",
+      "team-of-teams"
+    ],
+    "not_for_you_if": "You want controlled evidence rather than case studies selected because they had dramatic streaks, or you are after tactics for a stable, well-performing team.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2004. Built on comparative case studies of sports, business and education, which is selection on the outcome; flagged in sparks one and ten. All prose original."
+    }
+  },
+  {
+    "id": "the-fearless-organization",
+    "title": "The Fearless Organization",
+    "subtitle": "Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth",
+    "author": "Amy C. Edmondson",
+    "year": 2018,
+    "category": "leadership-management",
+    "subcategory": "psychological-safety",
+    "tags": [
+      "psychological-safety",
+      "teams",
+      "learning",
+      "failure",
+      "culture",
+      "speaking-up"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 11,
+    "why_it_matters": "It turned a research concept into something managers can act on, and gave a name to the thing that separates teams where problems surface early from teams where they surface in a lawsuit. The term is now standard management vocabulary.",
+    "crux": {
+      "headline": "Silence is the default, and it is expensive",
+      "body": "In any group, the cost of speaking up lands on you immediately and the benefit lands on the organisation later, so staying quiet is the rational individual choice almost every time. That is why silence is the default and why it takes deliberate work to overturn. Psychological safety is not comfort or niceness. It is the shared belief that saying the awkward thing will not be punished, which is what lets a team learn faster than it fails."
+    },
+    "sparks": [
+      {
+        "id": "the-fearless-organization-s01",
+        "hook": "The better hospital teams reported more errors, not fewer.",
+        "insight": "A study designed to show that strong teams make fewer mistakes found the opposite in the data, and the surprise turned out to be the discovery. The better teams were not making more errors, they were reporting them. In the weaker teams the mistakes still happened and simply went unrecorded, which meant nobody learned anything and the same failure recurred. Measured error rates in an organisation tell you at least as much about how safe it is to report as about how well the work is done.",
+        "why": "This is where the research programme started, and it inverts a common management instinct. A falling incident count can mean improvement or it can mean fear, and the two look identical on a dashboard.",
+        "apply": "Look at your incident or bug reports. If they dropped without a change in process, ask three people whether reporting still feels worth it.",
+        "format": "single",
+        "tags": [
+          "failure",
+          "measurement",
+          "learning"
+        ]
+      },
+      {
+        "id": "the-fearless-organization-s02",
+        "hook": "Psychological safety is not about being nice. Nice teams often fail quietly.",
+        "insight": "The term gets read as comfort, low pressure, everyone getting along. It means almost the opposite: the confidence that you can disagree, admit a mistake, or say the project will not work, without being punished for it. Groups that prize harmony are frequently the least safe in this sense, because the unspoken rule is that raising problems is disloyal. Safety is what makes candour affordable, and candour is uncomfortable by definition.",
+        "why": "The confusion matters because it leads managers to pursue pleasantness, which suppresses exactly the information the concept was meant to surface. Safety is about the response to bad news, not the absence of it.",
+        "apply": "Ask your team when someone last disagreed with you in a meeting. If nobody can name an instance, you do not have safety, you have politeness.",
+        "format": "single",
+        "tags": [
+          "psychological-safety",
+          "candour",
+          "culture"
+        ]
+      },
+      {
+        "id": "the-fearless-organization-s03",
+        "hook": "Safety without high standards produces a very pleasant team that achieves nothing.",
+        "insight": "Two dials run independently: how safe it feels to speak, and how much is expected. Low on both gives you apathy, where people are comfortable and disengaged. High standards with low safety gives you anxiety, where people work hard and hide problems. High safety with low standards gives you a warm team that drifts. Only both together produce a group that can take on hard work and talk honestly about how it is going. Managers usually think they must trade one for the other.",
+        "why": "The trade-off is imaginary, and believing in it is what produces both the fearful high-performing team and the comfortable slow one. The two dials are set by different behaviours.",
+        "apply": "Rate your team from one to five on safety and on standards. Whichever is lower, name one behaviour of yours that is holding it down.",
+        "format": "single",
+        "tags": [
+          "standards",
+          "accountability",
+          "psychological-safety"
+        ]
+      },
+      {
+        "id": "the-fearless-organization-s04",
+        "hook": "Nobody was ever fired for the problem they did not raise.",
+        "insight": "Speaking up has an immediate, personal and visible cost: looking ignorant, negative, or disloyal in front of people who decide your future. Staying silent has a delayed, diffuse and unattributable cost that lands on the organisation. Given that asymmetry, silence is not cowardice, it is arithmetic, and it is why exhortations to be more open change nothing. The only thing that shifts the calculation is repeated evidence that the immediate cost is not actually charged.",
+        "why": "Because the incentives are structural, the fix has to be structural too. One reassuring speech does not alter what a junior person has watched happen to the last three people who objected.",
+        "apply": "Next time someone raises a problem, thank them by name in front of the group before you say anything about the problem itself.",
+        "format": "single",
+        "tags": [
+          "speaking-up",
+          "incentives",
+          "silence"
+        ]
+      },
+      {
+        "id": "the-fearless-organization-s05",
+        "hook": "Most failures are not blameworthy. Punishing them anyway buys you the next one.",
+        "insight": "Organisations punish failure as a category, then wonder why nobody experiments and why bad news arrives late. Sort them instead. Some failures come from ignoring a known process and deserve a real consequence. Some come from complexity, where several small things combined in a way nobody could reasonably foresee. And some are the deliberate cost of trying something new where the answer could not be known in advance. Only the first group is a discipline issue.",
+        "why": "Managers privately estimate that only a small share of failures are genuinely blameworthy, while behaving as though nearly all of them are. That gap is where the fear comes from.",
+        "apply": "At your next post-mortem, classify the failure out loud into one of the three types before anyone discusses what to do about it.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Separate deviation from the rest",
+            "body": "Someone skipped a step in a well-understood process with a known right answer. This is the only category where sanction makes sense, and it is much rarer than it feels."
+          },
+          {
+            "step": 2,
+            "title": "Name complexity honestly",
+            "body": "Several ordinary conditions combined in an unusual way. Nobody was negligent. The fix is in the system, the handovers and the monitoring, not in anyone's attitude."
+          },
+          {
+            "step": 3,
+            "title": "Celebrate the intelligent ones",
+            "body": "A well-designed attempt in territory nobody had mapped, kept small enough to survive, that produced information you could not have bought another way. This is the failure you want more of."
+          },
+          {
+            "step": 4,
+            "title": "Say which one it was",
+            "body": "Announce the classification publicly. People calibrate their willingness to try things from what they see happen to the last person who failed, not from your policy document."
+          }
+        ],
+        "tags": [
+          "failure",
+          "learning",
+          "experimentation"
+        ]
+      },
+      {
+        "id": "the-fearless-organization-s06",
+        "hook": "Framing the work is a leadership act, and most leaders skip it.",
+        "insight": "People decide what kind of situation they are in before they decide how to behave in it. If the work is genuinely uncertain and interdependent, say so, out loud, before it starts. Teams that believe they are executing a known plan treat every problem as somebody's mistake. Teams that know they are in unmapped territory treat the same problem as information. The facts are identical. The framing determines whether the next person mentions what they noticed.",
+        "why": "Framing is cheap and its effect is large, because it changes the default interpretation of every subsequent event. It has to be stated explicitly, since people default to assuming the plan is known.",
+        "apply": "Open your next project by naming the parts nobody has done before and saying you expect to be wrong about some of them.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Set the stage",
+            "body": "Say plainly how uncertain the work is and how much it depends on people flagging things early. Name the stakes in terms of what happens if a problem is found late."
+          },
+          {
+            "step": 2,
+            "title": "Admit your own limits",
+            "body": "State something you do not know or got wrong recently. A leader who is never wrong in public makes everyone else's mistakes look disqualifying."
+          },
+          {
+            "step": 3,
+            "title": "Ask better questions",
+            "body": "Replace the general invitation to speak up with specific questions. What are we missing, what would have to be true for this to fail, what worries you most this week."
+          },
+          {
+            "step": 4,
+            "title": "Respond so the next person watches",
+            "body": "Thank the messenger before assessing the message, separate the report from the reporter, and act visibly on at least one thing so people know it was worth it."
+          }
+        ],
+        "tags": [
+          "framing",
+          "leadership",
+          "psychological-safety"
+        ]
+      },
+      {
+        "id": "the-fearless-organization-s07",
+        "hook": "An open door is not an invitation. A specific question is.",
+        "insight": "Telling people your door is always open moves all the risk onto them: they must decide the issue is important enough, find a moment, and open a conversation about something awkward. Almost nobody does. A direct question does the opposite. Asking what worries you most about this plan, or what would make this fail, gives permission, supplies the topic, and makes not answering the conspicuous choice. Then you have to wait through the silence without filling it.",
+        "why": "The general invitation leaves the initiation cost with the least powerful person in the room. A specific question transfers that cost to you, which is where it belongs.",
+        "apply": "Replace any invitation to share concerns with one concrete question this week, then stay silent for a full ten seconds after asking it.",
+        "format": "single",
+        "tags": [
+          "questions",
+          "listening",
+          "meetings"
+        ]
+      },
+      {
+        "id": "the-fearless-organization-s08",
+        "hook": "Your reaction to the first bad news sets the price of the second.",
+        "insight": "Everything you say about openness is tested in the ten seconds after someone tells you something you did not want to hear. If you look irritated, interrogate the person, or immediately explain why they are wrong, the whole team updates. Not because you shouted, but because they can now estimate the cost of being that person. Appreciation first, then the problem, then a visible decision about it. The sequence sounds trivial and it is the entire mechanism.",
+        "why": "People infer the real rules from observed consequences, not from stated policy. One badly handled disclosure can undo months of encouragement, because it is more informative than any speech.",
+        "apply": "Prepare one sentence to say automatically when you hear bad news, thanking the person and asking what they need, before your opinion arrives.",
+        "format": "single",
+        "tags": [
+          "response",
+          "trust",
+          "leadership"
+        ]
+      },
+      {
+        "id": "the-fearless-organization-s09",
+        "hook": "Psychological safety is a property of your team, not your company.",
+        "insight": "Two teams in one building, under the same policies and the same values statement, can differ enormously in whether anyone will say the awkward thing. It is built and destroyed locally, by what one manager does in meetings. That is good news for anyone who cannot change their organisation and bad news for anyone hoping a company-wide programme will fix it. A firm-level score is an average that hides the teams that need attention most.",
+        "why": "The construct was measured at team level from the start and the variation within organisations is large. Averaging across a company destroys exactly the signal you were looking for.",
+        "apply": "Ask for your engagement or safety data broken down by team rather than by division, and look at the worst three rather than the mean.",
+        "format": "single",
+        "tags": [
+          "teams",
+          "measurement",
+          "management"
+        ]
+      },
+      {
+        "id": "the-fearless-organization-s10",
+        "hook": "The evidence is people telling you how safe they feel, which has real limits.",
+        "insight": "The concept is measured mostly through surveys, and survey answers are correlated with mood, with recent results and with how safe it feels to answer honestly about safety. Much of the supporting research is observational, so the direction of cause is not settled: good performance may make teams feel safer as much as the reverse. That does not make the idea wrong. It means treating a safety score as a conversation starter rather than a verdict, and watching behaviour instead.",
+        "why": "Being clear about this protects the idea from the backlash that follows overselling. The concept was also popularised by one company's internal team study, which is suggestive rather than conclusive.",
+        "apply": "Stop tracking the score alone. Count observable events instead: how many times this month someone challenged a decision in a meeting.",
+        "format": "single",
+        "tags": [
+          "evidence",
+          "measurement",
+          "honesty"
+        ]
+      }
+    ],
+    "actions": [
+      "Classify your last three failures as deviation, complexity or intelligent experiment, and tell the team which was which.",
+      "Replace your standing invitation for feedback with one specific question asked in every team meeting, and wait ten seconds for the answer.",
+      "Write and rehearse your automatic first response to bad news so that appreciation comes before assessment every time.",
+      "Get your team-level safety or engagement data disaggregated, look at the three lowest teams, and spend a month with one of them."
+    ],
+    "if_you_liked": [
+      "crucial-conversations",
+      "the-culture-code",
+      "team-of-teams"
+    ],
+    "not_for_you_if": "You want experimental evidence and effect sizes rather than a practitioner framework, or you are looking for tools to handle a genuinely toxic manager above you.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2018 by Wiley. Builds on the author's hospital team research from the 1990s. Measurement limits and the correlational nature of much of the evidence are flagged in spark ten. All prose original."
+    }
+  },
+  {
+    "id": "give-and-take",
+    "title": "Give and Take",
+    "subtitle": "A Revolutionary Approach to Success",
+    "author": "Adam Grant",
+    "year": 2013,
+    "category": "leadership-management",
+    "subcategory": "influence-and-networks",
+    "tags": [
+      "generosity",
+      "networks",
+      "influence",
+      "collaboration",
+      "reputation",
+      "burnout"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "It made generosity a serious subject in management rather than a sentimental one, and gave a plausible account of why the most generous people are found at both the bottom and the top of success rankings. It changed how many organisations think about collaboration.",
+    "crux": {
+      "headline": "Generosity fails from missing boundaries, not missing self-interest",
+      "body": "People differ in what they expect from an exchange: some try to take more than they give, some keep score, and some give more than they get. The last group ends up disproportionately at the bottom of performance rankings, and also disproportionately at the top. What separates the two ends is not how much they give but whether they give in ways that are sustainable, targeted and honest about their own interests as well as everybody else's."
+    },
+    "sparks": [
+      {
+        "id": "give-and-take-s01",
+        "hook": "The most generous people are over-represented at the bottom and the top.",
+        "insight": "Rank people in an organisation by results and you find the same pattern in several settings. Those who consistently give more than they get cluster at the bottom, which is unsurprising, and then cluster again at the very top, which is. The people in the middle tend to be the score-keepers and the self-interested. So generosity is not a handicap or an advantage in itself. It is a high-variance strategy, and the variance is explained by how it is practised.",
+        "why": "Honest caveat: this is drawn from correlational field data across a handful of professions, sliced after the fact. The distribution is real and striking, but it is an observed pattern rather than a demonstrated cause.",
+        "apply": "Ask yourself which end you are heading for: are your favours going to people and problems you chose, or to whoever asked most recently?",
+        "format": "single",
+        "tags": [
+          "generosity",
+          "performance",
+          "reciprocity"
+        ]
+      },
+      {
+        "id": "give-and-take-s02",
+        "hook": "Selfless is a failure mode. Generous with your own interest included is not.",
+        "insight": "The generous people who do badly are the ones who cannot say no, treat every request as equally urgent, and consider their own goals slightly shameful. The ones who do well give as much or more, but they choose where, they protect blocks of time for their own work, and they are open about wanting something too. That combination is not a compromise between selfishness and generosity. It is what makes the generosity survive past the first exhausting year.",
+        "why": "Holding your own interests alongside other people's is what keeps giving from becoming a resource that runs out. The distinction is about design, not about intensity.",
+        "apply": "Set a weekly ceiling on unplanned favours and protect two blocks for your own priorities. Say the ceiling out loud when you decline.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Chunk it, do not sprinkle it",
+            "body": "Batch your helping into set periods rather than scattering it through the week. Continuous interruption is what makes generosity feel like it is costing you your own work."
+          },
+          {
+            "step": 2,
+            "title": "Give what is cheap for you",
+            "body": "Favour the help that costs you little and is worth a lot to them: an introduction, a review, ten minutes of context. The lopsided ones are the ones you can keep doing."
+          },
+          {
+            "step": 3,
+            "title": "Name your own goal",
+            "body": "Say what you are working towards. People help back far more reliably when they know what would actually be useful, and hiding it does not make you more admirable."
+          },
+          {
+            "step": 4,
+            "title": "Refuse without apologising",
+            "body": "Decline clearly, offer one alternative if you have it, and move on. A vague maybe costs both of you more than a clean no."
+          }
+        ],
+        "tags": [
+          "boundaries",
+          "generosity",
+          "burnout"
+        ]
+      },
+      {
+        "id": "give-and-take-s03",
+        "hook": "Being agreeable and being generous are different things, and confusing them is expensive.",
+        "insight": "Warmth is a style and generosity is an intent, and all four combinations exist. The pleasant person who takes is the most dangerous, because they are easy to trust and hard to catch. The blunt person who quietly does a great deal for others is the most undervalued, and is often the only one who will tell you something true about your work. Judging people on manner rather than on what they actually do for others is one of the commonest errors in hiring and promotion.",
+        "why": "Manner is visible immediately and intent only becomes visible over repeated interactions, so the fast judgement is systematically wrong in a predictable direction.",
+        "apply": "For one person you find abrasive, list what they have actually done for others in the last year before you write your next assessment of them.",
+        "format": "single",
+        "tags": [
+          "character",
+          "hiring",
+          "judgement"
+        ]
+      },
+      {
+        "id": "give-and-take-s04",
+        "hook": "Most of what you get comes from the people you barely know.",
+        "insight": "Close contacts move in your circles, read what you read, and hear about the same openings you do. Acquaintances sit in different networks and carry information you would never otherwise meet. That is why opportunities so often arrive from the edge of your contacts rather than the centre. Better still are the relationships that were once close and have lapsed: the trust is already built, so the conversation costs nothing, but the information they hold has diverged for years.",
+        "why": "The weak-tie finding is one of the more durable results in social science. The specific value of reconnecting with lapsed contacts is a smaller literature, but the reasoning holds: high trust, low overlap.",
+        "apply": "List ten people you were once close to and have not spoken to in two years. Contact two of them this week with no request attached.",
+        "format": "single",
+        "tags": [
+          "networks",
+          "weak-ties",
+          "opportunity"
+        ]
+      },
+      {
+        "id": "give-and-take-s05",
+        "hook": "A favour that costs you five minutes can be worth a year to someone else.",
+        "insight": "Generosity gets imagined as a large sacrifice, which is why people ration it and then feel guilty. Most of the value in practice comes from small asymmetric acts: an introduction between two people who should know each other, twenty minutes of feedback on a draft, telling someone about a role they had not heard of. These cost almost nothing, can be done many times a week, and accumulate into a reputation that is worth considerably more than any single large favour.",
+        "why": "The mechanism is asymmetry, not sacrifice. Your ordinary knowledge and contacts are scarce to someone else, which means you can give a lot away without depleting anything.",
+        "apply": "Make two introductions this week between people who should know each other, with one sentence each on why they would be useful to the other.",
+        "format": "single",
+        "tags": [
+          "favours",
+          "networks",
+          "generosity"
+        ]
+      },
+      {
+        "id": "give-and-take-s06",
+        "hook": "Trust everyone a little, and adjust fast when someone shows you what they are.",
+        "insight": "Being generous by default gets exploited unless you pair it with attention. The practical version is to start generous with almost anyone, keep the initial investment small, and watch what they do rather than what they say. Someone who returns nothing over several exchanges gets your matched behaviour rather than your generosity, and you can shift back later if they change. This costs very little to run and captures most of the upside while capping the losses.",
+        "why": "Screening people in advance is unreliable and expensive, because takers present well. Screening them cheaply through small repeated exchanges is far more accurate and the errors are small.",
+        "apply": "Notice who has taken from you three times and reciprocated none. Move them to matched exchange rather than cutting them off entirely.",
+        "format": "single",
+        "tags": [
+          "trust",
+          "reciprocity",
+          "boundaries"
+        ]
+      },
+      {
+        "id": "give-and-take-s07",
+        "hook": "Asking for advice persuades more reliably than making the case.",
+        "insight": "Confident assertion is the default persuasion style and it invites counter-argument. Asking someone for advice does something different: it flatters without flattery, it makes them think through your problem using their own reasoning, and it commits them slightly to the answer they gave you. Tentative language, questions and admitted uncertainty read as weakness in a competitive room, but in most working relationships they get more cooperation than a polished pitch does.",
+        "why": "Honest note: much of the supporting work comes from a single research programme and modest experimental samples, and the effect depends heavily on context. It fails where the audience is explicitly evaluating your competence.",
+        "apply": "Take one proposal you were going to argue for and instead ask two sceptics for advice on its weakest part before you finalise it.",
+        "format": "single",
+        "tags": [
+          "influence",
+          "advice",
+          "communication"
+        ]
+      },
+      {
+        "id": "give-and-take-s08",
+        "hook": "Takers are cheap to spot now that everyone can ask about you.",
+        "insight": "Extracting more than you contribute used to be survivable, because reputations moved slowly and only within one building. Now a hiring manager can reach three former colleagues in an afternoon, and a bad pattern travels further than any single good result. The people who have been quietly generous for years accumulate a set of people willing to vouch for them without being asked, which is the only kind of endorsement that carries weight.",
+        "why": "The mechanism is reputational information moving faster and further than it once did. Note that it is weakest where power is very concentrated, since people rarely report on someone who can still hurt them.",
+        "apply": "Write the names of five people who would speak up for you unprompted. If the list is short, spend the next quarter being useful without asking.",
+        "format": "single",
+        "tags": [
+          "reputation",
+          "networks",
+          "career"
+        ]
+      },
+      {
+        "id": "give-and-take-s09",
+        "hook": "Burnout comes from giving without ever seeing what it did.",
+        "insight": "The intuitive fix for an exhausted helper is to make them help less. Often the better fix is to show them the result. People who spend their days assisting others frequently never meet the person who benefited, and the work becomes an endless queue with no visible output. Contact with the outcome, even briefly, changes both the effort people put in and how depleting they find it. The exhaustion tracks meaninglessness more closely than it tracks hours.",
+        "why": "This rests on field experiments run largely by one research group, so treat the size of the effect cautiously. The direction is consistent with a broad literature on task significance and motivation.",
+        "apply": "Once a month, put someone on your team in direct contact with a person who benefited from their work. Let the beneficiary do the talking.",
+        "format": "single",
+        "tags": [
+          "burnout",
+          "motivation",
+          "meaning"
+        ]
+      },
+      {
+        "id": "give-and-take-s10",
+        "hook": "Most people will give freely and will not ask. Fix the asking, not the giving.",
+        "insight": "In almost every team, the constraint is not willingness to help. It is that nobody wants to look incapable by requesting something, so needs go unspoken while capacity sits idle beside them. Making requests routine and public solves it cheaply. Once asking is a normal part of a meeting rather than an admission, the help that was always available starts moving, and people discover how often someone two desks away could have saved them a week.",
+        "why": "Reciprocity is easy to trigger and requests are hard to make, so the bottleneck sits on the demand side. Structuring the ask removes the status cost that was suppressing it.",
+        "apply": "Add a standing agenda item where each person states one thing they need and one thing they can offer. Keep it to ninety seconds each.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Make the ask structural",
+            "body": "Put requests on the agenda so they are expected rather than volunteered. Nobody has to decide whether asking is acceptable if the meeting requires it of everyone."
+          },
+          {
+            "step": 2,
+            "title": "Require specificity",
+            "body": "An introduction to someone at a named company, or thirty minutes on a particular problem. Vague requests get vague sympathy and no action."
+          },
+          {
+            "step": 3,
+            "title": "Let anyone answer",
+            "body": "Do not route requests through the manager. The useful contact is usually held by someone junior whose network nobody has thought to ask about."
+          },
+          {
+            "step": 4,
+            "title": "Close the loop out loud",
+            "body": "Report back what happened to last month's requests. Visible follow-through is what stops the ritual decaying into a round of politely ignored asks."
+          }
+        ],
+        "tags": [
+          "teams",
+          "asking",
+          "collaboration"
+        ]
+      }
+    ],
+    "actions": [
+      "Set a weekly time budget for helping others, batch it into one or two blocks, and protect the rest of the week for your own priorities.",
+      "Reconnect with two lapsed contacts a month with no request attached, and keep a note of where those conversations lead over a year.",
+      "Review your last promotion or hiring decision and check whether you rewarded pleasant manner or actual contribution to other people's work.",
+      "Add a routine to your team where everyone states one specific need and one offer, and report back on outcomes at the following session."
+    ],
+    "if_you_liked": [
+      "originals",
+      "influence",
+      "the-culture-code"
+    ],
+    "not_for_you_if": "You want rigorous causal evidence rather than field studies plus illustrative profiles, or you work somewhere political enough that visible generosity is reliably exploited.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2013 by Viking. Much of the supporting research is correlational or comes from the author's own research programme; flagged in sparks one, seven and nine. All prose original."
+    }
+  },
+  {
+    "id": "originals",
+    "title": "Originals",
+    "subtitle": "How Non-Conformists Move the World",
+    "author": "Adam Grant",
+    "year": 2016,
+    "category": "leadership-management",
+    "subcategory": "innovation-and-dissent",
+    "tags": [
+      "creativity",
+      "innovation",
+      "dissent",
+      "risk",
+      "ideas",
+      "change"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "It attacks the romantic picture of the original thinker as a bold risk-taker, and replaces it with something more useful: people who generate enormous numbers of ideas, hedge carefully, and get very good at making dissent survivable.",
+    "crux": {
+      "headline": "Originality is volume and hedging, not courage",
+      "body": "The people who produce genuinely new things are not braver than everyone else and are not better at recognising which of their ideas is good. They produce far more ideas, which means more bad ones and, by simple arithmetic, more excellent ones. They hedge aggressively elsewhere in their lives so that a failure is survivable. And they spend real effort on the political problem of getting an unwelcome idea heard, which is a separate skill from having it."
+    },
+    "sparks": [
+      {
+        "id": "originals-s01",
+        "hook": "Nobody can pick their own best idea, including the people with the best ideas.",
+        "insight": "Prolific creators are bad forecasters of which of their own works will matter. They are too close to the effort, they over-value novelty in their newest thing, and they systematically misjudge how an audience will react. The reliable path is not better selection but higher volume plus early external feedback. And the best judges are not managers or the creators themselves. They are peers doing similar work, who are neither invested in the outcome nor obliged to be encouraging.",
+        "why": "Studies of highly productive creators consistently find that output volume predicts the number of outstanding works, and that self-assessment of one's own work is weakly related to how it is eventually received.",
+        "apply": "Generate ten options before evaluating any of them, then show the top three to a peer doing similar work rather than to your boss.",
+        "format": "single",
+        "tags": [
+          "ideas",
+          "creativity",
+          "feedback"
+        ]
+      },
+      {
+        "id": "originals-s02",
+        "hook": "The founders who kept their day jobs failed less often, not more.",
+        "insight": "The story we tell about originality involves burning the boats. The pattern in the data runs the other way: people who take a large risk in one area tend to be unusually cautious in others, and entrepreneurs who kept earning elsewhere while building were less likely to fail. Security in one part of life is what makes it possible to be genuinely reckless in another. Removing your safety net does not increase commitment so much as it increases the pressure to settle for the first thing that pays.",
+        "why": "This rests on a study of a large sample of business founders and it is observational, so the people who keep their jobs may differ in other ways. The direction, though, contradicts the folklore strongly enough to be worth noting.",
+        "apply": "Before you quit anything, write which part of your life is providing the stability that lets you take this risk. If the answer is none, build one first.",
+        "format": "single",
+        "tags": [
+          "risk",
+          "entrepreneurship",
+          "hedging"
+        ]
+      },
+      {
+        "id": "originals-s03",
+        "hook": "Delaying a task on purpose can improve the idea, if you started it first.",
+        "insight": "Beginning a piece of work and then deliberately leaving it alone lets the problem keep running in the background, and the first obvious solution loses its grip. That is different from not starting, which produces nothing but panic and whatever you can assemble the night before. The useful version is early start, deliberate pause, late finish. Many people who describe themselves as productive procrastinators are actually doing this, and many others are just late.",
+        "why": "Be careful here. The supporting experiments are small and the effect appears for moderate delay only, with genuine procrastination linked to worse outcomes on almost every measure. Treat it as a permission to pause, not to postpone.",
+        "apply": "Start your next creative task within a day of receiving it, work for thirty minutes, then leave it for a week before returning to finish.",
+        "format": "single",
+        "tags": [
+          "creativity",
+          "procrastination",
+          "process"
+        ]
+      },
+      {
+        "id": "originals-s04",
+        "hook": "Lead with the reasons your idea might fail.",
+        "insight": "The instinct when pitching something unfamiliar is to oversell it, which makes a sceptical audience work harder to find the flaw. Naming the three biggest weaknesses yourself does several things at once. It removes the pleasure of discovering them, it signals that you have thought seriously rather than fallen in love, and it makes everything else you say more credible. It also lowers expectations to a level the project can actually clear, which matters more than the initial enthusiasm.",
+        "why": "Honest caveat: the memorable version of this in the book is a single company's fundraising anecdote, not evidence. The broader point that admitting flaws builds credibility has support, but the effect depends on the audience already respecting your competence.",
+        "apply": "In your next proposal, put the three strongest objections on slide two, with your honest assessment of which one worries you most.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "List the objections first",
+            "body": "Write every reason a smart sceptic would say no, before you write a single benefit. If you cannot produce five, you have not understood the idea's weaknesses yet."
+          },
+          {
+            "step": 2,
+            "title": "Say the worst one out loud",
+            "body": "Open with the objection that genuinely worries you. It disarms the room and it stops the conversation being a hunt for what you left out."
+          },
+          {
+            "step": 3,
+            "title": "Separate fatal from survivable",
+            "body": "Be explicit about which risks would kill the project and which are merely costly. Treating all objections as equal makes you look either defensive or naive."
+          },
+          {
+            "step": 4,
+            "title": "Ask for the specific next step",
+            "body": "Request a small, cheap commitment that tests the biggest risk. An unfamiliar idea gets funded in stages, not adopted whole on the strength of a pitch."
+          }
+        ],
+        "tags": [
+          "pitching",
+          "persuasion",
+          "ideas"
+        ]
+      },
+      {
+        "id": "originals-s05",
+        "hook": "Being first is usually worse than being second and better.",
+        "insight": "Pioneers absorb the cost of teaching a market what a thing is, of building infrastructure that did not exist, and of every mistake that has to be made once. The improvers arrive later, watch what failed, and enter with a better version and a customer base that already understands the category. Studies comparing early entrants with later ones have repeatedly found higher failure rates among the pioneers. The advantage of moving first is real in some markets, and it is much narrower than the phrase suggests.",
+        "why": "The finding comes from historical comparisons of firms, which are vulnerable to how categories are defined. Still, the reflex that speed to market is always decisive is stronger than the evidence for it.",
+        "apply": "Before racing to be first, write what a competitor entering two years later would do better, then decide whether you can pre-empt that.",
+        "format": "single",
+        "tags": [
+          "timing",
+          "strategy",
+          "innovation"
+        ]
+      },
+      {
+        "id": "originals-s06",
+        "hook": "Appointing a devil's advocate does not work. Finding a real one does.",
+        "insight": "Assigning someone to argue against a plan produces objections everyone knows are performed, so the group treats them as a ritual and its confidence actually rises. Genuine dissent works differently. When someone in the room truly holds the minority view, the group thinks harder, considers more options and finds better answers, even when the dissenter turns out to be wrong. So the task is not to stage disagreement but to find the person who already disagrees and make it safe for them to say so.",
+        "why": "This distinction between assigned and authentic dissent comes from a well-established experimental line in social psychology. The finding that minority views improve group reasoning even when incorrect has held up well.",
+        "apply": "Before your next big decision, ask privately who has doubts, then ask that person to open the meeting with their case.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Find the genuine sceptic",
+            "body": "Ask around before the meeting rather than assigning a role in it. Somebody already thinks this is a bad idea, and they are usually not the loudest person present."
+          },
+          {
+            "step": 2,
+            "title": "Let them go first",
+            "body": "Once a decision has visible momentum, opposing it costs far more. Putting the dissent at the start makes it a contribution rather than an obstruction."
+          },
+          {
+            "step": 3,
+            "title": "Protect them afterwards",
+            "body": "Say publicly that the objection improved the plan, whether or not you took it. People watch what happens to the last dissenter far more closely than they read your policy."
+          },
+          {
+            "step": 4,
+            "title": "Decide anyway",
+            "body": "Authentic dissent improves the decision, it does not replace it. Hear the case properly, then choose, and make clear that the matter is now closed."
+          }
+        ],
+        "tags": [
+          "dissent",
+          "decision-making",
+          "groupthink"
+        ]
+      },
+      {
+        "id": "originals-s07",
+        "hook": "Speak up after you have earned the right, not while you are still earning it.",
+        "insight": "The same objection carries wildly different weight depending on who says it. People accumulate a kind of credit by contributing and conforming early, and can then spend it on unpopular positions later. That is not an argument for silence. It is an argument for sequencing: deliver something the group values before you tell it what it is doing wrong, and spend the credit on the fights that matter rather than on every small disagreement.",
+        "why": "The idea that groups grant latitude for deviation to people who have first demonstrated commitment is long-standing in social psychology. It is a description of how groups behave, not an endorsement of it.",
+        "apply": "Pick the one thing you most want to change, and spend a quarter being conspicuously useful on something else before you raise it.",
+        "format": "single",
+        "tags": [
+          "influence",
+          "status",
+          "speaking-up"
+        ]
+      },
+      {
+        "id": "originals-s08",
+        "hook": "Coalitions break over small differences far more often than large ones.",
+        "insight": "Groups pushing for the same change often reserve their fiercest hostility for the group next door that wants almost the same thing slightly differently. Purity feels like principle and it shrinks your coalition to the people who already agree with everything. Widening it requires accepting partial allies, describing your goal in terms that a moderate can repeat without embarrassment, and letting other people carry your argument in their own words rather than yours.",
+        "why": "The pattern of sharpest conflict between near neighbours is well documented in studies of social movements. The practical implication is that message moderation is a recruitment tool, not a betrayal.",
+        "apply": "Name one group that half agrees with you. Find the part you share, and ask them to make that argument in their own language.",
+        "format": "single",
+        "tags": [
+          "coalitions",
+          "change",
+          "persuasion"
+        ]
+      },
+      {
+        "id": "originals-s09",
+        "hook": "Familiarity is what stops you seeing the obvious problem in your own work.",
+        "insight": "The hardest thing about noticing an improvement is that you have stopped seeing the thing at all. Processes that made sense a decade ago become invisible furniture, and the new person who asks why it works this way is treated as naive rather than useful. Getting the outsider's view back requires deliberate effort: bringing in someone unfamiliar, describing your work to a person in another field, or spending time in an industry that solved a similar problem differently.",
+        "why": "Repeated exposure reduces attention to detail, which is efficient for routine and disastrous for improvement. The fix has to be structural, because you cannot decide to find something unfamiliar again.",
+        "apply": "Ask your newest team member to list everything that seemed strange in their first month, and treat the list as a work item rather than an induction issue.",
+        "format": "single",
+        "tags": [
+          "fresh-eyes",
+          "innovation",
+          "process"
+        ]
+      },
+      {
+        "id": "originals-s10",
+        "hook": "Treat the studies here as prompts, not proof, and the ideas get better.",
+        "insight": "This is a book of psychology findings assembled into an argument, written during a period when the field discovered that many of its results did not replicate. Some of the studies behind these claims are single experiments with modest samples. That does not make the arguments useless. It means they are best used as hypotheses to test on your own team, where you can watch what happens, rather than as settled facts to quote at people who disagree with you.",
+        "why": "The author has publicly revised positions as evidence changed, which is the right response. Readers who quote the findings as established science do the ideas more damage than any critic does.",
+        "apply": "Take one claim from this book, run it on your team for a quarter, and write down what actually happened before you adopt it as policy.",
+        "format": "single",
+        "tags": [
+          "evidence",
+          "honesty",
+          "replication"
+        ]
+      }
+    ],
+    "actions": [
+      "Set a volume target for your next creative problem: generate a fixed large number of options before you allow yourself to evaluate any of them.",
+      "Build a stability source outside the risk you are taking, so that failure is survivable and you are not forced to accept the first offer that appears.",
+      "Rebuild your next proposal to lead with the three strongest objections and a request for a small, cheap test of the biggest risk.",
+      "Find the person who genuinely disagrees with your next big decision, have them open the meeting, and back them publicly afterwards."
+    ],
+    "if_you_liked": [
+      "give-and-take",
+      "think-again",
+      "range"
+    ],
+    "not_for_you_if": "You want primary research rather than a synthesis built from studies of varying strength, or you already work somewhere that rewards dissent and needs no persuading.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2016 by Viking. Several supporting studies are small or observational, and one prominent pitching example is a single company anecdote; both flagged in the sparks. All prose original."
+    }
+  },
+  {
+    "id": "reinventing-organizations",
+    "title": "Reinventing Organizations",
+    "subtitle": "A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness",
+    "author": "Frederic Laloux",
+    "year": 2014,
+    "category": "leadership-management",
+    "subcategory": "self-management",
+    "tags": [
+      "self-management",
+      "org-design",
+      "decentralisation",
+      "purpose",
+      "hierarchy",
+      "culture"
+    ],
+    "difficulty": "challenging",
+    "read_time_min": 13,
+    "why_it_matters": "It documented organisations running at real scale with no managers, and described the specific machinery that makes that possible rather than treating it as a philosophy. It is the reference point for almost every self-management experiment since.",
+    "crux": {
+      "headline": "Remove the managers and you must replace what they did",
+      "body": "Hierarchies do a lot of unglamorous work: allocating resources, resolving disputes, setting pay, deciding who does what. Organisations that operate without managers have not deleted those functions, they have rebuilt each one as an explicit process that anybody can run. Where that machinery exists, self-management is startlingly effective. Where it does not, removing the hierarchy simply hands power to whoever is most confident, with none of the accountability a manager carried."
+    },
+    "sparks": [
+      {
+        "id": "reinventing-organizations-s01",
+        "hook": "A nursing organisation of thousands runs with no managers and small local teams.",
+        "insight": "The most convincing example is unglamorous: community nurses in the Netherlands, organised into small teams that plan their own rosters, choose their own patients, hire their own colleagues and handle their own budget, supported by a tiny head office and regional coaches with no authority over them. Nurses spend more time with patients and less on coordination. It is not a thought experiment or a startup with thirty people. It is regulated healthcare at national scale.",
+        "why": "The case matters because it is in a sector with strict compliance requirements, which is where sceptics usually say self-management cannot work. It is still a single organisation with a distinctive founder.",
+        "apply": "Take one team and give it control of a real decision it currently escalates, such as its own schedule or its own tool budget, for one quarter.",
+        "format": "single",
+        "tags": [
+          "self-management",
+          "teams",
+          "autonomy"
+        ]
+      },
+      {
+        "id": "reinventing-organizations-s02",
+        "hook": "Anyone can make any decision, as long as they ask the people it will hit.",
+        "insight": "The central mechanism in most self-managing organisations is a rule about advice rather than approval. You may decide anything within your reach, including spending significant money, provided you first consult everyone materially affected and everyone with real expertise. You must genuinely take the advice seriously and you do not have to follow it. The result is that decisions get made close to the information, while the consultation supplies the coordination a hierarchy would otherwise have imposed.",
+        "why": "The rule works because it separates two things hierarchy bundles together: the need for information from many people, and the need for one person to be accountable. Consensus fails because it merges them again.",
+        "apply": "Pick one decision type you currently approve. Replace approval with a written requirement to seek advice from three named roles.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Name the decider",
+            "body": "One person carries the decision and its consequences. This is the opposite of consensus, and getting it wrong is why most flat structures stall in endless discussion."
+          },
+          {
+            "step": 2,
+            "title": "Identify who must be asked",
+            "body": "Everyone materially affected and everyone with genuine expertise. Not everyone with an opinion, and not only the people likely to agree with you."
+          },
+          {
+            "step": 3,
+            "title": "Record the advice",
+            "body": "Write down what you were told and what you decided to do about it. The record is what makes the process trustworthy and what makes it reviewable afterwards."
+          },
+          {
+            "step": 4,
+            "title": "Decide and own it",
+            "body": "You are free to go against every piece of advice you received. You are not free to skip asking, and you carry the outcome either way."
+          }
+        ],
+        "tags": [
+          "decision-making",
+          "autonomy",
+          "self-management"
+        ]
+      },
+      {
+        "id": "reinventing-organizations-s03",
+        "hook": "Self-managing does not mean unstructured. It usually means more written rules.",
+        "insight": "The picture people have is of an organisation with no process. The reality is the reverse: because there is no manager to arbitrate, everything a manager would have decided informally has to be written down. How conflict is escalated, how pay is set, how someone is removed from a team, how a colleague commits to what they will deliver. These organisations tend to have more explicit process than a conventional one, just distributed rather than concentrated.",
+        "why": "Where a manager exists, ambiguity is resolved by their judgement. Remove the manager without replacing the judgement with a stated process and the ambiguity is resolved by whoever is loudest.",
+        "apply": "Before removing any layer of management, write down the five decisions that layer currently makes and who will make each instead.",
+        "format": "single",
+        "tags": [
+          "org-design",
+          "process",
+          "self-management"
+        ]
+      },
+      {
+        "id": "reinventing-organizations-s04",
+        "hook": "Conflict has to have a process, or it just goes to whoever has the most allies.",
+        "insight": "Without a boss to escalate to, disagreement needs an explicit route. The pattern in these organisations is a staged one: the two people talk directly first, then bring in a mutually agreed colleague as a mediator, then a small panel, and only then an owner or founder. Nobody may complain about a colleague to a third party outside this route. It sounds bureaucratic and it is what stops an organisation without managers turning into a popularity contest.",
+        "why": "Informal power fills any vacuum left by formal power. A stated conflict process is the main defence against that, because it gives the less socially connected person somewhere to go.",
+        "apply": "Write your conflict route on one page and publish it, including the rule that grievances go to the person concerned first.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Go direct first",
+            "body": "The person with the problem raises it with the person concerned, privately, within a short and stated window. Talking about someone before talking to them is the practice being outlawed."
+          },
+          {
+            "step": 2,
+            "title": "Bring in one mediator",
+            "body": "If that fails, both choose a colleague they trust. The mediator does not rule on the substance, they hold the conversation together until an agreement exists."
+          },
+          {
+            "step": 3,
+            "title": "Convene a small panel",
+            "body": "Still stuck, and a few respected colleagues hear it. Their recommendation carries weight through reputation rather than authority, which is usually enough."
+          },
+          {
+            "step": 4,
+            "title": "Reserve the final step",
+            "body": "Only then does a founder or owner step in, and rarely. Making this the last resort rather than the first is what keeps the earlier steps meaningful."
+          }
+        ],
+        "tags": [
+          "conflict",
+          "process",
+          "fairness"
+        ]
+      },
+      {
+        "id": "reinventing-organizations-s05",
+        "hook": "Colleagues can set each other's commitments better than a manager can.",
+        "insight": "In several of these organisations, each person negotiates a written agreement each year with the colleagues they actually work with: what they will deliver, what they are accountable for, what the others can expect. Nobody in a distant office writes it. The people who depend on the work do. It is far more specific than a job description because it is made by people who will notice immediately if it is not honoured, and it is renegotiated when the work changes.",
+        "why": "Accountability to a manager is accountability to one person's attention. Accountability to the colleagues whose work depends on yours is continuous, informed and much harder to game.",
+        "apply": "Have each person write what their three closest collaborators can expect from them, then have those collaborators sign or challenge it.",
+        "format": "single",
+        "tags": [
+          "accountability",
+          "commitments",
+          "peers"
+        ]
+      },
+      {
+        "id": "reinventing-organizations-s06",
+        "hook": "Detailed budgets and forecasts are mostly a control system wearing a planning costume.",
+        "insight": "Much of the annual planning cycle exists so that a centre can hold a periphery to account, not because anyone believes the numbers. Organisations that drop it replace prediction with responsiveness: shorter cycles, teams that can reallocate their own resources, and a rough sense of direction instead of a defended twelve-month figure. The cost is that senior people lose an illusion of control. The benefit is that nobody spends a month producing a forecast everybody knows is fiction.",
+        "why": "Detailed long-horizon forecasts in uncertain environments are consistently poor, and the effort spent producing them is large. The gain is real where the environment moves fast and small where it does not.",
+        "apply": "Cut one planning artefact this cycle and replace it with a monthly review of what actually changed and what you will do differently.",
+        "format": "single",
+        "tags": [
+          "planning",
+          "budgets",
+          "control"
+        ]
+      },
+      {
+        "id": "reinventing-organizations-s07",
+        "hook": "Removing hierarchy does not remove power. It hides it.",
+        "insight": "This is the strongest criticism of the whole approach and it deserves saying plainly. A structure with no formal authority still has influence, and influence flows to the confident, the long-tenured, the well-connected and the founder. The difference is that formal power can be named, appealed and removed, while informal power cannot. Self-management works where the process is explicit enough to give quieter people a route in, and fails badly where flatness is a slogan.",
+        "why": "This critique long predates the book and has been made repeatedly about leaderless movements. Some highly publicised corporate experiments in flat structure have run into exactly this problem and partly reversed.",
+        "apply": "Ask the three least senior people who really decides things here. If the answer differs from your org chart, your structure is informal power in disguise.",
+        "format": "single",
+        "tags": [
+          "power",
+          "hierarchy",
+          "critique"
+        ]
+      },
+      {
+        "id": "reinventing-organizations-s08",
+        "hook": "These structures survive only while the owner genuinely wants them to.",
+        "insight": "In almost every documented case, the practices depend on a founder, chief executive or board that holds the line when things get difficult. A change of ownership, a bad year, or an incoming leader who finds the whole thing indulgent, and the organisation reverts within a couple of years. That is not a footnote. It means self-management is not yet a structure that protects itself, and anyone adopting it should know how fragile it is to a single personnel change at the top.",
+        "why": "Organisational forms persist when they are locked into ownership, law or incentives. These are held in place mostly by conviction, which is the least durable of the three.",
+        "apply": "If you are building this, write into your governing documents which practices require a supermajority to change, before you need the protection.",
+        "format": "single",
+        "tags": [
+          "governance",
+          "fragility",
+          "leadership"
+        ]
+      },
+      {
+        "id": "reinventing-organizations-s09",
+        "hook": "Bringing your whole self to work is a real gain and a real risk.",
+        "insight": "Many of these organisations run practices designed to let people be less professionally armoured: opening meetings with a round where everyone says how they actually are, meeting rooms with explicit norms, time set aside for reflection. When it works, people stop spending energy on performance and problems surface earlier. When it goes wrong, it becomes an expectation to disclose, and a person who prefers to keep work and life separate is quietly marked as not committed.",
+        "why": "The gain and the risk share one mechanism: reducing the distance between the private person and the work persona. Make participation genuinely optional or the practice becomes a new conformity.",
+        "apply": "Add a two-minute opening round to one meeting, make passing explicitly acceptable, and check after a month whether anyone felt obliged.",
+        "format": "single",
+        "tags": [
+          "wholeness",
+          "meetings",
+          "culture"
+        ]
+      },
+      {
+        "id": "reinventing-organizations-s10",
+        "hook": "Twelve organisations, all chosen because they worked. That is not evidence.",
+        "insight": "The research method here is to find organisations already succeeding with these practices and describe them in detail. There is no comparison group and no count of the firms that tried the same thing and collapsed, so the book cannot tell you the odds. The descriptions are genuinely valuable as an existence proof and as a source of mechanisms you can borrow. They cannot tell you that this approach outperforms a well-run conventional company.",
+        "why": "Selecting cases on the outcome is the classic survivorship problem, and the developmental stage model that frames the book comes from a body of thought that is philosophical rather than empirically established.",
+        "apply": "Borrow one mechanism rather than the whole model. Run it in a single team for two quarters and measure something you already track.",
+        "format": "single",
+        "tags": [
+          "evidence",
+          "survivorship",
+          "honesty"
+        ]
+      }
+    ],
+    "actions": [
+      "Replace approval with an advice requirement for one class of decision, naming who must be consulted and requiring the advice be recorded.",
+      "Write and publish a staged conflict process, starting with the rule that a complaint goes to the person concerned before it goes to anyone else.",
+      "Before removing any management layer, list every decision that layer makes and name explicitly who or what process will make each one instead.",
+      "Pilot one borrowed mechanism in a single team for two quarters and compare it against a metric you were already tracking."
+    ],
+    "if_you_liked": [
+      "team-of-teams",
+      "turn-the-ship-around",
+      "no-rules-rules"
+    ],
+    "not_for_you_if": "You want comparative evidence rather than admiring case studies, or you are put off by a developmental framework drawn from integral philosophy rather than research.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2014, self-published by Nelson Parker; an illustrated edition followed in 2016. Case selection is on the outcome and the stage model is philosophical rather than empirical; both flagged in spark ten. All prose original."
+    }
+  },
+  {
+    "id": "the-great-ceo-within",
+    "title": "The Great CEO Within",
+    "subtitle": "The Tactical Guide to Company Building",
+    "author": "Matt Mochary",
+    "year": 2019,
+    "category": "leadership-management",
+    "subcategory": "founder-operations",
+    "tags": [
+      "founders",
+      "operations",
+      "meetings",
+      "feedback",
+      "delegation",
+      "hiring"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 10,
+    "why_it_matters": "It is the operating manual most fast-growing startup founders are quietly handed, covering the unglamorous machinery of running a company: what to write down, who owns what, and how meetings and feedback actually work.",
+    "crux": {
+      "headline": "Get it out of your head and onto a page someone owns",
+      "body": "Most of what goes wrong in a growing company is not strategic. It is that important things live only in someone's memory, nobody is unambiguously responsible for them, and problems recirculate because they were never converted into a standing rule. Writing down goals, issues, owners and decisions is not administration. It is the mechanism that lets an organisation hold more than one person's working memory, which is the actual constraint on how fast it can grow."
+    },
+    "sparks": [
+      {
+        "id": "the-great-ceo-within-s01",
+        "hook": "If it only exists in your head, the company cannot grow past you.",
+        "insight": "Founders carry an enormous amount in memory: who is unhappy, what was promised, which decision is pending, what the plan actually is. That works until roughly the point it stops, and it stops without warning. Writing things down looks like overhead and functions as capacity. Once goals, decisions, owners and open problems are in a place everyone can read, other people can act without asking you, and you stop being the routing layer through which all coordination has to pass.",
+        "why": "The constraint on a growing organisation is usually shared context, not talent. Written artefacts are the cheapest way to give many people the same context at once.",
+        "apply": "Create one document this week listing the company's current top goals, who owns each, and the open questions. Share it with everyone.",
+        "format": "single",
+        "tags": [
+          "writing",
+          "clarity",
+          "scaling"
+        ]
+      },
+      {
+        "id": "the-great-ceo-within-s02",
+        "hook": "Every recurring function needs exactly one name against it.",
+        "insight": "In a young company, work gets done by whoever notices, which is efficient at ten people and disastrous at forty. Make a list of everything that must happen repeatedly, from security reviews to customer onboarding to paying invoices, and put a single human name beside each. Two names means nobody. No name means you. The exercise is dull and it surfaces, within an hour, three or four important things nobody has been doing at all.",
+        "why": "Diffusion of responsibility is well established: the more people who could act, the less likely any specific one does. A single named owner removes the ambiguity that produces the diffusion.",
+        "apply": "List every recurring responsibility in your company on one sheet and put one name against each. Publish the gaps you find.",
+        "format": "single",
+        "tags": [
+          "ownership",
+          "accountability",
+          "operations"
+        ]
+      },
+      {
+        "id": "the-great-ceo-within-s03",
+        "hook": "Keep a running list of problems, and convert each one into a rule.",
+        "insight": "Most teams solve the same problem repeatedly because they fix the instance and never write the standard. Keep a visible list of open issues. For each, get to what actually caused it rather than what triggered it, agree a rule that would prevent the class of problem, name an owner, and only then close it. The list becomes the company's institutional memory, and the rate at which it shrinks is a better health measure than most dashboards.",
+        "why": "Fixing instances scales linearly with problems, while fixing classes scales with categories, which are far fewer. The discipline is in refusing to close an item without a stated standard.",
+        "apply": "Start an issues document today. Add every problem raised this week, and do not close any without a written rule and an owner.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Write the issue plainly",
+            "body": "One sentence describing what went wrong, with no blame and no proposed solution yet. Getting it visible is most of the work, because unwritten problems recur invisibly."
+          },
+          {
+            "step": 2,
+            "title": "Find the cause behind the cause",
+            "body": "Ask why until the answer is about a process rather than a person. If the final answer is that someone was careless, you have not gone far enough."
+          },
+          {
+            "step": 3,
+            "title": "Write a standard",
+            "body": "State the rule that would have prevented this whole class of problem. It must be specific enough that a new joiner could follow it without asking anyone."
+          },
+          {
+            "step": 4,
+            "title": "Assign and close",
+            "body": "One owner, one date, then close the item. An issues list that only grows teaches people that raising things achieves nothing."
+          }
+        ],
+        "tags": [
+          "problem-solving",
+          "process",
+          "operations"
+        ]
+      },
+      {
+        "id": "the-great-ceo-within-s04",
+        "hook": "If you have a problem with someone, you may only discuss it with them.",
+        "insight": "The default in most companies is to complain about a colleague to a third party, usually a manager, who then relays a softened version. Everyone involved feels reasonable and nothing improves, because the person concerned never hears the real thing. A simple rule fixes an enormous amount: raise it with the person directly, and if you bring it to a manager, their job is to coach you to have that conversation rather than to have it for you.",
+        "why": "Relayed complaints lose specificity, remove the chance to correct a misunderstanding, and teach people that avoidance works. The rule only holds if managers refuse to be the intermediary.",
+        "apply": "Next time someone brings you a complaint about a colleague, ask what they will say to that person and when, then follow up on the date.",
+        "format": "single",
+        "tags": [
+          "communication",
+          "conflict",
+          "culture"
+        ]
+      },
+      {
+        "id": "the-great-ceo-within-s05",
+        "hook": "Feedback delayed to the review cycle is feedback wasted.",
+        "insight": "The useful moment for a correction is within a day of the thing happening, in private, and framed around what you observed rather than what it says about the person. Ask whether they want it first, which sounds like a formality and materially changes how it is received. Save it for a quarterly form and three things go wrong: the detail is gone, the person has repeated the behaviour thirty times, and the conversation becomes about the rating rather than the work.",
+        "why": "Specific, immediate feedback is easier to act on and much harder to dispute, because both people remember the incident. Delay converts a coaching moment into a verdict.",
+        "apply": "Give one piece of specific feedback within twenty-four hours this week, in private, starting with what you observed and asking permission first.",
+        "format": "single",
+        "tags": [
+          "feedback",
+          "coaching",
+          "management"
+        ]
+      },
+      {
+        "id": "the-great-ceo-within-s06",
+        "hook": "You do not have a meeting problem. You have four meetings pretending to be one.",
+        "insight": "A single weekly leadership meeting cannot do coordination, metrics review, hard decisions and long-range thinking. Give each its own rhythm and rules. Short and daily to prevent collisions. Weekly for numbers, blockers and tactical calls. Monthly or quarterly for the small number of decisions that need genuine argument and preparation. Annually, away from the building, for the direction. Every meeting also needs a written agenda beforehand and decisions recorded afterwards, or it does not count.",
+        "why": "Different decisions need different preparation and depth. Combined into one slot, the urgent items reliably crowd out the important ones because they carry a date.",
+        "apply": "Split your leadership meeting by purpose this month, require a written agenda before each, and record every decision with an owner.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Daily, and short",
+            "body": "A few minutes to surface blockers and avoid collisions. No presentations, no problem solving. If it runs long, someone has brought the wrong kind of item."
+          },
+          {
+            "step": 2,
+            "title": "Weekly, on the numbers",
+            "body": "Review the small set of metrics you agreed matter, work through blockers, and make tactical calls. Anything needing an hour of thought gets deferred, not squeezed."
+          },
+          {
+            "step": 3,
+            "title": "Monthly, on the hard things",
+            "body": "One or two genuinely difficult questions with a written brief circulated in advance. Reading time at the start beats a presentation nobody can interrogate."
+          },
+          {
+            "step": 4,
+            "title": "Yearly, out of the building",
+            "body": "Direction, people and how the leadership team itself is working. Away from the office, with enough time that the awkward topic actually comes up."
+          }
+        ],
+        "tags": [
+          "meetings",
+          "cadence",
+          "operations"
+        ]
+      },
+      {
+        "id": "the-great-ceo-within-s07",
+        "hook": "Track what drains you, then hand those things to someone who finds them easy.",
+        "insight": "Go through a fortnight of your calendar and mark each block as energising or draining. The pattern is usually stark, and the draining blocks are frequently things another person would enjoy and do better. Delegation framed as capacity management rarely happens, because you can always argue you have time. Framed as energy, it becomes obvious: you are spending your scarcest resource on work that is cheap for someone else, and doing your actual job badly as a result.",
+        "why": "Time can be stretched and attention cannot. Energy is a better proxy for what you can sustain, though this is a practitioner heuristic rather than a measured finding.",
+        "apply": "Mark two weeks of calendar blocks as energising or draining, then hand over the three biggest drains within a month.",
+        "format": "single",
+        "tags": [
+          "delegation",
+          "energy",
+          "founders"
+        ]
+      },
+      {
+        "id": "the-great-ceo-within-s08",
+        "hook": "Write the scorecard before you meet a single candidate.",
+        "insight": "Interviewing without a written definition of the role means you evaluate candidates against each other and against your mood, and you end up hiring the most impressive person rather than the right one. Write down what this person must accomplish in the first year, which competencies that requires, and how you would recognise each. Then interview against the document. It feels bureaucratic and it is the single cheapest improvement most companies can make to their hiring.",
+        "why": "A fixed standard set before you meet anyone limits how much your first impression reshapes the criteria afterwards, which is the main failure mode in unstructured hiring.",
+        "apply": "For your next open role, write the outcomes and competencies first, circulate them to the panel, and score against them individually before discussing.",
+        "format": "single",
+        "tags": [
+          "hiring",
+          "interviewing",
+          "process"
+        ]
+      },
+      {
+        "id": "the-great-ceo-within-s09",
+        "hook": "Reference checks are the highest-signal step and the one everyone skips.",
+        "insight": "By the time you are checking references, you want the hire to work, so the calls get delegated or done as a formality with people the candidate chose. Done properly they are the most predictive hour in the process: talk to former managers and peers, ask what the person needs to be great, ask where they would rank them among people they have worked with, and listen carefully to hesitation. The awkward pause carries more information than the answer that follows it.",
+        "why": "References are a check on the same evidence from people with no incentive to impress you, which is the main thing an interview cannot provide. The weakness is that candidates supply the list.",
+        "apply": "Do two reference calls yourself for your next hire, ask for the name of one person the candidate did not list, and note every hesitation.",
+        "format": "single",
+        "tags": [
+          "hiring",
+          "references",
+          "judgement"
+        ]
+      },
+      {
+        "id": "the-great-ceo-within-s10",
+        "hook": "This is a coach's playbook from one industry, not a body of evidence.",
+        "insight": "Everything here is distilled from advising venture-funded technology companies, mostly in one region, mostly young and well capitalised. There is no research behind it and no comparison with companies that did the opposite. That is not a reason to ignore it, because practical heuristics from someone who has seen hundreds of similar situations are genuinely useful. It is a reason to test each one against your own context rather than importing the whole system.",
+        "why": "Practices tuned to abundant capital, fast growth and a young workforce transfer badly to organisations with none of those. Knowing the origin lets you predict which parts will not fit.",
+        "apply": "Pick the three practices here that fit your constraints, adopt those properly, and write down why you are rejecting the rest.",
+        "format": "single",
+        "tags": [
+          "evidence",
+          "context",
+          "honesty"
+        ]
+      }
+    ],
+    "actions": [
+      "Build a single shared document holding current goals, owners and open questions, and update it in the same meeting every week.",
+      "List every recurring responsibility in the organisation with exactly one name against each, and fix the gaps the list reveals.",
+      "Start an issues list where nothing is closed without a written standard and a named owner, and review it weekly.",
+      "Rewrite your hiring process to start with a written scorecard and to include two reference calls you make personally."
+    ],
+    "if_you_liked": [
+      "high-output-management",
+      "the-hard-thing-about-hard-things",
+      "measure-what-matters"
+    ],
+    "not_for_you_if": "You want research rather than one coach's accumulated heuristics, or you run an organisation unlike a venture-funded technology startup, where much of this does not transfer.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2019, developed from the author's coaching notes and freely circulated online before print. No evidence base beyond practitioner experience, flagged in spark ten. All prose original."
+    }
+  },
+  {
+    "id": "work-rules",
+    "title": "Work Rules!",
+    "subtitle": "Insights from Inside Google That Will Transform How You Live and Lead",
+    "author": "Laszlo Bock",
+    "year": 2015,
+    "category": "leadership-management",
+    "subcategory": "people-operations",
+    "tags": [
+      "hiring",
+      "people-operations",
+      "performance",
+      "pay",
+      "culture",
+      "management"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It opened up one large company's people practices in unusual detail, including what failed, and made the case for running human resources on evidence rather than tradition. Structured hiring became mainstream partly because of it.",
+    "crux": {
+      "headline": "Spend on selection, not on fixing people later",
+      "body": "Most organisations invest heavily in training and performance management, and treat hiring as a hurdle to clear quickly so the work can start. Reverse the emphasis. Getting the selection right is far cheaper than remediation, and the practices that improve it are unglamorous: the same questions for every candidate, decisions taken by a group rather than the hiring manager alone, and a standard nobody is allowed to lower because the role is urgent."
+    },
+    "sparks": [
+      {
+        "id": "work-rules-s01",
+        "hook": "Take the hiring decision away from the hiring manager.",
+        "insight": "The manager who needs the role filled is the worst-placed person to hold the standard, because they carry the pain of the vacancy and none of the long-term cost of a poor hire. Moving the decision to a group that includes people outside the team, using written evidence from the interviews, slows things down and raises the bar. It also removes the single most common failure in hiring: a manager under pressure quietly deciding that this candidate will do.",
+        "why": "The pressure to fill a role is immediate and personal while the cost of a weak hire is deferred and shared, so the incentives on a hiring manager are structurally misaligned.",
+        "apply": "Add one person from outside the team to your next hiring decision, and require written interview evidence before anyone states an opinion.",
+        "format": "single",
+        "tags": [
+          "hiring",
+          "decision-making",
+          "standards"
+        ]
+      },
+      {
+        "id": "work-rules-s02",
+        "hook": "Ask every candidate the same questions, or you are just comparing conversations.",
+        "insight": "Unstructured interviews feel informative and mostly measure whether you enjoyed talking to someone. A structured interview uses the same defined questions for every candidate, tied to what the job needs, with a scoring guide describing what a weak and a strong answer look like. It is duller for the interviewer and considerably more accurate. The comparison only works because everyone was asked the same thing, which is exactly what the free-flowing conversation destroys.",
+        "why": "Structured interviews outperform unstructured ones across decades of research. Note that the headline validity figures from the older meta-analyses were revised downward after methodological corrections, though the ranking held.",
+        "apply": "Write four job-specific questions with a scoring guide, use them for every candidate in your next hire, and score before you discuss.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Define what the job needs",
+            "body": "Two or three capabilities the role genuinely requires, described in terms of what the person would have to do. Generic qualities like drive are not assessable."
+          },
+          {
+            "step": 2,
+            "title": "Fix the questions",
+            "body": "Write them once and use them for everyone. Ask about specific past situations and about how they would handle a real problem from the job."
+          },
+          {
+            "step": 3,
+            "title": "Write the scoring guide",
+            "body": "Describe in advance what a weak, adequate and strong answer contains. Doing this after the interview means writing the standard around the candidate you liked."
+          },
+          {
+            "step": 4,
+            "title": "Score alone, then meet",
+            "body": "Every interviewer records their scores and evidence before hearing anyone else. Discussion first produces agreement, not accuracy, because the confident voice anchors the room."
+          }
+        ],
+        "tags": [
+          "hiring",
+          "interviewing",
+          "structure"
+        ]
+      },
+      {
+        "id": "work-rules-s03",
+        "hook": "After about four interviews you are mostly burning the candidate's patience.",
+        "insight": "Adding interviewers keeps feeling safer, so processes grow until good candidates drop out from exhaustion. Google's own analysis of its notoriously long process found the predictive value flattened after a small number of interviews, and the extra rounds bought almost nothing while costing weeks and lost candidates. Speed is not a compromise on quality here. A shorter process with structure beats a long one without it, and it wins you the people who had other offers.",
+        "why": "Each additional interview measures much the same thing as the last, so the information gained falls sharply while the cost to the candidate keeps rising linearly.",
+        "apply": "Count the interviews in your current process. Cut it to four structured ones and measure your offer acceptance rate over the next quarter.",
+        "format": "single",
+        "tags": [
+          "hiring",
+          "speed",
+          "process"
+        ]
+      },
+      {
+        "id": "work-rules-s04",
+        "hook": "Separate the pay conversation from the growth conversation, by months if you can.",
+        "insight": "When money and a rating are on the table, people are managing a negotiation, not listening to coaching. Every developmental point you make is being decoded for what it means about the number. Splitting them, so that the conversation about how someone can get better happens at a completely different time from the one about compensation, costs nothing and makes the first conversation possible at all. Most companies combine them for administrative convenience and lose the coaching entirely.",
+        "why": "The stakes in the pay conversation dominate attention, so feedback delivered alongside it is processed as justification rather than as advice. Time separation is the simplest available fix.",
+        "apply": "Move your development conversations several months away from your pay cycle, and say explicitly at the start that no money is being decided.",
+        "format": "single",
+        "tags": [
+          "performance",
+          "pay",
+          "coaching"
+        ]
+      },
+      {
+        "id": "work-rules-s05",
+        "hook": "In many roles, paying everyone similarly is what drives your best people out.",
+        "insight": "Where individual contribution varies enormously, compressing pay into a narrow band means the strongest performers are subsidising the average ones and can tell. Paying them far more than the band suggests feels unfair and is a more accurate reflection of what they produce. This only works under two conditions: the role must genuinely have that spread, and your measurement of contribution has to be trustworthy. Where either fails, wide pay differences are corrosive rather than motivating.",
+        "why": "Output in many roles is heavily skewed rather than normally distributed, so equal treatment of unequal contribution is itself a distortion. The caveat about measurement quality is doing a lot of work here.",
+        "apply": "Look at your top performers' pay against the band. If the gap does not reflect the gap in contribution, take the case to your compensation process.",
+        "format": "single",
+        "tags": [
+          "pay",
+          "performance",
+          "retention"
+        ]
+      },
+      {
+        "id": "work-rules-s06",
+        "hook": "Study your best people the way you would study a defect.",
+        "insight": "Organisations investigate failure thoroughly and success barely at all. The people producing exceptional results are doing something specific and usually cannot articulate it, because it feels obvious to them. Go and find out. Sit with them, watch the sequence, ask what they do that colleagues do not. Then teach it. This is a cheaper source of improvement than any external training programme, and it also tells you what your job descriptions have been getting wrong.",
+        "why": "The practices that produce excellent results are local and often invisible to the person using them. Extracting them requires observation, because asking alone returns generic answers.",
+        "apply": "Pick your two strongest performers, spend an hour watching how they actually work, and write down the three things nobody else is doing.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Identify both tails",
+            "body": "Your very best and the people genuinely struggling. The middle needs less attention than either, and it is where most management time currently goes."
+          },
+          {
+            "step": 2,
+            "title": "Observe rather than interview",
+            "body": "Watch the best do the work. What they tell you when asked is usually a rationalisation. The useful detail is in the sequence and what they skip."
+          },
+          {
+            "step": 3,
+            "title": "Teach it as a practice",
+            "body": "Turn what you found into something specific others can copy this week, not a principle. A checklist or a template beats a slide about behaviours."
+          },
+          {
+            "step": 4,
+            "title": "Help the strugglers early",
+            "body": "Treat the bottom as a training and placement problem first. Most improve substantially, and the ones who do not have had a fair and documented chance."
+          }
+        ],
+        "tags": [
+          "performance",
+          "learning",
+          "management"
+        ]
+      },
+      {
+        "id": "work-rules-s07",
+        "hook": "Managers matter, and what good ones do is unglamorous.",
+        "insight": "An internal effort to test whether managers made any measurable difference found that they did, and then went looking for what the well-rated ones actually did. The list was disappointingly ordinary: hold regular one to ones, coach rather than direct, take an interest in careers, avoid micromanaging, be technically credible enough to help. No charisma, no vision. The value of the exercise was not the list but the fact that it was derived from the company's own data rather than assumed.",
+        "why": "Honest caveat: the analysis was internal, built largely on employee survey ratings, and never independently reproduced. The behaviours are sensible and the causal claim behind them is weaker than the retelling suggests.",
+        "apply": "Ask your team to rate you anonymously on those few behaviours, then pick the lowest one and work on it in the open.",
+        "format": "single",
+        "tags": [
+          "management",
+          "coaching",
+          "evidence"
+        ]
+      },
+      {
+        "id": "work-rules-s08",
+        "hook": "Small changes to defaults beat large changes to policy.",
+        "insight": "Telling people to do something well produces a memo. Changing what happens automatically produces behaviour. A checklist that arrives in a manager's inbox the day before someone starts, a default retirement contribution, a reminder timed to the moment a decision is actually made. These are cheap, easy to test properly against a control group, and they work on the enormous number of behaviours that fail from friction and forgetting rather than from unwillingness.",
+        "why": "Most behaviour at work is driven by what is easiest at the moment of action. Changing the default changes the outcome without requiring anyone to be persuaded of anything.",
+        "apply": "Pick one process people routinely forget, send an automated prompt at the exact moment it is needed, and compare the next quarter against the last.",
+        "format": "single",
+        "tags": [
+          "nudges",
+          "defaults",
+          "operations"
+        ]
+      },
+      {
+        "id": "work-rules-s09",
+        "hook": "Give people more freedom than is comfortable, and be specific about the limits.",
+        "insight": "The argument is that if you have hired carefully, treating adults like adults returns more than controlling them does: open information, freedom over how work gets done, real influence over decisions that affect them. The part that gets forgotten is that this only works alongside a very high selection bar and unambiguous standards. Freedom given to a team assembled without care produces drift, and the companies that copied the freedom without copying the selection got exactly that.",
+        "why": "The two halves are a package. Autonomy raises output where capability and standards are already high and lowers it where they are not, which is why partial imitation of this model fails so often.",
+        "apply": "Choose one control you impose out of habit, remove it for a quarter, and state clearly what standard still has to be met without it.",
+        "format": "single",
+        "tags": [
+          "autonomy",
+          "trust",
+          "culture"
+        ]
+      },
+      {
+        "id": "work-rules-s10",
+        "hook": "One company, extraordinary margins, and a queue of applicants. Adjust accordingly.",
+        "insight": "These practices come from an organisation with unusual profitability, a vast applicant pool and a workforce concentrated in one profession. That combination makes an expensive hiring process rational and generous benefits affordable in a way they may not be for you. The company has also since abandoned or heavily revised several practices described here. Take the reasoning, which travels, and be sceptical of the specific mechanisms, which were tuned to conditions you probably do not share.",
+        "why": "Single-organisation case evidence cannot separate what worked from what the context permitted. That the same company later changed some of these practices is itself useful information.",
+        "apply": "Before copying any practice here, write what it assumes about your margins, your applicant pool and your workforce. Reject the ones that fail the test.",
+        "format": "single",
+        "tags": [
+          "evidence",
+          "context",
+          "honesty"
+        ]
+      }
+    ],
+    "actions": [
+      "Convert your interview process to a fixed set of job-specific questions with a written scoring guide, and require individual scores before any group discussion.",
+      "Move the hiring decision from the hiring manager alone to a small group that includes someone outside the team.",
+      "Separate your development conversations from your pay cycle by several months, and say at the start of each which one it is.",
+      "Spend an hour observing each of your two strongest performers, then turn what you find into something specific the rest of the team can copy."
+    ],
+    "if_you_liked": [
+      "first-break-all-the-rules",
+      "no-rules-rules",
+      "high-output-management"
+    ],
+    "not_for_you_if": "You want practices that transfer to a small or resource-constrained organisation without adaptation, or you distrust conclusions drawn from a single unusually profitable company.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2015 by Twelve. Evidence is largely internal to one company and partly survey-based; the limits and later reversals are flagged in sparks seven and ten. All prose original."
+    }
+  }
+]

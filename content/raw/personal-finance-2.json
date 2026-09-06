@@ -1,0 +1,2387 @@
+[
+  {
+    "id": "just-keep-buying",
+    "title": "Just Keep Buying",
+    "subtitle": "Proven Ways to Save Money and Build Your Wealth",
+    "author": "Nick Maggiulli",
+    "year": 2022,
+    "category": "personal-finance",
+    "subcategory": "saving-and-investing",
+    "tags": [
+      "investing",
+      "saving",
+      "index-funds",
+      "market-timing",
+      "wealth-building"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "It takes the arguments personal finance keeps having and settles several of them with data rather than opinion, then reduces the answer to one instruction anyone with an income can follow. It is the least glamorous and most durable advice in the category.",
+    "crux": {
+      "headline": "Buy income-producing assets continuously and never stop",
+      "body": "Wealth does not come from picking the right moment or the right stock. It comes from converting income into ownership on a schedule, over decades, through good years and terrible ones. Waiting for a better price loses on average, even with perfect foresight. So automate the purchase, raise the amount as your pay rises, and spend your attention on earning more rather than on forecasting a market that does not care what you think."
+    },
+    "sparks": [
+      {
+        "id": "just-keep-buying-s01",
+        "hook": "Waiting for a better price usually costs more than the price you avoided.",
+        "insight": "Imagine you knew in advance the exact date of every market bottom for the next forty years, and you held cash so you could buy only at those moments. Tested across long stretches of market history, that strategy still loses to simply investing every month as the money arrives. Markets spend most of their time rising, so cash sitting out misses more than it dodges. If perfect foresight is not enough to make waiting pay, a hunch about a coming dip is not either.",
+        "why": "Time out of the market is a certain, compounding cost, while the dip you are waiting for may never arrive below today's price. The advantage of buying now comes from upward drift, not from luck.",
+        "apply": "Take any cash you are holding back for a better entry point and set a date this month for it to go in, then let the transfer run.",
+        "format": "single",
+        "tags": [
+          "market-timing",
+          "investing",
+          "cash"
+        ]
+      },
+      {
+        "id": "just-keep-buying-s02",
+        "hook": "Early on your savings rate is the whole game. Later, returns take over.",
+        "insight": "When your portfolio is small, returns are noise. A strong year on three thousand pounds buys dinner, while an extra two hundred a month changes your trajectory entirely. So at the start the only lever that matters is the gap between what you earn and what you spend. As the balance grows, the arithmetic flips, and one percentage point of return moves more money than you could plausibly save in a year. Most people pull the wrong lever for their stage, agonising over fund choice while saving a rounding error.",
+        "why": "Contributions are additive and capped by your income. Returns are multiplicative on the balance. The crossover arrives on its own once the portfolio is worth several years of saving.",
+        "apply": "Add up last year's contributions and last year's investment gains. The larger number tells you where this year's effort should go.",
+        "format": "single",
+        "tags": [
+          "saving",
+          "compounding",
+          "investing"
+        ]
+      },
+      {
+        "id": "just-keep-buying-s03",
+        "hook": "The cure for spending guilt is not restraint. It is a matching transfer.",
+        "insight": "Frugality advice tends to end in one of two places: joyless self-denial, or a spree followed by shame. A simpler rule dissolves both. Whenever you want to buy something extravagant, move the same amount into your investments at the same moment. If matching it is impossible, you have your answer about affordability without any moral argument attached. If you can do both, the purchase is genuinely paid for and the guilt has nothing left to feed on.",
+        "why": "The rule converts a vague question about deserving into a concrete affordability test, and it makes every splurge fund your future rather than compete with it.",
+        "apply": "Pick the next non-essential purchase above your usual limit and transfer the same sum into your index fund before you check out.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Name the splurge",
+            "body": "Write down the thing you want and its full price, including delivery, insurance and whatever it commits you to paying later. Vagueness is what makes overspending feel harmless."
+          },
+          {
+            "step": 2,
+            "title": "Match it in full",
+            "body": "Move an identical amount into your investment account first, in the same sitting. Not a percentage of it, not later in the month. The same number, now."
+          },
+          {
+            "step": 3,
+            "title": "Watch your reaction",
+            "body": "If matching the amount feels impossible or frightening, that is your affordability answer, and no budgeting spreadsheet was going to tell you anything kinder."
+          },
+          {
+            "step": 4,
+            "title": "Buy it without commentary",
+            "body": "If both transfers cleared, the purchase is funded and so is your future. Enjoy it and drop the running argument in your head. That is the entire point of the rule."
+          }
+        ],
+        "tags": [
+          "spending",
+          "guilt-free",
+          "investing"
+        ]
+      },
+      {
+        "id": "just-keep-buying-s04",
+        "hook": "You cannot cut your way to wealth on an income that is already stretched.",
+        "insight": "Spending has a floor. Rent, food, transport and childcare cannot go below what they actually cost, and for many households that number is most of the paycheque. Income has no matching ceiling. So the standard advice to trim small luxuries is aimed at the wrong people twice over: a stretched household has nothing left to trim, and a comfortable one is rarely leaking money through coffee. Work out which problem you have before choosing a solution.",
+        "why": "The two levers are not symmetrical. Cutting is bounded by your cost of living. Earning is bounded by nothing in particular. Which one is available to you depends on where your income already sits.",
+        "apply": "Total your genuinely fixed costs as a share of take-home pay. Above roughly seventy percent, spend this year on raising income, not on spreadsheets.",
+        "format": "single",
+        "tags": [
+          "income",
+          "frugality",
+          "budgeting"
+        ]
+      },
+      {
+        "id": "just-keep-buying-s05",
+        "hook": "Most individual stocks lose to Treasury bills. A tiny minority carries everything.",
+        "insight": "Research on long-horizon American stock returns found that the majority of individual companies underperformed short-term government bills across their lifetimes, and that the market's entire net gain traces back to a small fraction of firms. The average is carried by extreme winners. That is the strongest available argument for owning the whole market: if you select, you have to catch the few, and a portfolio that misses them takes more risk for less return.",
+        "why": "Stock returns are heavily skewed rather than bell-shaped, so the typical stock and the average stock behave nothing alike. Owning everything guarantees you hold the outliers you cannot identify in advance.",
+        "apply": "Check what share of your portfolio sits in individual names, then cap it at an amount you could lose entirely without changing your plans.",
+        "format": "single",
+        "tags": [
+          "index-funds",
+          "stock-picking",
+          "diversification"
+        ]
+      },
+      {
+        "id": "just-keep-buying-s06",
+        "hook": "Buying at a record high feels reckless. Records arrive in clusters.",
+        "insight": "Rising markets set new highs constantly, so a large share of all trading days sit at or near a record. Refusing to invest whenever the index is at a peak means refusing to invest through most of every bull market. The label carries no information about what happens next. It only tells you the market has done well recently, which is the normal condition of something that rises over long periods.",
+        "why": "This is not a claim that highs are bargains. It is that a record level is not a signal, and treating it as one keeps you in cash during exactly the stretches you most needed to be invested.",
+        "apply": "If you have paused contributions because the market looks expensive, restart them at the next scheduled date and keep the amount unchanged.",
+        "format": "single",
+        "tags": [
+          "market-timing",
+          "psychology",
+          "investing"
+        ]
+      },
+      {
+        "id": "just-keep-buying-s07",
+        "hook": "Treat buying assets like paying rent: same date, same amount, no opinion.",
+        "insight": "The central instruction is deliberately dull. Choose a broad, cheap fund, decide how much goes in and on which day, then let it happen whether the news is good or catastrophic. The point is not that the schedule is optimal. The point is that it removes the two decisions that reliably destroy returns, which are when to start and when to stop. A mediocre plan you never interrupt beats a clever one you abandon in a bad quarter.",
+        "why": "Automated purchases take your forecast out of the process entirely. Since the forecast is the part most likely to be wrong, deleting it raises your expected result without requiring any skill.",
+        "apply": "Set a standing order for the day after payday into one broad index fund, then take the investing app off your phone for a quarter.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Pick one broad fund",
+            "body": "A single global or total-market index fund with a low ongoing charge is enough to begin. Choosing between three near-identical funds is procrastination wearing a spreadsheet."
+          },
+          {
+            "step": 2,
+            "title": "Fix the date and amount",
+            "body": "Schedule the transfer for the day after your pay lands, so investing happens before spending rather than out of whatever survives the month."
+          },
+          {
+            "step": 3,
+            "title": "Automate the whole chain",
+            "body": "Money should move from salary to investment without you approving anything. Every manual step is a place where one bad week can quietly cancel the plan."
+          },
+          {
+            "step": 4,
+            "title": "Raise it with every rise",
+            "body": "When your pay increases, send a fixed share of the increase straight into the same standing order before your spending adjusts to the larger number."
+          },
+          {
+            "step": 5,
+            "title": "Stop checking",
+            "body": "Daily balance-watching adds no information and a great deal of temptation. Quarterly is plenty and yearly is fine. The plan does not need supervision."
+          }
+        ],
+        "tags": [
+          "automation",
+          "index-funds",
+          "consistency"
+        ]
+      },
+      {
+        "id": "just-keep-buying-s08",
+        "hook": "Debt is not a moral category. The interest rate decides the answer.",
+        "insight": "A card charging over twenty percent and a fixed mortgage at three percent are not the same object, though both get called debt. The high rate is a guaranteed loss you can delete instantly by paying it off, which makes clearing it the best risk-free return available to you anywhere. The low fixed rate is a genuinely different question, and the honest answer involves your job security and how you would feel in a crash, not only the spread between numbers.",
+        "why": "Expected investment returns are uncertain while the debt payment is certain, so the comparison should lean toward paying down. The rate, the term and your ability to sleep are the real inputs.",
+        "apply": "List every debt beside its interest rate. Clear anything above roughly eight percent before adding to investments, and stop apologising for the rest.",
+        "format": "single",
+        "tags": [
+          "debt",
+          "interest-rates",
+          "priorities"
+        ]
+      },
+      {
+        "id": "just-keep-buying-s09",
+        "hook": "The common retirement failure is not running out. It is dying rich by accident.",
+        "insight": "Work on how retirees actually spend finds that many draw down far less than their savings could safely support and leave large balances behind. The habits that built the money do not switch off on the day the salary stops. Decades of deferring trains a reflex against spending, and the reflex outlives its usefulness by twenty years. Money is a tool for buying a life, and a balance that only ever grows has quietly stopped doing its job.",
+        "why": "This pattern is real but it is also a comfortable problem, and plenty of retirees genuinely do not have enough. The warning is aimed at savers who over-corrected, not at everyone.",
+        "apply": "Name one thing worth real money to you in the next twelve months, fund it from savings, and put the date in your calendar today.",
+        "format": "single",
+        "tags": [
+          "retirement",
+          "spending",
+          "enough"
+        ]
+      },
+      {
+        "id": "just-keep-buying-s10",
+        "hook": "The crashes are not a malfunction. They are the price of the return.",
+        "insight": "Long-run stock returns are payment for enduring stretches where your balance falls by a third and nobody can tell you when it stops. If those stretches did not exist, the returns would not either, because there would be nothing to be compensated for. Treating a decline as a system failure leads to selling at the worst possible moment, then waiting for a feeling of safety that only returns once prices already have.",
+        "why": "Risk and return are linked precisely because most people will not tolerate the risk. The premium exists because holding through a severe drawdown is unpleasant and many investors do not manage it.",
+        "apply": "Write down today exactly what you will do if your portfolio falls forty percent, then keep the note somewhere you will actually find it.",
+        "format": "single",
+        "tags": [
+          "volatility",
+          "risk",
+          "behaviour"
+        ]
+      }
+    ],
+    "actions": [
+      "Set one automatic transfer into a broad index fund for the day after payday, and commit now to raising it by half of every future pay rise.",
+      "Calculate last year's savings rate as a share of take-home pay, then decide honestly whether income or spending is the lever you can move.",
+      "Apply the matching rule to your next large discretionary purchase: invest the same amount at the same moment, or accept that you cannot afford it.",
+      "Write a one-page crash plan naming what you will buy, what you will never sell, and who you must call before making any change."
+    ],
+    "if_you_liked": [
+      "the-psychology-of-money",
+      "the-simple-path-to-wealth",
+      "die-with-zero"
+    ],
+    "not_for_you_if": "You want stock analysis or a route to fast returns. This is a case for boring, automatic buying, and it will feel repetitive if you already do exactly that.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2022 by Harriman House. The claim about skewed long-run stock returns reflects published finance research on long-horizon US equity performance. All prose here is original."
+    }
+  },
+  {
+    "id": "the-automatic-millionaire",
+    "title": "The Automatic Millionaire",
+    "subtitle": "A Powerful One-Step Plan to Live and Finish Rich",
+    "author": "David Bach",
+    "year": 2004,
+    "category": "personal-finance",
+    "subcategory": "automation",
+    "tags": [
+      "automation",
+      "saving",
+      "budgeting",
+      "retirement",
+      "debt-payoff"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 9,
+    "why_it_matters": "It moved the centre of gravity in personal finance from discipline to plumbing. The idea that you should build a system that saves without your involvement now sits underneath payroll pensions, round-up apps and default enrolment everywhere.",
+    "crux": {
+      "headline": "Make the saving happen before you can decide against it",
+      "body": "Willpower is a terrible thing to depend on twelve times a year. The reliable route to wealth on an ordinary income is to arrange for money to move into savings, investments and debt payments automatically, on the day you are paid, before it reaches the account you spend from. One afternoon of setup replaces a decade of monthly decisions, and the decisions were always the part that failed."
+    },
+    "sparks": [
+      {
+        "id": "the-automatic-millionaire-s01",
+        "hook": "A plan that needs you to be disciplined every month is not a plan.",
+        "insight": "Most financial advice quietly assumes you will make the right choice repeatedly, in a bad mood, after an expensive week. That assumption is why so many budgets die by March. The alternative is to move the decision upstream: make it once, wire it into your bank, and let the system carry the behaviour instead of your character. Nothing about your motivation has to change. What changes is how many chances you get to opt out.",
+        "why": "Recurring decisions fail at a compounding rate. A single setup decision fails once and can be repaired. Defaults are the strongest predictor of what people actually save.",
+        "apply": "Pick the one saving decision you renegotiate most often and turn it into a standing order this week, before you improve anything else.",
+        "format": "single",
+        "tags": [
+          "automation",
+          "willpower",
+          "defaults"
+        ]
+      },
+      {
+        "id": "the-automatic-millionaire-s02",
+        "hook": "If you save what is left at month end, you will save what is left. Nothing.",
+        "insight": "Spending expands to fill whatever sits in your current account, so a plan that saves the remainder is a plan that saves nothing. Reverse the order. Money for your future should leave first, on payday, ideally before it ever appears in the account you spend from. What is left becomes your budget by definition, and you will adapt to it within two months without noticing much. The sequence does the work that self-control was never going to do.",
+        "why": "Whatever is visible and available gets spent. Removing money before it becomes visible changes the reference point rather than fighting it, which is why payroll deduction outperforms intention.",
+        "apply": "Move your savings transfer to the day after payday and increase it by one percent of income. Do not adjust anything else for a month.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Find your pay date",
+            "body": "Everything hangs off the day the money lands. Automation that fires on the wrong day bounces, and one bounce is usually enough to make someone cancel the whole arrangement."
+          },
+          {
+            "step": 2,
+            "title": "Set the first transfer",
+            "body": "Send a fixed percentage into a retirement or investment account the day after pay arrives. Percentage, not a fixed sum, so it scales when your income does."
+          },
+          {
+            "step": 3,
+            "title": "Add the cushion",
+            "body": "Point a second, smaller transfer at a separate savings account you have no card for. Distance and friction are what keep an emergency fund intact."
+          },
+          {
+            "step": 4,
+            "title": "Point debt at the same day",
+            "body": "Schedule more than the minimum on your highest-rate debt for the same date, so repayment competes with nothing and never depends on how the month went."
+          },
+          {
+            "step": 5,
+            "title": "Leave it alone for a year",
+            "body": "The system only pays if it runs untouched through bad months. Review it annually, raise the percentages, and otherwise treat it as none of your business."
+          }
+        ],
+        "tags": [
+          "pay-yourself-first",
+          "automation",
+          "saving"
+        ]
+      },
+      {
+        "id": "the-automatic-millionaire-s03",
+        "hook": "The daily coffee is a real leak and a badly oversold explanation.",
+        "insight": "Small recurring purchases do add up, and noticing them is genuinely useful, because a habit costing five a day is a meaningful annual sum you never chose deliberately. But the popular version of this argument stretches it much too far. Turning a coffee into a fortune requires optimistic return assumptions and decades of perfect redirection, and it ignores that housing, transport, childcare and insurance dominate almost every household budget. Fix the small leak. Do not expect it to fix your finances.",
+        "why": "The mechanism is sound and the arithmetic in the popular telling is inflated. Critics are right that blaming small treats shifts attention away from large fixed costs and from wages.",
+        "apply": "Find your two largest recurring costs and spend an hour renegotiating one of them, then cancel a subscription for good measure.",
+        "format": "single",
+        "tags": [
+          "spending",
+          "small-leaks",
+          "honest-caveat"
+        ]
+      },
+      {
+        "id": "the-automatic-millionaire-s04",
+        "hook": "You do not need a budget. You need money to leave before you see it.",
+        "insight": "Line-item budgeting asks you to predict and then police dozens of categories every month, which is a part-time job most people quit. An automatic system needs none of that. If the right amounts already left for investments, savings and debt on payday, then whatever remains can be spent in any pattern you like without harm. You have replaced surveillance with structure, and structure does not get tired in December.",
+        "why": "Budgets fail because they need constant maintenance and produce guilt as their main output. Automation converts the same goal into a one-time configuration that keeps working when attention lapses.",
+        "apply": "Cancel your budgeting spreadsheet for one month and instead raise your automatic transfers to the amount the budget said you should save.",
+        "format": "single",
+        "tags": [
+          "budgeting",
+          "automation",
+          "simplicity"
+        ]
+      },
+      {
+        "id": "the-automatic-millionaire-s05",
+        "hook": "Work one hour a day for your future self and nothing else has to change.",
+        "insight": "Saving targets stated as percentages feel abstract, so translate them into time. If you work eight hours, one hour of that day's pay belongs to you later, which is roughly twelve percent of your income. It is a small enough share to be survivable on most incomes and a large enough one to matter over thirty years. The framing also makes the trade honest: you are not giving something up, you are being paid for part of your own day.",
+        "why": "Percentage targets scale automatically with income and raises, while fixed amounts silently shrink with inflation. The hour framing makes an abstract percentage concrete enough to commit to.",
+        "apply": "Work out one hour of your daily pay, then set your automatic retirement contribution to that share of gross income this week.",
+        "format": "single",
+        "tags": [
+          "saving-rate",
+          "framing",
+          "retirement"
+        ]
+      },
+      {
+        "id": "the-automatic-millionaire-s06",
+        "hook": "Split the mortgage payment in half and pay it fortnightly. Count the payments.",
+        "insight": "A fortnightly half-payment sounds identical to a monthly one, but there are twenty-six fortnights in a year and only twelve months. Twenty-six halves make thirteen full payments, so you make one extra payment a year without ever feeling it, and every extra pound lands on the principal. On a long mortgage that quietly removes years from the term and a large sum from the total interest, purely through a scheduling change.",
+        "why": "The gain is arithmetic, not magic, and it depends on your lender applying payments as they arrive rather than holding them. Check that before assuming the benefit.",
+        "apply": "Ask your lender whether fortnightly payments are applied immediately, and if they are, switch and leave the amount alone.",
+        "format": "single",
+        "tags": [
+          "mortgage",
+          "debt-payoff",
+          "interest"
+        ]
+      },
+      {
+        "id": "the-automatic-millionaire-s07",
+        "hook": "A mortgage is a savings plan that bills you when you would rather not save.",
+        "insight": "Owning a home forces regular payments that partly build equity, and the enforcement is the useful part for people who struggle to save. That is a real argument, but it is not the whole picture. Buying costs a large sum in fees on the way in and out, maintenance never stops, and a short stay in an expensive market can leave you worse off than renting and investing the difference. Forced saving is a benefit, not a guarantee.",
+        "why": "Housing returns vary enormously by market and holding period, and transaction costs punish short ownership. The behavioural benefit is real, but it is not the same as a good investment.",
+        "apply": "Before buying, calculate your total costs over five years, including fees and maintenance, and compare them with renting plus investing the gap.",
+        "format": "single",
+        "tags": [
+          "housing",
+          "forced-saving",
+          "rent-vs-buy"
+        ]
+      },
+      {
+        "id": "the-automatic-millionaire-s08",
+        "hook": "Your emergency fund should live somewhere annoying to reach.",
+        "insight": "A cushion of three to six months of expenses is what stops one bad event from becoming years of credit card debt. Its usefulness depends almost entirely on friction. Money sitting beside your spending account with a card attached gets absorbed within a year. Money in a separate institution, without a card, reachable in a day or two but not a minute, survives. Boring and slightly inconvenient is the correct design here.",
+        "why": "Emergency funds fail on accessibility, not on returns. Adding a small delay between impulse and withdrawal preserves the balance without preventing genuine emergency use.",
+        "apply": "Open a savings account at a different bank, order no card for it, and automate a small weekly transfer until it holds three months of costs.",
+        "format": "single",
+        "tags": [
+          "emergency-fund",
+          "friction",
+          "saving"
+        ]
+      },
+      {
+        "id": "the-automatic-millionaire-s09",
+        "hook": "Automate the debt payoff too, or it will always come second.",
+        "insight": "Debt repayment above the minimum is the most easily postponed line in anyone's month, because postponing it has no immediate consequence. Automating it removes the postponement entirely. Set a fixed extra amount to leave on payday for your highest-rate balance while everything else stays on minimums, and when that balance clears, redirect the whole payment to the next one instead of absorbing it back into spending.",
+        "why": "The redirect is what accelerates things, because your total outgoing stays flat while the amount hitting principal grows with each cleared balance.",
+        "apply": "Automate one fixed extra payment on your highest-rate debt, and write a calendar note to redirect it the day that balance hits zero.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "List every balance",
+            "body": "Write each debt with its rate, minimum payment and balance. Most people have never seen these on one page, and the total is usually the motivating part."
+          },
+          {
+            "step": 2,
+            "title": "Minimums on autopilot",
+            "body": "Automate the minimum on everything first. Missed minimums trigger fees and credit damage that cost far more than any clever repayment ordering saves."
+          },
+          {
+            "step": 3,
+            "title": "Attack one balance",
+            "body": "Send every spare pound to a single debt, chosen by highest rate for the best maths or smallest balance if you need the early win to stay engaged."
+          },
+          {
+            "step": 4,
+            "title": "Redirect, do not relax",
+            "body": "When a balance clears, add its whole payment to the next target the same week. Your outgoings stay flat and the payoff speeds up each time."
+          }
+        ],
+        "tags": [
+          "debt-payoff",
+          "automation",
+          "snowball"
+        ]
+      },
+      {
+        "id": "the-automatic-millionaire-s10",
+        "hook": "Every pay rise is a decision you get exactly once.",
+        "insight": "The window between a rise landing and your spending expanding to meet it is short, usually a month or two. Inside that window, redirecting part of the increase costs you nothing that you currently have, because you never lived on the higher figure. Outside it, the same redirect feels like a pay cut. This is why automatic escalation works so well: it captures the increase before your standard of living has time to claim it.",
+        "why": "Lifestyle adjustment to higher income is fast and largely permanent. Acting before the adjustment means you never experience a loss, only a smaller gain.",
+        "apply": "The day your next rise is confirmed, increase your automatic contribution by half of the increase, before the first larger payslip arrives.",
+        "format": "single",
+        "tags": [
+          "pay-rise",
+          "lifestyle-creep",
+          "automation"
+        ]
+      }
+    ],
+    "actions": [
+      "Spend one afternoon setting up automatic transfers on your pay date for retirement, savings and extra debt payments, then leave them running.",
+      "Convert your saving target into a percentage of gross income rather than a fixed amount, so it rises automatically with every pay increase.",
+      "Move your emergency fund to a separate bank with no card attached, and top it up weekly until it covers three months of essential costs.",
+      "Diarise a single annual review date to raise each automatic percentage by one point, and make no other changes for the rest of the year."
+    ],
+    "if_you_liked": [
+      "the-total-money-makeover",
+      "i-will-teach-you-to-be-rich",
+      "the-richest-man-in-babylon"
+    ],
+    "not_for_you_if": "You already automate your finances, or you want investment detail. The core message is one idea repeated, and the small-purchases argument is weaker than it sounds.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published by Broadway Books, released at the turn of 2003 into 2004 and generally catalogued as 2004; later expanded editions exist. The caveat about small daily purchases reflects widely made criticism of the argument, and is stated here deliberately."
+    }
+  },
+  {
+    "id": "happy-money",
+    "title": "Happy Money",
+    "subtitle": null,
+    "author": "Elizabeth Dunn and Michael Norton",
+    "year": 2013,
+    "category": "personal-finance",
+    "subcategory": "spending-psychology",
+    "tags": [
+      "spending",
+      "happiness",
+      "psychology",
+      "experiences",
+      "generosity"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 10,
+    "why_it_matters": "It reframed the oldest question in personal finance. Instead of asking how much money buys happiness, it asks which spending decisions convert money into wellbeing, and gives five usable principles with research behind each one.",
+    "crux": {
+      "headline": "How you spend matters more than how much you have",
+      "body": "Money converts into happiness at wildly different rates depending on what you buy. Experiences outlast objects, scarcity keeps pleasure alive, buying back your time beats buying more things, paying before you consume adds anticipation for free, and spending on other people returns more than spending on yourself. None of this requires a larger income. It requires noticing that most people spend as though the opposite were true."
+    },
+    "sparks": [
+      {
+        "id": "happy-money-s01",
+        "hook": "Money buys happiness badly, mostly because of what people choose to buy.",
+        "insight": "The tired debate about whether money makes you happy hides a more useful question. Two people with identical incomes can end up with very different daily experience depending on what they spend on. One buys a bigger house further from work and a car to reach it. The other buys a shorter commute, occasional trips and help with the chores they hate. Same money, different lives. The conversion rate is a decision, not a constant.",
+        "why": "Wellbeing research consistently finds that spending patterns predict daily mood better than income does above a basic level of security. The effects are modest individually and compound across a life.",
+        "apply": "Look at your three largest discretionary purchases last year and mark each one for how much happiness it still delivers today.",
+        "format": "single",
+        "tags": [
+          "spending",
+          "happiness",
+          "choices"
+        ]
+      },
+      {
+        "id": "happy-money-s02",
+        "hook": "Objects sit still while memories keep working. Buy the trip.",
+        "insight": "A purchased object is at its best on day one and declines from there, both physically and in your attention. An experience works the other way. It gets anticipated beforehand, lived through once, then retold and gradually improved in memory for years. Experiences also resist comparison, because nobody can hold your weekend up against theirs on a spec sheet, while your phone is compared against a better one within months.",
+        "why": "Adaptation runs fast on possessions and slowly on memories, and experiences are harder to rank against other people's. The line blurs for objects that generate experiences, like an instrument or a bike.",
+        "apply": "Redirect the cost of your next planned upgrade into something you will do with someone, and book the date before you can reconsider.",
+        "format": "single",
+        "tags": [
+          "experiences",
+          "adaptation",
+          "spending"
+        ]
+      },
+      {
+        "id": "happy-money-s03",
+        "hook": "Making something available every day is how you stop enjoying it.",
+        "insight": "Pleasure depends on contrast, and constant access removes it. The coffee you drink daily stops registering as anything within a fortnight, which means you now pay for something you no longer notice. Deliberately rationing a pleasure restores it: the same purchase, made weekly rather than daily, costs less and delivers more. Scarcity is usually treated as a constraint to escape. Applied on purpose, it is the cheapest available upgrade to your enjoyment.",
+        "why": "Hedonic adaptation is one of the most reliable findings in wellbeing research. Interrupting exposure resets the baseline, which is why an occasional treat outperforms a permanent supply of the same thing.",
+        "apply": "Pick one daily small luxury and make it a fixed weekly ritual instead. Notice at the end of the month whether you enjoy it more.",
+        "format": "single",
+        "tags": [
+          "treats",
+          "adaptation",
+          "pleasure"
+        ]
+      },
+      {
+        "id": "happy-money-s04",
+        "hook": "You can buy time back. Almost nobody does it on purpose.",
+        "insight": "Paying someone to do a task you dislike converts money directly into hours, and those hours reliably improve how a week feels. Yet people who can easily afford it resist, because spending on a cleaner or a delivery feels like laziness while spending the same amount on an object feels like a purchase. The framing is backwards. One buys you an afternoon you will actually experience, the other buys a thing you will stop seeing.",
+        "why": "Studies on time-saving purchases find they raise reported wellbeing, and that most people underuse them even with the money available. The benefit depends on what you do with the freed time.",
+        "apply": "Name the household task you resent most, price out having it done once this month, and put the freed hours in your calendar first.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Audit your worst hours",
+            "body": "Track a week and mark the tasks you actively dread. Dread, not duration, is the signal. A short miserable task can weigh more than a long dull one."
+          },
+          {
+            "step": 2,
+            "title": "Price one of them",
+            "body": "Get an actual cost for outsourcing the single worst task. Guessing keeps it theoretical, and theoretical costs are always imagined as higher than real ones."
+          },
+          {
+            "step": 3,
+            "title": "Book the replacement",
+            "body": "Decide what fills the freed time before it exists, or it will be absorbed by email and errands, and the purchase will feel like it bought nothing."
+          },
+          {
+            "step": 4,
+            "title": "Judge it after a month",
+            "body": "Ask whether your weeks feel different, not whether the money was well spent in the abstract. If they do not, stop. If they do, make it permanent."
+          }
+        ],
+        "tags": [
+          "time",
+          "outsourcing",
+          "wellbeing"
+        ]
+      },
+      {
+        "id": "happy-money-s05",
+        "hook": "Pay first, consume later, and get the waiting for free.",
+        "insight": "Anticipation is a genuine source of pleasure that costs nothing extra. A trip booked four months ahead delivers four months of looking forward on top of the trip itself. Credit reverses the structure. You consume first and pay afterwards, so the pleasure has already faded while the bill is still arriving, and the same money produces a fraction of the enjoyment. The sequence, not the sum, is doing most of the work here.",
+        "why": "Anticipated pleasure is measurable and sometimes exceeds the event. Paying afterwards attaches the cost to a memory rather than to a future, which is the weaker pairing psychologically.",
+        "apply": "Book your next significant purchase or trip well in advance and pay for it now, then deliberately talk about it while you wait.",
+        "format": "single",
+        "tags": [
+          "anticipation",
+          "credit",
+          "planning"
+        ]
+      },
+      {
+        "id": "happy-money-s06",
+        "hook": "Spending on other people returns more per pound than spending on yourself.",
+        "insight": "Give someone a small sum and tell them to spend it on themselves or on somebody else, and the ones who spend it on others tend to report feeling better afterwards. The effect appears across very different countries and income levels. It is also modest in size, and later replication work has produced mixed and sometimes weaker results, so treat it as a reliable nudge rather than a law. It works best when you choose the recipient and can see what your money did.",
+        "why": "The original findings are real and cross-cultural, but effect sizes are small and replications have varied. Generosity that is chosen, personal and visible in its effect holds up best.",
+        "apply": "Give a specific amount to one person or cause where you will see the result, and choose it yourself rather than responding to a request.",
+        "format": "single",
+        "tags": [
+          "generosity",
+          "giving",
+          "honest-caveat"
+        ]
+      },
+      {
+        "id": "happy-money-s07",
+        "hook": "The income where happiness stops rising is still being argued over.",
+        "insight": "A famous early finding suggested day-to-day emotional wellbeing stopped improving past a moderate income while life satisfaction kept climbing. Later work using far more frequent sampling found wellbeing continuing to rise well beyond that point. The two teams then investigated the disagreement together and landed somewhere more interesting: for most people happiness keeps rising with income, but for an unhappy minority it plateaus, because their problems are not the kind money solves.",
+        "why": "This is a live and honestly contested area, and the collaboration between the disagreeing researchers is a model of how to handle it. Anyone quoting a single magic income figure is out of date.",
+        "apply": "Stop treating one income number as the finish line and instead identify which of your current stresses money could genuinely remove.",
+        "format": "single",
+        "tags": [
+          "income",
+          "research",
+          "honest-caveat"
+        ]
+      },
+      {
+        "id": "happy-money-s08",
+        "hook": "A long commute is the most expensive thing most people never price.",
+        "insight": "Commuting shows up near the bottom of almost every study of daily activities and mood, and unlike most miseries people do not adapt to it. The trade is usually made for a larger or cheaper home, and the extra space gets absorbed into normal life within months while the journey stays awful every single day. Two hours a day is roughly a working month a year, spent in the activity you rank lowest.",
+        "why": "Adaptation is strong for housing and weak for variable, uncontrollable stress like traffic. That asymmetry is what makes the standard space-for-commute trade a reliably bad one.",
+        "apply": "Price your commute in hours per year and in money, then compare it directly against the rent difference of living closer.",
+        "format": "single",
+        "tags": [
+          "commuting",
+          "housing",
+          "time"
+        ]
+      },
+      {
+        "id": "happy-money-s09",
+        "hook": "Buy frequency, not grandeur. Small and often beats large and rare.",
+        "insight": "Given a fixed budget, several modest pleasures usually produce more happiness than one expensive one, because each occasion delivers its own anticipation, its own experience and its own memory. One remarkable dinner is a single event that fades. A regular ordinary one with people you like accumulates. The exception is the genuinely transformative purchase, but most spending is not transformative, and treating it as though it were is how budgets get built around rare events.",
+        "why": "Repeated moderate pleasures resist adaptation better than a single intense one, because each repetition restarts the cycle of anticipation and recall rather than extending a fading peak.",
+        "apply": "Split the cost of one planned luxury into four smaller versions spread across the year and schedule all four dates now.",
+        "format": "single",
+        "tags": [
+          "frequency",
+          "spending",
+          "pleasure"
+        ]
+      },
+      {
+        "id": "happy-money-s10",
+        "hook": "Run every purchase through five questions before you spend anything.",
+        "insight": "The five principles work best as a checklist rather than a philosophy. Before a significant purchase, ask whether it buys an experience or an object, whether it stays special or becomes routine, whether it gives you time or takes it, whether you are paying before or after, and whether anyone besides you benefits. Most spending fails several of these. The checklist takes a minute and changes what you buy far more than any budget does.",
+        "why": "Each principle rests on a separate and reasonably well-supported effect, and the checklist works by making them available at the moment of decision rather than afterwards.",
+        "apply": "Write the five questions on a card and keep it with your bank card. Use it on anything above your usual spending threshold.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Experience or object",
+            "body": "Ask what you will still be telling people about in two years. Objects are compared and replaced. Experiences get retold and quietly improve each time."
+          },
+          {
+            "step": 2,
+            "title": "Special or routine",
+            "body": "If this becomes an everyday availability, you will stop noticing it within weeks while continuing to pay. Consider buying it less often instead."
+          },
+          {
+            "step": 3,
+            "title": "Time gained or lost",
+            "body": "Some purchases give hours back and some quietly demand them in maintenance, storage or insurance. Count the hours the thing will ask of you."
+          },
+          {
+            "step": 4,
+            "title": "Pay now, use later",
+            "body": "Paying in advance buys anticipation and removes the bill that arrives after the pleasure has faded. Borrowing for a treat inverts both benefits."
+          },
+          {
+            "step": 5,
+            "title": "Anyone else better off",
+            "body": "Spending that includes another person tends to return more than the same amount spent alone. Add someone to the plan where you reasonably can."
+          }
+        ],
+        "tags": [
+          "checklist",
+          "decisions",
+          "spending"
+        ]
+      }
+    ],
+    "actions": [
+      "Review your last three months of spending and mark each purchase as an experience or an object, then shift one recurring object cost toward experiences.",
+      "Identify the household task you most dislike, pay to have it done for one month, and protect the freed hours by scheduling something specific.",
+      "Convert one daily small luxury into a weekly ritual, and put the saved money toward something you book well in advance and pay for now.",
+      "Choose one person or cause to give to deliberately this quarter, in an amount you notice, where you will be able to see what the money did."
+    ],
+    "if_you_liked": [
+      "die-with-zero",
+      "the-psychology-of-money",
+      "your-money-or-your-life"
+    ],
+    "not_for_you_if": "You want budgeting or investing guidance. This is about spending decisions only, and it assumes you already have enough income to have choices.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2013; subtitle omitted because it differs between editions. The caveats about prosocial spending replication and the ongoing income-and-happiness debate are stated deliberately and reflect the current state of that research."
+    }
+  },
+  {
+    "id": "financial-freedom",
+    "title": "Financial Freedom",
+    "subtitle": "A Proven Path to All the Money You Will Ever Need",
+    "author": "Grant Sabatier",
+    "year": 2019,
+    "category": "personal-finance",
+    "subcategory": "financial-independence",
+    "tags": [
+      "financial-independence",
+      "saving-rate",
+      "side-income",
+      "early-retirement",
+      "net-worth"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 12,
+    "why_it_matters": "It moved the early-retirement conversation off frugality and onto income. The arithmetic of saving rates, the honest pricing of an hour of your life, and the push to build earnings outside a salary reshaped how a generation talks about quitting work early.",
+    "crux": {
+      "headline": "Money is renewable. Your time is not",
+      "body": "You can earn more money at almost any point in your life. You can never earn back an hour. That asymmetry should drive every financial decision you make: how much of your income you keep, how fast you invest it, and what you refuse to buy. Freedom arrives when investments cover your spending, and the two levers that get you there fastest are keeping a bigger share of what you earn and earning more outside one salary."
+    },
+    "sparks": [
+      {
+        "id": "financial-freedom-s01",
+        "hook": "You can always make more money. You will never make more time.",
+        "insight": "Most people treat money as scarce and time as abundant, and then live as if the reverse were impossible. Money is renewable: you can raise your income, start something on the side, change jobs, sell a skill. Time only runs one way. Once you accept that, saving stops feeling like deprivation and starts looking like buying back years of your own life. The question behind every purchase becomes how many hours it costs you, not how many dollars.",
+        "why": "The framing holds because investment returns compound over time, so an hour of freedom bought at thirty is worth far more than the same hour bought at fifty. Early money does the heaviest lifting.",
+        "apply": "Take your next non-essential purchase over one hundred pounds and convert it into hours of your working life before you decide.",
+        "format": "single",
+        "tags": [
+          "time",
+          "priorities"
+        ]
+      },
+      {
+        "id": "financial-freedom-s02",
+        "hook": "Your savings rate decides your freedom date. Your fund picks barely move it.",
+        "insight": "The years between now and financial independence depend almost entirely on the share of your income you keep. Save five percent and you are working for decades. Save fifty percent and the timeline collapses to somewhere in the teens, because a high rate does two things at once: it builds the pot faster and it lowers the pot you need, since you have proved you can live on less. Picking a slightly better fund cannot compete with that.",
+        "why": "Savings rate changes both sides of the equation, while returns change only one. That is why two people on the same salary can retire fifteen years apart with identical portfolios.",
+        "apply": "Calculate your actual savings rate for last month: money invested divided by take-home pay. Then raise it by three points this month.",
+        "format": "single",
+        "tags": [
+          "saving-rate",
+          "compounding"
+        ]
+      },
+      {
+        "id": "financial-freedom-s03",
+        "hook": "Your number is not a salary. It is your spending multiplied by twenty-five.",
+        "insight": "Financial independence has a target you can actually calculate. Take what you spend in a year, not what you earn, and multiply by twenty-five. That is roughly the portfolio that can fund your life at a four percent annual withdrawal. The consequence is uncomfortable and useful: every permanent increase in your spending raises the finish line by twenty-five times that amount, so a habit costing two thousand a year adds fifty thousand to the target.",
+        "why": "The multiple comes from historical studies of US portfolio withdrawals over thirty-year retirements. A retirement lasting fifty years, or one starting in a bad decade, needs a lower rate or a willingness to cut spending.",
+        "apply": "Add up twelve months of real spending from your bank statements, multiply by twenty-five, and write that single number somewhere you will see it.",
+        "format": "single",
+        "tags": [
+          "fi-number",
+          "withdrawal-rate"
+        ]
+      },
+      {
+        "id": "financial-freedom-s04",
+        "hook": "Your hourly rate is lower than you think, and the gap is the point.",
+        "insight": "The salary on your contract is not what an hour of your working life pays. Tax takes a share, and the job quietly consumes hours it never pays for: commuting, preparing, answering messages at night, recovering on Sunday. Divide what actually lands in your account by every hour the job really costs and you get your true rate. It is usually well below the headline figure, and it is the only honest exchange rate for pricing anything you buy.",
+        "why": "The calculation works because it counts the full cost of employment, not the advertised one. It also explains why a higher-paying job with a long commute can leave you poorer per hour.",
+        "apply": "Run the four steps below this week and write your true hourly rate on a card you keep in your wallet.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Count what you keep",
+            "body": "Start with pay after tax and pension, then subtract costs the job creates: commuting, work clothes, lunches you would not otherwise buy, childcare that only exists because you work."
+          },
+          {
+            "step": 2,
+            "title": "Count every hour it eats",
+            "body": "Add contracted hours, travel time, getting ready, evening email, work thoughts on a Sunday, and the recovery time a hard week demands. Be honest rather than flattering."
+          },
+          {
+            "step": 3,
+            "title": "Divide and sit with it",
+            "body": "Money kept divided by hours spent gives your real rate. Most people find it is well under the number on their payslip, sometimes by a third or more."
+          },
+          {
+            "step": 4,
+            "title": "Price things in hours",
+            "body": "Convert purchases into that rate before buying. A weekend upgrade that costs eleven hours of your life is a different proposition than one that costs a few hundred pounds."
+          }
+        ],
+        "tags": [
+          "hourly-rate",
+          "true-cost"
+        ]
+      },
+      {
+        "id": "financial-freedom-s05",
+        "hook": "Skipping coffee is a rounding error. Your rent is the actual decision.",
+        "insight": "Housing, transport and food take the large majority of most household budgets, so those three choices decide your savings rate before any small habit gets a vote. Moving one neighbourhood out, taking a housemate, running an older car or dropping to one, and cooking most meals each free up sums that no amount of daily self-denial can match. Optimise the big three once and the saving repeats every month without further willpower.",
+        "why": "Big fixed costs recur automatically and compound over years. Small discretionary cuts demand constant attention and produce a fraction of the effect, which is why coffee-shaming advice performs so badly in practice.",
+        "apply": "Sort last year's spending into housing, transport, food and everything else, then attack whichever of the first three is most changeable.",
+        "format": "single",
+        "tags": [
+          "big-three",
+          "fixed-costs"
+        ]
+      },
+      {
+        "id": "financial-freedom-s06",
+        "hook": "Frugality has a floor. Income has no ceiling.",
+        "insight": "There is a limit to how far you can cut: at some point you are living on rice and still not free. There is no equivalent limit on earning. A raise, a second skill sold on evenings, a freelance client or a small business can add more in a year than a decade of careful cutting. Cutting is the faster start because it works immediately, but earning is what makes the timeline short, and the two multiply when you invest every extra pound rather than absorbing it.",
+        "why": "Sabatier reached independence in about five years, but he did it from a high-paying digital marketing career during a long US bull market. Treat the speed as a best case, not a template.",
+        "apply": "List three skills people already pay you for at work, then offer one of them to a single paying client this month.",
+        "format": "single",
+        "tags": [
+          "income",
+          "side-hustle"
+        ]
+      },
+      {
+        "id": "financial-freedom-s07",
+        "hook": "The first hundred thousand is the hardest, and it is meant to be.",
+        "insight": "Early in the climb your contributions do nearly all the work and the market's help is invisible. Investing a few hundred a month feels like pouring water into a large tank. Later, growth on the balance starts to rival and then exceed what you add, and the tank fills itself. The stretch that feels most futile is exactly the stretch that determines whether the later years happen at all, and most people quit inside it.",
+        "why": "The observation about the first hundred thousand is usually credited to Charlie Munger. The mechanism is simply that returns are a percentage of a balance, so a small balance produces almost nothing until it is not small.",
+        "apply": "Automate a fixed transfer into a broad index fund on payday and do not check the balance more than once a quarter.",
+        "format": "single",
+        "tags": [
+          "compounding",
+          "patience"
+        ]
+      },
+      {
+        "id": "financial-freedom-s08",
+        "hook": "Build a second income the boring way: sell what you already get paid for.",
+        "insight": "Most side income advice starts with a passion and hopes money follows. The faster route runs backwards. Look at the skill your employer already pays you for, find people who already buy that skill, and sell it directly at a rate you set. There is no audience to build and no market to educate. The money is not the point on its own either: it only accelerates freedom if it goes straight into investments rather than into your standard of living.",
+        "why": "Selling a proven skill to a proven buyer removes the two things that kill most side projects: demand risk and the long unpaid ramp before the first customer.",
+        "apply": "Follow the four steps below and aim to invoice one client within thirty days rather than build anything first.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Pick the proven skill",
+            "body": "Choose something your employer already pays for and clients already buy: writing, bookkeeping, design, data work, teaching. Novelty is a liability here, not an asset."
+          },
+          {
+            "step": 2,
+            "title": "Find buyers who already pay",
+            "body": "Approach businesses that hire this work regularly. Existing budgets close deals; convincing someone they need a new category rarely does inside a month."
+          },
+          {
+            "step": 3,
+            "title": "Price the outcome",
+            "body": "Charge for the result rather than the hour where you can. It rewards you for getting faster instead of punishing you, and it separates your income from your calendar."
+          },
+          {
+            "step": 4,
+            "title": "Invest it all, at once",
+            "body": "Route the entire payment into your investment account on the day it arrives. Side income absorbed into daily spending changes your freedom date by nothing."
+          }
+        ],
+        "tags": [
+          "side-income",
+          "freelancing"
+        ]
+      },
+      {
+        "id": "financial-freedom-s09",
+        "hook": "If you want to stop working at forty, a pension alone will not let you.",
+        "insight": "Retirement accounts carry an age lock. That is fine if you plan to finish at the standard age and a problem if you plan to finish twenty years earlier, because the money you need in your forties sits behind a gate that opens in your sixties. The answer is a bridge: invest in ordinary taxable accounts alongside the sheltered ones, sized to cover the years between quitting and gaining access, and accept slightly less tax efficiency for actual flexibility.",
+        "why": "Access rules and workarounds are country-specific, and the US ladder tactics in the book do not map onto UK, Canadian or Australian accounts. Check your own rules before designing the bridge.",
+        "apply": "Work out the number of years between your target quit date and pension access, then size a taxable account to cover that spending.",
+        "format": "single",
+        "tags": [
+          "accounts",
+          "early-access"
+        ]
+      },
+      {
+        "id": "financial-freedom-s10",
+        "hook": "Freedom is not a finish line. The first level costs one month of expenses.",
+        "insight": "Treating independence as a single distant event makes it easy to give up, because nothing changes until the end. It is better read as a ladder. One month of expenses in cash means a bad week at work is no longer an emergency. A year of expenses means you can quit a job that is damaging you. Enough to cover half your spending means you can work part-time. Each rung buys a specific freedom you can feel long before the final number arrives.",
+        "why": "Framing progress as levels keeps motivation attached to visible milestones rather than a distant total, which is the point at which most long financial plans quietly get abandoned.",
+        "apply": "Name the rung you are on today and the exact amount that gets you to the next one, then set a date for it.",
+        "format": "single",
+        "tags": [
+          "milestones",
+          "motivation"
+        ]
+      }
+    ],
+    "actions": [
+      "Pull twelve months of transactions, total your real annual spending, multiply by twenty-five, and set that as your written target number.",
+      "Calculate your true hourly rate including commute and unpaid work hours, then use it to price every discretionary purchase for a month.",
+      "Automate a payday transfer into a broad low-cost index fund and raise the amount by one percent of your salary every quarter.",
+      "Sell one skill you already get paid for to a single outside client this month and invest the entire fee."
+    ],
+    "if_you_liked": [
+      "your-money-or-your-life",
+      "just-keep-buying",
+      "the-psychology-of-money"
+    ],
+    "not_for_you_if": "You want investment mechanics in depth, or you are not interested in earning outside a salary and would rather optimise spending alone.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2019 by Avery. The author's five-year timeline reflects a high US tech-sector income during a strong bull market; noted as a caveat rather than a norm. All prose original."
+    }
+  },
+  {
+    "id": "quit-like-a-millionaire",
+    "title": "Quit Like a Millionaire",
+    "subtitle": "No Gimmicks, Luck, or Trust Fund Required",
+    "author": "Kristy Shen and Bryce Leung",
+    "year": 2019,
+    "category": "personal-finance",
+    "subcategory": "early-retirement",
+    "tags": [
+      "early-retirement",
+      "index-funds",
+      "renting",
+      "withdrawal-rate",
+      "geographic-arbitrage"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It is the early-retirement book that takes the failure cases seriously. Instead of one clean number it gives layered defences for the years a portfolio drops, and it argues the case for renting and for choosing a degree by arithmetic rather than passion.",
+    "crux": {
+      "headline": "Run the numbers before you run on feelings",
+      "body": "Most expensive life decisions get made on folklore: buy a house because renting wastes money, follow your passion into any degree, retire at the age your parents did. Each one can be checked with arithmetic instead. Do the sums on the cost of ownership, on the return from a degree, and on what your spending times twenty-five actually is, and the answers are often the opposite of the advice you were given. Then build defences for the years the maths goes against you."
+    },
+    "sparks": [
+      {
+        "id": "quit-like-a-millionaire-s01",
+        "hook": "Pick your degree with a calculator, then find the passion inside the work.",
+        "insight": "Choosing a course purely on love of the subject hides the price. A useful check is to compare the realistic starting salary for a field against the full cost of qualifying for it, including years of lost earnings. A degree that clears its own cost quickly buys you options; one that never does can hold you for a decade. Passion is not ignored here, it is sequenced: get skilled at something valuable, and interest usually follows competence.",
+        "why": "The argument comes from an author who grew up in real poverty and could not afford a wrong bet. It applies less cleanly if you already have family wealth to absorb the risk.",
+        "apply": "Before committing to any course, write the total cost including lost earnings next to the median salary it leads to, and compare the two.",
+        "format": "single",
+        "tags": [
+          "education",
+          "career-roi"
+        ]
+      },
+      {
+        "id": "quit-like-a-millionaire-s02",
+        "hook": "A house is not automatically an investment. Sometimes it is a large expense.",
+        "insight": "Ownership costs far more than the mortgage payment. Property tax, insurance, maintenance, and the fees you pay to buy and to sell all leave permanently, and none of them build equity. Compare that annual bleed against rent for a similar place, then add what the deposit would have earned had it been invested. In expensive cities the honest calculation often favours renting and investing the difference, which is the opposite of what most people are told.",
+        "why": "The comparison depends on local prices, interest rates and how long you stay. Owning wins more often when you stay put for many years and buy well within your means.",
+        "apply": "Add up every ownership cost that is not principal repayment for a home you want, and compare that total against a year of rent.",
+        "format": "single",
+        "tags": [
+          "renting",
+          "housing"
+        ]
+      },
+      {
+        "id": "quit-like-a-millionaire-s03",
+        "hook": "The four percent rule is a probability, not a promise.",
+        "insight": "Withdrawing four percent of a starting portfolio each year, adjusted for inflation, survived most historical thirty-year stretches in US market data. That is a strong result and it is not a guarantee. It says nothing certain about a fifty-year retirement, about a market you have not seen yet, or about a portfolio you panic-sell in year three. Treat it as a planning baseline that needs defences, not as a switch you flip on your last day of work.",
+        "why": "The rule descends from studies of historical US returns, notably Bengen's work and the Trinity study. Different countries, longer horizons and higher fees all lower the safe rate.",
+        "apply": "Stress-test your plan by rerunning it with a withdrawal rate of three and a half percent and see how many extra months of work that implies.",
+        "format": "single",
+        "tags": [
+          "withdrawal-rate",
+          "risk"
+        ]
+      },
+      {
+        "id": "quit-like-a-millionaire-s04",
+        "hook": "The danger is not a crash. It is a crash in your first few years.",
+        "insight": "Two retirees can face identical average returns over thirty years and end in completely different places, purely because of the order the returns arrived. A bad stretch early, while you are selling units to eat, permanently shrinks the base that later growth works on. The same bad stretch twenty years in is survivable. This is why early retirement planning obsesses over the first decade, and why flexibility in those years is worth more than accuracy in the spreadsheet.",
+        "why": "Selling assets after a fall converts a paper loss into a permanent one. The mechanism is well documented and is the single biggest reason withdrawal plans fail.",
+        "apply": "Write down what you would cut, and what work you would take, if your portfolio fell thirty percent in your first year of not working.",
+        "format": "single",
+        "tags": [
+          "sequence-risk",
+          "planning"
+        ]
+      },
+      {
+        "id": "quit-like-a-millionaire-s05",
+        "hook": "Do not sell into a falling market. Give yourself something else to spend.",
+        "insight": "The defence against a bad early stretch is boringly practical: hold enough cash to live on for a while, and arrange part of the portfolio so it pays you income you can spend without selling anything. If the market drops, you spend the cash and the income and leave the units alone until prices recover, then refill the cushion. It does not increase your returns. It buys you the ability to wait, which is what actually keeps a plan alive.",
+        "why": "Tilting towards higher-yielding assets is a trade, not free money: yield often comes with more credit risk, worse tax treatment and lower growth. It buys patience rather than performance.",
+        "apply": "Work through the four steps below and size a cash cushion covering one to three years of your planned spending.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Know your annual spend",
+            "body": "Everything defensive is measured against this number. Use real transactions from the past two years, not an optimistic budget you have never lived on."
+          },
+          {
+            "step": 2,
+            "title": "Count the income you already get",
+            "body": "Add up dividends, interest and any other distributions the portfolio pays without you selling. The gap between that and your spending is what the cushion must cover."
+          },
+          {
+            "step": 3,
+            "title": "Build the cash cushion",
+            "body": "Hold one to three years of that gap in cash or short-term deposits. It will lag inflation. Its job is not growth, it is letting you refuse to sell at a bad price."
+          },
+          {
+            "step": 4,
+            "title": "Refill after the storm",
+            "body": "When markets recover, rebuild the cushion from gains and return to your normal allocation. Defences are for the bad years, not a permanent tilt away from growth."
+          }
+        ],
+        "tags": [
+          "cash-cushion",
+          "income"
+        ]
+      },
+      {
+        "id": "quit-like-a-millionaire-s06",
+        "hook": "Travelling the world can cost less than staying in your own city.",
+        "insight": "Your rent is priced by geography, and so is nearly everything else. Once your income comes from a portfolio rather than an employer, that pricing becomes something you can choose. Living in cheaper countries for part of the year lowers the spending your portfolio must support, which is the same as lowering the target number that let you leave work. It is not for everyone, but the arithmetic is real and it is often ignored.",
+        "why": "Lowering spending has the double effect of reducing withdrawals now and reducing the total portfolio needed. Visas, healthcare access and family ties are the constraints that decide whether it is possible for you.",
+        "apply": "Price a three-month stay in one cheaper country you would genuinely enjoy, and compare it honestly against three months at home.",
+        "format": "single",
+        "tags": [
+          "geographic-arbitrage",
+          "spending"
+        ]
+      },
+      {
+        "id": "quit-like-a-millionaire-s07",
+        "hook": "Index funds win because the fees you avoid are the returns you keep.",
+        "insight": "Active managers as a group cannot beat the market they collectively are, and after their costs the average investor in them ends up behind. Broad index funds skip the manager, the trading and most of the fee. The gain is not glamorous in any single year, and it is decisive over decades, because a cost you pay every year compounds against you exactly as returns compound for you. Choose the boring product and rebalance on a schedule.",
+        "why": "This is one of the most replicated findings in finance across markets and decades. The debate is about how much the underperformance is, not whether it exists.",
+        "apply": "Check the ongoing charge on every fund you hold and replace anything above about half a percent with a broad index equivalent.",
+        "format": "single",
+        "tags": [
+          "index-funds",
+          "fees"
+        ]
+      },
+      {
+        "id": "quit-like-a-millionaire-s08",
+        "hook": "Deciding whether to buy a home is arithmetic, not adulthood.",
+        "insight": "The pressure to buy is social as much as financial, so it helps to reduce the decision to numbers you can check. Total the money that leaves permanently if you own, compare it to a year of rent for something similar, add the return the deposit would otherwise earn, and then ask how many years you will realistically stay. Buy because the sums and your life both point that way, not because renting is described as throwing money away.",
+        "why": "Transaction costs are the hidden killer: buying and selling within a few years can wipe out years of equity building, which is why length of stay matters more than the interest rate.",
+        "apply": "Run the four steps below on the actual property you are considering before you speak to a mortgage broker.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Add the money that leaves",
+            "body": "Interest, property tax, insurance, maintenance and service charges never come back. Add them for one year. This is the true cost of owning, and it is what rent competes with."
+          },
+          {
+            "step": 2,
+            "title": "Price the deposit's other job",
+            "body": "Your deposit could sit in a diversified portfolio instead. Estimate what it would earn each year and add that to the cost column of owning."
+          },
+          {
+            "step": 3,
+            "title": "Count the transaction costs",
+            "body": "Legal fees, taxes on purchase, survey, agent commission on sale. Spread them over how many years you will really stay. A short stay makes them brutal."
+          },
+          {
+            "step": 4,
+            "title": "Decide on life, then maths",
+            "body": "If the numbers are close, choose on stability, schools, control over your home and whether you want the maintenance. Just make sure you decided rather than defaulted."
+          }
+        ],
+        "tags": [
+          "housing",
+          "decision"
+        ]
+      },
+      {
+        "id": "quit-like-a-millionaire-s09",
+        "hook": "Quitting work is reversible. Most people fear it as though it were not.",
+        "insight": "The nightmare version of early retirement is running out of money at sixty with no career left. The realistic version is noticing three years in that the plan is drifting and responding: take part-time work, add a small income, cut spending for a year, or return to your field with skills that have not vanished. Naming the recovery moves in advance turns an irreversible-looking leap into a decision you can adjust, which is what makes it possible to take at all.",
+        "why": "Plans fail slowly and visibly, not overnight. A portfolio gives years of warning, and small course corrections early are far cheaper than dramatic ones late.",
+        "apply": "Write a one-page fallback plan naming the trigger, the spending you would cut and the work you would take if the portfolio underperforms.",
+        "format": "single",
+        "tags": [
+          "contingency",
+          "fear"
+        ]
+      },
+      {
+        "id": "quit-like-a-millionaire-s10",
+        "hook": "Growing up with nothing taught the maths. It is not a lifestyle to copy.",
+        "insight": "Extreme scarcity does teach a real skill: treating money as a set of numbers rather than a source of feelings, and refusing to buy status. That habit is transferable. What is not transferable is the rest of the story, which included two engineering salaries in an expensive city and a decade of strong markets. Take the discipline and the framework, and be sceptical of any timeline that quietly depends on a high income and good luck arriving together.",
+        "why": "Early-retirement stories are selected for success, so the ones you read are drawn from people whose bets worked. The method can be sound while the speed is unrepresentative.",
+        "apply": "Rerun your own plan on your actual income and a modest return assumption, and adjust the date rather than the assumptions.",
+        "format": "single",
+        "tags": [
+          "survivorship-bias",
+          "honesty"
+        ]
+      }
+    ],
+    "actions": [
+      "Total your genuine annual spending from two years of statements and multiply it by twenty-five to get an honest target rather than a hopeful one.",
+      "Run the rent versus buy calculation on a specific property, including deposit opportunity cost and transaction costs spread over your realistic stay.",
+      "Size a cash cushion covering one to three years of the gap between portfolio income and spending, and hold it outside your equity funds.",
+      "Write a one-page fallback plan naming the trigger point, the cuts and the work you would take if markets fall early."
+    ],
+    "if_you_liked": [
+      "financial-freedom",
+      "your-money-or-your-life",
+      "just-keep-buying"
+    ],
+    "not_for_you_if": "You want a gentle introduction to budgeting, or you are certain you want to own a home and would rather not have that assumption argued with.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2019 by TarcherPerigee. Withdrawal-rate figures are described as historical probabilities, not guarantees. Account and tax specifics are Canadian and US; readers elsewhere need local rules. All prose original."
+    }
+  },
+  {
+    "id": "the-index-card",
+    "title": "The Index Card",
+    "subtitle": "Why Personal Finance Doesn't Have to Be Complicated",
+    "author": "Helaine Olen and Harold Pollack",
+    "year": 2016,
+    "category": "personal-finance",
+    "subcategory": "simple-rules",
+    "tags": [
+      "simplicity",
+      "index-funds",
+      "fees",
+      "financial-advice",
+      "money-basics"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 9,
+    "why_it_matters": "It began when a public policy professor claimed the best money advice fits on a single index card, then proved it. The result is a short, checkable set of rules and a clear argument that complexity in personal finance is usually a product being sold to you.",
+    "crux": {
+      "headline": "Complexity is what the industry sells you",
+      "body": "Nearly everything an ordinary household needs to do with money fits on a small card: keep a fixed share of your income, clear expensive debt, use the tax-sheltered accounts you have, buy broad low-cost funds and stop trading, insure against disasters rather than inconveniences, and only take advice from someone legally obliged to act in your interest. Products that need a long explanation usually need it because the fees are in the explanation."
+    },
+    "sparks": [
+      {
+        "id": "the-index-card-s01",
+        "hook": "The advice that actually works fits on a card in your wallet.",
+        "insight": "Sound personal finance is not intellectually hard. Save a set share of what you earn, avoid expensive debt, use the tax-advantaged accounts available to you, buy cheap diversified funds, hold them, insure against catastrophe, and take advice only from someone required to put you first. That is close to the whole of it. The industry that surrounds money is enormous and sophisticated, but almost none of that sophistication is needed by a household.",
+        "why": "The card started as an offhand claim by a policy professor during an interview, written on a real index card and photographed. It spread because readers checked it against expert advice and found little missing.",
+        "apply": "Write your own six rules on one card tonight and put it where you keep your bank card, then judge future products against it.",
+        "format": "single",
+        "tags": [
+          "simplicity",
+          "rules"
+        ]
+      },
+      {
+        "id": "the-index-card-s02",
+        "hook": "A one percent fee does not cost one percent. It costs decades of growth.",
+        "insight": "Fees are charged on the whole balance every year, including the growth you have already earned, so they compound in exactly the way returns do, only against you. A single percentage point sounds trivial next to double-digit market years. Over a working life it can quietly remove a substantial slice of the final pot, and the slice grows precisely because your balance grew. This is the one number in investing you can control with certainty.",
+        "why": "The exact damage depends on horizon and returns, but the direction never varies: fees are certain while returns are not, which is why low-cost funds beat expensive ones on average by roughly their cost difference.",
+        "apply": "Look up the ongoing charge on every fund and pension you hold this week and list anything above half a percent for replacement.",
+        "format": "single",
+        "tags": [
+          "fees",
+          "compounding"
+        ]
+      },
+      {
+        "id": "the-index-card-s03",
+        "hook": "No investment reliably beats not paying twenty percent interest.",
+        "insight": "Credit card interest is one of the few guaranteed returns available to a normal person, and it runs in reverse. Clearing a balance charged at twenty percent gives you a certain twenty percent, tax-free, with no market risk at all. No fund can promise that. This is why paying the card in full each month sits near the top of any sensible list, above investing and above almost everything else you might do with spare money.",
+        "why": "The comparison is not close: long-run equity returns have averaged well under credit card rates, and they arrive with volatility while the interest charge arrives with certainty.",
+        "apply": "List every debt with its interest rate, then direct every spare pound at the highest rate until it is gone.",
+        "format": "single",
+        "tags": [
+          "debt",
+          "credit-cards"
+        ]
+      },
+      {
+        "id": "the-index-card-s04",
+        "hook": "Save a fixed share of your income and let the amount rise on its own.",
+        "insight": "Saving whatever is left at the end of the month means saving whatever the month allows, which is usually nothing. Committing to a percentage instead makes the decision once. Somewhere between ten and twenty percent is the standard target, and the strength of a percentage is that a raise lifts the amount without another act of willpower. Set the transfer for payday so the money is gone before it can become part of your normal spending.",
+        "why": "Defaults beat intentions consistently in savings research: automatic enrolment and automatic escalation raise contribution rates far more reliably than education or exhortation.",
+        "apply": "Set an automatic transfer of at least ten percent of take-home pay for the day after payday, and raise it with every pay rise.",
+        "format": "single",
+        "tags": [
+          "saving-rate",
+          "automation"
+        ]
+      },
+      {
+        "id": "the-index-card-s05",
+        "hook": "When you pick a stock, someone on the other side is a professional.",
+        "insight": "Every trade you make has a counterparty, and that counterparty is often an institution with better data, faster execution and a research team. You are not competing against the market as an abstraction; you are trading against people whose full-time job this is. Broad index funds sidestep the contest entirely by owning everything and refusing to guess. Giving up the chance to be brilliant is the price of avoiding a game you were never favoured to win.",
+        "why": "Studies of individual trading accounts repeatedly find that more active traders earn lower net returns, largely through costs and poor timing rather than dramatic single losses.",
+        "apply": "If you enjoy stock picking, cap it at a small fixed slice of your portfolio and index the rest permanently.",
+        "format": "single",
+        "tags": [
+          "stock-picking",
+          "index-funds"
+        ]
+      },
+      {
+        "id": "the-index-card-s06",
+        "hook": "Ask one question of any adviser: are you legally required to put me first?",
+        "insight": "Financial advice comes in two flavours that look identical from the outside. One is given by someone obliged to act in your interest. The other is given by a salesperson permitted to recommend the product that pays them best, provided it is not obviously unsuitable. The difference is invisible in a friendly meeting and enormous in your account thirty years later, so it has to be established explicitly before any advice is worth listening to.",
+        "why": "Duty standards vary by country and by product, and titles are frequently unregulated. Asking about the legal obligation and the source of payment is more reliable than reading the business card.",
+        "apply": "Use the four questions below on your current adviser, or before the first meeting with a new one.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Ask for it in writing",
+            "body": "Ask whether they are legally required to act in your interest at all times, and request the answer by email. A straightforward yes arrives quickly and without qualifications."
+          },
+          {
+            "step": 2,
+            "title": "Ask how they get paid",
+            "body": "Fee per hour, a percentage of assets, or commission from products. Each creates a different incentive, and only the person paying the fee is truly the client."
+          },
+          {
+            "step": 3,
+            "title": "Ask for the total cost",
+            "body": "Request every cost in one number: their fee plus the charges inside the funds they recommend. Vagueness here is itself the answer you needed."
+          },
+          {
+            "step": 4,
+            "title": "Ask what they would remove",
+            "body": "A good adviser will happily simplify a portfolio and cut costs. A salesperson tends to add products. Watch which direction the recommendation moves."
+          }
+        ],
+        "tags": [
+          "advisers",
+          "fiduciary"
+        ]
+      },
+      {
+        "id": "the-index-card-s07",
+        "hook": "Free money first: use the sheltered accounts before the clever ones.",
+        "insight": "Any employer contribution you can claim by contributing yourself is an immediate return no market can match, and it is the first thing to secure. After that, accounts with tax relief let your money grow without an annual drag, which is the same as adding return without adding risk. This ordering matters more than fund selection: an average fund inside the right account usually beats a great fund inside the wrong one.",
+        "why": "Account rules are country-specific. The book's examples are US ones, so read the principle rather than the account names and match it to what your own system offers.",
+        "apply": "Confirm you are capturing every employer contribution available, then check how much of your annual sheltered allowance you actually use.",
+        "format": "single",
+        "tags": [
+          "tax-accounts",
+          "employer-match"
+        ]
+      },
+      {
+        "id": "the-index-card-s08",
+        "hook": "Insure the disaster you cannot absorb. Pay for the rest yourself.",
+        "insight": "Insurance is worth buying when the loss would be ruinous and unlikely: your death while others depend on you, a long illness, your home burning down. It is a bad deal when the loss is small and survivable, because you are paying someone a margin to handle an inconvenience. That principle kills extended warranties, phone cover and most add-ons at the till, and it argues for plain term life cover over complicated products that mix insurance with investing.",
+        "why": "Insurers price in profit and administration, so the average buyer pays more than they claim. You buy anyway when the tail risk would end you financially, which is exactly what small-loss policies do not do.",
+        "apply": "Cancel one small-loss policy you are paying for and check that your life and income protection cover would actually support your dependants.",
+        "format": "single",
+        "tags": [
+          "insurance",
+          "risk"
+        ]
+      },
+      {
+        "id": "the-index-card-s09",
+        "hook": "Money has an order of operations. Most people run it out of sequence.",
+        "insight": "Every pound has several possible jobs, and doing them in the wrong order costs money quietly. Investing while carrying card debt loses to the interest. Saving cash for years while ignoring an employer contribution leaves free money behind. There is a standard sequence that works for almost everyone, and following it removes most of the decision-making that makes personal finance feel exhausting.",
+        "why": "The order follows from comparing guaranteed returns with risky ones: matched contributions and high-interest debt offer certainty, so they outrank market exposure regardless of what markets are doing.",
+        "apply": "Work through the five steps below in order and identify which one you are actually on today.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Small cash buffer",
+            "body": "Hold enough to cover an unexpected bill without borrowing, roughly one month of essentials. This stops every setback from becoming new expensive debt."
+          },
+          {
+            "step": 2,
+            "title": "Take the employer money",
+            "body": "Contribute whatever is needed to claim the full employer contribution to your pension. It is an immediate return that no investment can compete with."
+          },
+          {
+            "step": 3,
+            "title": "Kill expensive debt",
+            "body": "Clear anything charging more than about eight percent, starting with the highest rate. This is a guaranteed, risk-free return equal to the interest you stop paying."
+          },
+          {
+            "step": 4,
+            "title": "Build the real emergency fund",
+            "body": "Extend the buffer to three to six months of essential spending, held in cash. Its job is to stop you selling investments during a job loss."
+          },
+          {
+            "step": 5,
+            "title": "Fill the sheltered accounts",
+            "body": "Invest the rest in broad low-cost funds, using tax-advantaged accounts first and ordinary ones after. Then leave it alone for a decade."
+          }
+        ],
+        "tags": [
+          "priorities",
+          "sequence"
+        ]
+      },
+      {
+        "id": "the-index-card-s10",
+        "hook": "Some money problems are not personal. Budgeting harder will not solve them.",
+        "insight": "The card is honest about its own limits. Careful individual behaviour cannot offset medical costs that bankrupt families, wages that have not tracked housing, or a childcare bill larger than a mortgage. Presenting every financial difficulty as a discipline failure is both inaccurate and convenient for the people selling the advice. Do the personal part properly, and hold onto the fact that the personal part is not the whole system.",
+        "why": "Olen's earlier reporting documented how much of the advice industry profits from that framing. The honesty matters practically: it stops people concluding that failure is purely a character defect.",
+        "apply": "Separate your money worries into what your choices control and what policy or income controls, and act only on the first list.",
+        "format": "single",
+        "tags": [
+          "structural",
+          "honesty"
+        ]
+      }
+    ],
+    "actions": [
+      "Write your own version of the card on paper, six rules maximum, and keep it with your bank card as a test for every new product.",
+      "Audit the fees on every fund, pension and advised account you hold, and replace anything expensive with a broad low-cost index equivalent.",
+      "Set an automatic payday transfer of at least ten percent of take-home pay and increase it with every raise you receive.",
+      "Ask any current or prospective adviser in writing whether they are legally required to act in your interest, and how they are paid."
+    ],
+    "if_you_liked": [
+      "the-little-book-of-common-sense-investing",
+      "i-will-teach-you-to-be-rich",
+      "just-keep-buying"
+    ],
+    "not_for_you_if": "You already invest in low-cost index funds and want depth, or you need detail beyond US accounts and tax rules.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published January 2016 by Portfolio. The original card was written by Harold Pollack during a 2013 video interview. Account names and tax rules are US-specific. All prose original."
+    }
+  },
+  {
+    "id": "get-good-with-money",
+    "title": "Get Good with Money",
+    "subtitle": "Ten Simple Steps to Becoming Financially Whole",
+    "author": "Tiffany Aliche",
+    "year": 2021,
+    "category": "personal-finance",
+    "subcategory": "money-basics",
+    "tags": [
+      "budgeting",
+      "saving",
+      "credit",
+      "insurance",
+      "estate-planning"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "It replaces the goal of getting rich with the goal of being whole, and then insists on the unglamorous parts most money books skip: insurance, credit repair, a will, and knowing the smallest number your life can run on.",
+    "crux": {
+      "headline": "Aim for whole, not rich",
+      "body": "A large income covers up holes rather than closing them. Financial wholeness means every part is in reasonable shape at once: you know what you spend, you have savings with jobs attached, your debt is shrinking, your credit works for you, you are insured against the losses that would end you, and your affairs are in order if you die. You do not need to be excellent at all of it. You need no part of it left at zero."
+    },
+    "sparks": [
+      {
+        "id": "get-good-with-money-s01",
+        "hook": "A big salary is not a plan. It is a bigger hole to fall into.",
+        "insight": "People with good incomes still lose everything, because income only hides weakness in the rest of the structure. Wholeness means looking at all the parts together: spending you can name, savings with a purpose, shrinking debt, a credit record that lowers your costs, insurance for the disasters, and paperwork that protects your family. A single strong area cannot compensate for a missing one, which is why security feels absent even at high salaries.",
+        "why": "Aliche wrote this after losing her own savings and her teaching job and having to rebuild from a credit score in the hundreds. The framework comes from repairing every part rather than optimising one.",
+        "apply": "Score yourself out of ten on budget, savings, debt, credit, insurance and estate paperwork, then work only on your lowest score this month.",
+        "format": "single",
+        "tags": [
+          "wholeness",
+          "self-audit"
+        ]
+      },
+      {
+        "id": "get-good-with-money-s02",
+        "hook": "Know the smallest number your life can survive on. Then fear less.",
+        "insight": "Alongside your normal budget, work out the bare survival version: rent, utilities, basic food, transport to work, minimum debt payments and nothing else. That figure is much lower than your usual spending and it changes how you feel about risk. It tells you how long your savings really last, how much of a pay cut you could absorb, and whether you could walk away from a job that is harming you. Fear of the unknown shrinks when the number is known.",
+        "why": "Uncertainty about the floor makes every financial threat feel unbounded. A concrete minimum converts a vague dread into a number of months, which is something you can plan around.",
+        "apply": "Write your survival budget on one page tonight, then divide your cash savings by it to see how many months you own.",
+        "format": "single",
+        "tags": [
+          "survival-budget",
+          "security"
+        ]
+      },
+      {
+        "id": "get-good-with-money-s03",
+        "hook": "Budgets fail because they are guesses. Start with a list, not a plan.",
+        "insight": "Most budgets collapse in week two because they were invented rather than observed. The fix is to write down what actually leaves your account before deciding what should. List every recurring cost with its amount and the date it lands, then separate what you must pay from what you chose. Only then set targets. A budget built on your real transactions survives contact with a real month, and it takes the moral drama out of it entirely.",
+        "why": "Recall of spending is consistently worse than people expect, especially for small frequent purchases and annual bills. Starting from statements removes the guesswork that makes budgets feel like failures.",
+        "apply": "Work through the four steps below using three months of bank statements rather than memory.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "List everything that leaves",
+            "body": "Go through three months of statements and write every recurring payment with its amount and date, including annual bills divided by twelve. No editing, no judgement yet."
+          },
+          {
+            "step": 2,
+            "title": "Split must from chose",
+            "body": "Mark each line as something you must pay to keep a roof, food and work, or something you chose. The second list is where every decision actually lives."
+          },
+          {
+            "step": 3,
+            "title": "Give the bills their own account",
+            "body": "Send exactly the total of the must-pay list into a separate account on payday. Bills come out of there and nowhere else, so overspending cannot touch them."
+          },
+          {
+            "step": 4,
+            "title": "Spend the rest freely",
+            "body": "What remains after bills and savings is yours to spend without tracking a single coffee. The structure does the discipline so you do not have to."
+          }
+        ],
+        "tags": [
+          "budgeting",
+          "systems"
+        ]
+      },
+      {
+        "id": "get-good-with-money-s04",
+        "hook": "One account for everything is why the money keeps disappearing.",
+        "insight": "When bills, savings and daily spending share a single balance, the balance always looks bigger than it is, and the shortfall shows up at the end of the month as a surprise. Splitting them physically removes the illusion. Bills leave from a bills account, savings sit somewhere slightly inconvenient, and what is left in the spending account is genuinely spendable. You stop doing arithmetic in your head and start reading one number honestly.",
+        "why": "Mental accounting is unreliable when the money is pooled. Separate accounts turn an ongoing judgement call into a structural fact you cannot accidentally overspend.",
+        "apply": "Open a second current account this week for bills only, and set your payday transfer to fund it before anything else.",
+        "format": "single",
+        "tags": [
+          "accounts",
+          "automation"
+        ]
+      },
+      {
+        "id": "get-good-with-money-s05",
+        "hook": "Savings with no job attached will be spent on someone else's emergency.",
+        "insight": "One undifferentiated pot invites raiding, because nothing in it is spoken for. Give each pot a name and a date instead: emergency cover, the car service in autumn, the trip next summer, the deposit in three years. Named money is harder to spend on impulse, and it also reveals when a goal is unfunded rather than merely hoped for. The naming does more work than any additional willpower ever will.",
+        "why": "People treat labelled money differently from general money even when it is fungible. That quirk is usually a bias to correct; here it is a bias to recruit deliberately.",
+        "apply": "Split your savings into named pots today, and set a standing order into each one, however small the amount.",
+        "format": "single",
+        "tags": [
+          "savings",
+          "goals"
+        ]
+      },
+      {
+        "id": "get-good-with-money-s06",
+        "hook": "Your credit score is a price tag on every pound you borrow.",
+        "insight": "A credit record is not a report card on your character, it is what lenders use to decide the rate you pay. The gap between a good score and a poor one shows up in mortgage payments, car finance, sometimes insurance quotes and deposits, and it repeats every month for years. The two things that move it most are dull: pay on time, always, and use only a small fraction of the credit available to you.",
+        "why": "Payment history and credit utilisation dominate the common scoring models. Exact weightings and rules differ by country and bureau, so check your local system rather than the US one described in the book.",
+        "apply": "Pull your credit report from each bureau this week, dispute anything wrong, and set every minimum payment to autopay.",
+        "format": "single",
+        "tags": [
+          "credit",
+          "borrowing"
+        ]
+      },
+      {
+        "id": "get-good-with-money-s07",
+        "hook": "The cheapest way to clear debt is not always the one you will finish.",
+        "insight": "Attacking the highest interest rate first costs the least in pure arithmetic. Clearing the smallest balance first costs slightly more and delivers a visible win early, which keeps some people going. Both work; neither works if abandoned. Choose by knowing yourself: if you have quit repayment plans before, buy the motivation. If you have finished hard things before, take the cheaper route and keep the difference.",
+        "why": "Evidence on the two orders is mixed and mostly about persistence rather than maths. The gap in total interest is usually small next to the gap between finishing and not finishing.",
+        "apply": "List every debt with balance and rate, pick one order deliberately, and put the choice in writing so you stop reconsidering it.",
+        "format": "single",
+        "tags": [
+          "debt",
+          "payoff-strategy"
+        ]
+      },
+      {
+        "id": "get-good-with-money-s08",
+        "hook": "A will is a money decision, and skipping it hands your money to strangers.",
+        "insight": "Insurance and estate paperwork are the parts everyone postpones, and they are the parts that decide what happens on the worst day. Cover that replaces your income if you die or cannot work, named beneficiaries on every account, a simple will, and someone authorised to act if you cannot. None of it is expensive or complicated at a normal level of wealth. All of it is only useful if it exists before it is needed.",
+        "why": "Beneficiary designations on pensions and policies frequently override what a will says, which is why stale forms cause more problems than missing documents. Rules vary by country.",
+        "apply": "Check the named beneficiary on every pension and policy this week, then book time to write a basic will within the month.",
+        "format": "single",
+        "tags": [
+          "insurance",
+          "estate-planning"
+        ]
+      },
+      {
+        "id": "get-good-with-money-s09",
+        "hook": "You are not supposed to know all of this alone.",
+        "insight": "Beyond a certain point money involves tax, law and investment questions with real consequences for getting them wrong. A small team handles that: someone for tax, someone for legal documents, and where the sums justify it, an adviser paid by you rather than by product commissions. You are not delegating responsibility, you are buying expertise for specific decisions, and knowing when to call is itself a financial skill.",
+        "why": "The risk is hiring by friendliness rather than obligation. An adviser paid from commissions has a different incentive from one you pay directly, and the difference is invisible during the meeting.",
+        "apply": "Follow the four steps below and hire only the one role your situation actually needs this year.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Name what you actually need",
+            "body": "Tax return complexity, a will, or investment decisions are three different problems with three different professionals. Hiring the wrong one costs money and solves nothing."
+          },
+          {
+            "step": 2,
+            "title": "Ask who pays them",
+            "body": "Ask directly whether they are paid by you, by a percentage of your assets, or by commission on products. The answer predicts what they will recommend."
+          },
+          {
+            "step": 3,
+            "title": "Ask for the obligation",
+            "body": "Ask in writing whether they are required to act in your interest. Get it before any advice, not after you have followed it."
+          },
+          {
+            "step": 4,
+            "title": "Start with one",
+            "body": "Most people need an accountant or a will long before they need an investment adviser. Add roles as the money grows, not because the meeting was persuasive."
+          }
+        ],
+        "tags": [
+          "advisers",
+          "professionals"
+        ]
+      },
+      {
+        "id": "get-good-with-money-s10",
+        "hook": "Never lend money you would not be willing to lose to that person.",
+        "insight": "Lending to friends and family destroys both the money and the relationship more often than anyone admits, because the loan is a favour to one side and an obligation to the other. Decide in advance which it is. If you can afford to give the amount and would still speak to them if it never returned, give it and stop tracking. If you cannot afford to lose it, you cannot afford to lend it, and saying so plainly is kinder than the resentment that follows.",
+        "why": "Aliche lost a substantial part of her own savings this way before the 2008 crash and the job loss that followed. The story is the reason the book treats protection as seriously as growth.",
+        "apply": "Set a personal limit you would be willing to gift, and treat any request above it as a no rather than a negotiation.",
+        "format": "single",
+        "tags": [
+          "lending",
+          "boundaries"
+        ]
+      }
+    ],
+    "actions": [
+      "Build your money list from three months of statements, split must-pay from chosen, and move the must-pay total into a separate bills account.",
+      "Write your survival budget and divide your cash savings by it, so you know how many months of freedom you currently hold.",
+      "Pull your credit report from every bureau, dispute errors, and set autopay on the minimum for every account you owe.",
+      "Check the beneficiary named on each pension and insurance policy, and book a slot to write a basic will this month."
+    ],
+    "if_you_liked": [
+      "i-will-teach-you-to-be-rich",
+      "the-total-money-makeover",
+      "the-index-card"
+    ],
+    "not_for_you_if": "You already budget, invest and hold insurance, or you want portfolio construction rather than the foundations of an ordinary financial life.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published March 2021 by Rodale. Tiffany Aliche writes as The Budgetnista. Credit scoring and estate rules described are US-based; principles restated in country-neutral terms. All prose original."
+    }
+  },
+  {
+    "id": "set-for-life",
+    "title": "Set for Life",
+    "subtitle": "Dominate Life, Money, and the American Dream",
+    "author": "Scott Trench",
+    "year": 2017,
+    "category": "personal-finance",
+    "subcategory": "financial-independence",
+    "tags": [
+      "early-retirement",
+      "house-hacking",
+      "frugality",
+      "income",
+      "real-estate"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 11,
+    "why_it_matters": "It writes a specific path for someone on an ordinary salary in their twenties or thirties, staged rather than general: build a runway first, then buy assets, then live on what they produce. The housing advice is the part readers argue about and remember.",
+    "crux": {
+      "headline": "Three stages, three different sets of rules",
+      "body": "Financial independence is not one long effort at one strategy. In the first stage you have no capital, so cutting the largest costs is the fastest lever available. In the second you have savings, so raising income and buying assets matters more than further cutting. In the third the assets produce enough to cover your life. Applying the wrong stage's tactics is why people spend years economising on small things and never reach the point where anything compounds."
+    },
+    "sparks": [
+      {
+        "id": "set-for-life-s01",
+        "hook": "The first pile of savings does not buy things. It buys nerve.",
+        "insight": "Getting a modest amount of cash together, enough to live on for months, changes your position more than the sum suggests. You can turn down bad work, take a lower-paid job with better prospects, wait out a redundancy, or move for an opportunity. With no runway, every one of those doors is closed and you accept whatever terms you are offered. That is why the early stage is about cash rather than investing cleverly.",
+        "why": "Runway changes bargaining position, and bargaining position changes lifetime income. The return on that first cash pile shows up in the jobs you can afford to refuse, not in the interest it earns.",
+        "apply": "Set a first target of six months of survival spending in cash and refuse to invest anything until it exists.",
+        "format": "single",
+        "tags": [
+          "runway",
+          "cash"
+        ]
+      },
+      {
+        "id": "set-for-life-s02",
+        "hook": "Housing, transport and food. Everything else is noise.",
+        "insight": "For most households those three take the bulk of after-tax income, so they decide the savings rate before any other habit matters. Cutting them is unpleasant and structural rather than fiddly: a smaller place, a housemate, a shorter commute, one car instead of two, most meals cooked. Each change is made once and then saves automatically every month afterwards, which is exactly what small daily economies cannot do.",
+        "why": "Structural cuts need one decision and recur indefinitely. Behavioural cuts need a decision every day, which is why they decay within weeks and produce a fraction of the saving.",
+        "apply": "Rank your last twelve months of spending by category and make one structural change to whichever of the big three is easiest to move.",
+        "format": "single",
+        "tags": [
+          "big-three",
+          "spending"
+        ]
+      },
+      {
+        "id": "set-for-life-s03",
+        "hook": "A long commute is a second job that pays nothing.",
+        "insight": "An hour each way is ten hours a week, near enough a full working day, spent unpaid and arriving home tired. Add fuel, fares, parking and vehicle wear and the cheaper suburb often is not cheaper at all. Moving nearer to work buys back those hours and usually removes a car, which is one of the largest recurring costs a household carries. The saving is money and energy at the same time, which is rare.",
+        "why": "Long commutes are also among the most reliable negative predictors of daily wellbeing in surveys, and unlike most misery they do not fade with habituation.",
+        "apply": "Price the annual cost of your commute in money and in hours, then compare it against the rent difference for living closer.",
+        "format": "single",
+        "tags": [
+          "commute",
+          "housing"
+        ]
+      },
+      {
+        "id": "set-for-life-s04",
+        "hook": "Make your home earn instead of costing. Rent out the space you do not use.",
+        "insight": "Housing is the biggest bill most people pay, which makes it the biggest one to attack. If you can buy a place with a spare room or a second unit and rent it out, tenants cover part or all of the mortgage and you live at a fraction of market cost. The money that used to leave every month now either builds equity or gets invested. It is a lot of hassle for a few years and it moves the timeline more than any other single move available to a normal earner.",
+        "why": "The tactic depends on low-deposit mortgage products, affordable multi-unit stock and landlord rules that vary enormously by country. Where those conditions are absent, the simpler version is taking in a housemate.",
+        "apply": "Work through the four steps below and price one specific property in your area before deciding whether the idea is realistic for you.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Check what you can borrow",
+            "body": "Find out the lowest deposit you can put down on a home you will live in, and whether that product allows renting rooms or a second unit. This decides everything else."
+          },
+          {
+            "step": 2,
+            "title": "Price the rent honestly",
+            "body": "Use real local listings, assume the room or unit is empty a month or two a year, and add maintenance. Optimistic rent assumptions are how this tactic goes wrong."
+          },
+          {
+            "step": 3,
+            "title": "Compare against renting",
+            "body": "Set your total ownership cost minus expected rent against what you pay now. If the gap is not large, the hassle is not worth it and a housemate is simpler."
+          },
+          {
+            "step": 4,
+            "title": "Invest the difference",
+            "body": "The saving only matters if it leaves your spending account. Set up an automatic investment for exactly the amount your housing costs dropped."
+          }
+        ],
+        "tags": [
+          "house-hacking",
+          "real-estate"
+        ]
+      },
+      {
+        "id": "set-for-life-s05",
+        "hook": "Cutting works instantly. Earning works infinitely. Do both, in that order.",
+        "insight": "Reducing spending gives an immediate, certain result and is the only lever available when you have nothing saved. It also has a hard floor. Raising income has no ceiling but takes months to move, so it is the second stage rather than the first. The mistake is picking a side: people either economise their way into a life they resent, or chase raises while spending every one of them. The plan needs the first to fund the second.",
+        "why": "The two levers work on different timescales, which is why sequencing matters more than choosing. Cuts buy the runway that makes a risky career move possible.",
+        "apply": "Once your six months of runway exists, redirect the effort from cutting to a specific plan for raising income within a year.",
+        "format": "single",
+        "tags": [
+          "income",
+          "sequencing"
+        ]
+      },
+      {
+        "id": "set-for-life-s06",
+        "hook": "Pay tied to hours has a ceiling built into the arithmetic.",
+        "insight": "If you are paid for time, your income is capped by the hours you can physically work and by what your employer pays for them. Wealth tends to come from work where results are not tied to hours: ownership, commission, equity, a business, or property that pays whether or not you are there. Moving toward that kind of work matters more in your thirties than optimising a salary, because it changes the shape of the curve rather than its slope.",
+        "why": "The claim is about structure, not effort. It also carries real risk: variable and equity-linked pay can pay nothing for long stretches, which is another reason to build runway first.",
+        "apply": "Identify one part of your work where results could be paid for rather than hours, and propose that arrangement at your next review.",
+        "format": "single",
+        "tags": [
+          "career",
+          "scalable-income"
+        ]
+      },
+      {
+        "id": "set-for-life-s07",
+        "hook": "A new car on finance is the most expensive way to look employed.",
+        "insight": "A monthly car payment is usually the second largest bill a young earner carries, and it lands during the exact years when a small pile of savings would change their options most. The car loses value while the loan runs, and the payment cannot be paused when work goes wrong. A cheap reliable second-hand car costs a fraction and does the same job. This is not about virtue; it is about which years the money is available in.",
+        "why": "Timing dominates here. Money kept in your twenties has decades to compound and buys the runway that enables career risk; money spent on depreciation does neither.",
+        "apply": "Total everything your car costs each year including finance, insurance, fuel and repairs, then price the cheapest version that meets your needs.",
+        "format": "single",
+        "tags": [
+          "cars",
+          "depreciation"
+        ]
+      },
+      {
+        "id": "set-for-life-s08",
+        "hook": "Financial independence is a staircase. Most people climb it in the wrong order.",
+        "insight": "The mistakes come from applying a later stage's tactics too early. Buying investments before there is any cash cushion means selling them at the worst moment. Chasing a side business while carrying an expensive lifestyle means the business has to succeed immediately. Each stage has one job: build the runway, then build income and buy assets, then live on what those assets produce. Doing them in sequence is slower to start and much faster to finish.",
+        "why": "Each stage removes a constraint on the next. Skipping a stage does not accelerate anything, it just means the constraint reappears later at a worse moment.",
+        "apply": "Follow the three steps below and name honestly which stage you are actually in today rather than the one you would like to be in.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Build the runway",
+            "body": "Cut the big three hard and hold months of survival spending in cash. Nothing here is invested. The goal is the ability to say no to bad terms."
+          },
+          {
+            "step": 2,
+            "title": "Raise income, buy assets",
+            "body": "With a cushion in place, take the career risk, move toward pay tied to results, and put every increase into index funds or property rather than lifestyle."
+          },
+          {
+            "step": 3,
+            "title": "Live on what they produce",
+            "body": "When rents, dividends and interest cover your spending, work becomes optional. Keep the frugal structure you built; the freedom came from the gap, not the income."
+          }
+        ],
+        "tags": [
+          "stages",
+          "planning"
+        ]
+      },
+      {
+        "id": "set-for-life-s09",
+        "hook": "Spend the raise on the plan, not on the life the raise makes possible.",
+        "insight": "Nearly every income increase is absorbed within a few months by a slightly better flat, a slightly better car and slightly better habits, leaving the saving rate exactly where it was. The counter is mechanical rather than moral: when pay rises, raise the automatic transfer by the same amount on the same day, before it appears in your spending account. You never adjust to money you never saw, and the whole increase goes to work.",
+        "why": "Adaptation to a higher standard of living is fast and largely irreversible. Capturing the money before it arrives in the account is the only method that reliably survives it.",
+        "apply": "On the day your next raise lands, increase your standing order to savings by the full net amount before you spend any of it.",
+        "format": "single",
+        "tags": [
+          "lifestyle-inflation",
+          "automation"
+        ]
+      },
+      {
+        "id": "set-for-life-s10",
+        "hook": "This plan assumes mobility. Be honest about whether you have it.",
+        "insight": "The strategy works best for someone young, healthy, without dependants, able to move house, change city and take on tenants. That describes a real group of readers and excludes many others. If you have children in school, care responsibilities, or a health condition tied to a location, the housing tactics get much harder and the timeline stretches. The staged logic still applies; the speed does not, and pretending otherwise just produces guilt.",
+        "why": "Most aggressive independence plans are written by and for people with unusual flexibility. Recognising the constraint lets you keep the method and adjust the schedule rather than abandon both.",
+        "apply": "List the constraints the plan does not account for in your life, then rewrite your timeline around them instead of ignoring them.",
+        "format": "single",
+        "tags": [
+          "constraints",
+          "honesty"
+        ]
+      }
+    ],
+    "actions": [
+      "Total your last twelve months of housing, transport and food spending, then make one structural change to whichever is most movable.",
+      "Build six months of survival spending in cash before investing anything, and treat that pile as bargaining power rather than an emergency fund.",
+      "Price one house-hacking scenario in your area using real listings, honest vacancy assumptions and maintenance, then compare it against your current rent.",
+      "Set a standing rule that every future pay rise increases your automatic savings transfer by the same net amount on the day it arrives."
+    ],
+    "if_you_liked": [
+      "financial-freedom",
+      "quit-like-a-millionaire",
+      "the-millionaire-next-door"
+    ],
+    "not_for_you_if": "You cannot easily move, take in tenants or change jobs, or you want investing detail rather than a staged plan built around housing and income.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2017 by BiggerPockets Publishing, with a later revised edition. Housing tactics depend on US mortgage products and landlord rules; flagged in the record. All prose original."
+    }
+  },
+  {
+    "id": "the-two-income-trap",
+    "title": "The Two-Income Trap",
+    "subtitle": "Why Middle-Class Mothers and Fathers Are Going Broke",
+    "author": "Elizabeth Warren and Amelia Warren Tyagi",
+    "year": 2003,
+    "category": "personal-finance",
+    "subcategory": "household-finance",
+    "tags": ["family-finances", "fixed-costs", "housing", "debt", "financial-risk"],
+    "difficulty": "moderate",
+    "read_time_min": 11,
+    "why_it_matters": "It took bankruptcy court records rather than opinion and found the middle-class money story was wrong. Families were not overspending on luxuries. They had committed two incomes to fixed bills and left themselves no reserve when one income stopped.",
+    "crux": {
+      "headline": "Two incomes, no spare one",
+      "body": "A generation ago a household ran on one income and held a second earner in reserve. If illness or redundancy hit, that person went to work and the family survived. Today both incomes are committed to a mortgage bought for the school catchment, childcare, two cars and health cover, none of which can be cut quickly. The family looks richer and is far more fragile, because the backup plan was spent before the crisis arrived."
+    },
+    "sparks": [
+      {
+        "id": "the-two-income-trap-s01",
+        "hook": "Adding a second income made families less safe, not more.",
+        "insight": "When one earner supported a household, the other adult was an unused reserve. Job loss or a long illness was survivable because someone could start earning. Once both adults work and both salaries are committed to bills that cannot be cancelled, the reserve is gone. The household has more money coming in and less protection, and the failure only becomes visible when one of the two incomes stops.",
+        "why": "The fragility comes from committed spending, not from income. A family spending both salaries on fixed obligations has no slack, while a family living on one salary has a whole second one in hand.",
+        "apply": "Work out whether your household could cover its fixed bills on the larger income alone, and write down the gap if it cannot.",
+        "format": "single",
+        "tags": ["fragility", "family-finances"]
+      },
+      {
+        "id": "the-two-income-trap-s02",
+        "hook": "Families were not going broke on luxuries. The bills had changed.",
+        "insight": "The standard explanation for middle-class debt is overspending on small pleasures. Comparing what families actually bought across a generation showed the opposite pattern: less on clothing, food and household goods, and far more on housing, childcare, transport, health cover and taxes. Those are the costs you cannot economise your way out of, which is why the advice to cut treats misses the mechanism entirely.",
+        "why": "The data came from spending surveys and bankruptcy filings rather than anecdote. The costs that grew are structural and mostly not discretionary, which is what makes the popular explanation both wrong and comforting.",
+        "apply": "Split last year's spending into fixed obligations and genuine choices, and see which side has actually been growing.",
+        "format": "single",
+        "tags": ["fixed-costs", "spending-myths"]
+      },
+      {
+        "id": "the-two-income-trap-s03",
+        "hook": "You are not bidding on a house. You are bidding on a school place.",
+        "insight": "When school quality is tied to where you live, the price of a home includes the price of the school attached to it. Parents then compete for a limited number of good catchments by borrowing more, which raises prices without improving any school. The result is a bidding war that families experience as a housing decision and that behaves like an auction with no cap and no losing bid that feels acceptable.",
+        "why": "The mechanism is strongest where public school funding and admission are tied to residence. Where school choice is not geographic, housing costs are driven by other forces.",
+        "apply": "Write down what portion of your housing budget is buying a school catchment, then check whether the alternative routes to that outcome are cheaper.",
+        "format": "single",
+        "tags": ["housing", "schools"]
+      },
+      {
+        "id": "the-two-income-trap-s04",
+        "hook": "Most bankruptcies are not spending stories. They are three events.",
+        "insight": "Court records show the same triggers repeatedly: losing a job, a serious illness in the family, and marital breakdown. These are not failures of budgeting, and they arrive without warning to households that looked comfortable the year before. Reading financial collapse as a character problem is inaccurate and expensive, because it points people at the wrong defence. The defence that works is slack, insurance and low committed costs.",
+        "why": "Bankruptcy research by Warren and colleagues established the pattern, though the widely quoted proportions attributed to medical causes have been challenged on methodology. The three triggers themselves are not seriously disputed.",
+        "apply": "Check that you hold income protection and adequate health cover before optimising anything about investments or budgeting.",
+        "format": "single",
+        "tags": ["bankruptcy", "risk"]
+      },
+      {
+        "id": "the-two-income-trap-s05",
+        "hook": "Your fragility is a ratio, and you can calculate it tonight.",
+        "insight": "What determines whether a shock destroys a household is not income but the share of that income already promised. A family spending sixty percent of take-home pay on obligations can absorb a lot. A family at ninety-five percent is one bad month from borrowing, regardless of how large the salaries are. The number is easy to work out, unfamiliar to most people, and more predictive than any budgeting habit.",
+        "why": "Fixed costs cannot be reduced quickly, so they set the size of the shock you can survive. Discretionary spending, the part everyone focuses on, is the part that can actually be cut in a crisis.",
+        "apply": "Run the four steps below and write your committed-cost percentage on the same page as your savings balance.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "List what cannot be stopped", "body": "Mortgage or rent, childcare, insurance, loan repayments, utilities, transport to work. These continue whether or not you have a job next month." },
+          { "step": 2, "title": "Divide by take-home pay", "body": "Committed costs as a percentage of household income after tax. Below about sixty percent gives room to move; above eighty leaves almost none." },
+          { "step": 3, "title": "Test one income", "body": "Repeat the calculation using only the larger salary. This is the number that tells you what happens if the other one stops for six months." },
+          { "step": 4, "title": "Attack the largest commitment", "body": "If the ratio is uncomfortable, only the big items move it: housing, childcare arrangements, car finance. Cancelling subscriptions changes the second decimal place." }
+        ],
+        "tags": ["fixed-costs", "stress-test"]
+      },
+      {
+        "id": "the-two-income-trap-s06",
+        "hook": "The second salary is smaller than it looks. Do the subtraction.",
+        "insight": "A second income arrives with costs attached: childcare, commuting, a second car, work clothes, more convenience food, and a higher tax rate applied to the household. What is left can be a modest fraction of the headline salary. That does not mean the second earner should stop, since careers compound and independence matters. It means the decision should be made with the real number rather than the gross one, and that the real number is often startling.",
+        "why": "The calculation is about the marginal effect on household finances, not the value of a career. Long career breaks carry large lifetime costs that the annual arithmetic misses entirely.",
+        "apply": "Calculate the net contribution of the second income after childcare, commuting, tax and work costs, then decide with that figure visible.",
+        "format": "single",
+        "tags": ["childcare", "work-decisions"]
+      },
+      {
+        "id": "the-two-income-trap-s07",
+        "hook": "Credit is easiest to get at the exact moment it is most dangerous.",
+        "insight": "Lenders became very good at extending credit to families already under strain, because a borrower who carries a balance for years is more profitable than one who repays quickly. From inside the household, borrowing looks like the bridge across a bad month. From the lender's side it is the beginning of a long, high-margin relationship. The offer arriving during a crisis is not a rescue and should not be read as one.",
+        "why": "Consumer lending deregulation in the United States removed most interest-rate ceilings, which made lending to higher-risk borrowers profitable rather than prohibited. Rules differ elsewhere but the incentive is the same.",
+        "apply": "Decide now, in writing, what you would do in a three-month income gap, and make borrowing the last item on that list.",
+        "format": "single",
+        "tags": ["credit", "lending"]
+      },
+      {
+        "id": "the-two-income-trap-s08",
+        "hook": "Buy the house one income can carry, not the one two incomes can reach.",
+        "insight": "The strongest protection available to a two-earner household is to commit only one salary to the immovable bills. The second then funds savings, investment and childcare, and can disappear for a year without threatening the house. It buys a smaller property than the bank would approve, in a less contested catchment, and it converts the household from fragile to shock-resistant in a single decision.",
+        "why": "This inverts the usual approach, where lenders size the mortgage against both incomes and the household treats that maximum as a target. The lender is managing their risk, not yours.",
+        "apply": "Before your next mortgage application, set your own cap at what the larger single salary could service comfortably.",
+        "format": "single",
+        "tags": ["mortgage", "resilience"]
+      },
+      {
+        "id": "the-two-income-trap-s09",
+        "hook": "Build the family finances so one income can go missing for a year.",
+        "insight": "Fragility is designed in slowly, through a series of individually reasonable decisions, and it can be designed out the same way. Each choice about housing, cars, childcare and insurance either adds a fixed obligation or leaves room. Making that trade-off explicit, once, at each decision point, produces a household that survives redundancy or illness without a crisis, which is a different thing from a household that simply earns more.",
+        "why": "Resilience comes from the structure of commitments rather than from the size of income. High earners with high fixed costs fail in the same way as anyone else, only later and more expensively.",
+        "apply": "Work through the four steps below with your partner and change one commitment this year.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Size housing to one salary", "body": "Set the mortgage or rent against the larger income alone. This single decision does more for household resilience than every other item combined." },
+          { "step": 2, "title": "Keep childcare flexible", "body": "Prefer arrangements you can change at a few months' notice over ones locked in for years, so a job loss does not force two simultaneous upheavals." },
+          { "step": 3, "title": "Insure the earners", "body": "Income protection and life cover on both adults, sized against the committed bills rather than a round number. This is the part households postpone longest." },
+          { "step": 4, "title": "Bank the second income", "body": "Route as much of the second salary as possible into savings and investments. It stays available and it stops the household adapting to spending it." }
+        ],
+        "tags": ["planning", "resilience"]
+      },
+      {
+        "id": "the-two-income-trap-s10",
+        "hook": "Some of this is your budget. Some of it is the price of a school place.",
+        "insight": "Household choices matter and they do not set the cost of childcare, healthcare or a home in a decent catchment. Treating every squeezed family as financially careless is both wrong and convenient, because it directs attention away from the costs doing the damage. Do the personal part seriously, and keep the distinction clear, so that a structural problem does not get absorbed as private shame.",
+        "why": "The authors' policy proposals, including school choice mechanisms to break the housing and schooling link, remain contested. The diagnosis of where the money went has held up better than the prescriptions.",
+        "apply": "Separate your financial pressures into what your decisions control and what prices control, and spend your energy on the first list.",
+        "format": "single",
+        "tags": ["structural", "honesty"]
+      }
+    ],
+    "actions": [
+      "Calculate your committed costs as a percentage of take-home pay, then repeat the calculation using only the larger income.",
+      "Work out the true net contribution of the second income after childcare, commuting, work costs and the household tax rate.",
+      "Check that both earners hold income protection and life cover sized against the bills that cannot be cancelled.",
+      "Set your own borrowing cap at what one salary could service, and treat the lender's maximum as irrelevant to the decision."
+    ],
+    "if_you_liked": ["your-money-or-your-life", "the-millionaire-next-door", "the-index-card"],
+    "not_for_you_if": "You want personal tactics rather than analysis, or you need advice outside the American context of health costs, bankruptcy law and school funding.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2003 by Basic Books; Elizabeth Warren was then a Harvard law professor. Medical-bankruptcy proportions from the associated research have been contested; flagged in the record. All prose original."
+    }
+  },
+  {
+    "id": "same-as-ever",
+    "title": "Same as Ever",
+    "subtitle": "A Guide to What Never Changes",
+    "author": "Morgan Housel",
+    "year": 2023,
+    "category": "personal-finance",
+    "subcategory": "money-behaviour",
+    "tags": [
+      "risk",
+      "expectations",
+      "forecasting",
+      "human-nature",
+      "uncertainty"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 10,
+    "why_it_matters": "Forecasting the economy is a losing game, so this looks at the parts that never move: how people respond to fear, envy, calm and a good story. Those behaviours repeat in every era, which makes them the only reliable thing to plan around.",
+    "crux": {
+      "headline": "Plan around behaviour, not around forecasts",
+      "body": "Nobody knows what interest rates, markets or technology will do next year, and the record of people who claim otherwise is poor. What is knowable is how humans behave: they extrapolate good times, panic together, want certainty they cannot have, and believe whatever their incentives require. Build a financial life that assumes those reactions, including from yourself, and you stop needing predictions to survive."
+    },
+    "sparks": [
+      {
+        "id": "same-as-ever-s01",
+        "hook": "You cannot forecast next year. You can forecast how people will react to it.",
+        "insight": "Events are unpredictable and reactions are not. In every era, a long calm stretch makes people confident enough to borrow more, a shock makes them sell together, and envy makes them chase whatever their neighbours just made money on. Those patterns show up in every generation with new details attached. Building a plan around them costs nothing and does not require you to know what happens next, which is fortunate, because you do not.",
+        "why": "Behaviour repeats because the underlying wiring does not change between generations, while the specific events never repeat exactly. That asymmetry is why behavioural rules outlive economic forecasts.",
+        "apply": "Write the rules you will follow when markets fall a third, and store them where you will find them during the fall.",
+        "format": "single",
+        "tags": [
+          "human-nature",
+          "forecasting"
+        ]
+      },
+      {
+        "id": "same-as-ever-s02",
+        "hook": "Risk is whatever is left after you have listed everything you prepared for.",
+        "insight": "You can plan for the recession, the redundancy and the boiler. The event that actually damages you is usually the one absent from the list, because if you had thought of it you would have handled it. This is why detailed forecasting gives false comfort and why a general buffer beats a specific one. The purpose of savings, insurance and low debt is not to cover a known scenario but to survive an unlisted one.",
+        "why": "The largest historical shocks were mostly unanticipated by the people living through them. Preparing for named risks is useful; assuming the named list is complete is the error.",
+        "apply": "Add a deliberate margin to your plan that is not attached to any scenario: extra cash, less debt, lower fixed costs.",
+        "format": "single",
+        "tags": [
+          "risk",
+          "uncertainty"
+        ]
+      },
+      {
+        "id": "same-as-ever-s03",
+        "hook": "Your standard of living rose. So did the bar. That is why nothing feels better.",
+        "insight": "Satisfaction is the gap between what you have and what you expected to have, and expectations rise faster and more quietly than income. A raise feels good for a few months, then becomes the new baseline against which the next raise is judged. Managing the second half of that equation is not a consolation prize for people who cannot earn more; it is the only half you fully control, and it works immediately.",
+        "why": "Adaptation to improved circumstances is fast and largely automatic. It does not mean money is irrelevant, only that expectations must be managed alongside it or the gain vanishes.",
+        "apply": "When your income next rises, hold your standard of living fixed for six months and bank the entire difference.",
+        "format": "single",
+        "tags": [
+          "expectations",
+          "contentment"
+        ]
+      },
+      {
+        "id": "same-as-ever-s04",
+        "hook": "Almost everything that mattered in your life came from a handful of moments.",
+        "insight": "Outcomes are not spread evenly across effort. A small number of decisions, meetings and market days produce most of the result, and you cannot identify them in advance. That has two consequences. You have to keep showing up during the long uneventful stretches, because that is the price of being present for the rare event. And you should judge a strategy by whether it survives to catch those moments, not by its performance in an ordinary month.",
+        "why": "Concentration of returns is well documented in markets, venture investing and careers. The practical difficulty is that the rare event is only obvious afterwards, so exiting early forfeits it.",
+        "apply": "Stay invested through dull and frightening periods, and measure your plan by survival rather than by this quarter's result.",
+        "format": "single",
+        "tags": [
+          "tail-events",
+          "patience"
+        ]
+      },
+      {
+        "id": "same-as-ever-s05",
+        "hook": "Room for error is not pessimism. It is what lets you stay in the game.",
+        "insight": "A plan tuned for the expected case breaks the moment reality differs, and reality always differs. Margin is what absorbs the difference: cash you do not need, debt you did not take, fixed costs low enough that a bad year is survivable. It looks inefficient in good times, which is exactly why people abandon it in good times, and it is the reason some people are still standing after the shock that removed everyone else.",
+        "why": "Endurance compounds while brilliance does not. The investor who avoids ruin can keep compounding; the one with better returns and no margin only needs to be wrong once.",
+        "apply": "Work through the four steps below and add one layer of margin to your finances this month.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Hold unassigned cash",
+            "body": "Keep an amount that is not earmarked for any goal or scenario. Its job is covering the thing you never thought of, which is the thing that usually arrives."
+          },
+          {
+            "step": 2,
+            "title": "Lower the fixed costs",
+            "body": "Recurring commitments determine how bad a bad year is. The lower your unavoidable monthly total, the smaller the income shock you can absorb without selling anything."
+          },
+          {
+            "step": 3,
+            "title": "Refuse maximum leverage",
+            "body": "Borrowing the largest amount you are approved for removes all your margin at once. Borrow less than the maximum, deliberately, and keep the difference as room."
+          },
+          {
+            "step": 4,
+            "title": "Assume you will be wrong",
+            "body": "Plan with a return assumption below what you expect and a timeline longer than you want. If you are wrong in the good direction, nothing bad happens."
+          }
+        ],
+        "tags": [
+          "margin-of-safety",
+          "resilience"
+        ]
+      },
+      {
+        "id": "same-as-ever-s06",
+        "hook": "Long calm periods are what make people reckless enough to end them.",
+        "insight": "When nothing has gone wrong for years, caution starts to look like a cost with no benefit. Borrowing rises, buffers shrink, and the safest-looking moment quietly becomes the most fragile one. The instability is not caused by an outside shock so much as by everyone's response to the absence of shocks. That is why the environment feels most comfortable shortly before it stops being comfortable.",
+        "why": "This is essentially Hyman Minsky's argument that stability breeds instability. It describes a tendency rather than a timing signal, so it cannot tell you when, only why the pattern recurs.",
+        "apply": "During calm stretches, review whether your borrowing and cash buffer have drifted, and correct them back to plan.",
+        "format": "single",
+        "tags": [
+          "cycles",
+          "complacency"
+        ]
+      },
+      {
+        "id": "same-as-ever-s07",
+        "hook": "The best story wins, and it is rarely the best idea.",
+        "insight": "Ideas do not spread on merit. They spread when someone tells them in a way that fits what people already feel, which is why a mediocre proposal explained vividly beats a strong one explained badly. In money this cuts both ways: it explains why bad investments attract capital during a good narrative, and why the boring correct advice loses attention to whatever is most exciting this year.",
+        "why": "Storytelling advantage is visible across markets, politics and science funding. Recognising it does not make you immune, but it does let you ask whether you are persuaded by the argument or by the delivery.",
+        "apply": "Before any investment, write the case in plain language without adjectives and see whether it still sounds compelling.",
+        "format": "single",
+        "tags": [
+          "narrative",
+          "persuasion"
+        ]
+      },
+      {
+        "id": "same-as-ever-s08",
+        "hook": "Show someone an incentive and they will show you a sincere belief.",
+        "insight": "People rarely lie about money. They do something more effective: they genuinely come to believe what pays them. The adviser recommending an expensive product usually thinks it is good, the analyst promoting a sector usually owns it, and the person selling a course usually believes their method works. Assuming dishonesty makes you cynical and unprepared. Assuming sincere bias makes you ask the one useful question, which is how this person gets paid.",
+        "why": "Motivated reasoning operates below awareness, which is what makes conflicted advice so convincing. The remedy is structural: check the incentive rather than assess the sincerity.",
+        "apply": "Ask anyone giving you financial advice how they are paid, and read their recommendation with that answer in mind.",
+        "format": "single",
+        "tags": [
+          "incentives",
+          "advice"
+        ]
+      },
+      {
+        "id": "same-as-ever-s09",
+        "hook": "You cannot control returns. You can control the bar you measure them against.",
+        "insight": "Most financial unhappiness comes from the comparison, not the balance. The people you measure yourself against, the lifestyle you treat as normal, and the returns you consider acceptable are all choices you have quietly delegated to whoever is nearest and loudest. Reclaiming them is free and immediate, and it changes the felt result of the exact same portfolio, salary and house.",
+        "why": "Comparison targets are largely selected by proximity and social media rather than by any deliberate decision, which is why the reference point drifts upward without anyone choosing it.",
+        "apply": "Work through the four steps below and write down the standard you will actually judge your finances against.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Name your comparison group",
+            "body": "Write down who you actually measure yourself against. Most people find it is a handful of colleagues and a few accounts online, chosen by nobody."
+          },
+          {
+            "step": 2,
+            "title": "Define enough in numbers",
+            "body": "Put a figure on the income and savings level that would genuinely satisfy you. Undefined enough is unreachable by construction, however much you earn."
+          },
+          {
+            "step": 3,
+            "title": "Fix the baseline",
+            "body": "Choose the standard of living you intend to hold steady while income rises. Every raise above it goes to savings before it can become normal."
+          },
+          {
+            "step": 4,
+            "title": "Review the target, not the market",
+            "body": "Check progress against your own written number once or twice a year. Checking against other people, or against last quarter's returns, changes nothing except your mood."
+          }
+        ],
+        "tags": [
+          "comparison",
+          "enough"
+        ]
+      },
+      {
+        "id": "same-as-ever-s10",
+        "hook": "A perfectly efficient system has nowhere to put the surprise.",
+        "insight": "Removing every scrap of slack looks like good management until something unexpected arrives and there is no capacity left to absorb it. This is true of supply chains, calendars and household budgets alike. The empty space that looks wasteful in an ordinary month is what stops an unusual month becoming a disaster. Efficiency is worth pursuing right up to the point where it consumes the buffer that keeps the system alive.",
+        "why": "Optimising to the expected case implicitly assumes the expected case. That assumption fails often enough that the apparent waste of slack is normally cheaper than the failure it prevents.",
+        "apply": "Find one part of your finances or schedule optimised to the limit and deliberately restore some slack to it.",
+        "format": "single",
+        "tags": [
+          "slack",
+          "efficiency"
+        ]
+      }
+    ],
+    "actions": [
+      "Write the rules you will follow in a crash, including what you will buy and what you will not sell, and keep them somewhere you will find them.",
+      "Add one unassigned buffer to your finances that is not attached to any specific scenario, and leave it uninvested.",
+      "Put a number on what enough means for you, and review your finances against that figure rather than against other people.",
+      "Ask every person giving you financial advice how they are paid, and reread their last recommendation with that answer in mind."
+    ],
+    "if_you_liked": [
+      "the-psychology-of-money",
+      "thinking-in-bets",
+      "just-keep-buying"
+    ],
+    "not_for_you_if": "You want tactics, portfolios or numbers. This is a set of essays about behaviour, and the arguments are illustrated with stories rather than proved with data.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published November 2023 by Harriman House. The stability-breeds-instability idea is attributed to Hyman Minsky in the record. Arguments are essayistic and story-led; noted as a caveat. All prose original."
+    }
+  },
+  {
+    "id": "scarcity",
+    "title": "Scarcity",
+    "subtitle": "Why Having Too Little Means So Much",
+    "author": "Sendhil Mullainathan and Eldar Shafir",
+    "year": 2013,
+    "category": "personal-finance",
+    "subcategory": "money-behaviour",
+    "tags": ["poverty", "decision-making", "budgeting", "attention", "debt"],
+    "difficulty": "moderate",
+    "read_time_min": 11,
+    "why_it_matters": "It reframed bad money decisions as a consequence of having too little rather than a cause of it. Shortage of money, or of time, changes how anyone thinks, which explains behaviour that looks careless from the outside and feels inevitable from inside.",
+    "crux": {
+      "headline": "Not having enough changes how you think",
+      "body": "Shortage captures attention. That focus is genuinely useful in the short term, which is why deadlines produce work and a tight month produces careful shopping. The cost is everything outside the immediate problem: long-term plans, small maintenance tasks, patience with your family. Scarcity taxes the mental capacity you would need to escape it, so the same person makes worse decisions when short of money or time than when comfortable."
+    },
+    "sparks": [
+      {
+        "id": "scarcity-s01",
+        "hook": "Shortage sharpens you and blinds you at the same time.",
+        "insight": "When something is short, your attention locks onto it. People with little money shop more accurately than the wealthy and know exactly what things cost. People with a deadline tomorrow get more done than in the previous month. That focus is real and useful. What it takes is everything outside the frame: the appointment you miss, the form you forget, the slower plan that would have solved the problem permanently.",
+        "why": "Attention is limited, so a strong focus on one thing necessarily means neglect of others. The neglected items are usually the ones with no deadline, which is why they are also the ones that compound.",
+        "apply": "Name the one thing outside your current tunnel that will cost most if you keep ignoring it, and book a time for it this week.",
+        "format": "single",
+        "tags": ["attention", "tunneling"]
+      },
+      {
+        "id": "scarcity-s02",
+        "hook": "Worrying about money uses the same mind you need to manage money.",
+        "insight": "Financial strain runs constantly in the background: which bill to delay, whether the card will clear, how to cover the repair. That background processing occupies real mental capacity, so less is available for everything else, including planning, patience and complicated forms. The effect is not about intelligence or willpower. It is closer to trying to think clearly while short of sleep, and it lifts when the pressure lifts.",
+        "why": "The original experiments, including a shopping-centre study and fieldwork with Indian sugarcane farmers before and after harvest, reported sizeable effects. Later replication attempts have been mixed, so treat the magnitude as unsettled and the direction as plausible.",
+        "apply": "Move your hardest financial decisions to a moment when the pressure is lower, such as just after payday rather than the day before.",
+        "format": "single",
+        "tags": ["bandwidth", "cognitive-load"]
+      },
+      {
+        "id": "scarcity-s03",
+        "hook": "Poverty is a situation people are in, not a type of person.",
+        "insight": "The same individual behaves differently when squeezed and when comfortable, which means the behaviour belongs to the circumstance rather than the character. This matters practically, because if shortage causes poor decisions rather than only resulting from them, then reducing the shortage improves the decisions. It also explains why advice built on the assumption of a calm, well-resourced reader tends to fail exactly the people it is aimed at.",
+        "why": "The claim is about causation running in both directions, not about denying that decisions matter. It predicts that the same person improves when the pressure is relieved, which is testable and broadly consistent with the evidence.",
+        "apply": "When someone in difficulty makes a decision you find baffling, ask what is occupying their attention before you assess their judgement.",
+        "format": "single",
+        "tags": ["poverty", "judgement"]
+      },
+      {
+        "id": "scarcity-s04",
+        "hook": "Slack is what lets you be wrong cheaply.",
+        "insight": "Someone with room in their budget can forget a bill, buy the wrong size, or take a slow route without consequence. The same mistakes made without slack trigger a fee, an overdraft, a missed shift. It is not that people with less money make more errors; it is that identical errors cost them far more. This is why small buffers of money and time are worth more than their size suggests, and why removing them makes everything harder.",
+        "why": "Slack absorbs variance. Without it, every unexpected event converts directly into a cost, and those costs then consume the resources that would have rebuilt the buffer.",
+        "apply": "Create the smallest useful buffer you can this month, even a hundred pounds, and treat it as insurance against fees rather than as savings.",
+        "format": "single",
+        "tags": ["slack", "buffers"]
+      },
+      {
+        "id": "scarcity-s05",
+        "hook": "Build slack on purpose, because nothing else will leave you any.",
+        "insight": "Both money and time get filled to capacity unless someone deliberately reserves room. A diary booked end to end has no space for the meeting that overruns, and a budget spent to the last pound has no space for the dentist. Reserving capacity feels wasteful in advance and looks obvious afterwards. It is the single structural change that makes a household or a schedule stop lurching from one emergency to the next.",
+        "why": "Systems without buffers transmit every disturbance directly to the next commitment, which is how one late train or one repair bill produces a week of consequences.",
+        "apply": "Follow the four steps below and protect one buffer of money and one of time this week.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Reserve money first", "body": "Move a fixed sum into a separate account on payday and treat it as already spent. A buffer left as whatever remains at month end is never actually there." },
+          { "step": 2, "title": "Reserve time the same way", "body": "Block empty slots in the week before anything else is booked. They will fill with overrun and small tasks, which is exactly what they are for." },
+          { "step": 3, "title": "Stop booking to capacity", "body": "Plan to about eighty percent of what you could theoretically fit, in both budget and calendar. The last twenty percent is what absorbs reality." },
+          { "step": 4, "title": "Defend it from good reasons", "body": "There will always be a sensible use for the buffer. Spending it converts a resilient plan into a fragile one, usually a week before you needed it." }
+        ],
+        "tags": ["slack", "planning"]
+      },
+      {
+        "id": "scarcity-s06",
+        "hook": "Borrowing to end today's shortage guarantees tomorrow's is worse.",
+        "insight": "Under pressure, the loan that clears this week's crisis is compelling and the repayment sits outside the tunnel. Next month arrives with the same bills plus the repayment, so the shortage is larger and the next loan more necessary. This is how a trap forms without any single foolish decision in it. Each step is locally reasonable, and the sequence is what does the damage.",
+        "why": "The pattern is well documented in short-term and payday lending, where repeat borrowing rather than one-off use accounts for the bulk of the business.",
+        "apply": "Before borrowing to solve a shortfall, write next month's budget including the repayment, and see whether it balances.",
+        "format": "single",
+        "tags": ["debt", "scarcity-trap"]
+      },
+      {
+        "id": "scarcity-s07",
+        "hook": "Being short of time does the same thing to you as being short of money.",
+        "insight": "The mechanism is not specific to money. A busy person tunnels on the urgent task and drops maintenance, relationships and planning, then pays for it later with a bigger problem. That is why professionals with high incomes recognise the description immediately. It also means the fixes transfer: reserve capacity, reduce the number of things demanding vigilance, and handle the important-but-not-urgent items on a schedule rather than when they become fires.",
+        "why": "The same limited attention is being competed for in both cases, which is why time-poor and money-poor people report similar patterns of neglect despite completely different circumstances.",
+        "apply": "Pick the maintenance task you have deferred longest, personal or financial, and put it in the diary before the urgent work.",
+        "format": "single",
+        "tags": ["time-scarcity", "busyness"]
+      },
+      {
+        "id": "scarcity-s08",
+        "hook": "Design your money for the tired, distracted version of you.",
+        "insight": "Most financial plans assume attention you will not have during the months they most need to work. The fix is to remove decisions rather than add discipline: automatic transfers, default contributions, direct debits, one setup that runs for years. Every step requiring you to remember something is a step that fails in a difficult week, which is precisely the week the plan was built for.",
+        "why": "Defaults and automation reliably outperform reminders and education in savings programmes, because they do not draw on the capacity that pressure takes away.",
+        "apply": "Find one financial task you currently do manually each month and convert it into a standing instruction today.",
+        "format": "single",
+        "tags": ["automation", "defaults"]
+      },
+      {
+        "id": "scarcity-s09",
+        "hook": "You do not think your way out of a spiral. You buy back capacity.",
+        "insight": "When everything is urgent, the instinct is to try harder, which spends the resource already exhausted. The route out is to reduce what demands attention. Cancel or postpone something real, convert recurring decisions into automatic ones, get one buffer in place, and then spend the reclaimed capacity on the single item that would end the cycle rather than manage it. The order matters, because planning done inside a spiral is usually wasted.",
+        "why": "Reducing load frees attention, and attention is what long-term decisions require. Attempting the strategic work first, while still juggling, is the version that keeps failing.",
+        "apply": "Run the four steps below when you notice you are firefighting rather than deciding.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Write every fire down", "body": "Get all of it out of your head onto one page. Juggling is expensive precisely because holding the list costs more than reading it." },
+          { "step": 2, "title": "Drop or delay one thing", "body": "Something real has to go, not something trivial. The goal is to reduce load, and only a genuine commitment leaving actually reduces it." },
+          { "step": 3, "title": "Automate a recurring decision", "body": "Convert a monthly choice into a standing instruction: a transfer, a direct debit, a repeat order. Each one permanently removes something from your attention." },
+          { "step": 4, "title": "Spend the capacity once", "body": "Use the space you just bought on the one action that ends a recurring problem, not on catching up. Catching up returns you to the same position." }
+        ],
+        "tags": ["overwhelm", "recovery"]
+      },
+      {
+        "id": "scarcity-s10",
+        "hook": "Advice written for calm people fails the people who need it most.",
+        "insight": "Standard financial guidance assumes a reader with attention to spare: compare accounts, plan ahead, resist temptation, fill in forms. Under real pressure those instructions are close to useless, which is why programmes that reduce effort tend to work while those that add information tend not to. If you are helping someone, remove steps and deadlines instead of explaining harder. If you are the one under pressure, choose the simplest version rather than the optimal one.",
+        "why": "Interventions that simplify enrolment, prefill forms or shift deadlines consistently outperform financial education alone. The effect sizes vary, and the general direction is one of the more robust findings in the area.",
+        "apply": "Cut one step out of a financial process you keep failing to complete, and accept the simpler version rather than the ideal one.",
+        "format": "single",
+        "tags": ["financial-advice", "simplicity"]
+      }
+    ],
+    "actions": [
+      "Move a fixed buffer into a separate account on payday and treat it as spent, so mistakes stop costing fees.",
+      "Convert one manual monthly financial decision into a standing instruction that runs without your attention.",
+      "Block empty capacity in your week and budget deliberately, planning to about eighty percent rather than to the limit.",
+      "Choose the hardest financial decisions you face and schedule them for a low-pressure moment rather than a deadline."
+    ],
+    "if_you_liked": ["the-psychology-of-money", "nudge", "thinking-fast-and-slow"],
+    "not_for_you_if": "You want budgeting tactics or investment guidance. This explains why money decisions go wrong under pressure rather than telling you what to buy.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2013 by Times Books; authors are an economist and a psychologist. Replication of the headline bandwidth studies has been mixed and the record says so. All prose original."
+    }
+  },
+  {
+    "id": "the-behavior-gap",
+    "title": "The Behavior Gap",
+    "subtitle": "Simple Ways to Stop Doing Dumb Things with Money",
+    "author": "Carl Richards",
+    "year": 2012,
+    "category": "personal-finance",
+    "subcategory": "money-behaviour",
+    "tags": [
+      "investor-behaviour",
+      "market-timing",
+      "risk",
+      "financial-planning",
+      "couples-and-money"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 9,
+    "why_it_matters": "It named the difference between what investments return and what investors actually earn, and pinned it on decisions made in fear and excitement. The sketches made the idea portable, and financial planners have argued in its vocabulary ever since.",
+    "crux": {
+      "headline": "The gap is you, and that is good news",
+      "body": "Investments do roughly what they do. Investors do considerably worse, because they buy after a rise, sell after a fall, and repeat. That difference is not caused by markets, fees or bad luck, but by decisions made when feelings are strongest. It is the one part of the process entirely within your control. Fix your behaviour during the frightening weeks and you capture most of what your portfolio was always going to deliver."
+    },
+    "sparks": [
+      {
+        "id": "the-behavior-gap-s01",
+        "hook": "The fund made money. Its investors did not. That difference has a name.",
+        "insight": "A fund's published return assumes you bought at the start and held to the end. Real investors do not do that. Money floods in after a strong run and leaves after a fall, so the average pound invested experiences worse timing than the fund itself. The gap between the two is created entirely by when people decided to buy and sell, and it is usually larger than any amount they could have gained by picking better funds.",
+        "why": "The direction of the effect is well supported by fund flow data. The headline sizes from some widely quoted industry studies have been criticised on methodology, so treat the gap as real and the precise figure as arguable.",
+        "apply": "Compare when you last added money and when you last sold against what the market had just done, and note the pattern.",
+        "format": "single",
+        "tags": [
+          "investor-returns",
+          "timing"
+        ]
+      },
+      {
+        "id": "the-behavior-gap-s02",
+        "hook": "Risk is not how much it moves. It is being unable to do what mattered.",
+        "insight": "Volatility is easy to measure, so it gets treated as the definition of risk. For an actual person, risk is arriving at the day you need money and finding it is not there: the school fees, the deposit, the year you planned to stop working. A wildly fluctuating investment you can leave alone for twenty years may carry little of that risk. A stable one that fails to keep pace with prices may carry a great deal.",
+        "why": "The future contains far more possible outcomes than the ones that eventually happen, so a number describing past movement cannot capture the risk that matters to a specific goal.",
+        "apply": "For each goal, write the date you need the money, and match the investment to the date rather than to your appetite for excitement.",
+        "format": "single",
+        "tags": [
+          "risk",
+          "goals"
+        ]
+      },
+      {
+        "id": "the-behavior-gap-s03",
+        "hook": "Every financial plan is a guess. Write it in pencil.",
+        "insight": "A plan assumes returns, inflation, your career, your health and what you will want in fifteen years. Every one of those is a guess, so the plan is wrong the moment it is printed. This is not a reason to skip planning; it is a reason to plan in a way that expects revision. Choose a direction, review it once a year, and change it when facts change rather than when markets or moods do.",
+        "why": "Detailed long-range forecasts create false confidence, which makes people either abandon the plan when it deviates or defend it long after it stopped fitting. Regular revision avoids both failures.",
+        "apply": "Diary one annual review of your plan, and commit in writing to changing nothing between reviews unless your life changes.",
+        "format": "single",
+        "tags": [
+          "planning",
+          "uncertainty"
+        ]
+      },
+      {
+        "id": "the-behavior-gap-s04",
+        "hook": "Decisions made in fear or excitement are the ones that cost the most.",
+        "insight": "The urge to act is strongest exactly when acting is most expensive: after a crash, when selling feels like safety, and during a boom, when buying feels like insight. The feeling is not a signal about markets. It is a signal about you. Building a delay between the urge and the trade costs nothing and removes most of the damage, because the urgency almost always fades before the deadline you set.",
+        "why": "Strong emotion narrows attention to the immediate threat or reward and shortens the horizon you are considering. A forced delay lets the horizon come back before the money moves.",
+        "apply": "Adopt a written rule that any unplanned trade waits seventy-two hours, and note what you would have done at the end.",
+        "format": "single",
+        "tags": [
+          "emotions",
+          "impulse-control"
+        ]
+      },
+      {
+        "id": "the-behavior-gap-s05",
+        "hook": "Most of the time the correct move is to do nothing, deliberately.",
+        "insight": "Action feels like responsibility, so when markets fall people rearrange portfolios to feel useful. Usually the rearranging is the damage. Deciding in advance what would justify a change turns doing nothing from passivity into a decision you made on purpose. It also gives you something to do with the anxiety besides trading, which is the real function of a checklist during a bad week.",
+        "why": "Trades cost money and taxes, and unplanned ones tend to be timed badly. A pre-written test filters the rare genuine reason to act from the frequent urge to act.",
+        "apply": "Run through the four questions below before any trade you did not plan in advance.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Has anything real changed?",
+            "body": "Distinguish a change in your life from a change in the news. A new job, child or diagnosis justifies a review. A frightening headline does not."
+          },
+          {
+            "step": 2,
+            "title": "What was the original reason?",
+            "body": "Write down why you bought this in the first place. If that reason still holds, the price falling is not new information about the decision you made."
+          },
+          {
+            "step": 3,
+            "title": "What does it cost to act?",
+            "body": "Add trading costs, tax on any gain, and the chance you buy back higher. Doing nothing is usually the cheapest option available, and it is always available."
+          },
+          {
+            "step": 4,
+            "title": "Would you buy it today?",
+            "body": "If you would happily buy it at this price, selling makes no sense. If you would not, ask whether that is analysis or simply fear about the last few weeks."
+          }
+        ],
+        "tags": [
+          "inaction",
+          "checklist"
+        ]
+      },
+      {
+        "id": "the-behavior-gap-s06",
+        "hook": "Ask one question of every money decision: compared to what?",
+        "insight": "A cost or an investment sounds good or bad only against an alternative. A fee is small compared to a bad year and enormous compared to an index fund. A house is expensive compared to renting and cheap compared to another decade of moving. Naming the alternative explicitly turns a vague feeling about a purchase into a comparison you can actually make, and it exposes the option nobody mentioned.",
+        "why": "Every financial choice consumes money that had another use. Making that alternative explicit is the whole of opportunity cost, and it is the step people most often skip.",
+        "apply": "For your next decision over a thousand pounds, write two named alternatives beside it before choosing.",
+        "format": "single",
+        "tags": [
+          "opportunity-cost",
+          "decisions"
+        ]
+      },
+      {
+        "id": "the-behavior-gap-s07",
+        "hook": "You cannot control returns. You can control almost everything else.",
+        "insight": "Markets are outside your influence, and they get most of the attention anyway. The parts you do control are unglamorous and powerful: how much you save, what you pay in fees, how much tax you avoid legally, how diversified you are, and whether you sell during a fall. Attention spent on the uncontrollable produces anxiety and trading. The same attention spent on the controllable produces most of the result.",
+        "why": "Savings rate and costs are certain and immediate; expected returns are neither. Concentrating effort where outcomes are reliable is the highest-return use of financial attention.",
+        "apply": "List everything you worry about financially, cross out what you cannot control, and act only on what remains.",
+        "format": "single",
+        "tags": [
+          "control",
+          "focus"
+        ]
+      },
+      {
+        "id": "the-behavior-gap-s08",
+        "hook": "Money decisions are life decisions wearing a spreadsheet.",
+        "insight": "Arguments about a purchase are rarely about the purchase. They are about security, freedom, status, or what someone learned about money at nine years old. Starting from the numbers means arguing about the wrong thing. Starting from what each person actually wants their life to look like turns a negotiation into a design problem, and the numbers become the easy part once the aim is agreed.",
+        "why": "Financial preferences are formed early and rarely examined, so two people can be equally rational and want opposite things. Surfacing the aim first prevents a values disagreement being fought over a budget line.",
+        "apply": "Before your next big joint decision, each write three sentences about what you want life to look like in five years.",
+        "format": "single",
+        "tags": [
+          "values",
+          "life-planning"
+        ]
+      },
+      {
+        "id": "the-behavior-gap-s09",
+        "hook": "Talking about money with someone you love is a skill, not a mood.",
+        "insight": "Money conversations go wrong because they start at the worst possible moment, in the worst possible tone, about the smallest possible item. A scheduled, neutral conversation with an agreed shape avoids nearly all of that. You each say what you want, you look at the facts together, you decide one thing, and you stop. It is unromantic and it prevents the arguments that damage relationships more reliably than almost any other topic.",
+        "why": "Ambush conversations trigger defensiveness before any information is exchanged. Structure and timing do more for the outcome than either person's financial knowledge.",
+        "apply": "Use the four steps below for your next money conversation, and keep it to thirty minutes.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Schedule it, calmly",
+            "body": "Pick a time when nobody is tired, angry or holding a bill. Never open the topic during an argument about something a partner just bought."
+          },
+          {
+            "step": 2,
+            "title": "Start with wants, not numbers",
+            "body": "Each person says what they want their life to look like in a few years. Agreeing on direction first makes the later disagreements much smaller."
+          },
+          {
+            "step": 3,
+            "title": "Put the facts on the table",
+            "body": "Income, debts, savings, commitments, together and without commentary. Shared reality is more than half the work and often defuses the argument entirely."
+          },
+          {
+            "step": 4,
+            "title": "Decide one thing",
+            "body": "Leave with a single agreed action and a date to talk again. Trying to settle the whole financial life in one sitting is how these conversations become dreaded."
+          }
+        ],
+        "tags": [
+          "couples",
+          "communication"
+        ]
+      },
+      {
+        "id": "the-behavior-gap-s10",
+        "hook": "The person who wrote this lost his own house doing what he warns against.",
+        "insight": "Knowing the rules is not the same as following them under pressure. Richards has written publicly about buying at the top of the American housing boom, borrowing more than was sensible, and eventually losing the home in a forced sale. The lesson is not that his advice fails. It is that intelligence and expertise offer very little protection when the story everyone is telling is confident and your own money is inside it.",
+        "why": "Public financial mistakes by professionals are rarely admitted, which distorts what readers believe is possible. This one is documented and useful precisely because it shows the failure mode surviving expertise.",
+        "apply": "Write down the financial decision you would most regret, then set one rule now that would prevent you making it under pressure.",
+        "format": "single",
+        "tags": [
+          "humility",
+          "honesty"
+        ]
+      }
+    ],
+    "actions": [
+      "Write an investment policy of no more than five lines saying what you own, why, and what would justify changing it, then date and sign it.",
+      "Adopt a seventy-two hour rule for any unplanned trade, and record what you would have done at the moment the urge arrived.",
+      "Match each savings goal to the date you need the money, and move anything needed within three years out of volatile investments.",
+      "Schedule a calm money conversation with your partner that starts with what you each want your life to look like rather than with the numbers."
+    ],
+    "if_you_liked": [
+      "the-psychology-of-money",
+      "thinking-fast-and-slow",
+      "same-as-ever"
+    ],
+    "not_for_you_if": "You want portfolio construction, tax detail or investment analysis. This is short, sketch-driven and entirely about behaviour.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published January 2012 by Portfolio. The author's account of losing his home was published in his own New York Times writing. Behaviour-gap magnitudes from industry studies are contested; flagged in the record. All prose original."
+    }
+  }
+]

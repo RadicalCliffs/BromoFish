@@ -1,0 +1,30 @@
+{
+  "batch": "technology-future-1",
+  "category": "technology-future",
+  "books": [
+    {
+      "title": "The Master Algorithm",
+      "author": "Pedro Domingos"
+    },
+    {
+      "title": "Code",
+      "author": "Charles Petzold"
+    },
+    {
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt and David Thomas"
+    },
+    {
+      "title": "The Mythical Man-Month",
+      "author": "Frederick P. Brooks Jr."
+    },
+    {
+      "title": "Clean Code",
+      "author": "Robert C. Martin"
+    },
+    {
+      "title": "Designing Data-Intensive Applications",
+      "author": "Martin Kleppmann"
+    }
+  ]
+}

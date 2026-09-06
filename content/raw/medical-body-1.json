@@ -1,0 +1,2096 @@
+[
+  {
+    "id": "being-mortal",
+    "title": "Being Mortal",
+    "subtitle": "Medicine and What Matters in the End",
+    "author": "Atul Gawande",
+    "year": 2014,
+    "category": "medical-body",
+    "subcategory": "end-of-life",
+    "tags": [
+      "ageing",
+      "end-of-life",
+      "hospice",
+      "caregiving",
+      "medical-ethics",
+      "autonomy"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 12,
+    "why_it_matters": "It dragged the end of life out of the specialist corner and into ordinary conversation. Hospitals, medical schools and families now use its questions as a script, and asking a seriously ill person what they actually want has become a normal part of care rather than a soft extra.",
+    "crux": {
+      "headline": "Medicine can extend a life without asking what it is for",
+      "body": "Repair is what modern medicine does brilliantly, so repair becomes the answer to every problem, including the ones that cannot be repaired. Ageing and dying are not mainly technical. They are questions about what a person wants their remaining time to hold, and about which trade-offs they would accept to get it. Ask that question early and the medicine gets better, not softer."
+    },
+    "sparks": [
+      {
+        "id": "being-mortal-s01",
+        "hook": "Your doctor is trained to fix. Almost nobody is trained to ask what you want fixed.",
+        "insight": "Modern medicine is extraordinary at repair. It replaces hips, restarts hearts, clears infections that used to kill people in a week. That success creates a blind spot. When a problem cannot be repaired, the machinery keeps running anyway, because offering another scan or another round of treatment is easier than sitting with someone and admitting the limits. Ageing and dying are not mainly technical problems. They are questions about what a person wants their remaining time to contain, and that question often never gets asked.",
+        "why": "Fixing has a clear script and a clear score. Wellbeing has neither, so it slides off the checklist. What is left is care that is technically correct and personally wrong.",
+        "apply": "Write one sentence describing what a good day looks like for you. Put it somewhere a family member could find it if you were suddenly unable to speak.",
+        "format": "single",
+        "tags": [
+          "end-of-life",
+          "medical-culture"
+        ]
+      },
+      {
+        "id": "being-mortal-s02",
+        "hook": "Safety is what we want for the people we love. It is rarely what we want for ourselves.",
+        "insight": "Ask an adult child what they want for their frail parent and you get one answer: no falls, no missed pills, someone watching. Ask the parent and you get another: a door they can close, a reason to get up, something that is still theirs to decide. Institutions are built around the first answer because that is the one that gets audited. The result is a place where nothing bad happens and nothing much happens either, and the person inside quietly stops being a person with a life and becomes a body being managed.",
+        "why": "Care homes are inspected on falls, weight loss and medication errors, never on whether a resident has a reason to look forward to Thursday. What gets measured gets protected.",
+        "apply": "Ask an older relative which freedoms they would refuse to give up for extra safety. Write the answer down now, while they can still give it themselves.",
+        "format": "single",
+        "tags": [
+          "ageing",
+          "autonomy",
+          "caregiving"
+        ]
+      },
+      {
+        "id": "being-mortal-s03",
+        "hook": "A nursing home brought in dogs, cats, birds and plants. The pharmacy bill fell.",
+        "insight": "One New York nursing home tried an experiment: fill the building with animals, plants and visiting children, and let residents take responsibility for them. Staff reported calmer residents, fewer prescriptions for agitation, and people who had stopped speaking beginning to speak again. The mechanism was not the animals. It was having something that needed you. Boredom, loneliness and helplessness turn out to be treatable conditions, and nothing in the drug cupboard treats them.",
+        "why": "This was one home, not a controlled trial, so read the numbers cautiously. The underlying point survives the caveat: purpose is a clinical variable, and most institutional care ignores it entirely.",
+        "apply": "Give an isolated older person one small responsibility that is genuinely theirs, not a task you invented. A plant, a pet, a standing phone call someone else depends on.",
+        "format": "single",
+        "tags": [
+          "ageing",
+          "purpose",
+          "care-homes"
+        ]
+      },
+      {
+        "id": "being-mortal-s04",
+        "hook": "When your horizon shortens, your taste in people and plans changes automatically.",
+        "insight": "Younger people chase new experiences, new contacts, new information, because there is a long future in which all of it might pay off. When the horizon shortens, priorities flip towards the familiar and the meaningful: fewer people, seen more closely, and ordinary pleasures rather than ambitious ones. This is not resignation or depression. It is what anyone does when time is visibly finite, and it happens to the terminally ill at thirty just as it happens to the healthy at eighty.",
+        "why": "This pattern comes from decades of research on how perceived time left shapes goals, and it holds up when researchers shorten people's sense of horizon artificially. Age is the proxy; time is the actual variable.",
+        "apply": "Notice which relationships you keep postponing. If your horizon shrank by ten years tomorrow, name the two you would move to the front of the queue this month.",
+        "format": "single",
+        "tags": [
+          "ageing",
+          "priorities",
+          "psychology"
+        ]
+      },
+      {
+        "id": "being-mortal-s05",
+        "hook": "Dying used to be a cliff. Now it is a long, wavering slope, and nobody sees the edge.",
+        "insight": "For most of history, serious illness killed quickly. Medicine changed the shape of the curve: chronic disease is now managed for years, with recoveries and setbacks that each look survivable. That is a gift, and it comes with a trap. Because there is always one more treatable episode, there is never an obvious moment to stop and reassess. Families end up making the biggest decision of a life in an intensive care corridor at two in the morning, with no preparation and no idea what the person would have chosen.",
+        "why": "The slow trajectory removes the natural prompt to plan. Without a prompt, people default to more intervention, because that is the choice that requires nobody to say anything hard out loud.",
+        "apply": "Have the conversation on a good day, not in a hospital. Pick a calm Sunday, name one person as your decision-maker, and tell them what you would want.",
+        "format": "single",
+        "tags": [
+          "end-of-life",
+          "planning",
+          "family"
+        ]
+      },
+      {
+        "id": "being-mortal-s06",
+        "hook": "Five questions change what a serious illness conversation is actually about.",
+        "insight": "Most consultations about a grave diagnosis are a list of options and a request for a decision. That is not information, it is abdication dressed as respect. A better conversation starts before the options: what does this person already understand, what frightens them most, what are they hoping for, and what would they refuse to trade to get it. Once those answers exist, the medical choice usually becomes obvious, and often it is not the most aggressive one on the list.",
+        "why": "People cannot weigh treatments without first knowing their own priorities. Naming the fears and the limits converts an impossible choice into a comparison against a standard the patient set.",
+        "apply": "Before the next appointment for a serious condition, write your answers to these five questions and bring the page. Hand it over rather than trying to remember it.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Ask what they understand",
+            "body": "Start with what the person already believes about their situation. People often carry a version that is far more hopeful, or far bleaker, than the medical picture, and everything after depends on this."
+          },
+          {
+            "step": 2,
+            "title": "Ask what they fear",
+            "body": "Fear of pain, of being a burden, of losing the ability to recognise family. Different fears point to completely different plans, and nobody guesses another person's correctly."
+          },
+          {
+            "step": 3,
+            "title": "Ask what they hope for",
+            "body": "Not the fantasy answer, the concrete one. Getting to a wedding. Staying at home. Being awake enough to talk. Hopes are the goals treatment should be measured against."
+          },
+          {
+            "step": 4,
+            "title": "Name the trade-offs",
+            "body": "Ask what they would be willing to sacrifice, and what they would not. Time in hospital, alertness, independence, the ability to eat. This is the line the medical team needs."
+          },
+          {
+            "step": 5,
+            "title": "Write the plan down",
+            "body": "Turn the answers into a plan someone can act on when the person cannot speak, and give a copy to the family member who will be in the room."
+          }
+        ],
+        "tags": [
+          "conversation",
+          "end-of-life",
+          "decision-making"
+        ]
+      },
+      {
+        "id": "being-mortal-s07",
+        "hook": "People who stopped chasing the cure sometimes lived longer than those who didn't.",
+        "insight": "A randomised trial in advanced lung cancer gave one group early palliative care alongside their usual treatment. Those patients reported better quality of life and less depression, chose less aggressive treatment near the end, and, against everyone's expectation, lived somewhat longer on average than the group getting standard care alone. Comfort-focused care is not giving up. It is a different treatment with its own effects, including on how long people survive.",
+        "why": "Aggressive late treatment carries real harms: hospital infections, side effects, exhaustion. Removing them can outweigh the small chance of benefit the extra treatment offered.",
+        "apply": "Ask a clinician what palliative care would add for you or a relative right now, alongside current treatment. It is a referral you can request, not a final stage.",
+        "format": "single",
+        "tags": [
+          "palliative-care",
+          "hospice",
+          "evidence"
+        ]
+      },
+      {
+        "id": "being-mortal-s08",
+        "hook": "Listing every option and letting you choose is not respect. It is a retreat.",
+        "insight": "The old model was the doctor deciding for you. The correction was the doctor laying out options, risks and percentages, then stepping back. That felt like an improvement and often is not: a frightened person handed a menu of treatments they cannot evaluate will usually pick the most aggressive one, because that is the one that sounds like fighting. The better version is a clinician who asks what matters to you and then says plainly what they would recommend given that answer.",
+        "why": "Neutrality sounds ethical but shifts an expert judgement onto the least equipped person in the room. Real shared decisions need the expert to have an opinion and say it.",
+        "apply": "Ask your clinician directly: given what I have told you matters to me, what would you recommend, and what would you do if this were your parent?",
+        "format": "single",
+        "tags": [
+          "shared-decisions",
+          "doctor-patient"
+        ]
+      },
+      {
+        "id": "being-mortal-s09",
+        "hook": "You can learn more from one lunchtime in a care home than from any brochure.",
+        "insight": "Choosing a place for someone else is usually done on the wrong evidence: décor, distance, a glossy list of activities. What determines whether life is bearable there is smaller and harder to photograph. Does anyone still get to decide when they eat, when they sleep, whether a door stays shut? Do staff know residents as people with histories? Turn up unannounced, sit through a meal, and watch how people are spoken to. That hour tells you more than the tour.",
+        "why": "Facilities compete on features that families notice on a visit. The variables that predict a resident's quality of life are cultural, not architectural, and only show up in ordinary moments.",
+        "apply": "Visit unannounced at mealtime, and ask staff what a resident is still allowed to decide for themselves. Judge on the answer, not on the building.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Turn up unannounced",
+            "body": "Arrange one guided tour, then come back at a random hour with no warning. The gap between the two visits is the most honest information you will get."
+          },
+          {
+            "step": 2,
+            "title": "Sit through a meal",
+            "body": "Watch whether residents choose what and when they eat, whether anyone talks with them, and how long a person waits for help. Mealtimes reveal the culture fast."
+          },
+          {
+            "step": 3,
+            "title": "Ask what residents decide",
+            "body": "Bedtime, visitors, the contents of their own room, whether a door locks. If the honest answer is nothing, this is an institution, whatever it is called."
+          },
+          {
+            "step": 4,
+            "title": "Ask about staff turnover",
+            "body": "Continuity is what allows staff to know a person rather than a care plan. High turnover quietly guarantees that nobody there will know your relative's history."
+          },
+          {
+            "step": 5,
+            "title": "Ask what happens later",
+            "body": "Find out what the place does when someone's health declines: who is moved, when, and where to. Discovering that during a crisis is how families end up with no choices."
+          }
+        ],
+        "tags": [
+          "care-homes",
+          "caregiving",
+          "ageing"
+        ]
+      },
+      {
+        "id": "being-mortal-s10",
+        "hook": "Autonomy is not doing everything yourself. It is staying the author of your story.",
+        "insight": "People losing independence are often told the choice is between control and safety, as though wanting help means handing over the pen. It does not. What most people want when they are frail or dying is not physical independence but authorship: still being the one whose values shape what happens next, even when others do the lifting. A daughter who takes over the driving has not diminished her father. A system that decides his bedtime, his diet and his last month has.",
+        "why": "Loss of function is inevitable and loss of authorship is not, yet care systems routinely take both at once because it is administratively simpler.",
+        "apply": "When helping someone frail, hand back one decision a day that you have quietly taken over. Ask before acting, even when you already know the answer.",
+        "format": "single",
+        "tags": [
+          "autonomy",
+          "caregiving",
+          "dignity"
+        ]
+      }
+    ],
+    "actions": [
+      "Name a health decision-maker in writing, tell that person directly, and give them a page describing what you would and would not accept if you could not speak.",
+      "Run the five questions with one parent or partner on an ordinary calm day, and write down their answers rather than trusting your memory of the conversation.",
+      "Ask a clinician what palliative or supportive care would add now for you or a relative, and treat it as something to request early rather than a final surrender.",
+      "If a care home is on the horizon, visit unannounced at mealtime and grade it on what residents are still permitted to decide for themselves."
+    ],
+    "if_you_liked": [
+      "when-breath-becomes-air",
+      "complications",
+      "do-no-harm"
+    ],
+    "not_for_you_if": "You want a practical caregiving manual or a guide to specific treatments. This is about the questions and the culture, not the logistics or the medicine.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2014 by Metropolitan Books. The palliative care survival finding refers to a published randomised trial in advanced lung cancer; no figures are given here. All prose is original."
+    }
+  },
+  {
+    "id": "the-emperor-of-all-maladies",
+    "title": "The Emperor of All Maladies",
+    "subtitle": "A Biography of Cancer",
+    "author": "Siddhartha Mukherjee",
+    "year": 2010,
+    "category": "medical-body",
+    "subcategory": "oncology",
+    "tags": [
+      "cancer",
+      "medical-history",
+      "clinical-trials",
+      "chemotherapy",
+      "genetics",
+      "screening"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 14,
+    "why_it_matters": "It made the internal logic of cancer legible to people without a biology degree, and it did so honestly, including the decades when doctors did enormous harm while certain they were helping. It remains the reference point for how to write about a disease.",
+    "crux": {
+      "headline": "Cancer is your own cells following your own rules too well",
+      "body": "Cancer is not an invader. It is your own cells running normal growth programs with the brakes broken, which is why killing it means poisoning something that is unmistakably you. That single fact explains the brutality of the treatments, the constant relapses as resistant cells are selected for, and why real progress came from understanding the specific broken switch rather than from hitting harder."
+    },
+    "sparks": [
+      {
+        "id": "the-emperor-of-all-maladies-s01",
+        "hook": "Cancer is not an invader. It is you, growing without a reason to stop.",
+        "insight": "Bacteria and viruses are foreign, which makes them relatively easy targets: find something they have that you do not, and attack it. Cancer offers no such handle. A tumour is built from your own cells, running your own growth instructions, with the switches that normally say stop broken or bypassed. Almost everything that kills a cancer cell also damages the healthy cells it resembles. That resemblance, not a lack of effort or money, is why treatment has been so crude for so long.",
+        "why": "The whole difficulty of oncology follows from this. Selective toxicity requires a difference to exploit, and cancer's differences are small, internal, and vary from tumour to tumour.",
+        "apply": "Next time you read that a substance kills cancer cells in a dish, ask the only question that matters: does it spare the healthy cells beside them?",
+        "format": "single",
+        "tags": [
+          "cancer-biology",
+          "treatment"
+        ]
+      },
+      {
+        "id": "the-emperor-of-all-maladies-s02",
+        "hook": "Surgeons cut wider and wider for decades on a theory that was simply wrong.",
+        "insight": "The dominant idea in breast cancer surgery held that the disease spread outward in an orderly ring, so cutting further out had to catch it. Surgeons removed the breast, then the chest muscles, then lymph nodes, then collarbone and rib. Women were disfigured for life. When the operations were finally compared against far smaller surgery in randomised trials, survival was no better. The theory had been protected by the seniority of the men who held it, not by evidence.",
+        "why": "The logic was internally consistent and completely untested. Medicine had no habit of randomised comparison, so an idea that felt right could govern practice for most of a century.",
+        "apply": "When a treatment is justified by how sensible it sounds rather than by a trial, ask what the comparison group did and how long they were followed.",
+        "format": "single",
+        "tags": [
+          "medical-history",
+          "surgery",
+          "evidence"
+        ]
+      },
+      {
+        "id": "the-emperor-of-all-maladies-s03",
+        "hook": "The first real chemotherapy came from a poison developed for the battlefield.",
+        "insight": "Mustard gas, studied after the wars for what it did to soldiers, was found to devastate white blood cells. That destructive property was turned into a treatment for blood cancers, which are diseases of white blood cells multiplying out of control. Around the same time, a Boston pathologist reasoned that if a vitamin fed leukaemia cells, a molecule that blocked it might starve them. He was right, and children went into remission for the first time. The remissions did not last, but the principle did.",
+        "why": "Cancer drugs mostly came from this kind of lateral reasoning rather than from designing a molecule for a known target, because for decades nobody knew what the target was.",
+        "apply": "Notice how many drugs began as observations about damage. When reading medical history, look for the moment an unwanted side effect became the mechanism.",
+        "format": "single",
+        "tags": [
+          "chemotherapy",
+          "medical-history",
+          "leukaemia"
+        ]
+      },
+      {
+        "id": "the-emperor-of-all-maladies-s04",
+        "hook": "Children were cured of leukaemia by treatment that nearly killed them first.",
+        "insight": "Single drugs bought remissions that always failed, because a few resistant cells survived and rebuilt the disease. The answer was combining several drugs with different mechanisms at once, so no single mutation could rescue a cell. It worked, and it was savage: children were pushed to the edge of death by the treatment itself, and colleagues called it inhuman. Childhood leukaemia went from an almost uniformly fatal diagnosis to one of the most curable cancers, and the underlying tactic still shapes cancer care.",
+        "why": "Combination therapy works for the same reason multi-drug regimens work in tuberculosis and HIV: resistance to several unrelated attacks at once is far less likely than resistance to one.",
+        "apply": "When told a single agent controls a serious disease, ask what happens to the cells that survive it. Resistance, not initial response, decides long-term outcomes.",
+        "format": "single",
+        "tags": [
+          "chemotherapy",
+          "leukaemia",
+          "resistance"
+        ]
+      },
+      {
+        "id": "the-emperor-of-all-maladies-s05",
+        "hook": "A war on cancer was declared before anyone knew what cancer actually was.",
+        "insight": "A determined lobbying campaign convinced politicians that cancer could be beaten like polio, if only the funding matched the ambition. Money arrived on a scale biology had never seen. But the campaign was built on an analogy that did not hold: polio had one cause and one vaccine, while cancer is hundreds of diseases with hundreds of mechanisms, most of them then unknown. The push funded enormous progress and also years of expensive dead ends chasing cures for a thing nobody could yet define.",
+        "why": "Political timelines and biological ones do not match. Promising a cure by a date creates funding, then creates disappointment that is later used as evidence that research failed.",
+        "apply": "Treat any promised date for curing a disease as a fundraising number. Ask instead which specific mechanism the money is buying knowledge about.",
+        "format": "single",
+        "tags": [
+          "research-policy",
+          "medical-history"
+        ]
+      },
+      {
+        "id": "the-emperor-of-all-maladies-s06",
+        "hook": "The genes that cause cancer are the genes that build you.",
+        "insight": "For years researchers hunted a cancer virus. What they found instead was stranger: the cancer-causing gene in a chicken virus had a near-twin already sitting in normal animal cells, where it did a legitimate job controlling growth. Cancer genes are not foreign implants. They are ordinary growth and repair genes, jammed on or knocked out. That reframing turned cancer from a mysterious entity into a disease of specific broken switches, which is what finally made targeted drugs conceivable.",
+        "why": "Once you know which switch is broken in a given tumour, you can look for a molecule that fits that switch, rather than poisoning every dividing cell in the body.",
+        "apply": "When reading about a cancer, look for which gene or pathway is named. That name, not the organ, increasingly determines what treatment is available.",
+        "format": "single",
+        "tags": [
+          "oncogenes",
+          "genetics",
+          "cancer-biology"
+        ]
+      },
+      {
+        "id": "the-emperor-of-all-maladies-s07",
+        "hook": "One tablet turned a fatal leukaemia into a condition people live with.",
+        "insight": "A particular chronic leukaemia is driven by a single, well-understood genetic accident that fuses two genes and produces a permanently switched-on growth signal. A drug designed to block precisely that fused protein changed the disease from usually fatal to usually controlled, for many patients with a daily pill. It is the clearest proof that understanding the mechanism beats escalating the poison. It is also rare: most cancers are driven by many mutations at once, and have no single switch to flip.",
+        "why": "Targeted therapy works spectacularly where one dominant driver exists. Generalising that success to all cancers is where public expectation and biological reality part company.",
+        "apply": "Ask whether a cancer being discussed has a known single driver or many. That distinction predicts whether a targeted drug is plausible at all.",
+        "format": "single",
+        "tags": [
+          "targeted-therapy",
+          "leukaemia",
+          "cancer-biology"
+        ]
+      },
+      {
+        "id": "the-emperor-of-all-maladies-s08",
+        "hook": "The biggest win against cancer was not a drug. It was proving cigarettes cause it.",
+        "insight": "Lung cancer was once uncommon. It became a mass killer within a generation of cigarettes becoming a mass product, and epidemiologists demonstrated the link decades before it changed behaviour. The tobacco industry did not disprove the science. It manufactured doubt, funded distraction, and bought time, which is a strategy later reused on other public health questions. Prevention is unglamorous and hard to attribute, but stopping a cancer from starting has saved far more lives than any treatment invented since.",
+        "why": "Treatment benefits are visible in a named patient; prevention benefits are invisible statistics about people who never got ill. Funding and attention follow visibility, not impact.",
+        "apply": "When weighing a health story, ask whether it is about treating a disease or preventing it, and which one the evidence actually supports more strongly.",
+        "format": "single",
+        "tags": [
+          "prevention",
+          "smoking",
+          "epidemiology"
+        ]
+      },
+      {
+        "id": "the-emperor-of-all-maladies-s09",
+        "hook": "Finding a cancer earlier is not the same as anyone living longer.",
+        "insight": "Screening feels obviously good, and sometimes it is. But detection can improve a statistic without helping a single person. Find a cancer three years sooner and survival from diagnosis lengthens by three years even if death arrives on exactly the same day. Screening also finds growths that would never have caused trouble, and treating those causes real harm to people who were never going to be ill. Some screening programmes save lives. Deciding which ones requires trials that measure deaths, not detections.",
+        "why": "Two biases inflate screening results: lead time, which stretches survival by moving the start line, and overdiagnosis, which adds harmless cases to the cured column.",
+        "apply": "Before any screening test, ask your clinician what it does to the chance of dying from the disease, and what happens if it finds something ambiguous.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Ask about deaths, not survival",
+            "body": "Survival is measured from diagnosis, so earlier detection improves it automatically. The honest measure is whether fewer people in the screened group died of the disease."
+          },
+          {
+            "step": 2,
+            "title": "Check for lead time",
+            "body": "Moving the diagnosis earlier adds years to the survival statistic without adding a day to anyone's life. Ask whether the comparison controls for this."
+          },
+          {
+            "step": 3,
+            "title": "Ask about overdiagnosis",
+            "body": "Some detected growths would never have caused symptoms. Those people get treated anyway, and count as successes, while carrying all the harms of treatment."
+          },
+          {
+            "step": 4,
+            "title": "Ask what a positive means",
+            "body": "Find out the chance that an abnormal result turns out to be nothing, and what the follow-up involves. Anxiety and biopsies are part of the true cost."
+          }
+        ],
+        "tags": [
+          "screening",
+          "statistics",
+          "prevention"
+        ]
+      },
+      {
+        "id": "the-emperor-of-all-maladies-s10",
+        "hook": "Every course of treatment is also an evolutionary experiment run on your own cells.",
+        "insight": "A tumour is not one uniform thing. It is a population of cells with slightly different mutations, competing with each other. Treatment kills the susceptible ones and leaves room for the few that happened to be resistant, which then rebuild the tumour out of survivors. That is not treatment failure in the ordinary sense. It is natural selection running at speed inside a person, and it explains why relapse is so common and why the returning disease is usually harder to treat than the original.",
+        "why": "The same evolutionary logic governs antibiotic resistance and pesticide resistance. Any strong, uniform pressure applied to a varied population selects for whatever survives it.",
+        "apply": "Understand relapse as selection rather than bad luck or weak willpower, and ask a clinician how the plan accounts for cells that survive the first round.",
+        "format": "single",
+        "tags": [
+          "resistance",
+          "evolution",
+          "cancer-biology"
+        ]
+      }
+    ],
+    "actions": [
+      "Learn the difference between relative and absolute benefit, then re-read any cancer treatment or screening claim you have seen recently using that distinction.",
+      "Before agreeing to a screening test, ask your clinician what it changes about the chance of dying from that disease and what an ambiguous result would lead to.",
+      "Trace one cancer drug you have heard of back to the specific mutation or pathway it targets, so the language of modern oncology stops sounding like marketing.",
+      "Look at your own modifiable risks, especially tobacco and alcohol, and discuss with a clinician which screening programmes actually apply to your age and history."
+    ],
+    "if_you_liked": [
+      "the-gene",
+      "the-immortal-life-of-henrietta-lacks",
+      "bad-science"
+    ],
+    "not_for_you_if": "You want practical guidance for a current diagnosis. This is history and biology, long and sometimes distressing, not a patient handbook or a treatment guide.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2010 by Scribner; won the Pulitzer Prize for General Non-fiction in 2011. Specific drug, gene and trial names are deliberately described rather than listed. All prose is original."
+    }
+  },
+  {
+    "id": "the-gene",
+    "title": "The Gene",
+    "subtitle": "An Intimate History",
+    "author": "Siddhartha Mukherjee",
+    "year": 2016,
+    "category": "medical-body",
+    "subcategory": "genetics",
+    "tags": [
+      "genetics",
+      "heredity",
+      "dna",
+      "eugenics",
+      "gene-editing",
+      "medical-history"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 13,
+    "why_it_matters": "It joins the science of heredity to its political history, showing that every era which believed it understood genes used that belief to justify something terrible. It is the clearest popular account of what a gene can and cannot predict about a person.",
+    "crux": {
+      "headline": "A gene is a probability, not a blueprint",
+      "body": "Genes do not specify outcomes. They specify tendencies, which are then modified by other genes, by environment, by timing, and by plain chance. That is why identical twins are not identical people, why most disease genes only shift a risk, and why every confident attempt to read destiny off heredity has been both scientifically wrong and politically dangerous."
+    },
+    "sparks": [
+      {
+        "id": "the-gene-s01",
+        "hook": "Inheritance comes in packets. If it blended, evolution could not work at all.",
+        "insight": "Before genetics, heredity was assumed to mix like paint: tall and short parents make medium children, and any new variation dilutes away within a few generations. That assumption was a serious problem for evolution, because a useful new trait would be watered down before selection could act on it. The pea experiments showed something different. Traits pass as discrete units that can hide for a generation and reappear intact. Variation is preserved rather than diluted, which is exactly what natural selection needs.",
+        "why": "Blending inheritance and natural selection are mathematically incompatible. Particulate inheritance resolved the contradiction, though it took decades for biologists to notice the two ideas fitted together.",
+        "apply": "When a trait skips a generation in your family, notice you are watching particulate inheritance, not a coincidence. Ask which side of the family it reappeared from.",
+        "format": "single",
+        "tags": [
+          "heredity",
+          "mendel",
+          "evolution"
+        ]
+      },
+      {
+        "id": "the-gene-s02",
+        "hook": "The century's worst crimes were committed by people who thought they understood genetics.",
+        "insight": "Within a few decades of heredity becoming a science, states were using it to decide who could reproduce. Compulsory sterilisation laws were passed in supposedly liberal democracies, upheld by their highest courts, and applied to people classified as feeble-minded on grounds that would not survive an afternoon of scrutiny. The same logic, industrialised, became Nazi policy. None of this required bad genetics alone. It required confident genetics: a belief that complex human qualities sat in single heritable units.",
+        "why": "The scientific error and the moral catastrophe were the same error. Complex traits are not simple units, and treating them as such turns a measurement mistake into a policy about human beings.",
+        "apply": "When a study links a gene to a complex behaviour, check how much of the variation it explains. The honest answer is usually a fraction of one percent.",
+        "format": "single",
+        "tags": [
+          "eugenics",
+          "history",
+          "ethics"
+        ]
+      },
+      {
+        "id": "the-gene-s03",
+        "hook": "Carrying a disease gene is rarely the same as getting the disease.",
+        "insight": "Two ideas do most of the work in modern genetic counselling. Penetrance is how often a variant actually produces the condition: some are near certainties, many only shift the odds. Expressivity is how severely it shows up in those affected, which can range from unnoticeable to devastating within one family carrying the same variant. So a positive test usually delivers a probability, not a verdict, and what to do with that probability depends on whether anything useful can be done at all.",
+        "why": "Genes act inside a context of other genes, environments and random developmental events. Only a minority of variants override that context strongly enough to guarantee an outcome.",
+        "apply": "If offered genetic testing, ask beforehand what a positive result would change in your care. A result that changes nothing can still change how you feel for years.",
+        "format": "single",
+        "tags": [
+          "genetic-testing",
+          "risk",
+          "counselling"
+        ]
+      },
+      {
+        "id": "the-gene-s04",
+        "hook": "Heritability is a fact about populations. It says almost nothing about you.",
+        "insight": "When a trait is described as strongly heritable, the number refers to how much of the variation between people in a particular population, in a particular environment, tracks genetic differences. It is not the proportion of your own height or intelligence that came from your parents, and it is not fixed. Improve nutrition across a country and the heritability of height changes, because the environmental differences that used to matter have been removed. The statistic keeps getting read as destiny when it is a description of a context.",
+        "why": "Heritability estimates depend on the range of environments sampled. Narrow the environmental variation and heritability rises automatically, which is the opposite of what popular usage implies.",
+        "apply": "Whenever you meet a heritability figure, ask which population and which environment it was measured in. Then refuse to apply it to a single individual.",
+        "format": "single",
+        "tags": [
+          "heritability",
+          "statistics",
+          "misconceptions"
+        ]
+      },
+      {
+        "id": "the-gene-s05",
+        "hook": "A variant that kills in a double dose can protect you in a single one.",
+        "insight": "Sickle cell disease comes from inheriting two copies of one altered variant, and it is severe. Inherit a single copy and you are largely healthy, with meaningful protection against malaria. That is why the variant remained common in regions where malaria was common: it was being actively preserved by the very selection pressure that killed people without it. Calling a gene good or bad is therefore a category error. A variant has effects, and whether those effects help depends entirely on dose and surroundings.",
+        "why": "This is one of the best documented cases of balancing selection in humans, and it demolishes the idea that a genome can be cleaned up by removing bad genes.",
+        "apply": "Before calling any trait a defect, ask what environment it evolved in and whether one copy behaves differently from two. Context decides, not the label.",
+        "format": "single",
+        "tags": [
+          "evolution",
+          "sickle-cell",
+          "genetics"
+        ]
+      },
+      {
+        "id": "the-gene-s06",
+        "hook": "Identical genomes. Same house. Different people. That gap is the whole story.",
+        "insight": "Identical twins share their DNA and usually much of their upbringing, yet they differ in personality, in illness, and in when illness appears. For many conditions with a strong genetic component, one twin can develop it and the other never does. Something else is doing work: which cells switched which genes on and when, an infection at the wrong moment, an injury, an accident of development in the womb. Chance is not a gap in the theory. It is part of how bodies get built.",
+        "why": "Twin discordance is a direct measurement of how much genes do not determine, and it is large for most complex conditions, including many that are described as inherited.",
+        "apply": "If a condition runs in your family, ask a clinician what raises or lowers risk beyond genetics. That is the part of the picture you can still influence.",
+        "format": "single",
+        "tags": [
+          "twins",
+          "risk",
+          "development"
+        ]
+      },
+      {
+        "id": "the-gene-s07",
+        "hook": "Genes do not build a body. They run a switchboard while the body builds itself.",
+        "insight": "The blueprint metaphor is the most misleading thing most people believe about DNA. There is no picture of a finished organism anywhere in a genome. There are sequences that get copied into RNA and made into proteins, and there is a vast regulatory system deciding which sequences run in which cell at which moment. The same genome builds a neuron and a liver cell. What differs is which switches are on, and that regulation is where most of the interesting biology and most of the disease actually lives.",
+        "why": "Regulatory differences explain how one genome makes hundreds of cell types, and much of the variation linked to common disease sits in regulatory regions rather than in genes themselves.",
+        "apply": "Replace the blueprint picture with a switchboard. When you read about a gene, ask which cells it runs in and what turns it on.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Start with the sequence",
+            "body": "A gene is a stretch of DNA that can be copied into RNA. It is inert on its own, a stored instruction with no power to do anything until something reads it."
+          },
+          {
+            "step": 2,
+            "title": "Watch the switches",
+            "body": "Regulatory DNA and the proteins that bind it decide whether a gene is read at all, in which cell, and how loudly. Most of the genome is control, not recipe."
+          },
+          {
+            "step": 3,
+            "title": "Build the protein",
+            "body": "The RNA is translated into a protein, which then has to fold correctly, reach the right place, and be removed at the right time to do anything useful."
+          },
+          {
+            "step": 4,
+            "title": "Add the environment",
+            "body": "Food, infection, stress, drugs and temperature all change which genes run. The same genome behaves differently in different lives."
+          },
+          {
+            "step": 5,
+            "title": "Allow for chance",
+            "body": "Development involves random events at the level of single cells. Two organisms with identical genomes and identical environments still come out different."
+          }
+        ],
+        "tags": [
+          "gene-regulation",
+          "development",
+          "dna"
+        ]
+      },
+      {
+        "id": "the-gene-s08",
+        "hook": "Gene therapy stalled for years after a trial killed a healthy teenager.",
+        "insight": "The idea of correcting a faulty gene by delivering a working copy is old and obviously appealing. Turning it into a safe treatment proved brutally hard, because the delivery vehicle has to reach the right cells without triggering catastrophe. An early trial in the United States ended with the death of a young volunteer from a massive immune reaction to the delivery virus, and investigations exposed serious problems in how the trial had been run. The field froze for years, then rebuilt with far better safety and slowly began to work.",
+        "why": "The failure was not the concept but the vector and the oversight. Later successes in inherited blindness and blood disorders came only after the delivery problem was taken seriously.",
+        "apply": "When a new therapy is described as promising, ask how it gets into the right cells and what happens to the cells it reaches by mistake.",
+        "format": "single",
+        "tags": [
+          "gene-therapy",
+          "clinical-trials",
+          "safety"
+        ]
+      },
+      {
+        "id": "the-gene-s09",
+        "hook": "There is a line between fixing a disease and choosing a person. It is blurry.",
+        "insight": "Editing a gene in a patient's own cells affects one person who consented. Editing an embryo changes every cell, including the ones passed to their children, and nobody involved can consent. The obvious defence is to permit it only for devastating single-gene diseases. The problem is that the same technique also handles traits that are merely undesirable, and the boundary between preventing suffering and specifying a preferred kind of human has never been drawn anywhere that stayed put.",
+        "why": "The history in this same field is the reason for caution. Every previous generation believed it could separate treating illness from improving people, and none of them managed it.",
+        "apply": "When gene editing comes up, separate two questions: is this one person's own cells or their descendants', and who is able to consent.",
+        "format": "single",
+        "tags": [
+          "gene-editing",
+          "ethics",
+          "crispr"
+        ]
+      },
+      {
+        "id": "the-gene-s10",
+        "hook": "Knowing a risk you cannot act on is a burden, not information.",
+        "insight": "Consumer genetics sells the idea that more knowledge is always better. Sometimes it is: a variant with a clear management plan lets you and a clinician do something specific. Often it is not. A modest risk increase for a condition with no prevention available leaves you with years of low-grade dread and nothing to do about it, plus results that get revised as the underlying research improves. Deciding whether you want to know is a genuine decision, and it should be made before the test, not after.",
+        "why": "Risk figures from consumer panels are population averages that get reinterpreted as science advances, and they rarely account for your family history, environment or the rest of your genome.",
+        "apply": "Before ordering any genetic test, write down what you would do differently for each possible result. If the answer is nothing, consider not testing.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Ask what changes",
+            "body": "For each possible result, name the concrete thing that would change: a screening schedule, a referral, a conversation with family. Nothing changing is a real answer."
+          },
+          {
+            "step": 2,
+            "title": "Ask about penetrance",
+            "body": "Find out how many people with this variant actually develop the condition, and by what age. A risk gene is not a diagnosis, and the gap is usually large."
+          },
+          {
+            "step": 3,
+            "title": "Think about relatives",
+            "body": "Your result is partly their information too. Siblings, children and parents may learn something about themselves that they did not ask to know."
+          },
+          {
+            "step": 4,
+            "title": "Ask who reads it",
+            "body": "Find out who interprets the result and whether a genetic counsellor is involved. An unexplained probability is where most of the harm happens."
+          }
+        ],
+        "tags": [
+          "genetic-testing",
+          "decision-making",
+          "risk"
+        ]
+      }
+    ],
+    "actions": [
+      "Sketch your family's medical history across three generations and take it to a clinician. It remains a better predictor for most conditions than a consumer DNA panel.",
+      "Before any genetic test, write down what you would actually do differently for each possible result, and ask whether a genetic counsellor is part of the process.",
+      "Pick one condition described as genetic and find out how much of its variation genetics actually explains, so heritability stops sounding like certainty.",
+      "Read about the sterilisation laws of the early twentieth century, and notice how ordinary and scientific they seemed to the people passing them."
+    ],
+    "if_you_liked": [
+      "the-emperor-of-all-maladies",
+      "the-immortal-life-of-henrietta-lacks",
+      "bad-science"
+    ],
+    "not_for_you_if": "You want practical advice about your own DNA results, or a short read. This is a long historical account and it spends more time on ideas than on individuals.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2016 by Scribner. Historical events referred to in general terms rather than with dates or figures; no named individuals or studies are cited. All prose is original."
+    }
+  },
+  {
+    "id": "gut",
+    "title": "Gut",
+    "subtitle": "The Inside Story of Our Body's Most Underrated Organ",
+    "author": "Giulia Enders",
+    "year": 2014,
+    "category": "medical-body",
+    "subcategory": "digestion",
+    "tags": [
+      "digestion",
+      "gut-microbiome",
+      "immune-system",
+      "nutrition-science",
+      "body-literacy",
+      "anatomy"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 10,
+    "why_it_matters": "It made the digestive tract a subject ordinary people could talk about without embarrassment, and it did that while staying honest about how much of the science is still unsettled. A generation of gut-health writing that followed owes it the tone.",
+    "crux": {
+      "headline": "Your gut is a sense organ, not a pipe",
+      "body": "Digestion looks like plumbing: food in, waste out. What actually sits inside you is a long, muscular, densely wired organ that samples everything you eat, runs its own nervous system, hosts most of your immune training, and reports upward to the brain far more than it hears back. Treat it as sensory equipment and its odd behaviour stops looking random."
+    },
+    "sparks": [
+      {
+        "id": "gut-s01",
+        "hook": "Your gut has its own nervous system, and it does most of the talking.",
+        "insight": "A dense mesh of neurons runs the length of your digestive tract and can coordinate the whole business of moving and breaking down food without instructions from the brain. Most of the traffic between the two runs upward: the gut sends far more signals than it receives. That is part of why a churning stomach can arrive before a conscious worry does. Your gut is not simply obeying your mood, it is contributing to it.",
+        "why": "The enteric nervous system is large and genuinely autonomous, and the vagus nerve carries mostly upward traffic. The gut-mood link is real, though its direction and size are still argued over.",
+        "apply": "Notice what your stomach is doing next time you feel uneasy, and log it. Patterns you can describe are far more useful to a clinician than a vague sense of feeling off.",
+        "format": "single",
+        "tags": [
+          "enteric-nervous-system",
+          "gut-brain"
+        ]
+      },
+      {
+        "id": "gut-s02",
+        "hook": "The claim that microbes outnumber your cells ten to one did not survive checking.",
+        "insight": "For years the standard line was that bacterial cells outnumber human ones about ten to one. Careful re-estimates put the ratio much closer to parity, and it shifts every time you use the toilet. The correction matters less than what survives it: you carry an enormous microbial population, mostly in the large intestine, doing chemistry your own cells cannot. The population is real. The tidy statistic was not.",
+        "why": "The ten-to-one figure traced back to a rough mid-century estimate that got repeated rather than tested. Revised counts landed near one to one. The biology stands; the number was folklore.",
+        "apply": "When you meet a striking body statistic, look for where the number first came from. A surprising share of the ones in popular health writing are repeated, never measured.",
+        "format": "single",
+        "tags": [
+          "microbiome",
+          "science-myths"
+        ]
+      },
+      {
+        "id": "gut-s03",
+        "hook": "Swallowing is one of the most complicated things your body does automatically.",
+        "insight": "Getting a mouthful of food from tongue to stomach involves a precisely timed pause in breathing, a lifted soft palate, a closed windpipe and a wave of muscle that pushes in one direction only. You run it dozens of times a day without a thought. The tract that follows is equally choreographed: each section has a different job, a different acidity, and a different set of residents. Much of what people call indigestion is a timing problem in one of those handovers.",
+        "why": "Each stage depends on the one before it finishing properly. Rushed chewing sends larger particles into a stomach that has to work longer on them, which is one reason eating fast so often feels bad afterwards.",
+        "apply": "Eat one meal this week without a screen and chew until the food is genuinely smooth. Notice whether the usual after-meal heaviness turns up.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Chew properly",
+            "body": "Teeth and saliva start breaking starch down and shrink particles so the stomach has less to do. Swallowing large lumps pushes the whole job downstream."
+          },
+          {
+            "step": 2,
+            "title": "Let the stomach churn",
+            "body": "The stomach is a mixing chamber, not a storage tank. Acid and muscle turn a meal into a slurry and release it into the small intestine in controlled amounts."
+          },
+          {
+            "step": 3,
+            "title": "Absorb in the small intestine",
+            "body": "Almost all nutrient uptake happens here, across a folded surface far larger than it looks. This stretch is long, busy, and thinly populated compared with what follows."
+          },
+          {
+            "step": 4,
+            "title": "Ferment in the large intestine",
+            "body": "What your enzymes could not handle arrives here, where the bulk of your microbes live. They ferment the leftovers, produce useful compounds, and account for most of the gas."
+          }
+        ],
+        "tags": [
+          "digestion",
+          "anatomy"
+        ]
+      },
+      {
+        "id": "gut-s04",
+        "hook": "Your body has a kink in the tubing that only unbends when you squat.",
+        "insight": "A muscular sling loops around the lower bowel and holds it at an angle, which is one of the things keeping you continent while you stand around. Sitting relaxes that sling only partly. Squatting straightens the angle far more completely, which is why people who squat generally report less straining. It is a small anatomical fact with a lot of everyday consequence, and it explains why posture on the toilet is not a trivial detail.",
+        "why": "The angle created by the puborectalis muscle is well described anatomically, and small imaging studies support the posture effect. The broader health claims stacked on top of it are much larger than the evidence.",
+        "apply": "Try resting your feet on a low step so your knees sit above your hips. If straining is a persistent problem, raise it with a doctor rather than working around it.",
+        "format": "single",
+        "tags": [
+          "anatomy",
+          "everyday-body"
+        ]
+      },
+      {
+        "id": "gut-s05",
+        "hook": "Vomiting is a decision your brain makes, not a failure of your stomach.",
+        "insight": "A specific region of the brainstem monitors blood, gut signals and balance information for evidence that something is wrong, then triggers the whole coordinated ejection sequence. That is why motion, a bad smell, a drug and genuinely spoiled food can all produce the same result by different routes. Your stomach is the instrument, not the author. Seeing it that way makes seasickness and drug-induced nausea look like one machinery pulled by different levers.",
+        "why": "The area postrema sits outside the usual blood-brain barrier so it can sample circulating substances directly. That anatomy explains why so many unrelated triggers converge on a single response.",
+        "apply": "If nausea is a recurring problem for you, note the triggers and the timing before your next appointment. Patterns point a clinician toward the right cause faster than adjectives do.",
+        "format": "single",
+        "tags": [
+          "nausea",
+          "brain"
+        ]
+      },
+      {
+        "id": "gut-s06",
+        "hook": "Being unable to digest milk as an adult is the normal human condition.",
+        "insight": "Most mammals switch off the enzyme that handles milk sugar after weaning, and most humans do too. The ability to keep digesting it into adulthood is a relatively recent genetic change that spread in some populations and not others. So the word intolerance frames the global majority as defective. What it actually shows is that diets and genes evolve together, and that a food perfectly fine for one person can be genuinely unsuitable for another for reasons that have nothing to do with willpower.",
+        "why": "Lactase persistence is one of the clearest examples of recent human selection, appearing separately in European and East African herding populations. The evidence here is unusually solid.",
+        "apply": "Stop treating your response to a food as a verdict on your discipline. If something reliably makes you unwell, keep a record and take the record to a professional.",
+        "format": "single",
+        "tags": [
+          "lactose",
+          "genetics",
+          "food"
+        ]
+      },
+      {
+        "id": "gut-s07",
+        "hook": "Antibiotics do not aim. They clear the room.",
+        "insight": "An antibiotic that kills the bacterium making you ill also kills a large share of the harmless and useful ones sharing your body. Most of that population recovers, but not all of it, and not always quickly. That is part of why a course can leave the gut unsettled for weeks afterwards. None of this is an argument against taking them when they are needed. It is an argument for understanding that they are a broad tool rather than a targeted one.",
+        "why": "Recovery of gut communities after a course is well documented but incomplete and highly variable between people. The larger and clearer harm from unnecessary courses is resistance.",
+        "apply": "Ask your doctor what the antibiotic is treating and whether the infection is bacterial. Understanding the reason is a different act from questioning the prescription.",
+        "format": "single",
+        "tags": [
+          "antibiotics",
+          "microbiome"
+        ]
+      },
+      {
+        "id": "gut-s08",
+        "hook": "Your immune system does much of its training along the gut wall.",
+        "insight": "The lining of your intestine is where the body meets the largest quantity of foreign material it will ever encounter: food, microbes, and things that are neither. Dense patches of immune tissue sit along it, sampling what passes and learning what to ignore. That job, tolerance, matters as much as attack. A system that reacted to everything crossing the gut wall would make eating impossible. Much of what goes wrong in allergy is a failure of learned tolerance, not a lack of firepower.",
+        "why": "Gut-associated lymphoid tissue holds a large share of the body's immune cells. The link to allergy is supported but the mechanisms are still being worked out, and simple versions are usually oversold.",
+        "apply": "Treat any product promising to boost your immune system with suspicion. Ask what boosting would even mean for a system whose central job is restraint.",
+        "format": "single",
+        "tags": [
+          "immune-system",
+          "tolerance"
+        ]
+      },
+      {
+        "id": "gut-s09",
+        "hook": "Fibre is not really for you. It is for the tenants.",
+        "insight": "Your own enzymes cannot break down most plant fibre, which is why it arrives in the large intestine largely intact. The microbes there can, and fermenting it produces short-chain fatty acids that gut cells use as fuel. So fibre works less as a bulking agent than as a food supply for the population doing chemistry on your behalf. Variety matters as much as quantity, because different microbes eat different things and a narrow diet supports a narrow community.",
+        "why": "Short-chain fatty acid production from fermentable fibre is well established. Claims about specific strains fixing specific conditions are far shakier and mostly rest on small studies.",
+        "apply": "Count how many distinct plants you ate this week. If the number is under ten, widening the range is a low-risk habit to build slowly.",
+        "format": "single",
+        "tags": [
+          "fibre",
+          "microbiome",
+          "food"
+        ]
+      },
+      {
+        "id": "gut-s10",
+        "hook": "Most of what you have heard about gut health was sold to you, not shown to you.",
+        "insight": "The gut became a marketing category faster than it became a settled science. Some findings are solid: fibre feeds fermentation, antibiotics disturb communities, the tract is densely wired to the brain. Others are early, small, done in mice, or true only for one specific strain in one specific condition. The gap between those two piles is where supplements live. Learning to tell them apart is worth more than anything on the shelf.",
+        "why": "Microbiome research is genuinely young. Correlations between gut communities and disease are abundant, but showing the microbes caused the disease rather than followed it is much harder.",
+        "apply": "Before buying anything gut-related, check whether the evidence is human, whether it used the same strain named on the label, and who paid for the study.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Check the species",
+            "body": "Ask whether the study was done in humans or in mice. Rodent guts differ enough that a striking mouse result is a hypothesis, not a finding about you."
+          },
+          {
+            "step": 2,
+            "title": "Check the strain",
+            "body": "Probiotic evidence is strain-specific. A result for one strain says almost nothing about a different one, even under the same species name on the packet."
+          },
+          {
+            "step": 3,
+            "title": "Check the direction",
+            "body": "Ill people often have different gut communities. That alone cannot tell you whether the community caused the illness or changed because of it."
+          },
+          {
+            "step": 4,
+            "title": "Check the funder",
+            "body": "Look at who paid. Industry funding does not make a study wrong, but it shifts which results get published and how they get framed."
+          }
+        ],
+        "tags": [
+          "evidence",
+          "marketing"
+        ]
+      }
+    ],
+    "actions": [
+      "Spend a week logging what you eat and how you feel three hours later. Bring the log, rather than your conclusions, to any appointment about digestion.",
+      "Widen the range of plants you eat instead of chasing a single superfood, and give any change at least a month before you judge it.",
+      "Pick one gut-health claim you currently believe and trace it back to its source study. Check the species, the strain, the size and the funder.",
+      "Write down the questions you actually want answered about your own digestion, so a ten-minute appointment is not spent improvising."
+    ],
+    "if_you_liked": [
+      "an-elegant-defense",
+      "how-not-to-die",
+      "in-defense-of-food"
+    ],
+    "not_for_you_if": "You want clinical guidance for a diagnosed gut condition, or you find a chatty, jokey register grating when the subject is your own body.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published in German in 2014 as Darm mit Charme; English translation 2015. Illustrated by the author's sister, Jill Enders. All prose here is original."
+    }
+  },
+  {
+    "id": "the-immortal-life-of-henrietta-lacks",
+    "title": "The Immortal Life of Henrietta Lacks",
+    "subtitle": null,
+    "author": "Rebecca Skloot",
+    "year": 2010,
+    "category": "medical-body",
+    "subcategory": "medical-ethics",
+    "tags": [
+      "medical-ethics",
+      "consent",
+      "race-and-medicine",
+      "cell-biology",
+      "research-history",
+      "health-inequality"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 12,
+    "why_it_matters": "It put a name and a family to the most used human cells in biology, and turned an abstract argument about consent into a story people could not put down. Research ethics teaching, and a good deal of hospital policy, shifted around it.",
+    "crux": {
+      "headline": "The cells were immortal. Consent was never asked for",
+      "body": "Cells taken from a poor Black woman in a segregated hospital ward in 1951 grew when every previous attempt had failed, and went on to underpin decades of medical research. Nobody told her, and nobody told her family for twenty years. The science is real and enormously valuable. So is the fact that the person it came from was never a participant in it, only a source."
+    },
+    "sparks": [
+      {
+        "id": "the-immortal-life-of-henrietta-lacks-s01",
+        "hook": "The most important cells in modern biology came from a woman nobody asked.",
+        "insight": "In 1951 a sample was taken from a cervical tumour during treatment at Johns Hopkins. Unlike every human cell line attempted before it, this one kept dividing indefinitely in culture. It became the workhorse of laboratories worldwide, used in vaccine development, cancer research and countless experiments. The woman it came from died months later at thirty-one, and neither she nor her family was told the cells existed. Both facts are true at once, and you are not allowed to keep only one.",
+        "why": "Taking tissue without specific consent was standard practice at the time and was not illegal. That it was normal is the point: the harm was structural rather than the act of one bad individual.",
+        "apply": "Next time you consent to a procedure, read what the form says about leftover tissue and research use, and ask about anything you do not understand.",
+        "format": "single",
+        "tags": [
+          "consent",
+          "research-history"
+        ]
+      },
+      {
+        "id": "the-immortal-life-of-henrietta-lacks-s02",
+        "hook": "Normal human cells refuse to be immortal. That refusal is a safety feature.",
+        "insight": "Ordinary cells taken from a body divide a limited number of times and then stop. That limit is not a laboratory nuisance, it is a brake on runaway growth. Cancer cells often break the brake, which is exactly why they can keep going. The line that came from Henrietta Lacks kept dividing because it carried changes that made it, in effect, deathless. The usefulness of those cells and the disease that killed her are one biological fact seen from two sides.",
+        "why": "The replicative limit of normal cells was later characterised in detail, and telomere maintenance is central to how cancer lines escape it. This is settled cell biology, not interpretation.",
+        "apply": "When you hear that something makes cells grow forever, ask whether that is being described as a benefit or a disease. Often it is both at once.",
+        "format": "single",
+        "tags": [
+          "cell-biology",
+          "cancer"
+        ]
+      },
+      {
+        "id": "the-immortal-life-of-henrietta-lacks-s03",
+        "hook": "Informed consent is younger than the cells in half the world's laboratories.",
+        "insight": "The rules that now govern human research were written after the practices they exist to prevent. A code emerged from the Nuremberg trials, a fuller international statement followed in the 1960s, and American law only built formal oversight after a newspaper exposed a decades-long syphilis study on Black men in Alabama. The 1951 sample sits before most of that. Knowing the sequence stops you judging it by rules that did not yet exist, without excusing what those rules were written to stop.",
+        "why": "Each layer of research regulation followed a scandal rather than preceding one. That pattern is well documented, and it is a reason to doubt that current safeguards are complete either.",
+        "apply": "Look for the ethics approval statement in the next study you read about. Knowing what oversight exists helps you judge what it does not cover.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Nuremberg, 1947",
+            "body": "A code written into the judgment against Nazi doctors made voluntary consent the first requirement of human experimentation. It carried moral force but no legal machinery."
+          },
+          {
+            "step": 2,
+            "title": "Helsinki, 1964",
+            "body": "The World Medical Association set out fuller principles for medical research, revised many times since. Again, guidance for the profession rather than enforceable law."
+          },
+          {
+            "step": 3,
+            "title": "Tuskegee exposed, 1972",
+            "body": "Press coverage revealed that American public health researchers had left syphilis untreated in Black men for forty years. Public outrage achieved what the codes had not."
+          },
+          {
+            "step": 4,
+            "title": "Oversight becomes law",
+            "body": "US legislation in the following years created review boards and a national commission, whose report set out the principles American research ethics still runs on."
+          }
+        ],
+        "tags": [
+          "research-ethics",
+          "history"
+        ]
+      },
+      {
+        "id": "the-immortal-life-of-henrietta-lacks-s04",
+        "hook": "Her family could not afford the medicine her cells helped make possible.",
+        "insight": "While the cell line was being grown, shipped and cited around the world, the Lacks children lived without reliable health insurance and with little idea what had been taken. Those two facts sit next to each other and do not resolve, because they cannot. It is not that anyone stole a fortune in a simple sense. It is that an entire system generated value from a person's body and had no mechanism, and no inclination, to notice her family at all.",
+        "why": "American courts have generally held that patients do not retain property rights in removed tissue. The gap exposed here is a policy choice rather than an oversight.",
+        "apply": "Ask who benefits when you next hear about a medical breakthrough, and whether anyone in the story was a source rather than a participant.",
+        "format": "single",
+        "tags": [
+          "justice",
+          "health-inequality"
+        ]
+      },
+      {
+        "id": "the-immortal-life-of-henrietta-lacks-s05",
+        "hook": "A cell line can take over a laboratory the way a weed takes a garden.",
+        "insight": "Cells that grow aggressively do not stay politely in their own dishes. Over decades, laboratories discovered that many of their supposedly distinct cell lines had been overrun by the fast-growing one from Henrietta Lacks, meaning years of published results described the wrong tissue entirely. It is a reminder that scientific error is often mundane: not fraud, not bad reasoning, but a contamination nobody thought to check for until the damage was already in print.",
+        "why": "Cross-contamination of cell lines is a long-running and still unresolved problem. Journals increasingly require authentication, which is itself an admission of how much older work is unreliable.",
+        "apply": "Treat any single published result as provisional. Ask whether anyone has repeated it with different materials before you change your mind.",
+        "format": "single",
+        "tags": [
+          "replication",
+          "lab-science"
+        ]
+      },
+      {
+        "id": "the-immortal-life-of-henrietta-lacks-s06",
+        "hook": "Being told the truth twenty years late is its own kind of harm.",
+        "insight": "The Lacks family learned about the cells in the 1970s, when researchers came looking for blood samples to help sort out the contamination problem. Nobody explained clearly what the samples were for. Some family members understood themselves to be getting tested for cancer, and waited for results that never came. Decades of confusion and mistrust followed from a failure that was not malicious, only careless: people who treated asking as a formality rather than the whole point.",
+        "why": "Consent that is not understood is not consent. The mismatch between what researchers thought they had communicated and what the family actually heard is the mechanism of the harm here.",
+        "apply": "In any medical conversation, say back in your own words what you think you have just agreed to. Mismatches show up immediately when you do.",
+        "format": "single",
+        "tags": [
+          "consent",
+          "communication"
+        ]
+      },
+      {
+        "id": "the-immortal-life-of-henrietta-lacks-s07",
+        "hook": "Distrust of doctors in Black American communities is a memory, not a myth.",
+        "insight": "The family's suspicion of researchers was often treated as ignorance. Read against the record it looks more like accurate pattern recognition: a segregated ward, a study that withheld treatment from Black men for forty years, a long history of experimentation on people who were in no position to refuse. Trust is built by institutions behaving trustworthily over time, and it can be spent. Where it is low today, the cheapest explanation is usually that somebody spent it earlier.",
+        "why": "The historical record here is documented rather than inferred, and present-day disparities in treatment and pain management keep the account open rather than closing it.",
+        "apply": "If you work somewhere people are meant to trust you, find out what your institution did before you arrived. You inherit that balance whether you like it or not.",
+        "format": "single",
+        "tags": [
+          "trust",
+          "race-and-medicine"
+        ]
+      },
+      {
+        "id": "the-immortal-life-of-henrietta-lacks-s08",
+        "hook": "Science writing usually keeps the person out. This one puts her back in.",
+        "insight": "The standard way to tell this story would be a history of tissue culture with a footnote about where the cells came from. Skloot inverts it, spending as much time with a family in Baltimore as with the biology, and keeping herself and her own missteps inside the frame. That structural choice is the argument: a way of writing that erases the person from the sample is precisely what allowed the original problem. How a story is told decides what a reader can notice.",
+        "why": "Narrative choices are not neutral. Foregrounding the family makes the ethical question unavoidable in a way a purely technical history would let readers skim past.",
+        "apply": "Notice who is missing from the next explainer you read. The people left out of a story are usually the ones with the least power inside it.",
+        "format": "single",
+        "tags": [
+          "science-writing",
+          "narrative"
+        ]
+      },
+      {
+        "id": "the-immortal-life-of-henrietta-lacks-s09",
+        "hook": "Your leftover tissue is probably already in a freezer somewhere.",
+        "insight": "Blood, biopsies and surgical samples are stored in enormous numbers, usually stripped of names, and used in research the person never hears about. Broad consent forms generally cover this and most people sign without reading. There is a real public good here: large collections make discoveries possible that no single study could. There is also a real question about what anonymised means once genomes are involved, and about who gets to decide.",
+        "why": "De-identification is weaker than it sounds when genetic data is included, since a genome is identifying by its nature. The policy argument about this is live and unresolved.",
+        "apply": "Read the research paragraph on the next consent form you sign, and ask whether you can opt out of future uses if you would rather.",
+        "format": "single",
+        "tags": [
+          "biobanks",
+          "privacy"
+        ]
+      },
+      {
+        "id": "the-immortal-life-of-henrietta-lacks-s10",
+        "hook": "Consent is not a signature. It is a conversation you could repeat back.",
+        "insight": "A form protects an institution. Understanding protects a person, and the two are not the same thing. Real consent means knowing what is being taken, what it may be used for, who might profit, what happens if you refuse, and whether you can change your mind later. Most of those questions have answers. Most people never hear them, because the encounter is built for speed and because nobody in the room treats the form as the important part.",
+        "why": "Studies of trial participants repeatedly find that many cannot describe key features of what they agreed to. That is a design failure in how consent is obtained, not a failure of intelligence.",
+        "apply": "Before signing anything medical, ask what happens to material taken from you and whether refusing the research part changes your care.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "What is being taken",
+            "body": "Ask what material or data leaves the room with them, in plain terms, and how much. Vague answers here usually mean nobody has thought about it."
+          },
+          {
+            "step": 2,
+            "title": "What it may be used for",
+            "body": "Present treatment, future research, commercial development and sharing with other institutions are different things. One signature often covers all four."
+          },
+          {
+            "step": 3,
+            "title": "What refusing costs",
+            "body": "Ask directly whether declining the research part changes your treatment. If the answer is anything other than a clear no, ask it again."
+          },
+          {
+            "step": 4,
+            "title": "Whether you can withdraw",
+            "body": "Withdrawal is sometimes possible and sometimes not, especially once samples are anonymised or shared. Better to know beforehand than to assume."
+          }
+        ],
+        "tags": [
+          "consent",
+          "questions-to-ask"
+        ]
+      }
+    ],
+    "actions": [
+      "Read a consent form all the way through the next time you are handed one, and ask about anything the paragraph on research use leaves unclear.",
+      "Look up how your own country handles ownership and reuse of removed tissue. The answer differs a great deal between jurisdictions.",
+      "Pick one medical advance you personally benefit from and find out whose bodies the early research used. It is rarely a comfortable answer.",
+      "If you teach or manage in a scientific field, add the question of where the sample came from to a routine you already run."
+    ],
+    "if_you_liked": [
+      "the-emperor-of-all-maladies",
+      "the-gene",
+      "bad-pharma"
+    ],
+    "not_for_you_if": "You want a technical history of cell culture, or you would find long stretches of family narrative a detour from the science rather than the point of it.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2010 by Crown. Henrietta Lacks died in 1951 and the cell line dates from that year. All prose here is original."
+    }
+  },
+  {
+    "id": "complications",
+    "title": "Complications",
+    "subtitle": "A Surgeon's Notes on an Imperfect Science",
+    "author": "Atul Gawande",
+    "year": 2002,
+    "category": "medical-body",
+    "subcategory": "surgery",
+    "tags": [
+      "surgery",
+      "medical-error",
+      "expertise",
+      "uncertainty",
+      "medical-training",
+      "decision-making"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "It said out loud what medicine mostly says in private: that skill is learned on real patients, that good doctors make bad errors, and that much of practice runs on uncertainty. Patient-safety work has been arguing with it and building on it ever since.",
+    "crux": {
+      "headline": "Medicine is a human practice, not a machine",
+      "body": "Every operation is performed by someone still learning, working from incomplete information, under time pressure, on a body that varies from the textbook. That is not a scandal waiting to be exposed. It is the permanent condition of the work. Once you accept it, the useful question stops being how to find flawless doctors and becomes how to build systems that stay safe while ordinary people practise inside them."
+    },
+    "sparks": [
+      {
+        "id": "complications-s01",
+        "hook": "Someone had to be your surgeon's first. The system depends on it.",
+        "insight": "Every experienced clinician was once a trainee doing a procedure for the first time, slowly and badly, on a real person. Nobody advertises this because nobody wants to be the practice case, and given a free choice, patients pick the veteran. But a system in which everyone picks the veteran produces no veterans. Training therefore runs on a quiet arrangement, and the people who carry the risk are disproportionately those with the least power to object.",
+        "why": "The learning curve is measurable: complication rates fall with repetition across almost every procedure studied. The ethical problem is that the cost of the curve is not shared evenly.",
+        "apply": "Ask how many times the team has done your procedure, and who will be doing which part. Both are reasonable questions and neither is an accusation.",
+        "format": "single",
+        "tags": [
+          "training",
+          "learning-curve"
+        ]
+      },
+      {
+        "id": "complications-s02",
+        "hook": "Good doctors make terrible mistakes, and not because they are secretly bad.",
+        "insight": "The instinct after a medical disaster is to find the incompetent individual and remove them. Sometimes that is right. Far more often the person at the centre was competent, tired, reading an ambiguous sign, and fell into an error any of their colleagues could have made that day. Treating every failure as a character defect drives reporting underground and guarantees the next person repeats it, because nobody will describe out loud what actually happened.",
+        "why": "This is the core of modern patient-safety thinking: systems that punish individuals lose the information they need in order to improve. The evidence for reporting culture is stronger than for most single interventions.",
+        "apply": "In your own work, separate the question of what went wrong from the question of who is to blame. Ask the first one first, and answer it completely.",
+        "format": "single",
+        "tags": [
+          "medical-error",
+          "systems"
+        ]
+      },
+      {
+        "id": "complications-s03",
+        "hook": "Autopsies used to catch what doctors missed. Almost nobody does them now.",
+        "insight": "For much of the twentieth century, post-mortem examination was routine, and it regularly revealed that a confident diagnosis had been wrong. Rates collapsed as imaging improved and confidence rose. But studies that still perform autopsies keep finding significant missed diagnoses at rates that have not fallen nearly as far as everyone assumed. Losing the audit did not make the errors disappear. It made them invisible, which is a different and worse condition.",
+        "why": "Studies comparing clinical diagnosis with autopsy findings continue to show meaningful disagreement, and the decline in autopsy rates is well documented across many health systems.",
+        "apply": "Build an audit into anything you do repeatedly. Confidence rises with experience whether or not accuracy does, so you need a check from outside yourself.",
+        "format": "single",
+        "tags": [
+          "diagnosis",
+          "feedback"
+        ]
+      },
+      {
+        "id": "complications-s04",
+        "hook": "The hardest cases are not rare diseases. They are common ones that might not be.",
+        "insight": "Most of the time a red, swollen leg is a routine infection. Very occasionally it is a rapidly spreading one that will kill within a day. The two look nearly identical early, the tests are not decisive, and the treatments differ enormously. Medicine spends much of its time in that gap, deciding how much certainty is enough before acting. Acting too readily has costs; waiting for proof has worse ones. No rule removes the judgment.",
+        "why": "Decisions under uncertainty cannot be made error-free, only better calibrated. The right question is which error is more survivable, not simply which diagnosis is more likely.",
+        "apply": "For a decision you are stuck on, ask which mistake you could recover from and which you could not. Then choose against the unrecoverable one.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Name both possibilities",
+            "body": "Write down the ordinary explanation and the dangerous one. Keeping the rare option explicitly on the list is most of what stops it being missed."
+          },
+          {
+            "step": 2,
+            "title": "Ask what would settle it",
+            "body": "Identify the test or observation that would actually separate them. If nothing would, more thinking will not help and you are choosing under uncertainty."
+          },
+          {
+            "step": 3,
+            "title": "Weigh costs, not just odds",
+            "body": "Compare what each mistake costs, not only how likely each is. A small chance of an irreversible outcome outranks a large chance of an inconvenient one."
+          },
+          {
+            "step": 4,
+            "title": "Set a review point",
+            "body": "Decide in advance what would make you reconsider, and when you will look again. Uncertainty is managed by revisiting, not by getting it right once."
+          }
+        ],
+        "tags": [
+          "uncertainty",
+          "decision-making"
+        ]
+      },
+      {
+        "id": "complications-s05",
+        "hook": "A surgeon's skill is a physical craft, and it fades without repetition.",
+        "insight": "Operating well is not knowledge applied to tissue, it is a trained pair of hands. Like any physical skill it improves with volume and degrades without it, which is why outcomes for complex procedures are consistently better at centres that do many of them. This is uncomfortable because it implies geography and hospital choice matter as much as individual talent, and because a very good surgeon who stops doing an operation regularly becomes a less good one.",
+        "why": "The volume-outcome relationship is one of the more robust findings in health services research, though how much belongs to the surgeon and how much to the whole team and hospital is still argued.",
+        "apply": "For a planned procedure, ask how often this hospital performs it. Volume is a fair question and the answer is usually already known.",
+        "format": "single",
+        "tags": [
+          "expertise",
+          "practice"
+        ]
+      },
+      {
+        "id": "complications-s06",
+        "hook": "Medicine keeps rediscovering that a checklist beats memory.",
+        "insight": "Highly trained people resist the idea that a printed list could improve their work, because the list looks like an insult to the training. But expertise fails in a particular way: under pressure, competent people skip steps they know perfectly well. A list does not supply knowledge, it protects against the predictable lapse. The resistance is largely about status, and the evidence keeps pointing the other way, though the benefit depends heavily on whether a team actually uses the thing rather than ticking it.",
+        "why": "Surgical checklists showed large benefits in early multi-centre work and weaker or absent results where implementation was superficial. The honest reading is that the culture around the list does much of the work.",
+        "apply": "Write a five-item checklist for a task you do often and get wrong occasionally. Use it for a month before deciding it is beneath you.",
+        "format": "single",
+        "tags": [
+          "checklists",
+          "error"
+        ]
+      },
+      {
+        "id": "complications-s07",
+        "hook": "Nobody wants to be the one who says a colleague should stop operating.",
+        "insight": "A doctor whose performance is slipping is usually noticed long before anything is done. Colleagues see it and say nothing, because the accusation is enormous, the evidence is soft, careers are at stake, and there is rarely a good process to hand it to. So problems get addressed after a catastrophe rather than before one. This is not really a medical failing. Every profession protects its own until the cost of the protection becomes visible from outside.",
+        "why": "Peer review and remediation processes exist but are used rarely and late. The pattern of colleagues knowing early and acting late shows up across many high-stakes professions.",
+        "apply": "Decide now what you would do if you saw a colleague failing, and who you would tell. Deciding in the moment almost always produces silence.",
+        "format": "single",
+        "tags": [
+          "professions",
+          "accountability"
+        ]
+      },
+      {
+        "id": "complications-s08",
+        "hook": "How much of your own treatment should you actually be choosing?",
+        "insight": "Patient autonomy replaced a paternalistic tradition for good reasons, but handing someone a menu of options during the worst week of their life is not automatically kindness. Some people want the decision. Some want a recommendation. Many want to be asked which they want. The skill is not defaulting to either extreme, it is finding out what this particular person needs and then supplying it, which takes longer than either script.",
+        "why": "Preference for involvement varies widely and does not track education or age reliably. Assuming everyone wants full control is a different error from assuming nobody does.",
+        "apply": "Tell your clinician how you want decisions handled: give me the options, or give me your recommendation. Saying it aloud saves everyone guessing.",
+        "format": "single",
+        "tags": [
+          "autonomy",
+          "shared-decisions"
+        ]
+      },
+      {
+        "id": "complications-s09",
+        "hook": "Nausea, blushing, chronic pain: medicine has no clean story for any of them.",
+        "insight": "Alongside the dramatic cases sit conditions that are common, miserable and poorly explained: pain with no visible cause, uncontrollable blushing, vomiting that will not stop. They get less attention because they resist the model medicine is built on, where a mechanism produces a lesion that a procedure corrects. Their existence is a standing reminder that the map is incomplete, and that a patient told nothing is wrong has often only been told that nothing is findable.",
+        "why": "Absence of an identifiable lesion is not evidence that a symptom is imagined. The history of conditions later given clear mechanisms should make anyone cautious about that inference.",
+        "apply": "If a symptom of yours is dismissed, ask what would need to be true for it to be taken seriously, and what the next step is if it persists.",
+        "format": "single",
+        "tags": [
+          "symptoms",
+          "uncertainty"
+        ]
+      },
+      {
+        "id": "complications-s10",
+        "hook": "Ten minutes of questions before surgery changes what you are consenting to.",
+        "insight": "Consent for an operation is often the shortest conversation in the whole process, squeezed in when everyone is busy and the decision already feels made. But the useful questions are few and simple: what happens if we do nothing, what does success actually look like, what does recovery involve, and who is doing the work. Asking them does not make you a difficult patient. It makes you someone who will recognise the outcome when it arrives.",
+        "why": "People consistently overestimate benefit and underestimate recovery time for elective procedures. Explicit numbers, asked for directly, correct that better than reassurance does.",
+        "apply": "Write your questions down before the appointment and take the list in with you. Ten minutes of preparation beats trying to remember under pressure.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Ask what doing nothing looks like",
+            "body": "Every option list has a do-nothing branch and it often gets left out. How the condition behaves untreated is the baseline everything else is compared against."
+          },
+          {
+            "step": 2,
+            "title": "Ask what success means",
+            "body": "Cured, improved and slowed are very different outcomes. Get the realistic version in plain numbers rather than in a reassuring adjective."
+          },
+          {
+            "step": 3,
+            "title": "Ask about recovery",
+            "body": "Complication rates get quoted; weeks of reduced function often do not. Ask what the ordinary, uncomplicated recovery actually involves week by week."
+          },
+          {
+            "step": 4,
+            "title": "Ask who is in the room",
+            "body": "Find out who performs which part, how often this team does it, and who to contact afterwards if something starts to feel wrong."
+          }
+        ],
+        "tags": [
+          "questions-to-ask",
+          "surgery"
+        ]
+      }
+    ],
+    "actions": [
+      "Before any planned procedure, write down four questions and take them with you: no treatment, realistic success, recovery, and who operates.",
+      "Make one checklist for a repeated task in your own work, and track for a month how often it catches something you would have missed.",
+      "Find out how many times your hospital performs the procedure you need. Volume figures are published in many health systems and worth asking for.",
+      "After your next mistake at work, write what happened before writing who was responsible, and notice how different the two accounts are."
+    ],
+    "if_you_liked": [
+      "being-mortal",
+      "do-no-harm",
+      "bad-science"
+    ],
+    "not_for_you_if": "You want practical health guidance rather than essays, or you would rather not know how much uncertainty sits behind confident medical advice.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2002 by Metropolitan Books and a finalist for the National Book Award. Gawande developed the checklist argument at length in a later book."
+    }
+  },
+  {
+    "id": "when-breath-becomes-air",
+    "title": "When Breath Becomes Air",
+    "subtitle": null,
+    "author": "Paul Kalanithi",
+    "year": 2016,
+    "category": "medical-body",
+    "subcategory": "illness-memoir",
+    "tags": [
+      "mortality",
+      "meaning",
+      "cancer",
+      "medical-training",
+      "grief",
+      "identity"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 10,
+    "why_it_matters": "A neurosurgeon trained to deliver terminal diagnoses received one, and wrote from both sides of the desk before he died. Few books show so precisely what changes when the person holding the scan is also the patient.",
+    "crux": {
+      "headline": "You cannot plan a life around a number nobody will give you",
+      "body": "Told he had lung cancer at thirty-six, he wanted a survival figure so he could decide what to do with the time. The honest answer was that no such figure exists for an individual, only distributions. What he found instead was that the question itself was wrong: the task is not to allocate a known quantity of time but to decide what matters enough to do while the quantity stays unknown."
+    },
+    "sparks": [
+      {
+        "id": "when-breath-becomes-air-s01",
+        "hook": "He spent years delivering prognoses. Then he wanted his own and could not get one.",
+        "insight": "As a neurosurgeon he had given many people the news that their time was limited. Diagnosed himself, he asked his oncologist for a number and was refused, not out of cruelty but because the number does not exist. Survival statistics describe groups. An individual is not a group, and the shape of the curve matters more than its middle: some people fall early, some live years beyond it. Wanting a number is entirely human, and getting one would have told him almost nothing true.",
+        "why": "Median survival is often reported as though it were a personal forecast. Individual outcomes scatter widely around it, and the long tail is where the misunderstanding does most of its damage.",
+        "apply": "If you are given a survival statistic, ask what it describes: the middle of a group, or the range. The range is the part that affects planning.",
+        "format": "single",
+        "tags": [
+          "prognosis",
+          "statistics"
+        ]
+      },
+      {
+        "id": "when-breath-becomes-air-s02",
+        "hook": "Knowing you will die is easy. Not knowing when is what breaks planning.",
+        "insight": "Everyone accepts mortality in the abstract and then organises life as though it were indefinite. A terminal diagnosis does not add the fact of death, it removes the vagueness that made the fact liveable. What follows is a practical problem: with an unknown but shortened horizon, what should you do today? Finish the training, write the book, have the child, rest? He answered it repeatedly, and the answer kept moving as his condition did.",
+        "why": "Uncertainty about timing, rather than death itself, is what makes the decisions hard. That is why people often report relief when a prognosis becomes clearer, even when the news is worse.",
+        "apply": "Ask what you would keep doing if your horizon halved. The parts you would drop are worth examining now, while nothing is wrong.",
+        "format": "single",
+        "tags": [
+          "mortality",
+          "priorities"
+        ]
+      },
+      {
+        "id": "when-breath-becomes-air-s03",
+        "hook": "Detachment is a tool. Doctors are rarely taught how to put it down.",
+        "insight": "You cannot open a skull while feeling the full weight of who is under the drapes. Medical training builds distance deliberately, and it works. The cost is that the same distance persists into the corridor conversation afterwards, where what a family needs is a person rather than a competent professional. The skill nobody teaches is switching: full detachment in the operating room, full presence twenty minutes later, and knowing which one the moment calls for.",
+        "why": "Emotional distancing genuinely protects performance under pressure. Burnout research suggests the problem is not that clinicians use it, but that it hardens into a permanent setting rather than a situational one.",
+        "apply": "Notice where you use professional distance outside the situation that needs it. Pick one conversation this week to have without it.",
+        "format": "single",
+        "tags": [
+          "medical-training",
+          "empathy"
+        ]
+      },
+      {
+        "id": "when-breath-becomes-air-s04",
+        "hook": "He chose brain surgery because identity lives in the tissue you are cutting.",
+        "insight": "Operating on a brain is not like repairing a joint. The tissue under the instruments is the thing that produces the person: their speech, their judgment, their capacity to recognise their own family. That makes every millimetre a question about what kind of life the operation will leave behind, and it forces a surgeon to treat meaning as part of the technical decision rather than an afterthought. He went into the field precisely because it refused to let those questions be separated.",
+        "why": "Neurosurgical decisions routinely trade survival against function. There is no neutral option, since declining to operate is also a choice about the life that follows.",
+        "apply": "For a big decision, write what the best outcome would leave you as, not only what it would get you. The two answers often disagree.",
+        "format": "single",
+        "tags": [
+          "neurosurgery",
+          "meaning"
+        ]
+      },
+      {
+        "id": "when-breath-becomes-air-s05",
+        "hook": "Literature was his first training in mortality. The medicine came second.",
+        "insight": "He came to medicine through years of studying literature, looking for where meaning is made, and concluded that the question could not be answered from a desk. Books gave him a vocabulary for suffering that anatomy does not supply, and when he became a patient it was that vocabulary he reached for. Technical understanding of your own disease turns out to be nearly useless for the thing you most need to do with it, which is live inside it.",
+        "why": "Knowing the mechanism of an illness and knowing what to do with your remaining time are different kinds of knowledge. Expertise in the first offers surprisingly little help with the second.",
+        "apply": "Read something outside your field about the hardest part of your work. Fiction and memoir often describe what the training left out.",
+        "format": "single",
+        "tags": [
+          "literature",
+          "meaning"
+        ]
+      },
+      {
+        "id": "when-breath-becomes-air-s06",
+        "hook": "The first appointment after bad news is the one you are least able to run.",
+        "insight": "Shock removes most of your capacity to take in information, which is exactly when the largest volume of it arrives. People leave the room unable to repeat what was said, then make decisions on a half-remembered version for weeks afterwards. The fix is unglamorous and mostly logistical: bring another person, write things down, ask for the plan in writing, and arrange a second conversation once the first has settled.",
+        "why": "Recall of information delivered alongside bad news is poor and well documented. A second listener and written material measurably improve what a patient retains.",
+        "apply": "If you are going to an appointment where serious news is possible, take someone whose only job is to write down what is said. Agree that beforehand.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Bring a second set of ears",
+            "body": "Ask someone to come whose only task is listening and writing. You will remember far less of the conversation than you currently expect to."
+          },
+          {
+            "step": 2,
+            "title": "Ask for it in writing",
+            "body": "Request the diagnosis, the plan and the next step written down or recorded. Half-remembered wording causes weeks of avoidable fear."
+          },
+          {
+            "step": 3,
+            "title": "Ask what happens next",
+            "body": "Get the timetable: which test, which appointment, who calls whom, and what to do if nobody does. Waiting without a plan is its own harm."
+          },
+          {
+            "step": 4,
+            "title": "Book the second conversation",
+            "body": "The questions that matter tend to arrive two days later. Arrange a follow-up now rather than saving them up for a corridor."
+          }
+        ],
+        "tags": [
+          "questions-to-ask",
+          "bad-news"
+        ]
+      },
+      {
+        "id": "when-breath-becomes-air-s07",
+        "hook": "They decided to have a child while he was dying. That was not denial.",
+        "insight": "Asked whether a baby would make dying harder, he thought it probably would, and thought it was worth it anyway. The logic is not sentimental. A shortened life does not become smaller by adding things that will be painful to leave; it becomes fuller. Much advice offered to the seriously ill quietly assumes the goal is to minimise suffering. Sometimes the goal is to maximise what the time contains, and those two aims genuinely conflict.",
+        "why": "Minimising distress and maximising meaning are different objectives. Care systems default to the first because it is measurable, which can quietly override what the person actually wants.",
+        "apply": "Ask whether you are optimising your week for comfort or for meaning. Neither is wrong, but choosing between them by accident usually is.",
+        "format": "single",
+        "tags": [
+          "meaning",
+          "choices"
+        ]
+      },
+      {
+        "id": "when-breath-becomes-air-s08",
+        "hook": "The book is unfinished, and that is the most accurate thing about it.",
+        "insight": "He died before the manuscript was complete, and it ends without the resolution a memoir usually supplies. His wife wrote the closing section describing his final days. The break in the text does something no polished ending could: it shows the shape of a life interrupted rather than concluded. Most accounts of dying are written by survivors and quietly imply that things wrapped up. This one refuses to let you have that.",
+        "why": "The unfinished structure is a fact of the book's production rather than a literary device, which is why it lands. Neat narrative arcs about illness are usually imposed afterwards.",
+        "apply": "When an inspiring illness story moves you, ask who wrote the ending and when. Survivorship shapes almost every account you will encounter.",
+        "format": "single",
+        "tags": [
+          "grief",
+          "narrative"
+        ]
+      },
+      {
+        "id": "when-breath-becomes-air-s09",
+        "hook": "Identity is built on a plan, and illness takes the plan first.",
+        "insight": "He had spent a decade becoming a neurosurgeon, with the payoff always positioned a few years ahead. Illness removed the future the whole structure was pointing at, and that loss arrived before any physical decline did. Much of the early suffering in a serious diagnosis is exactly this: not pain, but the sudden worthlessness of a plan that had been quietly carrying your sense of who you are.",
+        "why": "An identity built on a projected future is fragile in a specific way. It is why career-shaped lives often report an outsized crisis when the projection is removed.",
+        "apply": "Name one thing that makes your life worthwhile today, independent of where you are heading. If nothing comes to mind, that is the finding.",
+        "format": "single",
+        "tags": [
+          "identity",
+          "purpose"
+        ]
+      },
+      {
+        "id": "when-breath-becomes-air-s10",
+        "hook": "He went back to operating while dying, then stopped when he could not do it well.",
+        "insight": "Between diagnosis and death he returned to the operating room, finished his training, and kept working until his own standard made continuing impossible. The point is not heroism. It is that he judged the work by whether he could still do it properly rather than by whether he wanted to, and applied the same standard to himself that he would have applied to a colleague. Knowing when to stop is a harder skill than continuing.",
+        "why": "Self-assessment of declining capacity is unreliable in most professions, which is why external standards matter. Borrowing the standard you would apply to a colleague is the practical workaround.",
+        "apply": "Define now what would tell you to stop something you love doing. A line written in advance is far easier to obey than a judgment made in the moment.",
+        "format": "single",
+        "tags": [
+          "work",
+          "limits"
+        ]
+      }
+    ],
+    "actions": [
+      "Write down what you would want the last year of an ordinary life to contain, then check how much of it appears in your current year.",
+      "Prepare a short list of questions and arrange a note-taker for any appointment where serious news is a real possibility.",
+      "Ask a family member what they would want to be able to do, not just how long they would want to live, and write the answer down.",
+      "If you work in a caring role, choose one conversation this week to have without professional distance and notice what changes."
+    ],
+    "if_you_liked": [
+      "being-mortal",
+      "do-no-harm",
+      "complications"
+    ],
+    "not_for_you_if": "You are close to a recent bereavement, or you want practical guidance about illness rather than one person's account of facing his own.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published posthumously in January 2016. Kalanithi died in March 2015 and the final section was written by his wife, Lucy Kalanithi."
+    }
+  },
+  {
+    "id": "do-no-harm",
+    "title": "Do No Harm",
+    "subtitle": "Stories of Life, Death and Brain Surgery",
+    "author": "Henry Marsh",
+    "year": 2014,
+    "category": "medical-body",
+    "subcategory": "neurosurgery",
+    "tags": [
+      "neurosurgery",
+      "medical-error",
+      "regret",
+      "hospitals",
+      "decision-making",
+      "honesty"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "A senior surgeon cataloguing his own failures in public is rare enough to be startling, and he does it without asking to be forgiven. It reset what a medical memoir is allowed to admit about the people who operate on us.",
+    "crux": {
+      "headline": "The successes fade. The people you harmed do not",
+      "body": "Decades of operating leave a surgeon with a long list of patients who did well and a much shorter list they can still name. Skill shrinks the second list but never empties it, because the operations that can go badly are exactly the ones worth attempting. Living with that is part of the job, and pretending otherwise produces worse surgeons rather than better ones."
+    },
+    "sparks": [
+      {
+        "id": "do-no-harm-s01",
+        "hook": "Operating on a brain means deciding how much damage is acceptable.",
+        "insight": "There is no way to reach a deep tumour without passing through tissue that does something. The judgment is not whether to cause harm but where and how much, weighed against what leaving the tumour alone would do. Sometimes the honest answer is that an operation is technically possible and still a bad idea, because the life it produces is not one the person would have chosen. The hardest skill is declining to operate.",
+        "why": "Neurosurgical risk is not eliminable, only allocated. The temptation to operate is strongest exactly where the case is most marginal, because that is where the technical challenge is most attractive.",
+        "apply": "Before a big intervention in anything, ask what the realistic bad version looks like and whether you could live inside it. Then ask whether doing nothing beats it.",
+        "format": "single",
+        "tags": [
+          "risk",
+          "judgment"
+        ]
+      },
+      {
+        "id": "do-no-harm-s02",
+        "hook": "Hope and honesty pull in opposite directions in the same conversation.",
+        "insight": "A patient facing a brain tumour wants both the truth and a reason to keep going, and the two requests are not always compatible. Overstate the odds and you take away their ability to plan. Understate them and you remove the thing carrying them through the next month. Marsh describes getting this wrong in both directions across a long career, and concludes there is no formula, only attention to which one the person in front of you is asking for today.",
+        "why": "Studies of prognostic communication find clinicians systematically optimistic, especially with patients they like. Knowing the bias exists is more useful than any script for managing it.",
+        "apply": "When you need bad news, say explicitly which you want: the realistic picture, the best case, or both. Otherwise people will guess, usually kindly.",
+        "format": "single",
+        "tags": [
+          "communication",
+          "prognosis"
+        ]
+      },
+      {
+        "id": "do-no-harm-s03",
+        "hook": "A surgeon's morning is mostly spent not operating.",
+        "insight": "Between hunting for a parking space, a computer system that will not load, a bed that was given away and a meeting about targets, the actual operating shrinks into the gaps. None of the obstacles are dramatic and all of them are avoidable. The anger running through the book is not that hospitals are cruel but that enormous quantities of highly trained time get wasted by decisions made far from the ward, by people who never see the cost.",
+        "why": "Time-and-motion studies of clinicians consistently find a large share of the day going to administrative and logistical tasks. The waste is measurable and mostly goes unmeasured.",
+        "apply": "Track for one week where your most expensive hours actually go. The gap between the plan and the log is usually the whole problem.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Log the interruptions",
+            "body": "For one week, write down every time something stops you doing the work you are paid for, and how long it costs. Do not fix anything yet."
+          },
+          {
+            "step": 2,
+            "title": "Sort by who controls it",
+            "body": "Separate obstacles you can remove yourself from ones set by someone else. The two categories need completely different responses."
+          },
+          {
+            "step": 3,
+            "title": "Cost it out loud",
+            "body": "Convert wasted hours into something the decision-maker cares about: cases not done, people not seen, money spent. Anecdote loses to arithmetic."
+          },
+          {
+            "step": 4,
+            "title": "Fix one and keep the log",
+            "body": "Change a single thing and keep measuring. Without a before and after, any improvement gets absorbed and forgotten within a month."
+          }
+        ],
+        "tags": [
+          "hospitals",
+          "bureaucracy"
+        ]
+      },
+      {
+        "id": "do-no-harm-s04",
+        "hook": "Experience mostly teaches you what not to attempt.",
+        "insight": "Junior surgeons are more confident and more willing to operate. Senior ones have accumulated a set of specific memories that make certain manoeuvres feel obviously unwise. That is what expertise largely consists of here: not faster hands, but a longer list of things you now refuse to do. The uncomfortable implication is that the knowledge was bought with other people's outcomes, and that no amount of teaching transfers it fully to the next person.",
+        "why": "Tacit knowledge acquired through personal failure is hard to transmit by instruction, which is why case discussion and structured review matter more than lectures in surgical training.",
+        "apply": "Write down the three mistakes you would most want a junior to avoid, in enough detail to be recognisable. Then actually tell them.",
+        "format": "single",
+        "tags": [
+          "expertise",
+          "training"
+        ]
+      },
+      {
+        "id": "do-no-harm-s05",
+        "hook": "He keeps a list of the people he damaged. Most surgeons keep it silently.",
+        "insight": "The successes blur together because they leave and get on with their lives. The failures stay, with names and faces, and get revisited at three in the morning for decades. Marsh's choice was to write them down in public rather than manage them privately, which is unusual and costly. The value is not confession. It is that a profession which never says this out loud produces trainees who believe their own bad outcomes are uniquely theirs.",
+        "why": "The effects on clinicians after an adverse event are well documented and largely unsupported by formal systems. Silence in the profession is closer to a design feature than an accident.",
+        "apply": "Ask someone senior in your field about a decision they still regret. The answer teaches more than any account of their successes will.",
+        "format": "single",
+        "tags": [
+          "regret",
+          "honesty"
+        ]
+      },
+      {
+        "id": "do-no-harm-s06",
+        "hook": "Asleep on the table you are a technical problem. Awake, you are a person.",
+        "insight": "Marsh is direct about the split: the anaesthetised body is something you work on with your hands and your instruments, and the anxious person you met yesterday is someone else entirely. Both are the same human being. Holding the two together is exhausting, and most surgeons manage it by keeping them apart, which works until the outcome is bad and they collapse back into one at the bedside.",
+        "why": "The detachment is functionally necessary during an operation. The problem is that no part of the training addresses how to reintegrate afterwards, so everyone improvises it alone.",
+        "apply": "In any role where you handle people as cases, deliberately spend time with an outcome you would rather not look at. Avoidance compounds.",
+        "format": "single",
+        "tags": [
+          "detachment",
+          "empathy"
+        ]
+      },
+      {
+        "id": "do-no-harm-s07",
+        "hook": "Good surgery requires an arrogance that is also the main danger.",
+        "insight": "Cutting into a living brain requires a level of self-belief most people would find deranged, and without it nobody would operate at all. The same trait makes it hard to stop, hard to ask for help, and hard to accept that a colleague's judgment might be better than yours today. The profession selects for it and then provides almost no mechanism for containing it. Marsh treats his own version as a permanent liability rather than something he outgrew.",
+        "why": "Confidence and calibration are only loosely related. High-stakes fields tend to select for confidence, which is why external checks matter more there rather than less.",
+        "apply": "Ask a colleague to name the situation where your confidence outruns your competence. Then let them finish the answer without arguing.",
+        "format": "single",
+        "tags": [
+          "confidence",
+          "self-knowledge"
+        ]
+      },
+      {
+        "id": "do-no-harm-s08",
+        "hook": "He operated in Ukraine, where the constraints were completely different.",
+        "insight": "Working in an under-resourced hospital abroad, he met patients whose tumours had grown far beyond anything a British hospital would ever see, using equipment nobody in London would accept. The trips exposed how much of his ordinary practice was shaped by his system rather than by medicine. What counts as an operable case, an acceptable risk or a reasonable delay turns out to depend substantially on where you happen to be standing.",
+        "why": "Clinical thresholds vary enormously between health systems for the same condition. That variation is evidence that many decisions are institutional habits rather than biological necessities.",
+        "apply": "Ask why a rule in your organisation exists. If the answer is that it has always been done that way, you have found something worth testing.",
+        "format": "single",
+        "tags": [
+          "health-systems",
+          "perspective"
+        ]
+      },
+      {
+        "id": "do-no-harm-s09",
+        "hook": "Sometimes the kindest operation is the one you do not perform.",
+        "insight": "For an elderly patient with a large tumour and little to gain, surgery can buy weeks in hospital at the cost of the only weeks that were still theirs. Refusing to operate is harder than operating, because it looks like giving up, because families read it as abandonment, and because doing something always feels more defensible afterwards than doing nothing. Marsh is clear that he has erred in both directions and that the pressure runs one way.",
+        "why": "Action bias is strong in medicine and reinforced by legal and cultural pressure. Intervening is easier to defend afterwards than a considered decision not to intervene.",
+        "apply": "For any major decision, ask what a wise person with nothing to prove would do, then ask what is making doing nothing feel unacceptable.",
+        "format": "single",
+        "tags": [
+          "restraint",
+          "end-of-life"
+        ]
+      },
+      {
+        "id": "do-no-harm-s10",
+        "hook": "You are allowed to ask a surgeon what they would choose for their own family.",
+        "insight": "Consent conversations tend to produce a list of risks and a signature, which tells you very little. The more revealing questions are about judgment: what they would advise someone they love, how many of these they do in a year, what a realistic bad outcome looks like day to day, and what happens if you wait. Good surgeons answer these without irritation. An evasive answer is itself useful information.",
+        "why": "Risk lists satisfy legal requirements without conveying much. Questions that ask for judgment rather than statistics tend to produce more honest and more usable answers.",
+        "apply": "Take four written questions into your next specialist appointment and ask them before the consent form comes out, not afterwards.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Ask what they would advise a relative",
+            "body": "It shifts the answer from a defensible list of risks to an actual recommendation, which is usually what you came into the room for."
+          },
+          {
+            "step": 2,
+            "title": "Ask how often they do this",
+            "body": "Frequency for this specific operation, not surgery in general. It is a fair question, and hesitating to ask it helps nobody."
+          },
+          {
+            "step": 3,
+            "title": "Ask what waiting costs",
+            "body": "Find out how the condition behaves if you delay a month or a year. Urgency is sometimes real and sometimes a scheduling habit."
+          },
+          {
+            "step": 4,
+            "title": "Ask about the bad version",
+            "body": "Not the death rate, but what a poor outcome looks like day to day. That is the scenario you would actually have to live inside."
+          }
+        ],
+        "tags": [
+          "questions-to-ask",
+          "consent"
+        ]
+      }
+    ],
+    "actions": [
+      "Write four questions for your next specialist appointment, including what they would advise someone in their own family to do.",
+      "Ask someone senior in your field to describe a decision they got wrong, and note what made it hard to see at the time.",
+      "Log a week of your working hours and count how many went to the thing you are actually skilled at doing.",
+      "Talk to one family member about which outcomes they would refuse, not only which treatments they would want."
+    ],
+    "if_you_liked": [
+      "complications",
+      "being-mortal",
+      "when-breath-becomes-air"
+    ],
+    "not_for_you_if": "You want reassurance about surgery, or a memoir with a redemptive arc. This one keeps returning to failures and declines to resolve them.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2014. Marsh was a consultant neurosurgeon in London and has worked repeatedly in Ukraine. All prose here is original."
+    }
+  },
+  {
+    "id": "bad-science",
+    "title": "Bad Science",
+    "subtitle": null,
+    "author": "Ben Goldacre",
+    "year": 2008,
+    "category": "medical-body",
+    "subcategory": "evidence-based-medicine",
+    "tags": [
+      "evidence",
+      "statistics",
+      "media-literacy",
+      "placebo",
+      "nutrition-claims",
+      "critical-thinking"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It taught a general readership to read a health claim the way a statistician does, using British examples people had actually seen on television. Much of the science-checking now standard in journalism grew out of the habits it popularised.",
+    "crux": {
+      "headline": "Bad evidence is not corrected by good intentions",
+      "body": "Most health nonsense is not built on lies. It is built on real studies stretched past what they can support, control groups that were never there, and results that looked impressive because nobody counted the trials that failed. Learn the small number of ways a claim goes wrong, and most of the noise sorts itself out without any specialist knowledge."
+    },
+    "sparks": [
+      {
+        "id": "bad-science-s01",
+        "hook": "You cannot tell whether something worked without knowing what would have happened anyway.",
+        "insight": "Most illnesses improve on their own, and people seek help when they feel worst, so almost anything tried at that moment is followed by improvement. That is why testimonials are worthless as evidence and why the control group is the single most important part of a trial. The question is never whether people got better after the treatment. It is whether they got better than the ones who did not have it.",
+        "why": "Regression to the mean plus natural recovery produces convincing-looking improvement for treatments that do nothing at all. This is the mechanism behind most alternative medicine testimonials.",
+        "apply": "When you hear that something worked, ask what the comparison group did. If there was not one, you have an anecdote rather than a result.",
+        "format": "single",
+        "tags": [
+          "control-group",
+          "evidence"
+        ]
+      },
+      {
+        "id": "bad-science-s02",
+        "hook": "The placebo effect is real, stranger than you think, and usually misdescribed.",
+        "insight": "Sham treatments produce measurable changes, and the size depends on details that ought to be irrelevant: colour, price, whether it is an injection, how confident the person handing it over sounds. That is genuinely fascinating. It is also routinely misused, because a large placebo response often gets mistaken for evidence that the active treatment works. Placebo effects are strongest for subjective outcomes like pain and weakest for anything you can measure objectively.",
+        "why": "Reviews comparing placebo with no treatment find clear effects on reported symptoms and little on objective disease measures. The effect is real but much narrower than popular accounts suggest.",
+        "apply": "When a therapy claims results only in how people feel, ask whether anything measurable changed. Both matter, but they are not the same claim.",
+        "format": "single",
+        "tags": [
+          "placebo",
+          "subjectivity"
+        ]
+      },
+      {
+        "id": "bad-science-s03",
+        "hook": "The distance between a study and a headline is where most errors happen.",
+        "insight": "The chain runs from a modest paper to a university press office, to a journalist on deadline, to a subeditor writing a headline, and every step rewards making the claim larger. Nobody has to lie. A cautious finding about a rodent becomes advice about your breakfast through a series of small, individually forgivable simplifications. Knowing the chain lets you work backwards from a headline to what was probably actually found.",
+        "why": "Research tracing exaggeration in health news has found much of it already present in the university press release rather than introduced later by journalists.",
+        "apply": "Find the original paper behind a health headline once this month. The gap between them is the most useful thing you will learn all week.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Read the actual claim",
+            "body": "Find what was measured, in whom, and for how long. Often the study was done in cells or mice while the headline is about people."
+          },
+          {
+            "step": 2,
+            "title": "Look for the control",
+            "body": "Ask what the comparison was. A treatment tested against nothing, against a placebo, or against the current best option are three different claims."
+          },
+          {
+            "step": 3,
+            "title": "Convert relative to absolute",
+            "body": "A doubled risk sounds alarming. Doubling from one in ten thousand to two in ten thousand is not. Always ask for the underlying numbers."
+          },
+          {
+            "step": 4,
+            "title": "Check who was studied",
+            "body": "Results in young men do not automatically apply to older women. Ask whether the study population resembles the people in the headline."
+          },
+          {
+            "step": 5,
+            "title": "Look for the replication",
+            "body": "One study is a hypothesis. Ask whether anyone repeated it and whether the effect shrank when they did. It usually shrinks."
+          }
+        ],
+        "tags": [
+          "media-literacy",
+          "headlines"
+        ]
+      },
+      {
+        "id": "bad-science-s04",
+        "hook": "A large share of trials never get published, and the missing ones failed.",
+        "insight": "Studies that show an effect get written up, submitted and accepted more often than studies showing nothing. So the published record is a biased sample of what was actually done, and any review of that record inherits the bias. This is not a fringe problem. A treatment can look effective in the literature while the full set of trials, if you could see them all, would say otherwise. Registers exist to fix this and are only partly obeyed.",
+        "why": "Publication bias is demonstrable by comparing registered trials against published ones. It remains one of the largest structural distortions in medical evidence.",
+        "apply": "When you read a review of the evidence, check whether it searched for unpublished trials. The good ones say so explicitly in the methods.",
+        "format": "single",
+        "tags": [
+          "publication-bias",
+          "trials"
+        ]
+      },
+      {
+        "id": "bad-science-s05",
+        "hook": "A nutritionist and a dietitian are not the same job, and only one is protected.",
+        "insight": "In many countries anyone can call themselves a nutritionist without any qualification at all, while dietitian is a legally protected title requiring accredited training. That difference explains a good deal of the confident nutritional advice in circulation. The pattern generalises: wherever a field has an unregulated version of a regulated job, the unregulated one will be louder, cheaper and far more willing to promise specifics.",
+        "why": "Title protection varies by country, so check your own. The general point holds: regulatory status is a fast, imperfect filter on who is accountable for the advice they give.",
+        "apply": "Before taking health advice from a job title you do not recognise, look up whether that title requires any qualification where you live.",
+        "format": "single",
+        "tags": [
+          "credentials",
+          "nutrition-claims"
+        ]
+      },
+      {
+        "id": "bad-science-s06",
+        "hook": "Detox is a marketing word. Your liver was never asking for help.",
+        "insight": "The detox industry rests on a claim it never states precisely: which toxin, measured how, removed by what mechanism. Vague hazards are commercially useful because they cannot be disproved and generate a permanent need. Meanwhile the organs that actually clear waste products do so continuously and do not take instructions from a juice. The tell is always the missing specificity, and once you start looking for it you find it everywhere in wellness marketing.",
+        "why": "No detox product has identified a specific toxin and demonstrated its removal. The absence of a named mechanism is the design, not an oversight.",
+        "apply": "Ask any product claiming to remove toxins which toxin it removes, and how you would measure it before and after. Note whether an answer exists.",
+        "format": "single",
+        "tags": [
+          "detox",
+          "marketing"
+        ]
+      },
+      {
+        "id": "bad-science-s07",
+        "hook": "The MMR scare was a media failure at least as much as a scientific one.",
+        "insight": "A small, methodologically poor 1998 paper suggesting a link between the MMR vaccine and autism was amplified for years by British newspapers, long after much larger studies found nothing. The paper was eventually retracted and its lead author was struck off the medical register. Vaccination rates fell and measles returned. The lesson is not only that one researcher behaved badly, but that a single weak study given enormous coverage can outweigh a mountain of good evidence.",
+        "why": "The Lancet retracted the paper in 2010 and Andrew Wakefield was removed from the UK medical register that year. Large population studies since have found no association.",
+        "apply": "When a claim contradicts a large body of evidence, ask how big the contradicting study was and whether anyone has reproduced it.",
+        "format": "single",
+        "tags": [
+          "vaccines",
+          "media-failure"
+        ]
+      },
+      {
+        "id": "bad-science-s08",
+        "hook": "A test result means nothing until you know how common the condition is.",
+        "insight": "A test that is ninety-nine percent accurate sounds definitive. Apply it to a condition affecting one person in ten thousand and most positive results will still be false, simply because there are so many more healthy people available to generate errors. This is why screening a whole population is a different proposition from testing someone with symptoms, and why any surprising result should prompt the question of what the underlying rate is.",
+        "why": "Base rates dominate test interpretation and are routinely left out of reporting. Clinicians themselves are frequently shown to misjudge this when surveyed.",
+        "apply": "If you get an unexpected positive result, ask how common the condition is in people like you and what the confirmatory next step is.",
+        "format": "single",
+        "tags": [
+          "statistics",
+          "screening"
+        ]
+      },
+      {
+        "id": "bad-science-s09",
+        "hook": "Homeopathy trials get better results the worse the trial is.",
+        "insight": "Across the literature a pattern repeats: the smaller and less rigorous the study, the larger the apparent effect, and as trial quality rises the effect shrinks toward nothing. That gradient is itself the finding. It is also a general diagnostic you can use anywhere. If an intervention only works in poorly controlled studies, the most economical explanation is that you are measuring flaws in the study design rather than the intervention.",
+        "why": "Meta-analyses that sort trials by methodological quality show this gradient repeatedly. The most rigorous homeopathy trials are consistent with no effect beyond placebo.",
+        "apply": "For any contested treatment, look at what the best-designed trials found rather than at the average across all of them.",
+        "format": "single",
+        "tags": [
+          "trial-quality",
+          "homeopathy"
+        ]
+      },
+      {
+        "id": "bad-science-s10",
+        "hook": "Spotting bad evidence is more useful than memorising what is currently true.",
+        "insight": "Facts about health go out of date and no individual can check them all. The transferable thing is a short set of questions: was there a comparison, were people randomly allocated, did anyone know which group they were in, what exactly was measured, and were the negative results published. Those five questions dispose of most of the nonsense you will meet, and they work in fields a long way from medicine.",
+        "why": "The questions are about study design rather than subject matter, which is why they transfer. They are also what separates scepticism from cynicism.",
+        "apply": "Memorise five questions: comparison, randomisation, blinding, outcome measured, negatives published. Run them on the next claim that reaches you.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Was there a comparison?",
+            "body": "Ask what the treatment was measured against: nothing, a placebo, or the current standard. Without a comparison, improvement on its own tells you nothing."
+          },
+          {
+            "step": 2,
+            "title": "Was allocation random?",
+            "body": "If people chose their own group or a doctor assigned them, the groups differ before treatment starts. Randomisation is what makes them comparable."
+          },
+          {
+            "step": 3,
+            "title": "Was anyone blinded?",
+            "body": "If participants or assessors knew who got what, expectation shapes the result, especially for symptoms that are reported rather than measured."
+          },
+          {
+            "step": 4,
+            "title": "What was measured?",
+            "body": "Check whether the outcome is the one you care about or a convenient stand-in. Cholesterol is not a heart attack, and a mouse is not a person."
+          },
+          {
+            "step": 5,
+            "title": "Were the failures published?",
+            "body": "Ask whether unpublished and negative trials were searched for. What was left out shapes a conclusion more than what was included."
+          }
+        ],
+        "tags": [
+          "critical-thinking",
+          "method"
+        ]
+      }
+    ],
+    "actions": [
+      "Take one health claim you currently believe, find the original study, and check the comparison group and the sample size yourself.",
+      "Learn the difference between relative and absolute risk, then re-read a health headline from this week using it.",
+      "Look up whether the health job titles you trust are legally protected where you live, and what training they require.",
+      "Before buying any supplement, search for a systematic review of it rather than the single study the manufacturer cites."
+    ],
+    "if_you_liked": [
+      "bad-pharma",
+      "the-emperor-of-all-maladies",
+      "gut"
+    ],
+    "not_for_you_if": "You want positive health guidance rather than debunking, or the British media examples from the late 2000s will mean nothing to you.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2008 by Fourth Estate, growing out of Goldacre's Guardian column. The MMR paper was retracted by The Lancet in 2010."
+    }
+  },
+  {
+    "id": "bad-pharma",
+    "title": "Bad Pharma",
+    "subtitle": "How Drug Companies Mislead Doctors and Harm Patients",
+    "author": "Ben Goldacre",
+    "year": 2012,
+    "category": "medical-body",
+    "subcategory": "evidence-based-medicine",
+    "tags": [
+      "clinical-trials",
+      "pharma-industry",
+      "transparency",
+      "regulation",
+      "conflicts-of-interest",
+      "evidence"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 13,
+    "why_it_matters": "It turned missing trial data from a specialist complaint into a public argument, and fed campaigns that changed reporting rules for clinical trials in Europe and beyond. The problem is not solved, but it is now visible.",
+    "crux": {
+      "headline": "The problem is not fake data. It is the data you never see",
+      "body": "Drug regulation mostly assumes the evidence base is complete. It is not. Trials producing unflattering results have historically gone unpublished, leaving doctors prescribing from a filtered version of what was found. Add trials designed against weak comparators, outcomes chosen after the results are in, and marketing dressed as education, and you get a system where every individual step looks defensible and the output is unreliable."
+    },
+    "sparks": [
+      {
+        "id": "bad-pharma-s01",
+        "hook": "Doctors prescribe using a version of the evidence with the bad news removed.",
+        "insight": "When a trial produces a disappointing result there has historically been little obligation to publish it and every incentive not to. The trials that succeed appear in journals, get cited, and shape guidelines. The ones that failed sit in a filing cabinet. A doctor reading the literature conscientiously therefore ends up with a systematically flattering picture, through no fault of their own. The failure is structural, and individual diligence cannot fix it.",
+        "why": "Comparisons of trials registered with regulators against those later published show substantial numbers missing, with negative results disproportionately absent. This is documented rather than alleged.",
+        "apply": "For an important medication decision, ask your doctor what the alternatives are and how they compare, rather than only about the one on the table.",
+        "format": "single",
+        "tags": [
+          "missing-data",
+          "publication-bias"
+        ]
+      },
+      {
+        "id": "bad-pharma-s02",
+        "hook": "A new drug only has to beat a placebo, not the drug you already take.",
+        "insight": "Regulatory approval usually requires showing a treatment works better than nothing. That is a low bar, and it leaves the question doctors actually face unanswered: is this better than the cheaper thing already on the shelf. Head-to-head trials are expensive and risky for a manufacturer, so they happen less often than you would expect. The result is a market full of options with no reliable ranking between them.",
+        "why": "Approval standards and clinical usefulness are different targets. Regulators have historically not required comparative effectiveness, though several health systems now demand it separately before paying.",
+        "apply": "For a newly prescribed medication, it is fair to ask how it compares with the older option and whether anyone has tested them directly.",
+        "format": "single",
+        "tags": [
+          "regulation",
+          "comparators"
+        ]
+      },
+      {
+        "id": "bad-pharma-s03",
+        "hook": "You can make a mediocre drug look good without faking a single number.",
+        "insight": "Trial design involves many legitimate-looking choices, and each can be made in the direction that favours a product. Recruit healthier patients than the ones who will actually take it. Use a dose of the competitor that is too low or too high. Stop early on a good run. Measure a substitute outcome that is easier to shift. None of this is fraud. All of it moves the answer, and the accumulation is what makes published results untrustworthy.",
+        "why": "Each of these design choices is described in the methodological literature and each has been shown to bias effect sizes. Individually defensible choices compound in one direction.",
+        "apply": "When reading about a trial, check who was excluded, what dose the comparison used, and whether the outcome is the thing you care about.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Choose easy patients",
+            "body": "Recruit younger, healthier people with a single condition. The drug performs better than it will in the older, sicker patients who mostly take it."
+          },
+          {
+            "step": 2,
+            "title": "Pick a weak comparator",
+            "body": "Test against a placebo, or against a rival at a dose too low to work or too high to tolerate. Both make your own result look stronger."
+          },
+          {
+            "step": 3,
+            "title": "Measure a stand-in",
+            "body": "Track a laboratory value that moves easily rather than the outcome patients care about. Blood numbers are cheaper and faster than survival."
+          },
+          {
+            "step": 4,
+            "title": "Stop at a good moment",
+            "body": "Trials halted early on an encouraging trend tend to overstate benefit. Random fluctuation makes any run look real if you stop while it is going well."
+          },
+          {
+            "step": 5,
+            "title": "Report what worked",
+            "body": "Choose which outcome to headline after seeing the data, and the chance of finding something impressive rises whether or not the drug does anything."
+          }
+        ],
+        "tags": [
+          "trial-design",
+          "bias"
+        ]
+      },
+      {
+        "id": "bad-pharma-s04",
+        "hook": "Much of what doctors learn after qualifying is paid for by someone selling something.",
+        "insight": "Continuing education, conference travel, journal supplements and the friendly representative with lunch are substantially funded by industry. Doctors generally believe this does not affect them, and generally believe it affects their colleagues. The research on gifts and influence suggests the belief in personal immunity is the least reliable part of that. Influence works below the level of conscious decision, which is exactly why declaring it does not neutralise it.",
+        "why": "Studies of prescribing behaviour after industry contact show measurable shifts. Disclosure sometimes makes matters worse, by licensing the person disclosing to feel absolved.",
+        "apply": "Ask where the information behind a recommendation came from. Independent guidance bodies exist in most countries and are worth knowing by name.",
+        "format": "single",
+        "tags": [
+          "conflicts-of-interest",
+          "influence"
+        ]
+      },
+      {
+        "id": "bad-pharma-s05",
+        "hook": "The Tamiflu story is what missing data looks like when someone finally digs.",
+        "insight": "Governments spent large sums stockpiling an antiviral on the basis of published summaries, while much of the underlying trial data stayed with the manufacturer. Years of public pressure eventually released fuller reports, and independent reviewers concluded the benefits were considerably more modest than the marketing had implied. The specific drug matters less than the demonstration: the full data existed, decisions were made without it, and prising it out took a campaign.",
+        "why": "The Cochrane review of neuraminidase inhibitors was substantially revised after full clinical study reports were released. It is the clearest documented case of the general problem.",
+        "apply": "When a public health decision is announced, ask whether the underlying data is available to independent researchers or only in summary.",
+        "format": "single",
+        "tags": [
+          "transparency",
+          "case-study"
+        ]
+      },
+      {
+        "id": "bad-pharma-s06",
+        "hook": "Regulators often know things your doctor does not.",
+        "insight": "Medicines regulators receive far more data than ever reaches a journal, including full study reports running to thousands of pages. Historically much of it was treated as commercially confidential, so the people prescribing worked from a thinner record than the agency approving. Transparency has improved since, particularly in Europe, but the comfortable assumption that everything relevant appears in the published literature was never true.",
+        "why": "European regulators moved toward proactive publication of clinical study reports partly in response to this campaign. Access remains uneven between agencies and between eras.",
+        "apply": "For an important medication, look for the regulator's public assessment report as well as the patient leaflet. They are written for different purposes.",
+        "format": "single",
+        "tags": [
+          "regulators",
+          "transparency"
+        ]
+      },
+      {
+        "id": "bad-pharma-s07",
+        "hook": "Some journal articles are written by people whose names are not on them.",
+        "insight": "Ghostwriting in medical publishing means a commercial writing agency drafts a paper and an academic is recruited to appear as its author. The practice has been documented through disclosures in litigation. It matters because the perceived independence of the named author does persuasive work the content may not earn. Guidelines against it now exist, and the honest position is that nobody knows how much of the older literature it touched.",
+        "why": "Court documents in several cases exposed organised ghostwriting programmes. Prevalence estimates are inherently unreliable, because the practice is designed not to be visible.",
+        "apply": "Read the funding and author contribution statements at the end of papers. What is disclosed there is often more informative than the abstract.",
+        "format": "single",
+        "tags": [
+          "ghostwriting",
+          "publishing"
+        ]
+      },
+      {
+        "id": "bad-pharma-s08",
+        "hook": "Patient groups are sometimes funded by the companies they end up lobbying for.",
+        "insight": "Advocacy organisations do genuinely valuable work and many depend partly on industry money. That funding does not make their campaigns dishonest, but it does shape which campaigns exist at all. A well-resourced push to get one expensive drug reimbursed will be louder than a push for better basic care, because the first has a commercial sponsor and the second does not. Follow the funding to see which arguments get amplified.",
+        "why": "Funding disclosures for patient organisations vary widely in completeness. The mechanism is selection of which causes get resources, not fabrication of the cause itself.",
+        "apply": "Look up the funding page of any health charity whose campaign has persuaded you. Most publish it, and reading it takes two minutes.",
+        "format": "single",
+        "tags": [
+          "advocacy",
+          "funding"
+        ]
+      },
+      {
+        "id": "bad-pharma-s09",
+        "hook": "The fixes are boring, specific and mostly already known.",
+        "insight": "Nothing in the argument requires a conspiracy or a villain, and the remedies are unglamorous: register every trial before it starts, publish every result including the failures, require comparison against existing treatments, and let independent researchers see full study reports. Each is technically simple and politically difficult. Progress since has been real and partial, which is roughly what you would predict for reforms that cost money and embarrass people.",
+        "why": "Trial registration and results-reporting requirements have expanded, and compliance has improved without becoming complete. Audits show persistent gaps years after the rules took effect.",
+        "apply": "Find out whether your country has a public trials register and look one drug up on it. Knowing the register exists is the start of using it.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Register before you start",
+            "body": "Every trial recorded publicly before the first patient, with its planned outcome. That one step makes missing results and switched endpoints visible."
+          },
+          {
+            "step": 2,
+            "title": "Publish every result",
+            "body": "Report all trials within a set period, including the ones that failed. The failures are exactly what the current record is missing."
+          },
+          {
+            "step": 3,
+            "title": "Compare against real options",
+            "body": "Require testing against the best existing treatment, not only against a placebo, so the answer matches the decision a doctor actually faces."
+          },
+          {
+            "step": 4,
+            "title": "Open the full reports",
+            "body": "Give independent researchers access to complete study documents rather than summaries. Reanalysis has repeatedly changed the conclusions."
+          }
+        ],
+        "tags": [
+          "reform",
+          "policy"
+        ]
+      },
+      {
+        "id": "bad-pharma-s10",
+        "hook": "None of this means your medication does not work.",
+        "insight": "The natural response to a catalogue of distortion is to distrust medicine entirely, which would be a much worse error. Many treatments are genuinely effective and the evidence for them is strong. The argument here is about the reliability of the system that produces evidence, not about whether drugs work. Cynicism and scepticism part company at exactly this point: one stops asking questions, the other asks better ones and still takes the antibiotic.",
+        "why": "A biased evidence base makes effect sizes less trustworthy, not zero. Rejecting effective treatment on the basis of systemic criticism causes real and avoidable harm.",
+        "apply": "Take your questions about a prescription to the person who prescribed it rather than to a search engine, and ask them before changing anything.",
+        "format": "single",
+        "tags": [
+          "scepticism",
+          "balance"
+        ]
+      }
+    ],
+    "actions": [
+      "Look up one medication you take on a public trials register and compare how many trials exist with how many were published.",
+      "Find the independent medicines guidance body for your country and bookmark it as a first stop instead of a search engine.",
+      "Check the competing interests statement on the next study you read about, before you read the findings themselves.",
+      "Bring three questions to your next prescription review: what it is for, what the alternative is, and how you would know it is working."
+    ],
+    "if_you_liked": [
+      "bad-science",
+      "the-emperor-of-all-maladies",
+      "the-immortal-life-of-henrietta-lacks"
+    ],
+    "not_for_you_if": "You want a guide to individual drugs and what to take, or you find long, systematic institutional critique heavy going without a narrative.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2012 by Fourth Estate. Some transparency rules have tightened since, notably on EU trial data publication; the underlying critique remains largely live."
+    }
+  }
+]

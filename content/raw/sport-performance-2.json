@@ -1,0 +1,633 @@
+[
+  {
+    "id": "the-science-of-running",
+    "title": "The Science of Running",
+    "subtitle": "How to Find Your Limit and Train to Maximize Your Performance",
+    "author": "Steve Magness",
+    "year": 2014,
+    "category": "sport-performance",
+    "subcategory": "endurance-training",
+    "tags": [
+      "running",
+      "endurance",
+      "training-design",
+      "physiology",
+      "coaching",
+      "recovery"
+    ],
+    "difficulty": "challenging",
+    "read_time_min": 13,
+    "why_it_matters": "Most training advice is a recipe copied from whoever won last season. This replaces the recipe with the physiology underneath, so you can say why a session works and who it works for. A generation of coaches now argues in its vocabulary.",
+    "crux": {
+      "headline": "Train the athlete in front of you, not the average",
+      "body": "Training is not a plan you apply to a body. It is a conversation with one specific body that has its own history, response rate and tolerance. Group averages tell you what tends to work; they cannot tell you what works for you. So learn the mechanisms rather than the workouts, watch how you personally respond over weeks rather than days, and let the evidence from your own log outrank the schedule on the page."
+    },
+    "sparks": [
+      {
+        "id": "the-science-of-running-s01",
+        "hook": "The burn in your legs is not lactic acid, and lactate is not the enemy.",
+        "insight": "Hard effort has been blamed on lactic acid for a century, and the chemistry does not support it. Your body makes lactate constantly, at rest and at a sprint, and it is a fuel: muscle, heart and brain take it up and burn it. What makes a hard repetition feel like acid is a separate cascade of hydrogen ions and other by-products of rapid energy turnover. The practical difference is large. If lactate is poison, you train to avoid it. If it is fuel, you train the machinery that shuttles and consumes it.",
+        "why": "Lactate production, transport and use are all measurable and all trainable, and the acid story has been unwinding in exercise physiology for decades. The precise source of muscle acidosis is still argued, so treat any single-cause account with care.",
+        "apply": "Stop reading a lactate number as damage. Run two steady efforts a week at a pace you could just hold for an hour, and treat them as training the clearing system.",
+        "format": "single",
+        "tags": [
+          "lactate",
+          "physiology",
+          "endurance"
+        ]
+      },
+      {
+        "id": "the-science-of-running-s02",
+        "hook": "You do not stop when the muscle fails. You stop when the brain decides.",
+        "insight": "Fatigue feels like a wall, but the wall is negotiated. Your brain reads oxygen, temperature, fuel, muscle signals and how far is left, then sets how hard the effort feels and how much muscle it is willing to recruit. That is why a spent runner can still sprint the last two hundred metres, and why the same body quits earlier in the heat. Fatigue behaves less like a mechanical failure and more like a protective forecast, issued early enough to keep you safe.",
+        "why": "Regulation models explain end spurts and pacing that pure fuel-depletion accounts cannot. The idea is genuinely contested: many physiologists argue that limits inside the muscle do most of the work, and the two camps have not settled it.",
+        "apply": "Run one session with the watch covered, rate the effort from memory afterwards, then compare your ratings with the splits to see how far perception drifted.",
+        "format": "single",
+        "tags": [
+          "fatigue",
+          "brain",
+          "pacing"
+        ]
+      },
+      {
+        "id": "the-science-of-running-s03",
+        "hook": "A big engine gets you into the race. It does not tell you who wins it.",
+        "insight": "Maximum oxygen uptake is the ceiling on how much oxygen you can use per minute, and among untrained people it sorts the fit from the unfit cleanly. Among trained endurance athletes it stops discriminating: a group can share almost the same number and still finish minutes apart. What separates them is how cheaply they move at a given pace, and what fraction of that ceiling they can hold for an hour. A number that no longer sorts the people you actually race is a poor training target.",
+        "why": "Within elite groups, maximal oxygen uptake correlates weakly with finishing order, while running economy and the sustainable fraction of that maximum correlate strongly. Ceilings matter less than what you can occupy.",
+        "apply": "Stop chasing your maximum number. Every six weeks, time a fixed loop at a fixed heart rate and watch whether the pace at that same cost improves.",
+        "format": "single",
+        "tags": [
+          "vo2max",
+          "testing",
+          "economy"
+        ]
+      },
+      {
+        "id": "the-science-of-running-s04",
+        "hook": "The same plan makes one runner faster and leaves another exactly where they started.",
+        "insight": "Training studies report averages, and averages hide people. Put a group on an identical programme and the spread of outcomes is enormous: strong responders, moderate ones, and a handful who barely move at all. Some of that is inherited, some of it is sleep, stress and what else the week contains. So the honest question is never whether a method works, but whether it works for you. A plan that is right on paper and wrong for your response is still wrong.",
+        "why": "Wide variation in trainability turns up repeatedly in controlled exercise studies, which is why a group average is a weak guide to any single athlete standing in front of you.",
+        "apply": "Run a six-week experiment on yourself: change one variable, hold the rest steady, log four lines a day, and judge the result on the trend rather than on any single session.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Change one thing",
+            "body": "Pick a single variable: one extra easy run, one strength session, an earlier bedtime. Changing three at once guarantees you will never know which one mattered."
+          },
+          {
+            "step": 2,
+            "title": "Hold the rest still",
+            "body": "Keep mileage, routes and race plans as constant as you can for the trial. The point is a clean comparison, not the best six weeks of your life."
+          },
+          {
+            "step": 3,
+            "title": "Log four lines a day",
+            "body": "Session done, hours slept, resting heart rate, and how the effort felt out of ten. Four lines take a minute and turn vague impressions into a record you can read."
+          },
+          {
+            "step": 4,
+            "title": "Judge on the trend",
+            "body": "One bad Tuesday means nothing. Look at six weeks of data together and keep the change only if the trend moved, not because the idea sounded good."
+          }
+        ],
+        "tags": [
+          "individualisation",
+          "self-experiment",
+          "training-response"
+        ]
+      },
+      {
+        "id": "the-science-of-running-s05",
+        "hook": "There is no switch between aerobic and anaerobic. Both run all the time.",
+        "insight": "Textbooks draw a line: aerobic below a threshold, anaerobic above it. Bodies do not work that way. Both energy pathways operate at every intensity and what changes is the mix. Treating them as separate boxes produces training that is all slow or all fast with nothing in between, which is exactly the blend most races are run in. Thinking in proportions rather than categories lets you place a session where the gap actually is.",
+        "why": "The threshold line is a modelling convenience drawn across continuous data. It is useful for prescribing intensity, but it describes a gradient rather than a biological switch, and treating it as a switch distorts the whole week.",
+        "apply": "Sort next week by how long you could hold each effort rather than by the label on the plan, and check that something sits in the middle instead of only easy and hard.",
+        "format": "single",
+        "tags": [
+          "energy-systems",
+          "intensity",
+          "training-design"
+        ]
+      },
+      {
+        "id": "the-science-of-running-s06",
+        "hook": "Two runners, one oxygen bill. The cheaper one wins.",
+        "insight": "Economy is what it costs you in oxygen to hold a given pace. Two athletes with near-identical engines can differ substantially in that cost, and the cheaper one starts every kilometre with a free head start. Economy comes from tendon stiffness, stride mechanics, muscle fibre make-up and years of accumulated mileage, which is why it improves slowly and rewards patience. It is also why heavy lifting and short hill sprints belong in a distance programme that otherwise looks nothing like a gym plan.",
+        "why": "Strength and plyometric work improve running economy in trained runners across a number of studies, though the size of the gain varies a lot between individuals and the mechanism is still argued.",
+        "apply": "Add two short strength sessions a week built on heavy low-repetition lifts plus a set of ten-second hill sprints, and hold that for three months before you judge it.",
+        "format": "single",
+        "tags": [
+          "running-economy",
+          "strength",
+          "mechanics"
+        ]
+      },
+      {
+        "id": "the-science-of-running-s07",
+        "hook": "A season is not a stack of good workouts. It has a shape.",
+        "insight": "If every session is hard and race-specific, you peak in six weeks and then slide for the rest of the year. A season works the other way. Build broad capacity while the race is far away, narrow the training towards the exact demands of the event as it approaches, then take the volume out so the adaptation can surface. Each phase exists to make the next one possible. The common mistake is running the final phase all year long.",
+        "why": "Adaptation is specific to the stress applied and takes weeks to consolidate, so the order of stimuli matters as much as their content. Sequencing is what converts training into fitness rather than fatigue.",
+        "apply": "Write your next twelve weeks as three blocks and name the purpose of each. If two blocks have the same purpose, delete one and replace it with something the plan is missing.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Build the base",
+            "body": "Spend the early weeks on volume you can absorb and on general strength. You are not racing now. You are raising the ceiling that the later, sharper work will draw on."
+          },
+          {
+            "step": 2,
+            "title": "Introduce the demand",
+            "body": "Add sessions that touch race intensity without matching race length. The aim is to show the system what is coming while you can still recover from it easily."
+          },
+          {
+            "step": 3,
+            "title": "Sharpen to the event",
+            "body": "Now make the work resemble the race: same pace, similar terrain, the distance broken into pieces. Specificity is powerful and short-lived, so spend it late."
+          },
+          {
+            "step": 4,
+            "title": "Take the work out",
+            "body": "Cut volume, keep a little intensity, and let accumulated stress surface as fitness. A taper feels like doing nothing and is where the previous months become visible."
+          }
+        ],
+        "tags": [
+          "periodisation",
+          "planning",
+          "peaking"
+        ]
+      },
+      {
+        "id": "the-science-of-running-s08",
+        "hook": "The workout does not make you fitter. Recovering from it does.",
+        "insight": "Training is a stress that leaves you temporarily worse: emptier, sorer, slower. The improvement happens afterwards, while you sleep and eat and do nothing interesting. That makes the session and the recovery a single unit. A session you cannot recover from is not a larger stimulus but a smaller one, because the adaptation never completes. Long-term underperformance is usually a recovery deficit wearing the costume of insufficient effort.",
+        "why": "Adaptation runs on repair processes that need sleep, fuel and time. Stack stress faster than repair and performance falls while training volume rises, which is the classic overtraining trajectory.",
+        "apply": "Before adding a hard session, add an hour of sleep and a real meal to the sessions you already do. Increase load only once the current load stops filling you with dread.",
+        "format": "single",
+        "tags": [
+          "recovery",
+          "adaptation",
+          "overtraining"
+        ]
+      },
+      {
+        "id": "the-science-of-running-s09",
+        "hook": "A champion's training plan is the one a genetic outlier happened to survive.",
+        "insight": "Elite schedules circulate as blueprints, and they are the worst possible sample to learn from. You are looking at the athlete who tolerated that load. You never see the dozens who attempted the same thing and broke, quit, or simply never got fast enough for anyone to interview. Their programmes are invisible, so the surviving plan looks far more effective than it is. What transfers from an elite schedule is the principle underneath it, not the numbers on the page.",
+        "why": "This is survivorship bias in a pure form: the sample is selected on the very outcome you are trying to explain, so it cannot tell you what produced that outcome.",
+        "apply": "When you borrow a session from an elite athlete, halve it and write down the principle you are actually borrowing. Keep the principle and take the numbers from your own log.",
+        "format": "single",
+        "tags": [
+          "survivorship-bias",
+          "copying",
+          "coaching"
+        ]
+      },
+      {
+        "id": "the-science-of-running-s10",
+        "hook": "Pacing is a skill, and most runners never actually practise it.",
+        "insight": "Going out too fast is not a character flaw, it is an untrained judgement. Holding a pace requires a running comparison between how hard the effort feels now and how much distance remains, and that comparison only gets accurate through repetition at race-like intensity. Athletes who race often are better at it than athletes who train hard and race rarely, whatever their fitness. You can be in the shape of your life and still throw the day away in the first kilometre.",
+        "why": "Pacing depends on a learned mapping between perceived effort and remaining distance. That mapping improves with race experience rather than with fitness, which is why fit beginners still blow up.",
+        "apply": "Once a month, run a time trial shorter than your event and try to make the second half faster than the first. Write down the effort you felt at each split.",
+        "format": "single",
+        "tags": [
+          "pacing",
+          "perceived-effort",
+          "racing"
+        ]
+      }
+    ],
+    "actions": [
+      "Write down the three physiological qualities your event demands, then mark which one your last month of training actually developed. Fill the gap you find rather than repeating your favourite session.",
+      "Start a four-line daily log covering session, sleep, resting heart rate and perceived effort, and refuse to change your plan until six weeks of it show a trend.",
+      "Add heavy low-repetition strength work and short hill sprints twice a week for three months, treating them as economy training rather than gym work.",
+      "Take any elite training week you admire, identify the single principle behind it, and rebuild that principle at half the volume inside your own schedule."
+    ],
+    "if_you_liked": [
+      "endure",
+      "how-bad-do-you-want-it",
+      "the-sports-gene"
+    ],
+    "not_for_you_if": "You want a plan you can follow without understanding it. This explains mechanisms first and expects you to build the schedule yourself, with a fair amount of physiology along the way.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Steve Magness, first published 2014. Claims about brain-regulated fatigue are presented as contested here because they remain so in the literature. All prose is original."
+    }
+  },
+  {
+    "id": "open",
+    "title": "Open",
+    "subtitle": "An Autobiography",
+    "author": "Andre Agassi",
+    "year": 2009,
+    "category": "sport-performance",
+    "subcategory": "athlete-memoir",
+    "tags": [
+      "tennis",
+      "memoir",
+      "burnout",
+      "identity",
+      "pressure",
+      "comeback"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 10,
+    "why_it_matters": "It broke the rule that champions must love their sport. A world number one describing a career built on dread changed how coaches, parents and players talk about pressure, and it reset the standard for what a sports memoir is allowed to admit.",
+    "crux": {
+      "headline": "You can be the best in the world at something you hate",
+      "body": "Excellence and joy come apart more often than the highlight reel suggests. A career can be driven by a parent's will, by fear of humiliation and by a need to be watched, and still produce trophies. What the trophies cannot do is answer the question underneath, and winning more of them does not answer it either. The work only turned meaningful when it stopped being about proving something and started pointing at other people."
+    },
+    "sparks": [
+      {
+        "id": "open-s01",
+        "hook": "The world number one spent twenty years playing a game he did not want to play.",
+        "insight": "The assumption behind almost every performance book is that the greats love the work. Here is a counterexample at the very top of a sport: dread before matches, relief rather than joy at winning, an entire adult life spent inside an activity chosen for him. The skill was real, the results were real, and the misery was real at the same time. That combination is more common than sport admits, because nobody wins a title and then explains that they wanted to be somewhere else.",
+        "why": "Passion is usually inferred backwards from success, which makes it unfalsifiable. A career like this shows that sustained excellence can be produced by fear and obligation as easily as by love.",
+        "apply": "Ask what would happen to your effort if nobody found out about the result. If the honest answer is that it would collapse, you have located your actual engine.",
+        "format": "single",
+        "tags": [
+          "motivation",
+          "identity",
+          "honesty"
+        ]
+      },
+      {
+        "id": "open-s02",
+        "hook": "A child fed thousands of balls a day did not choose any of them.",
+        "insight": "His father built a machine to fire tennis balls at him in the Nevada heat and set a daily quota that ran into the thousands. It worked, in the narrow sense that it produced a professional. It also produced a person who could not separate the sport from coercion, decades after he had any obligation to play. The volume of practice was never the problem. The absence of consent was, and no amount of later success reopened that choice.",
+        "why": "For every child driven this way who reaches the top, thousands of others quit, are injured, or never get close, and none of them are interviewed. The method looks effective only because we count the survivors.",
+        "apply": "If you coach or parent a young athlete, hand back one real decision this week: which session to skip, which drill to run, or whether to compete at all.",
+        "format": "single",
+        "tags": [
+          "youth-sport",
+          "survivorship-bias",
+          "coaching"
+        ]
+      },
+      {
+        "id": "open-s03",
+        "hook": "He played a grand slam final terrified his hairpiece would fall off.",
+        "insight": "Before one of the biggest matches of his early career he was thinking about a hairpiece held in place with clips, and about what the crowd would see if it came loose. That is where his attention went during the points that mattered. The performance question is not whether the fear was rational. It is that any private worry loud enough to occupy working memory takes the place of the tactical thinking the moment requires. He lost that final.",
+        "why": "Attention is a single, narrow channel. Anything monitoring how you look is not monitoring the ball, and under pressure that trade is invisible to the person making it.",
+        "apply": "Before your next high-stakes performance, write down what you are secretly afraid people will notice, then remove or accept it so it cannot occupy you mid-effort.",
+        "format": "single",
+        "tags": [
+          "attention",
+          "pressure",
+          "self-consciousness"
+        ]
+      },
+      {
+        "id": "open-s04",
+        "hook": "He fell out of the world's top hundred and climbed back to number one.",
+        "insight": "The mid-career collapse was total: ranking gone, body soft, motivation absent, and no obvious reason for anyone to expect a return. The rebuild was not dramatic. He went back to the small tournaments that professionals graduate from and stopped pretending the ranking he used to have was still his, put the conditioning work first, and let results arrive at the pace they arrived. Two years later he held the top ranking again and a career grand slam.",
+        "why": "Comebacks look like willpower from outside and look like sequencing from inside. He rebuilt in the order the body and ranking system actually allow, not in the order pride prefers.",
+        "apply": "Name the level you are actually at today rather than the one you used to hold, and enter the competition that matches it this month rather than next season.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Admit the real level",
+            "body": "Start from where you are, not from your best year. Every plan built on a rank you no longer hold fails at the first honest test and takes your confidence with it."
+          },
+          {
+            "step": 2,
+            "title": "Go back down a division",
+            "body": "Play the smaller events where you can win again. Winning is a physical skill as much as an emotional one and it rusts when you only ever lose to better people."
+          },
+          {
+            "step": 3,
+            "title": "Rebuild the body first",
+            "body": "Conditioning is the slowest thing to return and the thing everything else rests on. Give it months before you ask the results to move at all."
+          },
+          {
+            "step": 4,
+            "title": "Let the ranking follow",
+            "body": "Chase the process metrics and treat position as a lagging indicator. Ranking responds to accumulated results, so it will always tell you about last season."
+          }
+        ],
+        "tags": [
+          "comeback",
+          "resilience",
+          "ranking"
+        ]
+      },
+      {
+        "id": "open-s05",
+        "hook": "He took crystal meth, lied to the sport about it, and got away with it.",
+        "insight": "At the lowest point of his career he used crystal meth, failed a test, and sent a letter that was not true. The governing body accepted it and the matter disappeared. He published the admission years later, at considerable cost to his reputation, and the sport's handling of the original case looked worse than his relapse did. What makes the episode useful is the setting: an athlete surrounded by staff and entirely alone, with no one whose job was to ask how he actually was.",
+        "why": "Support teams are usually built around performance rather than around the person. That structure catches technical faults quickly and personal collapse very late.",
+        "apply": "Identify one person in your life whose role is not tied to your output, and tell them something this week you would not put in a performance review.",
+        "format": "single",
+        "tags": [
+          "addiction",
+          "support-team",
+          "honesty"
+        ]
+      },
+      {
+        "id": "open-s06",
+        "hook": "A new coach told him to stop trying to hit perfect shots.",
+        "insight": "His game was built on beauty: clean winners, immaculate strokes, a standard he could not reach on a bad day. The coach who turned the career around replaced that standard with an ugly and effective one. Reduce your own errors, work out what the person opposite hates, and make them play that shot repeatedly until the match tips. It is a smaller ambition per point and a much larger one per season, because it wins matches on days when nothing feels good.",
+        "why": "Most points below the very top level are lost rather than won. Optimising for fewer errors and for the opponent's weakness compounds across a match in a way that spectacular shot-making does not.",
+        "apply": "In your next competition, set one target only: make fewer unforced mistakes than your opponent. Judge the day on that number rather than on your best moment.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Drop the perfect standard",
+            "body": "A standard you meet twice a year is not a standard, it is a mood. Replace it with one you can hit while tired, nervous and playing badly."
+          },
+          {
+            "step": 2,
+            "title": "Count your own errors",
+            "body": "Track unforced mistakes for a whole match. The number is usually higher than your memory of it, and it is the number most under your control."
+          },
+          {
+            "step": 3,
+            "title": "Find what they hate",
+            "body": "Every opponent has a shot they would rather not hit. Two games of attention will tell you which one, and most players never bother to look."
+          },
+          {
+            "step": 4,
+            "title": "Repeat it until it works",
+            "body": "Having found the weakness, go there again and again even when it feels monotonous. Boring and effective beats varied and impressive on the scoreboard."
+          }
+        ],
+        "tags": [
+          "tactics",
+          "coaching",
+          "error-reduction"
+        ]
+      },
+      {
+        "id": "open-s07",
+        "hook": "The most important person in his career never hit a ball with him.",
+        "insight": "His strength and conditioning coach became the constant in a life full of departures, and the training relationship outlasted every coach, marriage and ranking. Part of that is practical: late-career tennis is won by whoever is still moving in the fourth set, and the conditioning work bought him years. The rest is structural. The person who sees you at your least glamorous, five days a week, over decades, ends up knowing you better than anyone your success attracted.",
+        "why": "Long-term relationships in sport tend to form around the unglamorous daily work rather than the visible performance, which is also why they survive changes in form.",
+        "apply": "Pick the least glamorous part of your training and give it a fixed weekly slot with the same person for the next three months.",
+        "format": "single",
+        "tags": [
+          "conditioning",
+          "relationships",
+          "longevity"
+        ]
+      },
+      {
+        "id": "open-s08",
+        "hook": "Marry someone who understands the job, not someone impressed by it.",
+        "insight": "His first marriage was to someone famous in a different world, and the mismatch was not about affection but about comprehension: the travel, the losses, the strange arithmetic of a season. His second was to another tennis champion who had lived all of it. The point generalises well beyond sport. Any demanding career is easier alongside a person who does not need the fundamentals explained and does not read a bad month as a personal failure.",
+        "why": "Shared context lowers the cost of support. The partner who already understands the demands spends none of the relationship translating them, which matters most in the periods when you are performing badly.",
+        "apply": "List the three hardest things about your work to explain, then notice who in your life you never have to explain them to. Spend more time with those people.",
+        "format": "single",
+        "tags": [
+          "relationships",
+          "support",
+          "career"
+        ]
+      },
+      {
+        "id": "open-s09",
+        "hook": "The career only made sense once it paid for something outside itself.",
+        "insight": "He founded a school in his home city for children with few other options, and by his own account it gave the tennis a purpose the tennis could not generate on its own. That is a common shape at the end of elite careers. The sport is finite, the identity built on it is fragile, and the athletes who land well usually have something the winning was for. Building that earlier is easier than discovering you need it in the week you retire.",
+        "why": "Performance identities collapse at retirement because the source of self-worth ends on a fixed date. A purpose the results serve gives that worth somewhere else to live.",
+        "apply": "Write one sentence naming who benefits from your success beyond you, then commit one concrete hour a month to that thing while you are still competing.",
+        "format": "single",
+        "tags": [
+          "purpose",
+          "retirement",
+          "legacy"
+        ]
+      },
+      {
+        "id": "open-s10",
+        "hook": "His last matches were played through injections and a failing back.",
+        "insight": "By the end he needed anti-inflammatory injections to walk onto court, and the final tournament was as much an act of endurance as of tennis. He chose it anyway, and finished the career on his own timing rather than on an injury's. There is no lesson here about pushing through pain being noble. The lesson is that endings are among the few things an athlete can still author, and that choosing your last day is worth a great deal even when the body has stopped cooperating.",
+        "why": "Most elite careers end by injury, deselection or a quiet drift out. Deciding the terms of the ending is rare, and it changes how the whole career gets remembered by the person who lived it.",
+        "apply": "Decide in advance what would tell you it is time to stop your current pursuit, and write the conditions down now while you are not under pressure to keep going.",
+        "format": "single",
+        "tags": [
+          "retirement",
+          "pain",
+          "endings"
+        ]
+      }
+    ],
+    "actions": [
+      "Write an honest page about why you actually do your sport or your work, including the parts that are fear or obligation, and keep it private so it can stay honest.",
+      "Track unforced errors for one full competition and set your next month of practice around lowering that number rather than adding new skills.",
+      "Book a standing weekly session for the least glamorous part of your preparation and protect it for three months regardless of how your results go.",
+      "Name one person who benefits from your success besides you, and commit to a specific monthly hour that serves them."
+    ],
+    "if_you_liked": [
+      "winning-ugly",
+      "the-mindful-athlete",
+      "how-bad-do-you-want-it"
+    ],
+    "not_for_you_if": "You want tennis technique or a training method. This is a memoir about the psychological cost of a forced career, and the practical lessons are ones you have to extract yourself.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2009, written with the journalist J. R. Moehringer, who declined a cover credit. Descriptions here are paraphrased; no wording from the book is reproduced."
+    }
+  },
+  {
+    "id": "winning-ugly",
+    "title": "Winning Ugly",
+    "subtitle": "Mental Warfare in Tennis",
+    "author": "Brad Gilbert",
+    "year": 1993,
+    "category": "sport-performance",
+    "subcategory": "competitive-tactics",
+    "tags": [
+      "tennis",
+      "tactics",
+      "mental-game",
+      "competition",
+      "match-play"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 9,
+    "why_it_matters": "It made tactical thinking respectable in a sport obsessed with strokes. The argument that a limited player can beat a better one by managing errors, tempo and the opponent's discomfort has since spread far beyond tennis into every skill contested under pressure.",
+    "crux": {
+      "headline": "The scoreboard gives no points for style",
+      "body": "You are not being marked on technique. You are being marked on who holds the last ball in play more often, and those are different competitions. So stop trying to out-hit people and start managing the match: cut your own mistakes, find the shot your opponent dislikes, control how fast the game is played, and treat the important points differently from the ordinary ones. Ugly and effective beats elegant and beaten."
+    },
+    "sparks": [
+      {
+        "id": "winning-ugly-s01",
+        "hook": "Most points are not won. They are lost by the person who missed first.",
+        "insight": "Below the professional level the great majority of points end in a mistake rather than a winner. That single fact should reorganise how you play. If errors decide matches, then the highest-value skill is not power but reliability, and the cheapest improvement available to you is subtracting the shots you attempt at the edge of your range. You do not need a better forehand to win more. You need to stop donating four points a game.",
+        "why": "The arithmetic is unforgiving: over a hundred points, a modest cut in your own error rate outweighs almost any gain in shot quality, because errors are frequent and winners are rare.",
+        "apply": "Play one full match where you are not allowed to attempt any shot you would miss more than three times in ten, and record the score against your usual results.",
+        "format": "single",
+        "tags": [
+          "errors",
+          "percentages",
+          "match-play"
+        ]
+      },
+      {
+        "id": "winning-ugly-s02",
+        "hook": "The warm-up is not a warm-up. It is five minutes of free reconnaissance.",
+        "insight": "Most players use the knock-up to loosen their own shoulders and to look competent. Meanwhile the person opposite is showing you everything: which side they move to badly, which grip they scramble to change, whether they can handle a ball at their body, how they deal with anything slow. That information is available once, free, before the first point, and almost nobody collects it. Arriving at the first game with a plan is a large advantage over arriving with a hope.",
+        "why": "Early tactical information compounds across a match, because a weakness you find in the warm-up can be attacked for two hours rather than discovered in the third set.",
+        "apply": "In your next warm-up, deliberately test three things: their backhand, a low slow ball, and a ball hit straight at them. Decide your opening plan before the first serve.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Test both wings",
+            "body": "Send an equal number of balls to each side and watch the footwork rather than the shot. Reluctance shows up in how they set up long before it shows in the result."
+          },
+          {
+            "step": 2,
+            "title": "Vary the pace",
+            "body": "Give them one slow high ball and one flat low one. Many players are only comfortable at a single rhythm, and you have just learned which one it is."
+          },
+          {
+            "step": 3,
+            "title": "Aim at the body",
+            "body": "A ball hit straight at someone forces a decision about which side to use. Hesitation there is one of the most exploitable weaknesses in the game."
+          },
+          {
+            "step": 4,
+            "title": "Write the opening plan",
+            "body": "Commit to a first pattern before the match starts: where the serves go, which side you rally to. You can revise it, but never start without one."
+          }
+        ],
+        "tags": [
+          "scouting",
+          "preparation",
+          "opponent"
+        ]
+      },
+      {
+        "id": "winning-ugly-s03",
+        "hook": "Not all points are worth the same. Play the big ones differently.",
+        "insight": "A match is not a hundred equal events. A handful of points decide most sets: the ones at deuce, the ones that break serve, the first point of a game after you were broken. Good competitors identify those in advance and change behaviour when they arrive. Higher percentage, less ambition, more attention to the opponent's weaker side. The mistake amateurs make is playing the whole match at the same risk level and then trying something spectacular on exactly the point they cannot afford to lose.",
+        "why": "Because points are not independent in their effect on the scoreline, marginal effort spent on the pivotal ones returns far more than the same effort spread evenly across the match.",
+        "apply": "Name your three biggest points before the match: break point, deuce and the point after a lost game. On each one, take the safest option that still attacks their weak side.",
+        "format": "single",
+        "tags": [
+          "big-points",
+          "risk",
+          "scoring"
+        ]
+      },
+      {
+        "id": "winning-ugly-s04",
+        "hook": "When it is falling apart, slow everything down until you own the clock.",
+        "insight": "Losing streaks inside a match have a tempo. You rush, you serve before you are ready, the games disappear in a blur and you never re-enter the contest. Pace is one of the few variables entirely under your control, so use it. Take the full time between points, retie a shoe, walk to the back fence, breathe. If your opponent is the one on a run, the interruption costs them rhythm. If you are, the pause is where you get to make a new decision instead of repeating the last one.",
+        "why": "Rhythm carries momentum for both players, and the between-point interval is the only moment either of you can deliberately reset attention and tactics rather than react.",
+        "apply": "Build a fixed twenty-second routine between points: turn away, breathe out slowly, pick the next target, then step in. Use it identically whether you won the point or lost it.",
+        "format": "single",
+        "tags": [
+          "tempo",
+          "routine",
+          "composure"
+        ]
+      },
+      {
+        "id": "winning-ugly-s05",
+        "hook": "Never change a game that is working. Always change one that is not.",
+        "insight": "Two obvious rules that players break constantly in both directions. Ahead a set and playing well, people get bored or greedy and start trying the shots they have been sensibly avoiding. Losing badly, people grimly repeat the pattern that has failed for an hour because it is what they have practised. Keep asking one question every few games: is what I am doing producing points? If yes, keep doing it long past the point of tedium. If no, change something concrete, not just your attitude.",
+        "why": "Both errors come from managing feelings rather than evidence. Boredom is not a reason to change tactics, and stubbornness is not a plan for reversing a losing pattern.",
+        "apply": "At every changeover, answer one question in a word: working or not working. If not working, name the specific change before you sit down again.",
+        "format": "single",
+        "tags": [
+          "adaptation",
+          "tactics",
+          "decision-making"
+        ]
+      },
+      {
+        "id": "winning-ugly-s06",
+        "hook": "A second serve you can trust beats a first serve that impresses people.",
+        "insight": "The serve most players practise is the one that occasionally arrives untouched. The serve that actually decides matches is the one you hit after missing the first. If your second serve is a nervous apology, every rally starts with your opponent attacking, and the pressure lands on every first serve for the rest of the day. Building a second serve you can strike with real intent under pressure changes the entire economy of your service games, and it is unglamorous work nobody enjoys.",
+        "why": "The second serve sets the floor of your service games. A reliable floor lowers the risk cost of missing a first serve, which in turn makes the first serve freer.",
+        "apply": "Spend the next month of serving practice on second serves only, hitting a hundred a session with a target and a margin over the net you never violate.",
+        "format": "single",
+        "tags": [
+          "serving",
+          "practice",
+          "pressure"
+        ]
+      },
+      {
+        "id": "winning-ugly-s07",
+        "hook": "Fitness is a tactic. Being there in the third set beats being brilliant in the first.",
+        "insight": "Conditioning is usually filed under health rather than strategy, which understates it. If you are still moving properly when your opponent is not, their shot selection deteriorates, their errors rise, and matches that were even for an hour resolve quickly. This works especially well against better players, because a technically superior opponent who is tiring makes exactly the impatient choices you need. Being hard to finish is a strategy available to anyone willing to be uncomfortable in training.",
+        "why": "Fatigue degrades decision-making and footwork before it degrades technique, so the fitter player gains most in the phase of the match where errors decide the outcome.",
+        "apply": "Add one weekly session longer than your typical match, and structure practice sets so the important points arrive when you are already tired.",
+        "format": "single",
+        "tags": [
+          "fitness",
+          "endurance",
+          "strategy"
+        ]
+      },
+      {
+        "id": "winning-ugly-s08",
+        "hook": "Anger is not intensity. It is your opponent getting free information.",
+        "insight": "Visible frustration tells the person opposite two useful things: that the pattern they are running is working, and that you are close to giving them points. It also costs you the attention needed for the next decision. Emotional control here is not a moral matter. It is tactical, and it can be practised like a stroke: a fixed physical routine after a bad point, a phrase you say to yourself, a rule that you never comment on a mistake out loud.",
+        "why": "Composure under pressure improves with rehearsed routines rather than with resolve, which is why players who plan their reaction to a bad point recover faster than players who intend to stay calm.",
+        "apply": "Choose one physical reset for bad points, such as straightening your strings while facing the back fence, and use it every single time for a month.",
+        "format": "single",
+        "tags": [
+          "composure",
+          "emotion",
+          "routine"
+        ]
+      },
+      {
+        "id": "winning-ugly-s09",
+        "hook": "The plan that beats a better player is usually boring on purpose.",
+        "insight": "Against a stronger opponent, the instinct is to raise your level: bigger shots, more aggression, a heroic version of your game. That plays into their hands, because at a higher risk level their margin over you increases. The plan that works is duller. Take pace off, make them generate everything themselves, target the one weakness you found early, and lengthen the match. You are not trying to out-play them. You are trying to make the match a different contest from the one they are good at.",
+        "why": "Skill gaps widen at high intensity and narrow in conditions where the stronger player has to supply all the pace and patience. Changing the terms is easier than closing the gap.",
+        "apply": "Next time you face someone clearly better, commit to a full set of high, slow, deep balls to their weaker side and count how the score compares with your usual approach.",
+        "format": "single",
+        "tags": [
+          "underdog",
+          "tactics",
+          "patience"
+        ]
+      },
+      {
+        "id": "winning-ugly-s10",
+        "hook": "One player's career is a very small sample to build a system on.",
+        "insight": "The advice here comes from a professional who reached a high ranking without exceptional weapons, and it is presented as the reason he did. That is a single case, told by the person it worked for, with no comparison group of equally tactical players who never made it. Much of it is still good: the error arithmetic and the between-point routine hold up in wider evidence. But treat the whole package as one experienced practitioner's model rather than a validated method, and test each piece against your own results.",
+        "why": "A career is an uncontrolled experiment with a sample size of one, and the successful version is the one that gets written up. That is the standard shape of survivorship bias in sports instruction.",
+        "apply": "Pick two ideas from any tactical book, run them for a month while logging results, and keep only the one your own scoreline actually supports.",
+        "format": "single",
+        "tags": [
+          "survivorship-bias",
+          "evidence",
+          "self-testing"
+        ]
+      }
+    ],
+    "actions": [
+      "Log unforced errors, double faults and winners for three full matches, then set one practice goal aimed at the largest of those three numbers.",
+      "Design a fixed between-point routine and a fixed changeover question, and use both in every competitive match for a month without exception.",
+      "Spend one month of serving practice exclusively on the second serve, with a target and a fixed net margin you never breach.",
+      "Before your next three matches, write a one-paragraph plan from the warm-up alone, and review afterwards whether the weakness you identified was real."
+    ],
+    "if_you_liked": [
+      "open",
+      "the-inner-game-of-tennis",
+      "the-champions-mind"
+    ],
+    "not_for_you_if": "You do not play a racket sport and want general principles. Much of the value sits in tennis specifics, and the transfer to other domains takes work you have to do yourself.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Brad Gilbert with Steve Jamison, first published 1993. Presented here as one practitioner's model rather than validated method. All prose original."
+    }
+  }
+]

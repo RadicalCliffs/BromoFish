@@ -1,0 +1,58 @@
+{
+  "batch": "psychology-1",
+  "category": "psychology",
+  "books": [
+    {
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman"
+    },
+    {
+      "title": "Man's Search for Meaning",
+      "author": "Viktor E. Frankl"
+    },
+    {
+      "title": "Mindset",
+      "author": "Carol S. Dweck"
+    },
+    {
+      "title": "Influence",
+      "author": "Robert B. Cialdini"
+    },
+    {
+      "title": "Predictably Irrational",
+      "author": "Dan Ariely"
+    },
+    {
+      "title": "Grit",
+      "author": "Angela Duckworth"
+    },
+    {
+      "title": "Flow",
+      "author": "Mihaly Csikszentmihalyi"
+    },
+    {
+      "title": "Emotional Intelligence",
+      "author": "Daniel Goleman"
+    },
+    {
+      "title": "The Body Keeps the Score",
+      "author": "Bessel van der Kolk"
+    },
+    {
+      "title": "Quiet",
+      "author": "Susan Cain"
+    },
+    {
+      "title": "Stumbling on Happiness",
+      "author": "Daniel Gilbert"
+    },
+    {
+      "title": "The Righteous Mind",
+      "author": "Jonathan Haidt"
+    },
+    {
+      "title": "The Happiness Hypothesis",
+      "author": "Jonathan Haidt"
+    }
+  ]
+}
