@@ -1,0 +1,624 @@
+[
+  {
+    "id": "why-we-sleep",
+    "title": "Why We Sleep",
+    "subtitle": "Unlocking the Power of Sleep and Dreams",
+    "author": "Matthew Walker",
+    "year": 2017,
+    "category": "health-fitness",
+    "subcategory": "sleep",
+    "tags": [
+      "sleep",
+      "recovery",
+      "circadian-rhythm",
+      "memory",
+      "energy"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 12,
+    "why_it_matters": "Sleep went from the thing you skipped to prove you were serious to something athletes, employers and doctors now track. This book did most of that cultural work, and it also became a case study in how hard a popular science writer can push the evidence.",
+    "crux": {
+      "headline": "Sleep is the work, not the pause",
+      "body": "You are not switched off at night. Memory is sorted and stored, hormones are released on a schedule that only deep sleep provides, and the immune system runs maintenance it cannot run while you are busy. Cutting the night short does not buy you hours, it defers the work those hours were going to do. Almost everything else you try to fix with supplements and routines is downstream of whether you sleep enough, at a consistent time."
+    },
+    "sparks": [
+      {
+        "id": "why-we-sleep-s01",
+        "hook": "Sleep is not the off switch. It is the shift where the repair actually happens.",
+        "insight": "Your body does things while you are unconscious that it cannot do while you are awake. Growth hormone is released in pulses during deep sleep. The immune system runs maintenance. The brain replays parts of the day and files what matters, discarding most of the rest. Waking life is spending; sleep is the accounting. Treat the night as time you can borrow against and you are not saving hours, you are deferring the maintenance those hours were going to do.",
+        "why": "Deep non-REM and REM carry distinct physiological signatures, and depriving people of either produces measurable deficits in memory, mood and glucose handling within days. The direction of that effect is not seriously disputed.",
+        "apply": "Pick a fixed wake time and hold it for two weeks, weekends included. Bedtime tends to drift toward where it needs to be on its own.",
+        "format": "single",
+        "tags": [
+          "sleep",
+          "recovery"
+        ]
+      },
+      {
+        "id": "why-we-sleep-s02",
+        "hook": "Two separate systems decide when you feel sleepy, and they can disagree.",
+        "insight": "Sleepiness is not one signal. A clock in your brain runs a roughly 24-hour cycle telling you when it is night, and a chemical called adenosine builds up the entire time you are awake, creating pressure to sleep. Usually the two line up. Jet lag, night shifts and a long lie-in pull them apart, which is why you can be exhausted and wide awake at the same time. Fixing sleep means fixing both, not just going to bed earlier.",
+        "why": "The two-process model is one of the oldest and best supported frameworks in sleep research. It correctly predicts why light exposure and hours spent awake have separate, additive effects on when you fall asleep.",
+        "apply": "Work out which one is broken. Lying awake after a full day points at the clock; nodding off mid-afternoon points at pressure. Treat the one you actually have.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Set the clock with light",
+            "body": "Morning daylight is the strongest signal your internal clock receives. Ten minutes outside soon after waking anchors the whole cycle more effectively than any evening routine."
+          },
+          {
+            "step": 2,
+            "title": "Build pressure by staying up",
+            "body": "Adenosine accumulates only while you are awake. Long naps and lie-ins spend that pressure early, so protect it if you want to fall asleep quickly at night."
+          },
+          {
+            "step": 3,
+            "title": "Stop blocking the signal",
+            "body": "Caffeine does not remove adenosine. It sits in the receptors so you cannot feel it. The pressure is still building and arrives all at once when the drug clears."
+          },
+          {
+            "step": 4,
+            "title": "Keep the wake time fixed",
+            "body": "A constant wake time holds both systems in phase. A variable bedtime is survivable; a variable wake time drags your clock around all week."
+          }
+        ],
+        "tags": [
+          "circadian-rhythm",
+          "sleep-pressure"
+        ]
+      },
+      {
+        "id": "why-we-sleep-s03",
+        "hook": "Your afternoon coffee is still in your bloodstream when you turn the light off.",
+        "insight": "Caffeine works by occupying the receptors that would otherwise report how tired you are. The tiredness does not go anywhere while it waits. Half-life in a typical adult runs around five to six hours, though genetics swing that enormously, so a cup at four in the afternoon can leave a real dose circulating near midnight. You may still fall asleep. What suffers is the depth of it, and you wake up wanting the thing that caused the problem.",
+        "why": "Half-life means half the dose remains after that window and a quarter after two. Laboratory studies show caffeine reduces deep sleep even in people who report falling asleep normally and sleeping fine.",
+        "apply": "Move your last caffeine to at least eight hours before bed for two weeks, then judge it by how you feel on waking rather than by how fast you fell asleep.",
+        "format": "single",
+        "tags": [
+          "caffeine",
+          "sleep-quality"
+        ]
+      },
+      {
+        "id": "why-we-sleep-s04",
+        "hook": "Cutting sleep from seven hours to five costs you far more than two hours.",
+        "insight": "Sleep stages are not spread evenly through the night. Deep non-REM dominates the early hours and REM gets progressively longer toward morning. So when you go to bed at your usual time and get up two hours early, you are not removing a representative slice of the night, you are removing most of your REM. That is the stage most involved in emotional processing and in connecting new learning to what you already know.",
+        "why": "The shifting ratio across the night is a basic, repeatedly measured feature of sleep architecture. It explains why short nights hit mood and creative recall harder than they hit simple alertness.",
+        "apply": "When a night has to be compressed, protect the morning end. Go to bed later rather than setting the alarm earlier if you are forced to choose.",
+        "format": "single",
+        "tags": [
+          "rem-sleep",
+          "sleep-architecture"
+        ]
+      },
+      {
+        "id": "why-we-sleep-s05",
+        "hook": "Alcohol is a sedative, and sedation is not sleep.",
+        "insight": "A drink shortens the time it takes to lose consciousness, which is exactly why it feels like it helps. What follows is a different night. Alcohol suppresses REM early on, fragments the second half with brief awakenings you mostly will not remember, and adds a diuretic effect on top. You wake unrefreshed and conclude you need a better mattress. The loop is easy to enter because the part that works is immediate and the part that does not is invisible.",
+        "why": "Sleep laboratory recordings consistently show REM suppression and second-half fragmentation after evening alcohol, at doses low enough that people wake up believing they slept perfectly well.",
+        "apply": "Run a two-week test with no alcohol within three hours of bed, and score your morning energy out of ten each day so you compare data rather than impressions.",
+        "format": "single",
+        "tags": [
+          "alcohol",
+          "sleep-quality"
+        ]
+      },
+      {
+        "id": "why-we-sleep-s06",
+        "hook": "Being a night owl is mostly inherited, not a character flaw.",
+        "insight": "People differ genetically in when their internal clock wants to run, and the spread across a population is wide. A late chronotype forced onto an early schedule is not lazy. They are living several hours out of phase with their own biology and paying for it in accumulated sleep loss from Monday to Friday. Most schools and offices are built around morning types. That is an institutional choice, not a fact about who has discipline.",
+        "why": "Chronotype tracks with identified clock gene variants and shifts predictably with age. The mismatch between biological and social timing is measurable and correlates with worse health outcomes.",
+        "apply": "Track when you naturally wake on free days for a fortnight. If it is more than ninety minutes later than your alarm, negotiate a later start before blaming your willpower.",
+        "format": "single",
+        "tags": [
+          "chronotype",
+          "schedules"
+        ]
+      },
+      {
+        "id": "why-we-sleep-s07",
+        "hook": "Sleep works on what you learn twice: once before and once after.",
+        "insight": "A rested brain takes in new material more readily, and the night after learning is when those traces get stabilised and linked to older knowledge. This is why working through the night is a poor trade even on its own terms. You damage the encoding on the way in and skip the consolidation that would have made it stick. Studying less material with a full night on either side beats studying more with neither.",
+        "why": "Experiments that reactivate specific memories during sleep show it actively strengthens traces rather than merely protecting them from interference. Next-day recall benefits are reliable in laboratory conditions.",
+        "apply": "Move your hardest study or practice session into the two hours before bed, then sleep normally instead of reviewing the material again in the morning rush.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Arrive rested",
+            "body": "A short night before studying reduces how much goes in at all. The encoding deficit happens before you open the book, so the night before is part of the study plan."
+          },
+          {
+            "step": 2,
+            "title": "Put the hard part last",
+            "body": "Schedule the material you most need to retain in the final session of the day, close to sleep, rather than burying it mid-afternoon between easier tasks."
+          },
+          {
+            "step": 3,
+            "title": "Sleep the whole night",
+            "body": "Consolidation is spread across stages that appear at different points, so a truncated night processes the material unevenly. Do not trade the back half for one more review."
+          },
+          {
+            "step": 4,
+            "title": "Test before you reread",
+            "body": "Recall the material from memory the next day before opening your notes. Retrieval shows you what actually consolidated and strengthens it further in the process."
+          }
+        ],
+        "tags": [
+          "memory",
+          "learning"
+        ]
+      },
+      {
+        "id": "why-we-sleep-s08",
+        "hook": "A tired driver is not a slower driver. For a second, they are an absent one.",
+        "insight": "Fatigue does not merely blunt reaction time, it produces microsleeps: lapses of a few seconds where the brain goes offline while the eyes stay open. At motorway speed a single lapse covers a long stretch of road with nobody steering. Alcohol slows your response; sleep loss removes it altogether for a moment. That is why tired driving is harder to compensate for than most people assume, and why feeling alert is not evidence that you are.",
+        "why": "Microsleeps show up on EEG during sustained attention tasks in sleep-deprived people, and they routinely go unnoticed by the person having them. Self-rated alertness is a poor guide to actual lapse rate.",
+        "apply": "Treat a night under five hours as a no-driving night. If you are already out and yawning, pull over for a twenty-minute nap rather than opening a window.",
+        "format": "single",
+        "tags": [
+          "safety",
+          "sleep-deprivation"
+        ]
+      },
+      {
+        "id": "why-we-sleep-s09",
+        "hook": "Short sleep quietly changes what your body asks you to eat.",
+        "insight": "Restrict people's sleep in a laboratory and appetite hormones shift, glucose handling worsens and they reach for more calories, particularly from carbohydrate-heavy snacks. The effect shows up within days. Where the evidence thins out is the leap from those short experiments to the claim that sleep loss is a major driver of population obesity, which rests largely on observational data and is tangled up with shift work, income and stress.",
+        "why": "The short-term laboratory effects replicate well. The long-term causal story is plausible but confounded, so hold the strong version of the claim loosely while acting on the weak version anyway.",
+        "apply": "Before overhauling your diet, spend three weeks getting an extra hour in bed and watch whether your evening snacking changes without any effort.",
+        "format": "single",
+        "tags": [
+          "appetite",
+          "metabolism"
+        ]
+      },
+      {
+        "id": "why-we-sleep-s10",
+        "hook": "The sleep book that changed the conversation also overstated its case.",
+        "insight": "Some of the strongest claims in popular sleep writing do not survive close reading. A detailed public critique of this book documented misreported figures and overstated causal language, and the author accepted corrections to parts of it. None of that overturns the core message that most adults are chronically underslept and that it matters a great deal. It does mean you should hold the alarming specifics loosely and the general direction firmly.",
+        "why": "Most sleep epidemiology is observational, and the association between sleep duration and mortality is U-shaped, so long sleep looks harmful too. That pattern usually signals reverse causation rather than a simple dose response.",
+        "apply": "When a health claim arrives with a dramatic number attached, check whether it came from a controlled experiment or a population correlation before you change anything.",
+        "format": "single",
+        "tags": [
+          "evidence",
+          "scepticism"
+        ]
+      }
+    ],
+    "actions": [
+      "Fix your wake time first and hold it constant for a month, weekends included, then let bedtime settle wherever your body puts it.",
+      "Get outside within an hour of waking every day for two weeks and note whether evening sleepiness starts arriving earlier.",
+      "Audit the three inputs that break most nights: caffeine timing, evening alcohol, and a bedroom that is too warm or too bright.",
+      "Read one of the published critiques of this book alongside it so you can separate the well-supported core from the oversold specifics."
+    ],
+    "if_you_liked": [
+      "outlive",
+      "breath",
+      "spark"
+    ],
+    "not_for_you_if": "You want a careful, hedged review of the sleep literature. The argument here is deliberately alarming, and several of its sharper claims have been publicly disputed.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2017. Widely read and widely criticised; the author has acknowledged corrections to some figures. All prose here is original."
+    }
+  },
+  {
+    "id": "outlive",
+    "title": "Outlive",
+    "subtitle": "The Science and Art of Longevity",
+    "author": "Peter Attia",
+    "year": 2023,
+    "category": "health-fitness",
+    "subcategory": "longevity",
+    "tags": [
+      "longevity",
+      "prevention",
+      "exercise",
+      "metabolic-health",
+      "ageing",
+      "heart-health"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 13,
+    "why_it_matters": "It moved the popular conversation about health from how long you will live to what you will be able to do in your last decade, and it gave ordinary readers the specific markers and training targets that discussion needs.",
+    "crux": {
+      "headline": "Train now for the decade you want at ninety",
+      "body": "Most medicine waits for a diagnosis, which arrives near the end of a process that has been running for decades. The alternative is to decide what you want your final ten years to look like, work out what physical capacity and what blood markers that requires, and start building the margin now. The four diseases that will most likely kill you share risk factors, so a small number of interventions do most of the work."
+    },
+    "sparks": [
+      {
+        "id": "outlive-s01",
+        "hook": "Adding years to your life is a different project from adding life to your years.",
+        "insight": "Most medicine aims at postponing death. That is not the same thing as extending the years in which you can carry your own shopping, follow a conversation and get off the floor unaided. The two curves come apart at the end, and the decline is usually long. Planning for the final decade means asking what you want to still be able to do at eighty-five, then noticing that the training for it has to start several decades earlier.",
+        "why": "Chronic disease develops over decades before it is diagnosed, so treating at the point of symptoms is intervening near the end of the process. Prevention has a long lead time by definition.",
+        "apply": "Write down five physical things you want to be able to do at eighty-five, and keep the list wherever you plan your training.",
+        "format": "single",
+        "tags": [
+          "healthspan",
+          "prevention"
+        ]
+      },
+      {
+        "id": "outlive-s02",
+        "hook": "Four diseases account for most of how you are likely to die.",
+        "insight": "Barring accidents, the overwhelming majority of deaths in wealthy countries come from four directions: atherosclerotic cardiovascular disease, cancer, neurodegenerative disease, and metabolic dysfunction ending in type 2 diabetes. They share risk factors and they take decades to build. Naming them narrows the problem usefully. Instead of chasing general wellness you can ask what specifically moves each of the four, and notice that exercise, metabolic health and blood lipids appear in more than one column.",
+        "why": "This is descriptive epidemiology rather than a theory, which is what makes it useful. The overlap in risk factors is why a small number of interventions do a disproportionate amount of the work.",
+        "apply": "Ask for the markers tied to each of the four rather than a general check-up: a full lipid panel including ApoB, a fasting insulin or glucose tolerance test, and blood pressure.",
+        "format": "single",
+        "tags": [
+          "chronic-disease",
+          "risk"
+        ]
+      },
+      {
+        "id": "outlive-s03",
+        "hook": "Train for the life you want at ninety, not the workout you want today.",
+        "insight": "Pick the specific physical tasks you want to still be doing in your last decade: lifting a case into an overhead locker, getting off the floor without using your hands, walking uphill with a grandchild, opening a stiff jar. Then work backwards. Because capacity declines with age, whatever you want at ninety you need a substantial margin above today. That turns a vague intention to stay healthy into a training specification you can test yourself against every year.",
+        "why": "Strength and aerobic capacity decline at a fairly predictable rate after midlife, so a target set in the final decade implies a much higher target now. Backwards planning makes the required margin visible.",
+        "apply": "List ten physical tasks you want available at ninety, then test yourself on each one this month and write down the result as a baseline.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Write the list",
+            "body": "Name ten to twenty physical tasks you want available in your last decade. Be specific about weight, distance and time, not just active or independent."
+          },
+          {
+            "step": 2,
+            "title": "Add the decline margin",
+            "body": "Strength and aerobic capacity fall across the decades. Whatever a task needs at ninety, you need a comfortable multiple of it now, not a matching level."
+          },
+          {
+            "step": 3,
+            "title": "Turn tasks into training",
+            "body": "Each task maps to a trainable quality. Carrying maps to grip and loaded walking, floor transfers map to hip strength and balance, hills map to aerobic base."
+          },
+          {
+            "step": 4,
+            "title": "Retest every year",
+            "body": "Measure the same tasks annually. Targets that never get tested quietly drift, and the retest tells you which quality is falling away first."
+          }
+        ],
+        "tags": [
+          "training",
+          "healthspan"
+        ]
+      },
+      {
+        "id": "outlive-s04",
+        "hook": "Aerobic fitness is one of the strongest predictors of dying early.",
+        "insight": "Across large observational studies, low cardiorespiratory fitness sits alongside smoking as a marker for early death, and the biggest single step on the curve is between the least fit group and the one just above it. You do not need to be an athlete for this. Moving from unfit to moderately fit is where most of the available benefit lives. The caveat matters though: these are associations, and fitness partly reflects illness you may already be carrying.",
+        "why": "Fitness is measured rather than self-reported, which makes it a cleaner variable than most in epidemiology. Even so, reverse causation is real, since early disease lowers fitness long before it is diagnosed.",
+        "apply": "Get a rough aerobic capacity estimate from a supervised test or a wearable, then retest in six months after adding two aerobic sessions a week.",
+        "format": "single",
+        "tags": [
+          "cardio",
+          "vo2-max"
+        ]
+      },
+      {
+        "id": "outlive-s05",
+        "hook": "The fall that ends someone's independence is usually years in the making.",
+        "insight": "Muscle mass and strength fall away slowly from midlife, and the loss stays invisible until a task exposes it. Grip strength and leg strength both track with survival and with the ability to keep living independently. Stability is the neglected third piece: the ability to control a joint through a range under load, which is what stops an awkward step from becoming a fracture. None of it is trained by walking alone.",
+        "why": "Muscle loss progresses for decades before anyone notices, and resistance training reverses part of it at any age. Grip strength is a crude but consistently predictive proxy in large cohort studies.",
+        "apply": "Add two resistance sessions a week containing a loaded carry, a hip hinge and a single-leg movement, and hold the carry until your grip actually fails.",
+        "format": "single",
+        "tags": [
+          "strength",
+          "stability"
+        ]
+      },
+      {
+        "id": "outlive-s06",
+        "hook": "Your arteries keep a running total, and it starts in your twenties.",
+        "insight": "Atherosclerosis is not an event in your sixties. It is a process that begins decades earlier and accumulates roughly in proportion to how much cholesterol-carrying particle you have circulating and for how long. That reframes prevention entirely. The question is not whether your number crosses a threshold today, it is what your total exposure will be by the time it matters, which is why acting early is worth far more than acting hard later.",
+        "why": "Particle count, measured as ApoB, predicts cardiovascular risk better than standard LDL cholesterol, and genetic studies of people with lifelong low levels support a cumulative exposure model rather than a threshold.",
+        "apply": "Ask for an ApoB measurement rather than a standard lipid panel alone, and record it with the date so you can watch the trend across years rather than visits.",
+        "format": "single",
+        "tags": [
+          "heart-health",
+          "cholesterol"
+        ]
+      },
+      {
+        "id": "outlive-s07",
+        "hook": "Most of your training should be easy enough to hold a conversation.",
+        "insight": "A large base of low-intensity aerobic work builds the machinery that handles fuel efficiently, and it is the part most people skip because it feels unproductive. The intensity is set by your breathing: hard enough to be working, easy enough to speak in full sentences. On top of that base sits a small amount of genuinely hard interval work to raise the ceiling. Doing everything at a moderate middle intensity collects the drawbacks of both ends.",
+        "why": "Polarised training distributions are common among endurance athletes and hold up reasonably well in trials. The rationale is that low and high intensities drive genuinely different adaptations.",
+        "apply": "Convert three weekly sessions to a pace where you can talk in full sentences, and keep exactly one session that is genuinely, uncomfortably hard.",
+        "format": "single",
+        "tags": [
+          "cardio",
+          "training"
+        ]
+      },
+      {
+        "id": "outlive-s08",
+        "hook": "There are only three things any diet can actually do to you.",
+        "insight": "Strip the branding off any eating plan and it is doing one or more of three things: reducing how much you eat, removing a category of food, or narrowing the window in which you eat. That is the entire toolkit. Which combination suits you is an individual question about adherence, muscle mass and blood markers, not a moral one. It also explains why two plans that look like opposites so often produce almost identical results.",
+        "why": "Controlled feeding trials repeatedly find similar outcomes between diets once calories and protein are matched, which points at adherence rather than macronutrient magic as the deciding factor.",
+        "apply": "Name which of the three levers your current eating pattern actually uses. If it uses none of them deliberately, pick one and run it for eight weeks.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Restrict calories",
+            "body": "Eat less overall while keeping food types unchanged. Simple, effective and hard to sustain, because hunger scales with the deficit and nothing else about the day changes."
+          },
+          {
+            "step": 2,
+            "title": "Restrict a category",
+            "body": "Remove something: added sugar, alcohol, refined flour, meat. It works by cutting calories indirectly and removing decisions, not because the category is uniquely fattening."
+          },
+          {
+            "step": 3,
+            "title": "Restrict time",
+            "body": "Shorten the window in which you eat. It lowers intake for many people, but watch your protein and muscle: a very short window makes both harder to protect."
+          },
+          {
+            "step": 4,
+            "title": "Check what it costs",
+            "body": "Whichever you pick, track strength, energy and lean mass alongside weight. A method that strips muscle is buying a worse outcome with a better-looking number."
+          }
+        ],
+        "tags": [
+          "nutrition",
+          "diet"
+        ]
+      },
+      {
+        "id": "outlive-s09",
+        "hook": "Testing early is not free, and neither is waiting to find out.",
+        "insight": "Aggressive early screening finds problems sooner, and finding a cancer early usually helps. It also produces false alarms, incidental findings, biopsies and months of anxiety, and it can detect things that would never have harmed you. The position argued here is to accept more of those costs in exchange for earlier detection. That is defensible, but it is not settled: guideline bodies read the same evidence and land considerably more conservatively.",
+        "why": "Overdiagnosis is a documented harm of screening programmes, and reasonable experts disagree about where the balance sits. This is a values question wearing the clothes of a technical one.",
+        "apply": "Before agreeing to any screening test, ask what happens if the result is ambiguous, and decide in advance whether you would act on that answer.",
+        "format": "single",
+        "tags": [
+          "screening",
+          "medicine"
+        ]
+      },
+      {
+        "id": "outlive-s10",
+        "hook": "You can get every biomarker right and still have a life you dislike.",
+        "insight": "The chapter most readers skim is the one about anger, isolation and the way driven people postpone their relationships until a milestone that keeps moving. Longevity work attracts people who enjoy optimising, and optimising is a comfortable place to hide from harder questions. If the last decade is the goal, then who you will spend it with, and whether they will still want to spend it with you, belongs in the plan next to grip strength.",
+        "why": "Social connection is among the more robust predictors of health outcomes in long-running cohort studies, and unlike most markers it responds to deliberate effort rather than to measurement.",
+        "apply": "Put one recurring commitment with a person into your calendar this week, and defend it as strictly as you would defend a training session.",
+        "format": "single",
+        "tags": [
+          "relationships",
+          "emotional-health"
+        ]
+      }
+    ],
+    "actions": [
+      "Book a blood panel that includes ApoB and a marker of insulin resistance, and file the results somewhere you can compare them in five years.",
+      "Write your own list of physical tasks for your final decade, test yourself against each one, and set a date to retest in twelve months.",
+      "Restructure your training week so most aerobic work is conversational, one session is genuinely hard, and two are resistance sessions.",
+      "Pick one relationship you have been postponing and schedule a standing commitment with that person before you optimise anything else."
+    ],
+    "if_you_liked": [
+      "why-we-sleep",
+      "exercised",
+      "good-energy"
+    ],
+    "not_for_you_if": "You want simple rules rather than a framework, or you are put off by an approach built around expensive testing that most health systems will not fund.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2023, written with Bill Gifford. The screening and supplement positions are more aggressive than mainstream guidelines and are flagged as contested above."
+    }
+  },
+  {
+    "id": "breath",
+    "title": "Breath",
+    "subtitle": "The New Science of a Lost Art",
+    "author": "James Nestor",
+    "year": 2020,
+    "category": "health-fitness",
+    "subcategory": "breathing",
+    "tags": [
+      "breathing",
+      "nasal-breathing",
+      "stress",
+      "sleep",
+      "anxiety"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 10,
+    "why_it_matters": "It took a subject that sat between yoga studios and respiratory clinics and made it a mainstream health topic. The physiology it gets right is genuinely useful; the parts it oversells are a good lesson in reading health writing.",
+    "crux": {
+      "headline": "How you breathe changes how you feel",
+      "body": "Breathing is the one automatic system that also accepts instructions, and because it is wired into the same circuitry as heart rate and blood pressure, changing it changes your state. Two things carry most of the benefit: breathe through your nose rather than your mouth, and breathe more slowly than feels natural, with the exhale longer than the inhale. Almost everything else in this field is a variation on those two, or is still speculation."
+    },
+    "sparks": [
+      {
+        "id": "breath-s01",
+        "hook": "Your nose does about thirty jobs. Your mouth does one of them, badly.",
+        "insight": "Air taken in through the nose is filtered, warmed, humidified and slowed, and it picks up nitric oxide produced in the sinuses, which helps open blood vessels in the lungs. Mouth breathing skips all of that. Do it habitually, especially at night, and you get a dry throat, more disturbed sleep and a mouth that stays open because it has learned to. The nose is the default the whole system was designed around.",
+        "why": "Nasal nitric oxide production and the conditioning of incoming air are well-established physiology. Claims about long-term structural consequences are weaker and rest mostly on observational and orthodontic work.",
+        "apply": "Spend one week breathing through your nose during easy exercise, slowing your pace as much as it takes to keep your mouth closed throughout.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Start at rest",
+            "body": "Spend a few days noticing whether your mouth hangs open while you read, drive or work. Closing it is most of the change and costs nothing."
+          },
+          {
+            "step": 2,
+            "title": "Clear the passage first",
+            "body": "If your nose is genuinely blocked, fix that before anything else. Chronic congestion, allergy and structural problems need treating rather than pushing through."
+          },
+          {
+            "step": 3,
+            "title": "Take it to easy exercise",
+            "body": "Walk or jog slowly enough that your mouth stays shut. Your pace will drop noticeably at first and recover over a few weeks of practice."
+          },
+          {
+            "step": 4,
+            "title": "Leave the night until last",
+            "body": "Night breathing is the hardest to control and the easiest to get wrong. Get an airway assessment before trying to force anything while you sleep."
+          }
+        ],
+        "tags": [
+          "nasal-breathing",
+          "physiology"
+        ]
+      },
+      {
+        "id": "breath-s02",
+        "hook": "The book's central experiment had two participants, and both wrote it.",
+        "insight": "The most memorable evidence here is a self-experiment: two people blocked their noses for ten days, measured themselves throughout, and reported that blood pressure, sleep quality and snoring all worsened, then reversed when they went back to nasal breathing. It is vivid and it is consistent with known physiology. It is also a sample of two, unblinded, run by the people making the argument. That makes it a good illustration and poor proof.",
+        "why": "Self-experiments cannot separate an effect from expectation, and two people cannot tell you how a result varies across a population. Treat it as a hypothesis worth testing on yourself, not a finding.",
+        "apply": "Run your own version honestly. Pick one thing you can measure, change one variable for two weeks, and write your prediction down before you start.",
+        "format": "single",
+        "tags": [
+          "evidence",
+          "self-experiment"
+        ]
+      },
+      {
+        "id": "breath-s03",
+        "hook": "Around six breaths a minute is where your heart and lungs synchronise.",
+        "insight": "Breathe slowly and evenly at roughly five to six breaths per minute and heart rate variability rises, blood pressure tends to drop slightly, and most people feel calmer within a few minutes. The rate is not mystical. It sits close to the frequency at which the reflex controlling your blood pressure naturally oscillates, so breathing at that pace amplifies it. This is the best-evidenced idea in the entire subject.",
+        "why": "Slow-paced breathing has been tested in controlled trials for blood pressure, anxiety and heart rate variability, and the short-term effects are consistent even where the long-term ones look modest.",
+        "apply": "Set a timer for five minutes and breathe in for about five seconds and out for about five, through your nose, once a day at a fixed time.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Sit up and close your mouth",
+            "body": "Sit upright with your mouth closed and your tongue resting on the roof of your mouth. Everything that follows happens through the nose only."
+          },
+          {
+            "step": 2,
+            "title": "Slow the count",
+            "body": "Breathe in for roughly five seconds and out for roughly five. Adjust until it feels unforced. Straining for a longer count defeats the whole purpose."
+          },
+          {
+            "step": 3,
+            "title": "Let the movement be low",
+            "body": "The movement should be quiet and low, with the ribs widening sideways. A heaving chest and audible air mean you are pulling harder than you need to."
+          },
+          {
+            "step": 4,
+            "title": "Stay for five minutes",
+            "body": "The shift in heart rate variability takes a few minutes to appear. Five minutes daily does far more than one long session once a week."
+          }
+        ],
+        "tags": [
+          "slow-breathing",
+          "stress"
+        ]
+      },
+      {
+        "id": "breath-s04",
+        "hook": "A long exhale is the closest thing you have to a manual brake.",
+        "insight": "Your heart rate rises slightly on the in-breath and falls on the out-breath. Lengthening the exhale relative to the inhale leans on that asymmetry and shifts you toward the calming branch of the nervous system. It is a small effect per breath and a noticeable one after a minute or two. Unlike most calming advice it works during the situation rather than afterwards, and nobody in the room can tell you are doing it.",
+        "why": "The rise and fall of heart rate with the breath is basic physiology, and extended-exhale breathing reliably raises vagal indices in short laboratory studies. It changes your state, it does not cure anxiety.",
+        "apply": "Take six breaths with a four-second inhale and an eight-second exhale immediately before anything that makes you nervous.",
+        "format": "single",
+        "tags": [
+          "anxiety",
+          "slow-breathing"
+        ]
+      },
+      {
+        "id": "breath-s05",
+        "hook": "The urge to breathe is not your body asking for oxygen.",
+        "insight": "What triggers the desperate need to inhale is rising carbon dioxide, not falling oxygen. Your blood stays well saturated far longer than the panic suggests. This is why people who train breath-holding are mostly training tolerance to discomfort rather than storage capacity, and why anxious over-breathing makes things worse: blowing off carbon dioxide changes your blood chemistry and produces the tingling and light-headedness that feel like proof something is badly wrong.",
+        "why": "Carbon dioxide sensing driving air hunger is standard respiratory physiology, and the symptoms of hyperventilation can be reproduced deliberately in a clinic and resolved by slowing the breath.",
+        "apply": "Slow down instead of gulping air the next time stress leaves you breathless, and make the out-breath longer than the in-breath for a full minute.",
+        "format": "single",
+        "tags": [
+          "carbon-dioxide",
+          "panic"
+        ]
+      },
+      {
+        "id": "breath-s06",
+        "hook": "Most people breathe more air than they actually need, all day long.",
+        "insight": "Light chronic over-breathing is common and invisible: slightly fast, slightly deep, through the mouth, especially under stress. Because it feels like getting more oxygen it never registers as a problem. Correcting it is uncomfortable at first, since breathing less means tolerating a little more carbon dioxide, and that feels like air hunger even while your oxygen saturation is completely fine. The discomfort usually fades within a couple of weeks of practice.",
+        "why": "Reduced-breathing methods have a plausible mechanism and small trials in asthma showing fewer symptoms and less reliever medication, though measured lung function itself changes little.",
+        "apply": "Practise five minutes where the goal is to make each nasal breath so small and quiet that a mirror held under your nose would barely fog.",
+        "format": "single",
+        "tags": [
+          "over-breathing",
+          "practice"
+        ]
+      },
+      {
+        "id": "breath-s07",
+        "hook": "Mouth taping went viral on far less evidence than you would guess.",
+        "insight": "The idea is simple: hold your mouth closed at night so you breathe through your nose. Plenty of people report less snoring and a less parched throat. The published evidence is thin, limited to small studies, and it does not show that taping treats sleep apnoea. If your nose is blocked, or if you have undiagnosed apnoea, taping your mouth shut is an actively bad idea rather than a neutral one. Get the airway looked at first.",
+        "why": "Small trials suggest a modest snoring reduction in mild cases. Sleep physicians warn against using taping as a substitute for diagnosis, because obstructive apnoea needs proper assessment and treatment.",
+        "apply": "Get a sleep assessment before experimenting with your airway at night, especially if you snore heavily or wake up unrefreshed most mornings.",
+        "format": "single",
+        "tags": [
+          "sleep",
+          "evidence"
+        ]
+      },
+      {
+        "id": "breath-s08",
+        "hook": "Softer food may have given modern humans smaller jaws and worse airways.",
+        "insight": "The argument runs that industrial food requires far less chewing than anything humans ate before it, that jaws develop partly in response to mechanical load, and that crowded teeth and narrow airways are the downstream result. It is genuinely interesting, and it fits the pattern of straighter, less crowded teeth in older skulls. It also runs well ahead of the evidence, and the proposed fixes range from mainstream orthodontics to devices with no support at all.",
+        "why": "Bone does respond to mechanical loading, and skeletal comparisons are suggestive. But diet is confounded with everything else about industrial life, and no trial shows that chewing more prevents airway problems.",
+        "apply": "Treat this as a hypothesis rather than a treatment plan. If you suspect an airway or jaw problem, see a specialist instead of buying a chewing device.",
+        "format": "single",
+        "tags": [
+          "jaw",
+          "speculation"
+        ]
+      },
+      {
+        "id": "breath-s09",
+        "hook": "Breathing is the only automatic system you can also drive by hand.",
+        "insight": "Heart rate, digestion and blood pressure run without you and largely refuse instructions. Breathing runs without you but accepts them, and because it is wired into the same autonomic circuitry, changing the breath changes the rest. That is why breath practices appear independently across so many unrelated traditions. It is a real lever, and its limits are just as real: it changes your state for minutes at a time and it is not a treatment for disease.",
+        "why": "Voluntary control of respiration influences heart rate and blood pressure through established reflex pathways. The effects are reliable in the moment and modest when measured over months.",
+        "apply": "Attach two minutes of slow nasal breathing to one recurring stressful moment in your day, at the same point every time, for three weeks.",
+        "format": "single",
+        "tags": [
+          "autonomic",
+          "habit"
+        ]
+      },
+      {
+        "id": "breath-s10",
+        "hook": "Breathing through your nose while training feels worse and may pay off later.",
+        "insight": "Switching to nasal-only breathing at easy intensity forces you to slow down, because the nose restricts airflow. Over a few weeks most people find that the same pace becomes possible with the mouth closed. Whether that improves performance is unsettled, since the studies are small and mixed. What it reliably does is give you an honest brake on easy days, and easy days are exactly what most amateur athletes ruin by running them too hard.",
+        "why": "Direct performance benefits are weakly supported at best. The indirect benefit, keeping easy sessions genuinely easy, is well supported by endurance training research in general.",
+        "apply": "Do your next three easy runs or rides with your mouth closed the whole way, and accept whatever slower pace that requires.",
+        "format": "single",
+        "tags": [
+          "endurance",
+          "training"
+        ]
+      }
+    ],
+    "actions": [
+      "Spend a week simply noticing when your mouth is open, and close it during every activity where you are not out of breath.",
+      "Practise five minutes of slow nasal breathing daily at a fixed time, in for about five seconds and out for about five.",
+      "Learn the extended-exhale pattern well enough to use it silently in a meeting, then actually use it the next time you are anxious.",
+      "Get a professional airway or sleep assessment before adopting any night-time breathing intervention you read about online."
+    ],
+    "if_you_liked": [
+      "why-we-sleep",
+      "exercised",
+      "spark"
+    ],
+    "not_for_you_if": "You want careful science writing with proportionate claims. The reporting is enthusiastic, the sourcing is uneven, and the historical sections outrun the evidence.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2020. Several central claims, including the craniofacial thesis and mouth taping, are speculative or thinly evidenced and are flagged as such above."
+    }
+  }
+]

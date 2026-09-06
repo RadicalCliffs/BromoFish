@@ -1,0 +1,54 @@
+{
+  "batch": "philosophy-2",
+  "category": "philosophy",
+  "books": [
+    {
+      "title": "A Theory of Justice",
+      "author": "John Rawls"
+    },
+    {
+      "title": "The Second Sex",
+      "author": "Simone de Beauvoir"
+    },
+    {
+      "title": "Essays",
+      "author": "Michel de Montaigne"
+    },
+    {
+      "title": "The Prince",
+      "author": "Niccolò Machiavelli"
+    },
+    {
+      "title": "Language, Truth and Logic",
+      "author": "A.J. Ayer"
+    },
+    {
+      "title": "The Consolation of Philosophy",
+      "author": "Boethius"
+    },
+    {
+      "title": "Justice",
+      "author": "Michael J. Sandel"
+    },
+    {
+      "title": "Reasons and Persons",
+      "author": "Derek Parfit"
+    },
+    {
+      "title": "The Problems of Philosophy",
+      "author": "Bertrand Russell"
+    },
+    {
+      "title": "A Brief History of Thought",
+      "author": "Luc Ferry"
+    },
+    {
+      "title": "A Guide to the Good Life",
+      "author": "William B. Irvine"
+    },
+    {
+      "title": "The Denial of Death",
+      "author": "Ernest Becker"
+    }
+  ]
+}

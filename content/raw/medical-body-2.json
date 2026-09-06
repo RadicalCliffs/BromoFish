@@ -1,0 +1,272 @@
+[
+  {
+    "id": "the-man-who-mistook-his-wife-for-a-hat",
+    "title": "The Man Who Mistook His Wife for a Hat",
+    "subtitle": "And Other Clinical Tales",
+    "author": "Oliver Sacks",
+    "year": 1985,
+    "category": "medical-body",
+    "subcategory": "neurology-cases",
+    "tags": ["neurology", "brain", "perception", "memory", "identity", "case-studies"],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It changed what a medical case could sound like. Sacks wrote about people with damaged brains as people first, and turned neurology into a way of asking what a self is actually made of.",
+    "crux": {
+      "headline": "A deficit is a window into how a self is built",
+      "body": "Damage rarely removes a person. It removes one component and leaves the rest of the machinery running, which is why a brain that has lost recognition, or memory, or the sense of where its limbs are still produces someone recognisable. Read each case for two things at once: what stopped working, and what the person built around the gap. The second is where the medicine and the humanity meet."
+    },
+    "sparks": [
+      {
+        "id": "the-man-who-mistook-his-wife-for-a-hat-s01",
+        "hook": "He could describe every feature of a face and still not know whose it was.",
+        "insight": "Seeing is not one thing. A patient with visual agnosia can catalogue what is in front of him with real precision, listing angles, colours and textures, and still fail to assemble any of it into a face or a glove. The eyes work. The machinery that turns features into a meaningful whole does not. Recognition is a separate act performed on top of vision, so fast that you experience the two as one event. Watching them come apart is the only way most people ever learn they were two.",
+        "why": "Vision runs through many specialised regions, and damage to the ones that bind features into objects leaves the raw signal intact. The dissociation shows up in many patients, not a single famous one.",
+        "apply": "Describe an object out loud for one minute using only shapes, colours and edges, never its name. Notice how hard your brain fights to jump straight to the label.",
+        "format": "single",
+        "tags": ["perception", "agnosia", "vision"]
+      },
+      {
+        "id": "the-man-who-mistook-his-wife-for-a-hat-s02",
+        "hook": "His memory stopped decades ago. He is still, unmistakably, someone.",
+        "insight": "A man with severe amnesia can lose the ability to lay down anything new and live inside a permanent present, unable to say what happened an hour ago. Yet his humour, his skills, his manners and his moral reactions all survive intact. That combination is strange only if you assume a self is a stack of remembered events. Much of what other people recognise as you is carried somewhere else: in habits, in feeling, in the way you attend to a room.",
+        "why": "Memory is several systems, and they fail separately. Recall for events can collapse while skill learning and emotional learning continue, which is why the person in front of you stays recognisable.",
+        "apply": "Ask an older relative to show you something they can do rather than recall a date. Skill memory often outlasts names and years by a long way.",
+        "format": "single",
+        "tags": ["memory", "amnesia", "identity"]
+      },
+      {
+        "id": "the-man-who-mistook-his-wife-for-a-hat-s03",
+        "hook": "You have a sense you have never named, and you notice it only by losing it.",
+        "insight": "Your body reports its own position constantly. Receptors in muscles and joints tell your brain where your arm is without you looking, which is how you can touch your nose with your eyes shut. When that channel is destroyed, the body goes silent. One patient had to steer every movement by watching it, replacing an automatic sense with continuous conscious effort, and had to relearn sitting upright the way other people learn a language.",
+        "why": "Position sense is a genuine sensory channel with its own nerve fibres. Vision can substitute for it partially, but only with constant attention, which is why the loss is exhausting rather than merely inconvenient.",
+        "apply": "Standing near a wall, balance on one leg with your eyes open, then close them. The extra wobble is position sense working alone, without vision to correct it.",
+        "format": "single",
+        "tags": ["proprioception", "senses", "body"]
+      },
+      {
+        "id": "the-man-who-mistook-his-wife-for-a-hat-s04",
+        "hook": "Neurology is trained to count what is missing. Some patients have too much.",
+        "insight": "The standard clinical exam is a subtraction: strength lost, field lost, words lost. But brains also produce excesses, and those carry just as much information. Tics that arrive faster than intention. Memories that flood in unbidden. Smell or feeling turned up past the point of usefulness. An excess is harder to score on a form than an absence, so it tends to be under-recorded, and a person can be told nothing is wrong while something is loudly wrong.",
+        "why": "The excess and deficit framing is Sacks arguing with his own field, not a lab finding. Clinical practice has partly moved his way, though measuring a surplus remains harder than measuring a loss.",
+        "apply": "When you describe a symptom to a clinician, say what has increased as well as what has gone. Sensations that got louder are information too.",
+        "format": "single",
+        "tags": ["symptoms", "clinical-thinking"]
+      },
+      {
+        "id": "the-man-who-mistook-his-wife-for-a-hat-s05",
+        "hook": "Treating the illness can feel like editing out part of the person.",
+        "insight": "A man with Tourette syndrome found that his speed, his timing and much of his wit ran on the same current as his tics. Calming the tics calmed him, and he did not entirely want to be calmed. Working it out with his doctor took longer than writing a prescription, because the question was not only whether the drug worked but which version of himself he wanted to spend his week as. Effectiveness and acceptability are different measurements.",
+        "why": "This is one case, and the trade-off does not generalise. It matters because it names something trials rarely capture: a treatment can succeed on the outcome measure and still cost the patient something they value.",
+        "apply": "If a treatment changes how much you feel like yourself, say that out loud to whoever prescribed it. A trade-off can only be weighed once it has been named.",
+        "format": "single",
+        "tags": ["tourettes", "treatment", "identity"]
+      },
+      {
+        "id": "the-man-who-mistook-his-wife-for-a-hat-s06",
+        "hook": "Four questions turn a list of symptoms into an actual portrait.",
+        "insight": "Sacks reads every case the same way, and the method is learnable. He asks what has been lost, what is still intact, what has become excessive, and what the person has made of the whole situation. The first question is the only one a standard chart insists on. The other three are where the diagnosis stops being a category and starts being a description of someone, which is also where useful ideas about living with it come from.",
+        "why": "Function, preservation and adaptation are separate axes. Recording only the loss produces a file that fits many patients and helps none of them in particular.",
+        "apply": "Write your own health situation, or a relative's, as answers to those four questions on one page. Take the page to the next appointment.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Name what is lost", "body": "State the missing function plainly and concretely: not weakness, but cannot climb the stairs without stopping. Concrete losses are testable and get followed up." },
+          { "step": 2, "title": "Name what is preserved", "body": "List what still works normally. Preserved function narrows the diagnosis, and it is the raw material any workaround will have to be built from." },
+          { "step": 3, "title": "Name what has increased", "body": "Record surpluses as well: pain, movement, sensation, sleep, appetite, intrusive memory. Excesses are easy to leave out because no form asks for them." },
+          { "step": 4, "title": "Name the adaptation", "body": "Say what the person already does to cope. Clinicians can then build on a working strategy instead of replacing it with an unfamiliar one." }
+        ],
+        "tags": ["clinical-thinking", "appointments"]
+      },
+      {
+        "id": "the-man-who-mistook-his-wife-for-a-hat-s07",
+        "hook": "The most astonishing story in the book is also the least verifiable.",
+        "insight": "Sacks describes twins who exchanged enormous numbers with apparent pleasure, and he reports them as primes. It is the passage everyone remembers, and it was never tested under controlled conditions. Later commentators pointed out that a pair could produce impressive-looking numbers by other routes, and no one has reproduced the ability. Hold it as literature about human strangeness rather than as evidence about arithmetic in the brain, and the book loses nothing.",
+        "why": "A single-observer clinical anecdote cannot separate a genuine ability from a plausible shortcut. Nothing here was replicated, and keeping that doubt attached is part of reading the book honestly.",
+        "apply": "Ask of any astonishing brain story: who tested this, and how? A vivid anecdote and a measured result look identical on the page.",
+        "format": "single",
+        "tags": ["evidence", "savants", "scepticism"]
+      },
+      {
+        "id": "the-man-who-mistook-his-wife-for-a-hat-s08",
+        "hook": "Your body exists twice: once in the world, once as a map in your head.",
+        "insight": "The brain keeps a model of the body, and that model can outlive the body part or reject one that is still attached. People who have lost a limb frequently still feel it, sometimes in painful detail. Other patients wake convinced that their own leg belongs to someone else and try to remove it from the bed. Neither is a failure of intelligence. Both are what happens when the map and the territory stop agreeing and the map keeps talking.",
+        "why": "Body maps are physical structures in the brain, maintained by ongoing input. Cut the input and the map persists, which is why phantom sensation after amputation is common rather than rare or imagined.",
+        "apply": "Take phantom sensation seriously if someone reports it, and encourage them to raise it with their clinician rather than dismissing it as being in the mind.",
+        "format": "single",
+        "tags": ["body-image", "phantom-limb", "brain"]
+      },
+      {
+        "id": "the-man-who-mistook-his-wife-for-a-hat-s09",
+        "hook": "Some people who cannot start a movement can still start a song.",
+        "insight": "A patient may be unable to organise a sequence of actions on request and then perform the same sequence smoothly when music supplies the structure. Melody carries timing, and timing is exactly what the damaged system cannot generate for itself. Deep amnesia shows the same pattern from another angle: songs learned decades ago survive when almost nothing else does. Music seems to be stored and processed widely enough to survive damage that flattens other abilities.",
+        "why": "Music recruits timing, motor and emotional circuits spread across the brain, so it can route around a damaged path. Rhythm-based rehabilitation has real trial support for walking and for speech, with results that vary a lot by person.",
+        "apply": "Notice which routine tasks you already pace to music. Adding a steady beat to walking or to a repetitive chore is a free experiment in external structure.",
+        "format": "single",
+        "tags": ["music", "rehabilitation", "brain"]
+      },
+      {
+        "id": "the-man-who-mistook-his-wife-for-a-hat-s10",
+        "hook": "A chart records what a disease does, not what a person does with it.",
+        "insight": "Sacks kept visiting people outside the consulting room, because the exam captures function while the rest of life captures meaning, and the two can move in opposite directions. Someone can score worse each year and be living better. Someone can test normal and be quietly unable to work. If nobody asks, the file records only the half that is easy to measure, and decisions get made on that half.",
+        "why": "Outcome measures are built for comparison across patients, not for describing one. Narrative medicine grew out of exactly this gap and is now taught in many medical schools.",
+        "apply": "Before your next appointment, write two lines: what you can no longer do, and what you most want to keep doing. Bring both lines with you.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Write the timeline first", "body": "Dates beat adjectives. One line per change, in order, with when it started and what it stopped you doing. This is the single most useful thing you can bring." },
+          { "step": 2, "title": "Bring a witness", "body": "Someone who sees you daily notices changes you have normalised, and remembers what was said in the room after you have stopped listening." },
+          { "step": 3, "title": "State your one priority", "body": "Say what you most want to protect: the stairs, the driving, the job, the sleep. Clinicians can aim at a stated goal and cannot guess an unstated one." },
+          { "step": 4, "title": "Ask what would change the plan", "body": "Ask which new symptom or result would make them do something different. That answer tells you what to watch for and when to come back." }
+        ],
+        "tags": ["appointments", "narrative-medicine"]
+      }
+    ],
+    "actions": [
+      "Write your own four-part case note: what is lost, what is preserved, what has increased, and what you already do to cope. Keep it updated and take it to appointments.",
+      "Pick one automatic ability you never think about, such as balance or face recognition, and read a reliable overview of what happens when it fails.",
+      "Practise describing a symptom concretely instead of diagnostically: what you cannot do, since when, and how it changed, rather than what you think it is called.",
+      "Ask an older relative about a skill they still have rather than an event they remember, and notice which kind of memory has held up better."
+    ],
+    "if_you_liked": ["the-body", "the-song-of-the-cell", "being-mortal"],
+    "not_for_you_if": "You want a systematic tour of how the brain works, or you find clinical case writing about vulnerable patients uncomfortable rather than illuminating.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 1985. The twins passage has long been questioned and was never tested under controlled conditions; that doubt is stated in the sparks. All prose original."
+    }
+  },
+  {
+    "id": "an-elegant-defense",
+    "title": "An Elegant Defense",
+    "subtitle": "The Extraordinary New Science of the Immune System",
+    "author": "Matt Richtel",
+    "year": 2019,
+    "category": "medical-body",
+    "subcategory": "immunology",
+    "tags": ["immune-system", "inflammation", "autoimmunity", "cancer", "infection", "vaccines"],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "It replaces the fortress picture of immunity with something more accurate and more useful: a system whose main job is restraint. Once you see that, most advice about boosting your defences stops making sense.",
+    "crux": {
+      "headline": "Your immune system is tuned, not maximised",
+      "body": "A defence that attacked everything it could reach would destroy you within days, so most of the machinery exists to decide what to leave alone. Illness arrives from both directions. Too little response and an infection or a tumour spreads. Too much and the same weapons chew through your joints, your gut or your nerves. Health is the setting in between, held in place by constant negotiation rather than by force."
+    },
+    "sparks": [
+      {
+        "id": "an-elegant-defense-s01",
+        "hook": "Nobody selling you an immune booster has told you what a boosted immune system does.",
+        "insight": "Turning the whole system up is not health, it is autoimmunity. The cells that kill infected tissue cannot tell your knee from a bacterium by intuition; they follow rules about what counts as foreign, and those rules are the actual product. A system running hot attacks joints, thyroid, gut lining or nerve sheaths. So the goal is never more immunity. It is accurate immunity, which is a much harder thing to sell in a bottle.",
+        "why": "Autoimmune disease and allergy are overreactions, not deficiencies, and they affect a large number of people. Any intervention that genuinely raised overall activity would raise those risks along with everything else.",
+        "apply": "Next time a product promises to boost immunity, ask which specific cells it changes and what the measured outcome was. Vague strength claims are the tell.",
+        "format": "single",
+        "tags": ["immune-system", "health-claims"]
+      },
+      {
+        "id": "an-elegant-defense-s02",
+        "hook": "Before a T cell is allowed to work, it has to pass an exam about you.",
+        "insight": "Immune cells are generated with essentially random targeting, which is how the body prepares for pathogens it has never met. The obvious problem is that many of those random receptors will match your own tissue. So new T cells are screened in the thymus and the ones that react strongly to self are eliminated before release. Your immunity is defined less by what it can attack than by the enormous list of things it has been taught to ignore.",
+        "why": "This screening is standard immunology, and it is imperfect by design. Some self-reactive cells escape, which is why the body keeps additional layers of restraint outside the thymus.",
+        "apply": "Explain to someone why a random-then-filter design is smarter than a pre-programmed one. If you can teach it, you understand why allergies and autoimmunity exist at all.",
+        "format": "single",
+        "tags": ["t-cells", "self-tolerance", "immune-system"]
+      },
+      {
+        "id": "an-elegant-defense-s03",
+        "hook": "An autoimmune disease is not a weak defence. It is a precise one aimed wrongly.",
+        "insight": "Rheumatoid arthritis, lupus, type 1 diabetes and coeliac disease are all the immune system working correctly against the wrong target. That reframing matters for how patients get treated. Being told your body is attacking itself sounds like a moral failing, and the illnesses often look invisible from outside, so people spend years being described as anxious before anyone runs the right test. The machinery is not broken. Its address book is.",
+        "why": "These conditions are far more common in women than in men, and the reasons are still being worked out. Diagnostic delay is a documented problem across several of them, not a complaint invented by patients.",
+        "apply": "If symptoms keep getting explained away, ask directly: what would we expect to see if this were an autoimmune process, and has that been tested?",
+        "format": "single",
+        "tags": ["autoimmunity", "diagnosis", "womens-health"]
+      },
+      {
+        "id": "an-elegant-defense-s04",
+        "hook": "Most of what you feel when you are ill is you, not the germ.",
+        "insight": "Fever, aches, swelling, exhaustion and the loss of appetite are responses your body chooses to mount. Raising temperature makes the environment worse for some pathogens and speeds parts of the immune response. Swelling is fluid and cells arriving at the site. Feeling wiped out keeps you still while the work happens. The virus is rarely doing the damage you can feel. Your defence is, and that is usually the point of it.",
+        "why": "Sickness behaviour is a coordinated response driven by immune signalling molecules, and it is well described. Whether to suppress any part of it in a given illness is a clinical question with real trade-offs, not a rule of thumb.",
+        "apply": "Ask a clinician what your symptoms are actually doing before assuming every one of them should be flattened. Get advice specific to you rather than general.",
+        "format": "single",
+        "tags": ["inflammation", "fever", "infection"]
+      },
+      {
+        "id": "an-elegant-defense-s05",
+        "hook": "The same fire that heals a cut will, left burning, damage the house.",
+        "insight": "Acute inflammation is a repair operation: vessels widen, cells rush in, debris gets cleared, tissue rebuilds, and the whole thing shuts down when the job is finished. Chronic inflammation is that programme failing to end. Signals stay elevated for years at a level too low to feel, and the same processes that repair tissue in a week gradually degrade it over a decade. Duration, not intensity, is what turns a defence into a disease.",
+        "why": "Persistent low-grade inflammation is associated with cardiovascular disease and several others. Association is not the same as cause, and much anti-inflammatory advice sold to the public runs far ahead of the trial evidence.",
+        "apply": "Treat lifestyle claims about reducing inflammation sceptically unless a trial measured a health outcome, not just a marker in the blood.",
+        "format": "single",
+        "tags": ["inflammation", "chronic-disease", "evidence"]
+      },
+      {
+        "id": "an-elegant-defense-s06",
+        "hook": "Fighting an infection is four systems in sequence, not one big battle.",
+        "insight": "The response is layered and each layer buys time for the next. Barriers keep most things out. A fast general-purpose response attacks anything that gets through without knowing what it is. A slower targeted response takes days to build a weapon shaped to that specific invader. Then memory cells persist for years so the next encounter is settled before you notice it. Vaccines exist because that third and fourth stage can be trained without the disease.",
+        "why": "This layered structure is the standard model of human immunity. Understanding the timing explains why you feel worst several days in and why immunity to a given pathogen can be partial rather than absolute.",
+        "apply": "Use the four stages to work out where a given intervention acts, then ask your clinician which stage a vaccine or treatment is aimed at.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Barriers hold the line", "body": "Skin, mucus, stomach acid and resident microbes block or destroy most arrivals. Nothing about this stage feels like being ill, which is why it goes unnoticed." },
+          { "step": 2, "title": "Innate cells swarm", "body": "Within hours, general-purpose cells attack anything marked as foreign and release signals that produce heat, swelling and the feeling of being unwell." },
+          { "step": 3, "title": "Adaptive cells specialise", "body": "Over several days the body selects and mass-produces cells and antibodies shaped to this exact invader. This is the slow, precise, expensive part of the response." },
+          { "step": 4, "title": "Memory stays behind", "body": "A reserve of trained cells persists afterwards, sometimes for decades. Vaccination builds this reserve directly, which is the entire trick." }
+        ],
+        "tags": ["infection", "vaccines", "immune-system"]
+      },
+      {
+        "id": "an-elegant-defense-s07",
+        "hook": "Some cancers survive by pressing the brakes your immune system built for you.",
+        "insight": "T cells carry off-switches so that a response can be stopped once the threat is gone. Certain tumours display the molecules that trigger those switches, so the immune cells arrive, receive a stand-down signal, and do nothing. Checkpoint inhibitor drugs block that signal. For some people with cancers that were previously untreatable, the result is a long remission. For many others there is no response at all, and releasing the brakes can cause serious autoimmune reactions.",
+        "why": "Checkpoint inhibition is a genuine advance with Nobel-recognised science behind it. It is also frequently oversold: response rates vary widely by cancer type and most patients are not cured by it.",
+        "apply": "If immunotherapy comes up for you or a relative, ask what fraction of patients with that specific cancer respond, and what the serious side effects are.",
+        "format": "single",
+        "tags": ["cancer", "immunotherapy", "treatment"]
+      },
+      {
+        "id": "an-elegant-defense-s08",
+        "hook": "HIV is devastating because it kills the coordinator, not the soldiers.",
+        "insight": "The virus targets the very cells that organise an immune response. Weapons remain, but the command structure goes, so the body loses to organisms it would normally ignore completely. That is why untreated HIV shows up as a collection of unlikely infections rather than as one disease. It also explains why antiviral treatment works so well: protect the coordinating cells and the rest of the system can go back to running itself.",
+        "why": "The mechanism is well established, and effective treatment has turned HIV from a fatal illness into a manageable long-term condition for people who can get and keep taking it.",
+        "apply": "Notice how much of a system depends on coordination rather than force, then ask what the equivalent single point of failure is in something you rely on.",
+        "format": "single",
+        "tags": ["hiv", "infection", "immune-system"]
+      },
+      {
+        "id": "an-elegant-defense-s09",
+        "hook": "The clean-house theory of allergies is popular, partly right, and often overstated.",
+        "insight": "The idea that too little early exposure to microbes leaves the immune system poorly calibrated has real support, and rates of allergy and asthma do differ sharply between environments. But the simple version, that dirt is protective and cleanliness is harmful, has not held up. Researchers have narrowed it to particular kinds of exposure, especially to diverse harmless organisms early in life, and hygiene that prevents infection remains straightforwardly good for you.",
+        "why": "The hygiene hypothesis has been substantially revised since it was proposed, and specialists now prefer a more restricted version. Handwashing and clean water were never the problem, which is where the popular retelling goes wrong.",
+        "apply": "Discuss allergy prevention questions for a child with a paediatric clinician rather than acting on general theories about exposure found online.",
+        "format": "single",
+        "tags": ["allergy", "hygiene-hypothesis", "evidence"]
+      },
+      {
+        "id": "an-elegant-defense-s10",
+        "hook": "Sleep, stress and loneliness reach your immune system. The effect sizes are modest.",
+        "insight": "There are real, measurable links between how you live and how your immune system behaves. Sleep loss changes immune signalling. Prolonged stress alters immune regulation. Social isolation tracks with worse health outcomes across many studies. All of that is defensible. What is not defensible is the leap from a shifted marker in a blood sample to a promise that a routine will stop you catching things, which is where most popular writing overshoots.",
+        "why": "Most of this research measures intermediate markers rather than illness, and the human trials that do measure illness show smaller effects than the headlines. Directionally real, commercially exaggerated.",
+        "apply": "Protect sleep and contact with people because both make life better and are low risk, not because a routine will make you immune to anything.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Check what was measured", "body": "A change in an immune marker is not a change in whether you get ill. Ask whether the study counted actual infections, hospital visits or deaths." },
+          { "step": 2, "title": "Check who was studied", "body": "Findings in mice, in cells or in twenty young volunteers do not transfer automatically to you. Species and sample size do most of the quiet work in these claims." },
+          { "step": 3, "title": "Check the size of the effect", "body": "Statistically significant can mean tiny. Ask how much difference it made in absolute terms before rearranging your week around it." },
+          { "step": 4, "title": "Check who benefits", "body": "Find out who funded the study or the article, and what they sell. This does not make a finding wrong, but it tells you how hard to look." }
+        ],
+        "tags": ["sleep", "stress", "evidence"]
+      }
+    ],
+    "actions": [
+      "Write a plain-language description of how your body handles an infection in four stages, then use it to place any immune claim you meet.",
+      "Check your vaccination record and raise any gaps with a clinician, asking specifically which ones are recommended for your age and situation.",
+      "Pick one immune-related product in your home and try to find the human trial behind its claim. Note what you find, including finding nothing.",
+      "If you or someone close has ongoing unexplained symptoms, write a dated timeline and ask directly whether an autoimmune cause has been considered."
+    ],
+    "if_you_liked": ["the-song-of-the-cell", "the-body", "why-we-get-sick"],
+    "not_for_you_if": "You want a technical immunology text rather than four patient stories with the science threaded through them, or you dislike memoir mixed into science writing.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2019. Richtel is a New York Times reporter; the book follows four patients including a friend treated with cancer immunotherapy. All prose original."
+    }
+  }
+]

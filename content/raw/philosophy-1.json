@@ -1,0 +1,598 @@
+[
+  {
+    "id": "meditations",
+    "title": "Meditations",
+    "subtitle": null,
+    "author": "Marcus Aurelius",
+    "year": 180,
+    "category": "philosophy",
+    "subcategory": "stoicism",
+    "tags": [
+      "stoicism",
+      "mortality",
+      "self-discipline",
+      "resilience",
+      "ancient-philosophy"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "A Roman emperor kept a private notebook to talk himself into behaving well, and it survived by accident. It is the only major work of philosophy written by a man with unlimited power, and nearly all of it is about restraint.",
+    "crux": {
+      "headline": "Your judgement is yours. The event never was",
+      "body": "Between what happens and how much you suffer sits a step you supply yourself: the verdict that this is a disaster, an insult, an outrage. Marcus goes after that step over and over, for twelve short books. Take the verdict away and what is left is usually a plain fact you can work with. The world owes you no convenient arrangement. What you decide to think about the arrangement you got is the one thing that is genuinely yours."
+    },
+    "sparks": [
+      {
+        "id": "meditations-s01",
+        "hook": "Nobody was ever supposed to read this. That is exactly why it still works.",
+        "insight": "These are notes a man wrote to himself, in Greek, in army camps on the Danube frontier, with no reader in mind and no title. That changes how you should read them. There is no argument being built and no audience being persuaded. There is a tired administrator reminding himself of the same handful of things because he keeps failing at them. When the same warning about anger appears for the ninth time, you are not looking at a doctrine. You are looking at evidence of how hard the practice was for the man recommending it.",
+        "why": "Repetition in a private journal is a symptom, not a style. The ideas Marcus returns to most are the ones that kept failing him, which makes the text unusually honest about difficulty.",
+        "apply": "Start a page nobody else will see. Each time you lose your temper, write the same reminder again rather than a new one, and let the repetition show you your actual weak point.",
+        "format": "single",
+        "tags": [
+          "journaling",
+          "self-examination"
+        ]
+      },
+      {
+        "id": "meditations-s02",
+        "hook": "The insult arrived on its own. The wound is something you added afterwards.",
+        "insight": "Marcus keeps separating two things that feel like one. There is the event, which is a fact, and there is your ruling about the event, which is a decision made so fast it feels like perception. Someone speaks rudely to you. That is a movement of air. Everything after it, the sense of being diminished, the replay at two in the morning, is supplied by you. His move is not to deny the pain but to locate it. If the harm is in your ruling, then the harm sits somewhere you can actually reach.",
+        "why": "Reframing works well for ordinary slights, and modern cognitive therapy is built on the same separation. But the stronger Stoic claim, that nothing outside you can genuinely harm you, does not survive contact with grief, poverty or torture.",
+        "apply": "Take one thing that annoyed you today and write the event in a single factual sentence with no adjectives. Then write, separately, what you added to it.",
+        "format": "single",
+        "tags": [
+          "judgement",
+          "reframing",
+          "anger"
+        ]
+      },
+      {
+        "id": "meditations-s03",
+        "hook": "Zoom out far enough and your enemy is a brief arrangement of atoms.",
+        "insight": "One of his standing exercises is to change scale on purpose. Look at your quarrel from high above: the city, the province, the empire, the long dead generations who fought about things nobody now remembers. Not to make you feel worthless, but to correct a distortion. Close up, an insult from a colleague occupies the whole field of view. Widened out, it is a small event among a very large number of small events, and the correct amount of energy to spend on it becomes obvious.",
+        "why": "This is a deliberate manipulation of perspective, not a discovery about the universe. It works because emotional intensity tracks how much of your attention a thing occupies, and attention can be moved.",
+        "apply": "Next time you are furious, spend sixty seconds placing the incident on a timeline that runs a hundred years past your death. Then decide how much of today it gets.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Name the thing plainly",
+            "body": "Describe what actually happened in the flattest language you can manage. No motives, no adjectives, no history. Most of the sting lives in the description rather than the event."
+          },
+          {
+            "step": 2,
+            "title": "Pull the camera back",
+            "body": "Put the incident inside your week, then your decade, then the century. Watch how much of your attention it can still legitimately claim at each distance."
+          },
+          {
+            "step": 3,
+            "title": "Count the others",
+            "body": "Everyone who ever held a grudge as fierce as yours is now dead, and so is everyone who cared about it. This is not despair. It is a sense of proportion."
+          },
+          {
+            "step": 4,
+            "title": "Return and act",
+            "body": "Come back to normal scale and do the one useful thing the situation actually calls for. Perspective is meant to clear the way for action, not replace it."
+          }
+        ],
+        "tags": [
+          "perspective",
+          "cosmic-view"
+        ]
+      },
+      {
+        "id": "meditations-s04",
+        "hook": "Rehearse the difficult people before breakfast, not after the meeting.",
+        "insight": "He begins the day by listing what is likely to go wrong: someone will be ungrateful, someone will be arrogant, someone will lie to your face. The point is not pessimism. Surprise is what converts an irritation into a rage, and surprise is optional. If you have already pictured the difficult colleague being difficult, the actual event arrives as a confirmation rather than an ambush. He adds a second move that is harder: the difficult person is acting on a mistaken idea of what is good for them, and you share a nature with them, so contempt is the wrong response.",
+        "why": "Expected setbacks provoke weaker reactions than unexpected ones. The technique borrows from a standard Stoic exercise of rehearsing misfortune in advance, which lowers its shock value without requiring it to happen.",
+        "apply": "Before your first meeting tomorrow, name the two people most likely to frustrate you and the exact form it will take. Decide your response now, while you are calm.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "List the likely friction",
+            "body": "Name what will probably go wrong today and who will probably cause it. Be specific enough that you would recognise the moment when it arrives."
+          },
+          {
+            "step": 2,
+            "title": "Grant them their reasons",
+            "body": "Assume the difficult person believes they are pursuing something good. They are usually wrong about what is good, which makes them mistaken rather than monstrous."
+          },
+          {
+            "step": 3,
+            "title": "Decide your reply cold",
+            "body": "Choose now what you will say and how long you will spend on it. A response chosen in advance is almost always more useful than one chosen while your pulse is up."
+          },
+          {
+            "step": 4,
+            "title": "Check it that evening",
+            "body": "Ask what actually happened and where your prediction was wrong. Over a few weeks you learn which of your irritations are real and which you manufacture."
+          }
+        ],
+        "tags": [
+          "anger",
+          "preparation",
+          "other-people"
+        ]
+      },
+      {
+        "id": "meditations-s05",
+        "hook": "The longest life and the shortest lose exactly the same thing.",
+        "insight": "You cannot lose the past, because it is already gone and no longer yours. You cannot lose the future, because it was never yours to begin with. The only thing anyone can be deprived of is the present moment, and everyone alive holds the same size of it. This is why Marcus treats the difference between dying at forty and dying at ninety as smaller than it looks. It is also a strange kind of relief. Whatever you are afraid of losing, you are not currently holding it.",
+        "why": "The argument is about what possession means rather than about death itself. It does not remove the fear of dying, and it says nothing to someone grieving another person's death, which is the harder case.",
+        "apply": "Notice one thing you are dreading and ask what you actually possess right now that it can take. Then work on the thing in front of you for twenty minutes.",
+        "format": "single",
+        "tags": [
+          "mortality",
+          "present-moment"
+        ]
+      },
+      {
+        "id": "meditations-s06",
+        "hook": "A blocked road tells you something. Sometimes it tells you where to go.",
+        "insight": "Marcus notices that obstruction only stops a specific plan, not the underlying intention. If your intention is to act well, then almost anything that blocks a particular action supplies material for a different one. The delayed flight becomes an hour of reading. The impossible colleague becomes practice in patience. This is not a claim that everything happens for a reason, which he does not need. It is a claim that a mind aimed at behaving decently can convert most interruptions into something it can use.",
+        "why": "It works because the goal has been set at a level abstract enough to survive specific failures. Aim at a particular outcome and obstacles defeat you. Aim at acting well and obstacles become the occasion.",
+        "apply": "Take the thing currently blocking you and write one sentence describing what capacity it is giving you a chance to build. Then use the block for that.",
+        "format": "single",
+        "tags": [
+          "obstacles",
+          "adaptability"
+        ]
+      },
+      {
+        "id": "meditations-s07",
+        "hook": "Getting out of bed is a philosophical problem, and he lost it regularly.",
+        "insight": "One of the most human passages is about not wanting to get up. He catches himself preferring the warm blanket and argues back: plants do their work, ants do theirs, birds do theirs, and you were made for something too. Then he admits that rest is pleasant and that this is exactly the trouble. What makes it useful is not the argument, which is fairly weak, but the fact that a man with absolute power had to run it on himself on ordinary mornings.",
+        "why": "The passage documents a gap between knowing what to do and doing it. Naming the gap explicitly is more practically useful than pretending discipline comes free with the right beliefs.",
+        "apply": "Write your own version of the argument for the task you avoid most, in your own words, and keep it where you will meet the avoidance tomorrow.",
+        "format": "single",
+        "tags": [
+          "discipline",
+          "procrastination"
+        ]
+      },
+      {
+        "id": "meditations-s08",
+        "hook": "Everyone who will remember you is also going to die.",
+        "insight": "Marcus attacks the appetite for reputation from an angle most moralists miss. He does not say fame is vulgar. He says it is a poor investment, because the people whose applause you want are short-lived, badly informed and mostly thinking about themselves. Posthumous fame is worse, since it consists of noises made by strangers you will never meet about a version of you they invented. Once you stop working for that currency, a large amount of ordinary anxiety about how you are perceived quietly loses its funding.",
+        "why": "The argument holds if you accept his premise that only your own conduct is genuinely yours. It cuts less cleanly if reputation has real consequences for your work, your family or your safety, which it often does.",
+        "apply": "Find one task on your list that exists only to be seen doing it. Either cut it, or do the smaller honest version and reclaim the time.",
+        "format": "single",
+        "tags": [
+          "reputation",
+          "status"
+        ]
+      },
+      {
+        "id": "meditations-s09",
+        "hook": "Not one entry begins by explaining how justified he was.",
+        "insight": "Read the notebook looking for self-defence and you will not find much. There is very little complaint about the plague, the wars, the treasury, the betrayal by a trusted general, or the son who would succeed him. What there is instead is a repeated redirection: this is what has happened, so what is the right thing to do now. He treats his own grievances as uninteresting. That habit, more than any doctrine in the text, is what readers pick up and keep.",
+        "why": "Grievance is absorbing because rehearsing it feels like progress toward justice. Cutting the rehearsal short frees attention for the part of the situation that is still open to influence.",
+        "apply": "Take your current complaint, allow yourself three minutes to state it fully, then write the next available action and start it before the feeling fades.",
+        "format": "single",
+        "tags": [
+          "complaint",
+          "responsibility"
+        ]
+      },
+      {
+        "id": "meditations-s10",
+        "hook": "The gentlest book in philosophy was written by a man running an empire.",
+        "insight": "It is worth holding the notebook and the reign side by side. The author writing about tolerance also prosecuted long frontier wars, never questioned slavery, and presided over an empire in which Christians were executed. Nothing in the text acknowledges any of this. That gap is not a reason to discard the book, but it is a reason to read it as a record of one man's inner work rather than as a moral system that scales. Private serenity and public justice are different achievements, and this book only attempts the first.",
+        "why": "The most serious objection to Stoicism is that training yourself to accept what you cannot control can quietly become training yourself not to notice what you could have changed. Marcus is the strongest case study for both sides.",
+        "apply": "Each time you use a Stoic idea to accept something this week, ask one question first: is this genuinely outside my control, or merely expensive to change?",
+        "format": "single",
+        "tags": [
+          "critique",
+          "power",
+          "ethics"
+        ]
+      }
+    ],
+    "actions": [
+      "Read it in short doses rather than straight through. A few entries each morning matches how it was written and stops the repetition from flattening into noise.",
+      "Keep a private notebook for a month using his structure: what happened, what you added to it, and what the right next action is.",
+      "Pick one recurring irritation and run the morning rehearsal on it daily for two weeks, then check whether its power over you dropped.",
+      "Read one modern critic of Stoicism alongside it so you can tell acceptance apart from resignation in your own use of the ideas."
+    ],
+    "if_you_liked": [
+      "letters-from-a-stoic",
+      "discourses-and-selected-writings",
+      "the-myth-of-sisyphus"
+    ],
+    "not_for_you_if": "You want a systematic argument you can follow from premises to conclusions, or you find repeated self-instruction airless rather than honest.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": false,
+      "confidence": "high",
+      "notes": "Composed roughly 170-180 CE in Greek, during Marcus Aurelius's northern campaigns; the year given is an estimate of completion, not publication. Private notes with no authorial title; the traditional twelve-book division and the title itself are later. First printed edition 1559. All prose here is original and no translated wording is reproduced."
+    }
+  },
+  {
+    "id": "letters-from-a-stoic",
+    "title": "Letters from a Stoic",
+    "subtitle": null,
+    "author": "Seneca",
+    "year": 65,
+    "category": "philosophy",
+    "subcategory": "stoicism",
+    "tags": [
+      "stoicism",
+      "time",
+      "anxiety",
+      "wealth",
+      "friendship",
+      "ancient-philosophy"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "Seneca turned Stoic doctrine into letters a friend could actually use, and invented the tone every practical philosophy book since has borrowed. He is also the sharpest available case study in the distance between good advice and the life of the person giving it.",
+    "crux": {
+      "headline": "You are poor at spending the one thing you cannot earn",
+      "body": "Seneca's target is not misfortune but waste. People guard money they can replace and hand out hours they cannot. They spend years preparing to live and then find the living was supposed to have happened during the preparation. His remedy runs in two directions: shrink the future you are anxiously renting, by rehearsing loss until it stops terrifying you, and stop leaking the present to obligations, crowds and other people's agendas."
+    },
+    "sparks": [
+      {
+        "id": "letters-from-a-stoic-s01",
+        "hook": "You have suffered more in your imagination than in your actual life.",
+        "insight": "Seneca's most durable observation is that fear and reality are wildly different sizes. The disaster you rehearse runs many times, in detail, with your full attention. The real one, if it comes at all, happens once and then gets dealt with. Most of what people call suffering is anticipation charged with interest. He is not telling you the bad thing cannot happen. He is pointing out that you are paying for it repeatedly in advance, in a currency you cannot get back.",
+        "why": "The mechanism is straightforward: anticipation is unbounded and repeatable, while an event is single and finite. Worry also lacks the practical detail that makes real problems solvable, so it produces cost without preparation.",
+        "apply": "Write down the thing you are dreading and the number of hours you have already spent rehearsing it. Then write what you would actually do on day one if it happened.",
+        "format": "single",
+        "tags": [
+          "anxiety",
+          "worry",
+          "imagination"
+        ]
+      },
+      {
+        "id": "letters-from-a-stoic-s02",
+        "hook": "You defend your money fiercely and give your hours away for free.",
+        "insight": "Nobody would let a stranger take a third of their savings, yet most people surrender their afternoons without noticing. Seneca points out the asymmetry: time is the only possession that is genuinely ours, and it is the only one we treat as if it were infinite. Part of it has already been taken by other people, part lost to distraction, part spent on things we did not choose. His prescription is not efficiency. It is accounting. Know where the hours go, and refuse the ones that are being taken by default.",
+        "why": "The argument works because time is uniquely non-renewable and uniquely easy to give away, since no single hour feels expensive. It says less about people whose hours are not theirs to protect.",
+        "apply": "Track your waking hours for two days in fifteen-minute blocks. Mark each one chosen, taken, or lost, and cancel the largest taken block this week.",
+        "format": "single",
+        "tags": [
+          "time",
+          "attention",
+          "priorities"
+        ]
+      },
+      {
+        "id": "letters-from-a-stoic-s03",
+        "hook": "Spend three days a month living as if you had already lost everything.",
+        "insight": "The exercise is oddly concrete. Set aside a few days, eat the plainest food, wear the roughest clothes, sleep badly on purpose, and ask yourself the whole time whether this is really the thing you were so afraid of. Seneca's claim is that a large share of your ambition is defensive, driven by the size of the fall you imagine. Once you have tested the floor and found it survivable, the fear stops steering. The practice is not about virtue through hardship. It is about pricing your worst case accurately.",
+        "why": "Rehearsed exposure reliably shrinks anticipatory fear. The obvious objection is that voluntary poverty with a villa to return to is not poverty, which Seneca of all people could not answer well.",
+        "apply": "Pick one weekend to live on your bare minimum budget with no comforts bought. Write down at the end which fears turned out to be smaller than expected.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Set the floor",
+            "body": "Work out what your genuine minimum looks like in money, space and food. Vagueness is what makes the fall feel bottomless, so put actual numbers on it."
+          },
+          {
+            "step": 2,
+            "title": "Live it briefly",
+            "body": "Take two or three days at that level on purpose. Do it without announcing it to anyone, since the point is information rather than performance."
+          },
+          {
+            "step": 3,
+            "title": "Note what broke",
+            "body": "Record which parts were genuinely hard and which were only unfamiliar. Most discomfort turns out to be novelty rather than deprivation."
+          },
+          {
+            "step": 4,
+            "title": "Reprice the fear",
+            "body": "Ask which decisions you have been making to avoid this outcome. Some of them will look badly overpriced once you have seen the floor up close."
+          }
+        ],
+        "tags": [
+          "fear",
+          "poverty",
+          "exposure"
+        ]
+      },
+      {
+        "id": "letters-from-a-stoic-s04",
+        "hook": "Reading everything is a way of learning nothing well.",
+        "insight": "Seneca warns against the reader who is always starting a new book and never finishing an idea. Wandering through many authors, he says, produces acquaintance rather than knowledge, and a mind that has visited everywhere and lives nowhere. The alternative is to stay with a few writers long enough to be changed by them, and to carry away one thought a day that you can actually chew on. This was written in a world with far fewer books than yours, which makes it harder to argue with, not easier.",
+        "why": "The mechanism is depth of processing. An idea you return to gets connected to your own situation and becomes usable, while an idea you read once stays a fact about a book you finished.",
+        "apply": "Choose one book to reread this month instead of three new ones. Each day, take a single idea from it and write how it applies to something happening now.",
+        "format": "single",
+        "tags": [
+          "reading",
+          "depth",
+          "learning"
+        ]
+      },
+      {
+        "id": "letters-from-a-stoic-s05",
+        "hook": "Decide whether to trust someone before you trust them, not after.",
+        "insight": "Seneca describes two mistakes that look opposite and cost the same. Some people confide in anyone they meet, then are shocked to be betrayed. Others are so suspicious that they hold back from friends who deserve better, and live guarded lives. His rule puts the judgement first: think hard about the person, take your time, and then, having decided, speak to them as freely as you speak to yourself. A friendship where you are still auditing every sentence is not doing the work friendship is for.",
+        "why": "Placing the scrutiny before the commitment beats spreading it thinly across the relationship, because continuous low-grade suspicion degrades the trust it is meant to protect.",
+        "apply": "Name one person you half-trust. Either do the thinking and decide, or accept the limit and stop sharing things you will then worry about.",
+        "format": "single",
+        "tags": [
+          "friendship",
+          "trust"
+        ]
+      },
+      {
+        "id": "letters-from-a-stoic-s06",
+        "hook": "You come back from a crowd worse than you went into it.",
+        "insight": "Seneca reports going to the public games and returning greedier, more cruel and less human than when he arrived. His explanation is contagion. Being among many people at once loosens whatever restraint you had, because a mood shared by thousands stops feeling like a choice. He is not recommending a hermitage. He is saying that company is not neutral, that it deposits something in you, and that you should choose crowds the way you would choose what to eat.",
+        "why": "Behaviour and emotion spread through groups, and anonymity in a large group lowers the sense of personal responsibility. The effect is well documented, though Seneca's version is observation rather than evidence.",
+        "apply": "Identify one feed, venue or group that reliably leaves you meaner. Cut your exposure to it in half this week and check your mood at the end.",
+        "format": "single",
+        "tags": [
+          "crowds",
+          "influence",
+          "environment"
+        ]
+      },
+      {
+        "id": "letters-from-a-stoic-s07",
+        "hook": "Treat each day as a whole life, and stop waiting to begin.",
+        "insight": "Seneca notices that people postpone living while they arrange the conditions for living, and that the arranging expands to fill the life. His correction is to close each day as if it were complete. Not because you will die tonight, but because a day treated as a finished unit gets attention, while a day treated as a step toward something else gets spent carelessly. The person who has properly finished today is not in a hurry, and is not owed anything by tomorrow.",
+        "why": "Treating a day as a unit puts a boundary around it, and boundaries create the pressure to make something of the time. Open-ended projects absorb days without ever quite using them.",
+        "apply": "Tonight, write one sentence answering what this day was for. Do it for a week and notice which days you cannot answer for.",
+        "format": "single",
+        "tags": [
+          "time",
+          "daily-practice",
+          "mortality"
+        ]
+      },
+      {
+        "id": "letters-from-a-stoic-s08",
+        "hook": "Philosophy that only sharpens your arguments has failed at its job.",
+        "insight": "Seneca has no patience for the clever puzzles his colleagues enjoyed, the wordplay and logical traps that prove nothing anyone needed proved. Philosophy, on his account, is training rather than entertainment. The test is not whether you can defend a position but whether you are less frightened, less greedy and less cruel than you were. He is blunt that a man who can dismantle a paradox and still panics over money has learned a party trick, not a discipline.",
+        "why": "The standard he sets is behavioural, which makes it checkable. It also cuts against him, since by that test his own record is mixed, and he knew it.",
+        "apply": "Pick one idea you have been reading about for months and name the specific behaviour it has changed. If there is none, either apply it this week or drop it.",
+        "format": "single",
+        "tags": [
+          "practice",
+          "philosophy-as-training"
+        ]
+      },
+      {
+        "id": "letters-from-a-stoic-s09",
+        "hook": "The man telling you to despise wealth was one of the richest in Rome.",
+        "insight": "Seneca amassed an enormous fortune, held estates and loans across the empire, and served as tutor and then adviser to Nero, staying in post through years of murder including the killing of Nero's own mother. He was eventually ordered to kill himself and did. Ancient critics attacked the gap between the letters and the life while he was still alive. Read him knowing this. It does not make the advice false, but it does make him a witness to how easily a person can hold excellent principles and not be governed by them.",
+        "why": "His own defence, that a philosopher may use wealth without being attached to it, is convenient but not absurd. Whether the letters are self-instruction or self-justification is a question readers have argued for two thousand years.",
+        "apply": "List two principles you state publicly and rate honestly how your last month scored against each. Fix the behaviour or lower the claim.",
+        "format": "single",
+        "tags": [
+          "hypocrisy",
+          "wealth",
+          "biography"
+        ]
+      },
+      {
+        "id": "letters-from-a-stoic-s10",
+        "hook": "Part of your life is already behind you, and it belongs to death.",
+        "insight": "Seneca refuses to treat death as a single event waiting at the end. Every hour that passes has been taken, so dying is something already in progress and has been since you were born. This sounds bleak and is meant to sound bracing. If death is not a distant appointment but a continuous withdrawal, then the question of whether you are wasting the remainder becomes urgent now rather than later. The bleakness is doing motivational work, not metaphysical work.",
+        "why": "The reframing shifts death from a future event you can discount into a present rate of loss you can feel. Distant risks get ignored; ongoing ones get acted on.",
+        "apply": "Work out roughly how many weeks you have already used. Then choose one thing you have been deferring for years and put a date on it today.",
+        "format": "single",
+        "tags": [
+          "mortality",
+          "urgency"
+        ]
+      }
+    ],
+    "actions": [
+      "Read the letters out of order, a couple at a time, treating each as correspondence rather than chapters. They were written as separate pieces and read better that way.",
+      "Run one voluntary discomfort exercise this month, with a clear start and end, and record what you learned about the size of your fear.",
+      "Audit a fortnight of hours and cancel the single largest commitment that you never actually chose.",
+      "Read a short account of Seneca's political career alongside the letters, so you are reading a real person rather than a brand."
+    ],
+    "if_you_liked": [
+      "meditations",
+      "discourses-and-selected-writings",
+      "the-myth-of-sisyphus"
+    ],
+    "not_for_you_if": "You need the person giving advice to have lived it, or you want systematic argument rather than a friend writing to a friend in a hurry.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": false,
+      "confidence": "high",
+      "notes": "The letters to Lucilius were written in Seneca's last years, roughly 62-65 CE; the year given is an estimate, not a publication date. Letters from a Stoic is the title of a widely read modern selection, not the ancient work, which comprises 124 surviving letters. All prose here is original."
+    }
+  },
+  {
+    "id": "discourses-and-selected-writings",
+    "title": "Discourses and Selected Writings",
+    "subtitle": null,
+    "author": "Epictetus",
+    "year": 108,
+    "category": "philosophy",
+    "subcategory": "stoicism",
+    "tags": [
+      "stoicism",
+      "control",
+      "freedom",
+      "self-discipline",
+      "ancient-philosophy"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 11,
+    "why_it_matters": "A former slave produced the most usable version of Stoicism, and one idea from it runs straight into modern cognitive therapy: what disturbs you is your view of events, not the events. Marcus Aurelius was reading him, not the other way round.",
+    "crux": {
+      "headline": "Sort the world into yours and not yours, then act",
+      "body": "Epictetus starts by dividing everything into two piles. In one pile go your judgements, your intentions and what you choose to pursue or refuse. In the other goes everything else: your body, your reputation, your job, other people, the past. Nearly all misery, he claims, comes from treating things in the second pile as if they were in the first. Do the sorting honestly and you get two results at once: less anguish, and complete clarity about where your effort belongs."
+    },
+    "sparks": [
+      {
+        "id": "discourses-and-selected-writings-s01",
+        "hook": "Almost nothing is up to you. That is the good news, not the bad news.",
+        "insight": "The opening move is a sorting exercise. Your opinions, your intentions and what you go after are yours. Your body, your property, your standing and what other people think are not, however much effort you put in. Epictetus's claim is that the whole apparatus of frustration runs on category error: you have been assigning responsibility for outcomes you cannot deliver. Move them into the right pile and the anxiety attached to them loses its grip, while your actual work becomes very clear and much smaller.",
+        "why": "The honest objection is that the line is blurrier than he allows. Health, career and relationships are partly influenceable, and treating them as wholly external can license giving up on things you could have changed.",
+        "apply": "List everything worrying you today in two columns: what your choices actually determine, and what they only influence. Work only the first column this week.",
+        "format": "single",
+        "tags": [
+          "control",
+          "anxiety",
+          "focus"
+        ]
+      },
+      {
+        "id": "discourses-and-selected-writings-s02",
+        "hook": "Events do not upset people. Views about events upset people.",
+        "insight": "Death is not terrifying, he says, or Socrates would have found it terrifying too. What is terrifying is the verdict that death is terrible, and that verdict is something people carry rather than something they find. The evidence is variation: the same event lands differently on different people, and differently on the same person at different times, which means the disturbance cannot be sitting inside the event. So when you are miserable, the useful question is not what happened but what you concluded about what happened.",
+        "why": "This line is the acknowledged ancestor of modern cognitive behavioural therapy; Albert Ellis credited it directly. That gives it an unusual amount of clinical support for a claim written around 1900 years ago.",
+        "apply": "Write the belief sitting underneath your worst feeling this week as a plain sentence beginning \"I am telling myself that\". Then ask whether you would defend it out loud.",
+        "format": "single",
+        "tags": [
+          "judgement",
+          "cognitive-therapy",
+          "emotions"
+        ]
+      },
+      {
+        "id": "discourses-and-selected-writings-s03",
+        "hook": "You are an actor in a play. You do not get to pick your part.",
+        "insight": "Epictetus compares a life to a role you have been handed. Short or long, wealthy or poor, powerful or obscure: the casting is not up to you. What is up to you is playing it well. This is a demanding standard disguised as a modest one, because it removes every excuse based on circumstances while refusing to promise that circumstances are fair. It also relocates dignity. A person doing an ordinary job with full attention and integrity is, on this account, doing exactly as well as an emperor doing the same.",
+        "why": "It genuinely dissolves status envy. It also has a conservative edge worth naming: told to a person in an unjust position, the same advice can amount to instruction not to fight the casting.",
+        "apply": "Take the role you least chose in your life right now and write what playing it excellently would look like this week. Then do one part of that.",
+        "format": "single",
+        "tags": [
+          "roles",
+          "acceptance",
+          "dignity"
+        ]
+      },
+      {
+        "id": "discourses-and-selected-writings-s04",
+        "hook": "Nothing you have was ever yours. It was on loan the whole time.",
+        "insight": "When something is taken from you, Epictetus suggests describing it as returned rather than lost. The wording matters because loss implies ownership and theft, and both are arguable. You did not make your body, your parents, your position or the people you love; they arrived and will leave, and your holding of them was always temporary. This is his hardest teaching and the one most likely to sound cold, especially when applied to people. He knew that, and applied it anyway, including to children.",
+        "why": "The reframing genuinely reduces resentment, which is a distinct thing from grief. It does not reduce grief, and Stoic writing on bereavement is where most modern readers get off the bus.",
+        "apply": "Name one thing you assume you will always have. Spend two minutes today holding the fact that you will not, then go and use it properly.",
+        "format": "single",
+        "tags": [
+          "loss",
+          "attachment",
+          "grief"
+        ]
+      },
+      {
+        "id": "discourses-and-selected-writings-s05",
+        "hook": "Stop demanding the world match your plan. Take the version that arrives.",
+        "insight": "He offers a simple test for a settled life: do not want events to happen as you wish, want them as they happen. That sounds like defeat and is meant to be a redirection of effort. Wanting reality to be otherwise is the one desire that cannot be satisfied by any amount of work, so it is a permanent leak. Withdraw the demand and every unit of energy that was going into resenting the situation becomes available for handling it. The trick is that this must come after you act, not instead of acting.",
+        "why": "Read carelessly this becomes passivity, which is the standard charge against Stoicism. Epictetus expects strenuous effort first; the acceptance applies to the outcome, not to the attempt.",
+        "apply": "Pick something that did not go your way. Spend ten minutes writing what you will do given the world as it is, with no sentences about how it should have gone.",
+        "format": "single",
+        "tags": [
+          "acceptance",
+          "outcomes"
+        ]
+      },
+      {
+        "id": "discourses-and-selected-writings-s06",
+        "hook": "Do not announce your principles. Let people notice the results.",
+        "insight": "Epictetus is scathing about students who quote philosophy at dinner. Sheep, he points out, do not bring the shepherd a display of what they have eaten; they digest it and produce wool. His test is whether the doctrine has become behaviour. Someone genuinely working on their temper does not talk about equanimity, they simply fail to explode when the meeting goes badly. Anyone can learn the vocabulary in a week. The vocabulary is also the most reliable way to fool yourself that you have done the work.",
+        "why": "Talking about a change produces some of the social reward of having made it, which can reduce the pressure to actually make it. Announcing goals is not reliably helpful.",
+        "apply": "Go a full week without telling anyone what philosophy or method you are following. Judge your progress only by what other people would have observed.",
+        "format": "single",
+        "tags": [
+          "practice",
+          "humility",
+          "action"
+        ]
+      },
+      {
+        "id": "discourses-and-selected-writings-s07",
+        "hook": "Every situation comes with two handles. Only one of them carries.",
+        "insight": "If your brother treats you unfairly, you can pick the situation up by the unfairness, which is a handle that will not bear weight, or by the fact that he is your brother, which will. Epictetus is not asking you to pretend the wrong did not happen. He is pointing out that most events admit more than one true description, and that some true descriptions leave you able to act while others leave you stuck holding a grievance. Choosing the description is a real choice, made constantly, usually without noticing.",
+        "why": "Framing changes what actions look available, not just how you feel. The caveat is that a comfortable handle can also be a way of excusing behaviour that ought to be confronted.",
+        "apply": "Take a conflict you are stuck in. Write two true descriptions of it, then pick the one that leaves you with something to do and act on it today.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "State the grievance",
+            "body": "Write the version you have been carrying, in full, with the wrong clearly named. Skipping this makes the next step a form of suppression rather than a choice."
+          },
+          {
+            "step": 2,
+            "title": "Find the other truth",
+            "body": "Write a second description of the same events that is equally accurate and less useless. Not kinder for its own sake, just load-bearing."
+          },
+          {
+            "step": 3,
+            "title": "Test the weight",
+            "body": "Ask which description leaves you with an available action. A frame you cannot act from is a frame that will keep you rehearsing the problem."
+          },
+          {
+            "step": 4,
+            "title": "Check for evasion",
+            "body": "Make sure the useful handle is not simply avoidance. If the wrong needs confronting, the right handle is the one that gets you to the conversation."
+          }
+        ],
+        "tags": [
+          "framing",
+          "conflict"
+        ]
+      },
+      {
+        "id": "discourses-and-selected-writings-s08",
+        "hook": "Everything has a price. Sometimes the price is being someone you dislike.",
+        "insight": "Epictetus keeps a mental ledger. Invitations, promotions and favours have costs, and the costs are frequently paid in flattery, waiting, silence about things you should have said, or hours you will not get back. If you decline to pay, you do not get the thing, and complaining about that is incoherent: you chose not to buy. His point is that people rarely see the price tag, so they end up resentful at the shop rather than clear about their own purchase. Name the currency and the decision becomes simple.",
+        "why": "Making the trade explicit converts a vague sense of compromise into a comparison you can actually make. It does not tell you the right answer, only that there was a price and you paid it.",
+        "apply": "Before your next yes, write the full price in time, attention and self-respect. Then decide, and stop resenting the cost of things you agreed to.",
+        "format": "single",
+        "tags": [
+          "trade-offs",
+          "integrity",
+          "saying-no"
+        ]
+      },
+      {
+        "id": "discourses-and-selected-writings-s09",
+        "hook": "A man born into slavery wrote the classic argument that you are free.",
+        "insight": "Epictetus was enslaved in Rome, at some point permanently lamed, and later freed and exiled. His central claim, that freedom is a condition of the will rather than the body, has to be read against that. It is not the comfortable thought of a man who never lost anything. It is also worth noticing what happens when the same claim is repeated by people who have never been in chains, at people who are: it turns from a hard-won inner discipline into a reason to ignore real oppression.",
+        "why": "The biography is what stops the doctrine sounding glib, and it is also the warning. A survival strategy earned under coercion becomes something worse when prescribed by the comfortable to the constrained.",
+        "apply": "Notice one place you have called something a mindset problem. Ask whether the constraint is genuinely internal, or whether it is structural and you are dodging it.",
+        "format": "single",
+        "tags": [
+          "freedom",
+          "biography",
+          "critique"
+        ]
+      },
+      {
+        "id": "discourses-and-selected-writings-s10",
+        "hook": "He never wrote a word of it. A student took notes.",
+        "insight": "Everything we have from Epictetus was recorded by Arrian, a young Roman who later became a historian and provincial governor, from lectures given in Nicopolis. Four of the original eight books survive, plus a short handbook Arrian condensed from them. This explains the texture: the interruptions, the imagined objectors, the sudden sarcasm. You are reading a teacher handling a room, not an author composing. It also means the wording is filtered through a student, which is worth remembering before treating any sentence as scripture.",
+        "why": "Knowing the transmission changes how much weight individual phrases can bear. It also explains why the arguments repeat and circle: they were spoken to different students on different days.",
+        "apply": "Read a section aloud as if you were being addressed directly. Note where you flinch, since those are the passages aimed at something you are actually doing.",
+        "format": "single",
+        "tags": [
+          "transmission",
+          "teaching",
+          "context"
+        ]
+      }
+    ],
+    "actions": [
+      "Do the two-column sorting exercise daily for two weeks, then review which items you keep misfiling as controllable.",
+      "Read the short handbook first for the compressed rules, then the Discourses for the arguments and the tone behind them.",
+      "Take one relationship where you feel wronged and deliberately practise the two-handles exercise before your next conversation about it.",
+      "Write down where you think the doctrine goes too far. Working out your own disagreement is how you avoid using Stoicism as an excuse."
+    ],
+    "if_you_liked": [
+      "meditations",
+      "letters-from-a-stoic",
+      "nicomachean-ethics"
+    ],
+    "not_for_you_if": "You want warmth and consolation, or you suspect that advice about accepting your circumstances mostly serves whoever arranged them.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": false,
+      "confidence": "high",
+      "notes": "Epictetus wrote nothing himself; the Discourses were recorded by his student Arrian, probably around 108 CE, and four of eight books survive along with the Enchiridion. The year is an estimate for the compilation. Discourses and Selected Writings is a modern collected title. All prose here is original."
+    }
+  }
+]

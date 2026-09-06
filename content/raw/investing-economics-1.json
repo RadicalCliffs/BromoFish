@@ -1,0 +1,586 @@
+[
+  {
+    "id": "one-up-on-wall-street",
+    "title": "One Up on Wall Street",
+    "subtitle": "How to Use What You Already Know to Make Money in the Market",
+    "author": "Peter Lynch",
+    "year": 1989,
+    "category": "investing-economics",
+    "subcategory": "stock-picking",
+    "tags": [
+      "stock-picking",
+      "growth-investing",
+      "research",
+      "amateur-investing",
+      "portfolio-construction"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "It argued that ordinary people could analyse companies at least as well as professionals, and it explained how, in plain language. A generation of individual investors learned to read a business rather than a price chart from it.",
+    "crux": {
+      "headline": "You see companies before Wall Street prices them",
+      "body": "You encounter businesses every week as a customer, a supplier or an employee, and you often notice a product working long before it shows up in an analyst's model. That head start is real, but it is only a lead, not a decision. The observation gets you a candidate. What earns you the money is doing the research the professionals do afterwards: the balance sheet, the growth rate, the price you are being asked to pay, and the story you can defend in two minutes."
+    },
+    "sparks": [
+      {
+        "id": "one-up-on-wall-street-s01",
+        "hook": "Your job gives you a research advantage no fund manager can buy.",
+        "insight": "If you work in construction you know which supplier's product actually holds up. If you manage a shop you see which brand sells out. If you are a nurse you see which device staff trust. Professionals get that information filtered through investor relations, months later. The edge is not that you shop somewhere. The edge is that you have specialist knowledge of an industry and can judge whether something is genuinely better before the numbers say so.",
+        "why": "Fund analysts cover dozens of companies at a distance. A practitioner has narrow but deep knowledge in one industry, and narrow depth is exactly where mispricing survives longest.",
+        "apply": "List three companies your job gives you real insight into. Research one of them properly this month, starting with its accounts.",
+        "format": "single",
+        "tags": [
+          "edge",
+          "research"
+        ]
+      },
+      {
+        "id": "one-up-on-wall-street-s02",
+        "hook": "Buy what you know is the most misread advice in investing.",
+        "insight": "The idea was never that liking a shop is a reason to buy its shares. A good product tells you nothing about the price, the debt, the competition or the growth already priced in. Lynch was explicit that the observation is step one of a longer process, and he spent most of the book on the rest of it. Read casually, the advice produces portfolios full of familiar consumer brands bought at any price, which is how a sensible idea became a marketing slogan for bad decisions.",
+        "why": "Familiarity feels like knowledge and is not. Investors who buy familiar names tend to be under-diversified and home-biased, both well documented and both costly.",
+        "apply": "For each stock you bought because you liked the product, write its current price-to-earnings ratio and growth rate. Decide again on those numbers.",
+        "format": "single",
+        "tags": [
+          "familiarity-bias",
+          "misreadings"
+        ]
+      },
+      {
+        "id": "one-up-on-wall-street-s03",
+        "hook": "You can be wrong on most of your picks and still do very well.",
+        "insight": "A stock can only fall to zero, but it can rise many times over. That asymmetry means a portfolio's outcome is usually decided by two or three enormous winners rather than by the average pick. Practically, this changes what you should worry about. It matters far less that some holdings fail than that you sell your best performer after it doubles. Small losses are survivable arithmetic. Cutting a ten-fold winner short is the mistake you cannot make up elsewhere.",
+        "why": "Stock returns are heavily skewed: research on long-run market histories consistently finds most of the total return comes from a small minority of companies, with the majority underperforming cash.",
+        "apply": "Look at your biggest past winner and note why you sold. If the reason was the size of the gain rather than the business, change the rule.",
+        "format": "single",
+        "tags": [
+          "asymmetry",
+          "selling"
+        ]
+      },
+      {
+        "id": "one-up-on-wall-street-s04",
+        "hook": "Six kinds of company, six completely different ways to be right.",
+        "insight": "Treating every share the same is why people hold a utility expecting it to triple and a fast grower expecting it to be safe. Sorting a company into its type tells you what to expect, what to check and when to sell. A cyclical is bought and sold on the industry cycle, not held forever. A stalwart is a modest, defensive holding. A fast grower deserves close attention to whether growth is slowing. The categories do more work than any single ratio.",
+        "why": "Different business types have different return distributions and different failure modes. Using one mental model for all of them guarantees you will apply the wrong sell rule to something.",
+        "apply": "Sort every holding you own into a category, write the expected return and exit trigger for each, and note where the two disagree.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Slow growers and stalwarts",
+            "body": "Large, mature businesses growing with the economy. You buy them for stability and dividends, and you should never expect a multiple of your money from them."
+          },
+          {
+            "step": 2,
+            "title": "Fast growers",
+            "body": "Small, expanding companies with room to multiply. The highest returns and the highest risk. Watch for the quarter when store or unit growth stops accelerating."
+          },
+          {
+            "step": 3,
+            "title": "Cyclicals",
+            "body": "Airlines, chemicals, carmakers, steel. They look cheapest at the top of the cycle when earnings peak. Timing the industry cycle matters more than the valuation ratio."
+          },
+          {
+            "step": 4,
+            "title": "Turnarounds",
+            "body": "Damaged companies that may recover. Returns come fast when they work and the losses are total when they do not. Check whether the balance sheet can survive the wait."
+          },
+          {
+            "step": 5,
+            "title": "Asset plays",
+            "body": "Businesses worth more for what they own, such as property, spectrum or cash, than for what they earn. You need a reason the value will ever be realised."
+          }
+        ],
+        "tags": [
+          "categories",
+          "analysis"
+        ]
+      },
+      {
+        "id": "one-up-on-wall-street-s05",
+        "hook": "If you cannot explain the holding in two minutes, you do not own it yet.",
+        "insight": "Before buying, say out loud why this company will be bigger in a few years, what has to go right, and what would prove you wrong. If the explanation needs charts, jargon or a story about interest rates, the thesis is not clear enough to hold under pressure. The point of the exercise is not the buy decision. It is that you now have a written statement you can check against reality every quarter, instead of quietly rewriting your reasons as the price moves.",
+        "why": "Investors reliably reconstruct their reasoning after the fact. A dated written thesis makes that impossible and turns a vague feeling into something that can be tested and falsified.",
+        "apply": "Write a two-minute thesis for your largest holding today, date it, and reread it after the next earnings report.",
+        "format": "single",
+        "tags": [
+          "thesis",
+          "discipline"
+        ]
+      },
+      {
+        "id": "one-up-on-wall-street-s06",
+        "hook": "A growth rate is only impressive next to the price you paid for it.",
+        "insight": "A company growing at twenty percent a year is not automatically a better buy than one growing at ten. What matters is the multiple attached. Comparing the price-to-earnings ratio with the growth rate gives you a rough sense of whether you are paying for growth you have not yet received. A ratio far below the growth rate suggests the market has not caught up. A ratio far above it means the future has to arrive on schedule to leave you level.",
+        "why": "The comparison is crude and breaks down for cyclicals, loss-makers and businesses with unstable growth. Used as a first screen rather than a valuation, it usefully separates cheap growth from expensive growth.",
+        "apply": "Divide the price-to-earnings ratio by the expected growth rate for each holding, and flag anything above two for a closer look.",
+        "format": "single",
+        "tags": [
+          "valuation",
+          "growth"
+        ]
+      },
+      {
+        "id": "one-up-on-wall-street-s07",
+        "hook": "The dullest company on the list is often the best one to own.",
+        "insight": "Businesses with unglamorous names, tedious products or unpleasant work attract fewer analysts and fewer buyers, so their prices are more likely to lag their results. Add the signals that management believes in the company: insiders buying with their own money, shares being bought back, a business the institutions have not yet crowded into. None of these are reasons on their own. Together they describe the corner of the market where genuine mispricing is most likely to survive.",
+        "why": "Neglect is the precondition for mispricing. Where twenty analysts publish, information is already in the price. Where none do, your own work can still be worth something.",
+        "apply": "Screen for companies with low analyst coverage in an industry you understand, then check the last year of insider purchases.",
+        "format": "single",
+        "tags": [
+          "neglected-stocks",
+          "insider-buying"
+        ]
+      },
+      {
+        "id": "one-up-on-wall-street-s08",
+        "hook": "Nobody can tell you where the economy goes next. Stop paying them to try.",
+        "insight": "Investors spend enormous energy on predictions of rates, recessions and elections, then use those predictions to postpone or panic. The forecasts have a poor record, and even a correct one is only useful if you also guess how much of it the market has already priced. Meanwhile the things that decide whether your company thrives, including its products, its costs and its competitors, are researchable and largely independent of the macro narrative you are worrying about.",
+        "why": "Economic forecasts of turning points have a weak track record, and market reactions depend on the surprise relative to expectations rather than the outcome itself. Two forecasts are needed, not one.",
+        "apply": "Spend the next hour you would have given to market commentary reading one company's annual report instead.",
+        "format": "single",
+        "tags": [
+          "macro",
+          "forecasting"
+        ]
+      },
+      {
+        "id": "one-up-on-wall-street-s09",
+        "hook": "Selling your winners to fund your losers is the standard way to lose slowly.",
+        "insight": "Taking a profit feels like discipline and cutting a loss feels like defeat, so investors do the reverse of what the businesses justify. The winner is usually winning because the company is executing, and the loser is usually losing because it is not. Unless something has changed in the business, the honest question at any moment is which company you would buy today at today's price. Answer that and the emotional accounting about your own entry price stops mattering.",
+        "why": "This is loss aversion combined with mental accounting: the purchase price is treated as a reference point even though it has no bearing on the company's future cash flows.",
+        "apply": "Review each holding by asking whether you would buy it today at this price. Sell whatever fails, regardless of your entry price.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Forget what you paid",
+            "body": "Your purchase price is a fact about your history, not about the company. The market has no memory of it and it should not appear anywhere in your decision."
+          },
+          {
+            "step": 2,
+            "title": "Recheck the original story",
+            "body": "Read the thesis you wrote when you bought. Ask whether the specific things you predicted are happening, on the timeline you expected."
+          },
+          {
+            "step": 3,
+            "title": "Ask the buy question",
+            "body": "Would you open this position today at this price, with what you now know? A no is a sell, and a maybe usually means the position is too large."
+          },
+          {
+            "step": 4,
+            "title": "Act on the business, not the chart",
+            "body": "Sell because the story broke, not because the price fell. Falling prices on an intact story are the reason to add, not the reason to leave."
+          }
+        ],
+        "tags": [
+          "selling",
+          "loss-aversion"
+        ]
+      },
+      {
+        "id": "one-up-on-wall-street-s10",
+        "hook": "The author's own record is the strongest argument against copying him.",
+        "insight": "Lynch ran an extraordinary fund for thirteen years, in a period and a market segment that suited the method: an enormous bull run, a rich supply of under-followed small companies, and a research team behind him. Very few readers matched it. That is not an argument to ignore the book, but it is a reason to treat the results as one exceptional sample rather than proof of the process. Survivorship makes every successful method look more repeatable than it is.",
+        "why": "We hear from the managers who succeeded and not from the many who used similar approaches and did not. Any track record selected after the fact overstates the odds facing you.",
+        "apply": "Before adopting any method from a famous investor, ask what conditions made it work and whether those conditions still hold today.",
+        "format": "single",
+        "tags": [
+          "survivorship-bias",
+          "limits"
+        ]
+      }
+    ],
+    "actions": [
+      "Write down three industries you understand from work or life, and pick one company in each to research properly from its annual report.",
+      "Write a two-minute thesis for every holding, date each one, and diary a quarterly review to check what has actually happened.",
+      "Sort your portfolio into company types and write the expected return and sell trigger appropriate to each type.",
+      "Check the debt, cash and inventory trend for your three largest holdings before you buy anything else."
+    ],
+    "if_you_liked": [
+      "common-stocks-and-uncommon-profits",
+      "the-intelligent-investor",
+      "the-most-important-thing"
+    ],
+    "not_for_you_if": "You have no intention of researching individual companies, or you want a modern treatment. The examples come from 1980s America and some of the companies are long gone.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 1989, co-written with John Rothchild. Lynch managed the Fidelity Magellan fund from 1977 to 1990. All prose original."
+    }
+  },
+  {
+    "id": "the-little-book-of-common-sense-investing",
+    "title": "The Little Book of Common Sense Investing",
+    "subtitle": "The Only Way to Guarantee Your Fair Share of Stock Market Returns",
+    "author": "John C. Bogle",
+    "year": 2007,
+    "category": "investing-economics",
+    "subcategory": "index-investing",
+    "tags": [
+      "index-funds",
+      "fees",
+      "compounding",
+      "passive-investing",
+      "retirement",
+      "simplicity"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 9,
+    "why_it_matters": "Bogle founded the first index fund available to ordinary savers and spent forty years explaining why costs decide outcomes. Trillions of dollars have moved into low-cost index products, and household investing costs fell sharply as a result.",
+    "crux": {
+      "headline": "Own everything, pay almost nothing, never sell",
+      "body": "Every investor together owns the whole market, so together they earn the market's return minus whatever the industry charges to manage it. That makes cost the one factor that is certain, permanent and entirely in your control. Buy a fund that holds the entire market at the lowest available charge, contribute steadily, resist every temptation to trade, and you will keep the share of the market's return that most active investors give away."
+    },
+    "sparks": [
+      {
+        "id": "the-little-book-of-common-sense-investing-s01",
+        "hook": "Active investors as a group cannot beat the market. That is arithmetic.",
+        "insight": "Every share is owned by someone. The market's return is therefore the average return of all investors before costs. Split them into those who hold the market and those who trade against each other, and the second group must also average the market return before costs, because they are the market. Once you subtract their higher fees, trading costs and taxes, the active group as a whole must lag. Individual managers can win. The category cannot.",
+        "why": "This is William Sharpe's argument on the arithmetic of active management. It does not depend on markets being efficient, on investor rationality, or on any assumption that could turn out to be false.",
+        "apply": "Add up everything you paid last year to invest, including fund charges, spreads and tax on turnover. Compare it against a broad index fund's total cost.",
+        "format": "single",
+        "tags": [
+          "active-vs-passive",
+          "arithmetic"
+        ]
+      },
+      {
+        "id": "the-little-book-of-common-sense-investing-s02",
+        "hook": "Two percent a year sounds trivial and takes about half your lifetime gains.",
+        "insight": "A charge is taken from your balance, so it also removes everything that money would have earned afterwards. Over a working life, a two percent annual drag compounds into a shortfall that is a large fraction of the final pot, even though no statement ever shows it as a loss. You take all the risk and provide all the capital, while a fixed share of the compounding goes elsewhere regardless of performance. The effect is invisible year by year and enormous at the end.",
+        "why": "Costs compound just as returns do. Because the fee is charged on the balance rather than on the gain, it is paid in losing years too, which is why the cumulative drag is so much larger than the headline number suggests.",
+        "apply": "Run a compound interest calculation of your portfolio over thirty years at your real return and again one and a half percent lower. Look at the difference.",
+        "format": "single",
+        "tags": [
+          "fees",
+          "compounding"
+        ]
+      },
+      {
+        "id": "the-little-book-of-common-sense-investing-s03",
+        "hook": "Last decade's best fund is a good predictor of next decade's disappointment.",
+        "insight": "Fund performance reverts toward the average with remarkable persistence. A strategy that suited one market regime attracts money after the regime is already reflected in prices, the manager's growing size makes the original approach harder to run, and the record eventually looks ordinary. Buying on past performance therefore means systematically buying after the good years and selling after the bad ones. The star ratings that guide most fund selection have very little predictive power.",
+        "why": "Multiple long-running studies of fund persistence find little relationship between one period's rankings and the next, beyond what costs explain. Fees are the most consistent predictor available.",
+        "apply": "Rank your funds by cost rather than past return, and treat any fund's five-year record as marketing rather than evidence.",
+        "format": "single",
+        "tags": [
+          "mean-reversion",
+          "fund-selection"
+        ]
+      },
+      {
+        "id": "the-little-book-of-common-sense-investing-s04",
+        "hook": "Stop hunting for the needle. Buy the whole haystack.",
+        "insight": "Long-run market returns are produced by a small minority of companies, and identifying them in advance is genuinely hard. Owning the entire market guarantees you hold every one of those companies from the start, at their market weight, without needing to know which they are. You also hold the failures, but their downside is capped at what you paid while the winners have no ceiling. It is a way of converting a difficult prediction problem into no prediction at all.",
+        "why": "The skew in stock returns is the mechanism. Because a few extreme winners drive the total, missing them is far more damaging than owning the losers alongside them.",
+        "apply": "Consolidate your equity holdings into one broad total-market fund and see how much of your portfolio's complexity disappears.",
+        "format": "single",
+        "tags": [
+          "diversification",
+          "index-funds"
+        ]
+      },
+      {
+        "id": "the-little-book-of-common-sense-investing-s05",
+        "hook": "A market return has two parts, and only one of them is real.",
+        "insight": "Over any period, the return on shares breaks into what the businesses produced, meaning dividends plus earnings growth, and what investors were willing to pay for it, meaning the change in valuation multiple. The first part is durable and reflects real economic activity. The second is a mood swing and averages out to little over long periods. Separating them tells you how much of a decade's return you should expect to keep and how much was simply borrowed from the future.",
+        "why": "Decomposing historical returns this way shows that valuation change dominates over years and almost vanishes over multiple decades, while dividends and earnings growth persist.",
+        "apply": "For your main market, look up the current dividend yield and long-run earnings growth. Use that sum as your expected return, not the last decade's.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Start with the dividend yield",
+            "body": "This is cash the businesses actually hand over. It is the most reliable component of long-run return and it is knowable today rather than forecast."
+          },
+          {
+            "step": 2,
+            "title": "Add earnings growth",
+            "body": "Use a long-run average rather than a recent one. Corporate earnings growth is tied to the economy and is far steadier over decades than over quarters."
+          },
+          {
+            "step": 3,
+            "title": "Adjust for the multiple",
+            "body": "If the market is priced well above its historical earnings multiple, expect that gap to work against you. If below, expect a tailwind. Neither is a timing signal."
+          },
+          {
+            "step": 4,
+            "title": "Subtract your costs",
+            "body": "Take off fees, trading costs and tax. What remains is a realistic expectation you can plan a retirement around instead of an extrapolation of recent luck."
+          }
+        ],
+        "tags": [
+          "expected-returns",
+          "valuation"
+        ]
+      },
+      {
+        "id": "the-little-book-of-common-sense-investing-s06",
+        "hook": "The taxman is the second-largest fee you pay, and it is optional.",
+        "insight": "Every time a fund sells a holding, a gain may be realised and taxed, and the tax leaves the compounding machine permanently. High-turnover funds therefore cost far more than their published charge suggests when held in a taxable account. An index fund trades rarely by construction, so gains stay unrealised and keep compounding. Placing the right assets in the right accounts is unglamorous work that quietly adds more than most stock selection ever will.",
+        "why": "Tax drag is a function of turnover and of account type, both of which you control. Unlike returns, the saving is certain once the structure is right.",
+        "apply": "Move your highest-turnover and highest-yielding holdings into tax-sheltered accounts first, and keep the broad index fund in the taxable one.",
+        "format": "single",
+        "tags": [
+          "taxes",
+          "turnover"
+        ]
+      },
+      {
+        "id": "the-little-book-of-common-sense-investing-s07",
+        "hook": "The market rewards you for showing up, not for showing up cleverly.",
+        "insight": "Most of the long-run return arrives in a small number of very good days, and those days cluster inside the frightening periods when investors are most tempted to be in cash. Missing a handful of them removes a large share of the total. Since nobody has demonstrated the ability to identify them in advance, the only reliable way to capture them is to be invested continuously, including through the stretches when staying invested feels obviously wrong.",
+        "why": "The best days cluster near the worst days because volatility itself clusters. That is why sitting out the bad periods usually means sitting out the recoveries as well.",
+        "apply": "Automate contributions and remove the app from your phone's home screen. Decide now that you will not sell during any decline under thirty percent.",
+        "format": "single",
+        "tags": [
+          "time-in-market",
+          "behaviour"
+        ]
+      },
+      {
+        "id": "the-little-book-of-common-sense-investing-s08",
+        "hook": "Complexity is sold to you because simple products cannot carry a fee.",
+        "insight": "The industry's incentive is to create things that are hard to compare: layered products, exotic strategies, funds slicing markets into ever-thinner segments. Complexity justifies a higher charge and makes performance impossible to benchmark honestly. A portfolio of three or four broad, cheap funds is harder to sell and easier to live with. It is also easier to rebalance, easier to explain to whoever inherits it, and far less likely to hide a cost you never noticed.",
+        "why": "Products that cannot be compared cannot be competed down on price. Simplicity is not just aesthetic here, it is the condition that lets cost competition work in your favour.",
+        "apply": "Count your funds. If there are more than five, write what unique exposure each adds, and sell any that duplicates another.",
+        "format": "single",
+        "tags": [
+          "simplicity",
+          "products"
+        ]
+      },
+      {
+        "id": "the-little-book-of-common-sense-investing-s09",
+        "hook": "The strategy works partly because most people ignore it.",
+        "insight": "Index funds do not set prices. Active investors do, through research and trading, and indexers ride the result. That means indexing depends on a healthy amount of active analysis continuing to happen. Bogle himself was clear that if indexing grew to dominate everything, price discovery would suffer. Whether current levels are near that point is genuinely contested. Ownership concentration among a few large fund managers has also become a real governance question rather than a hypothetical one.",
+        "why": "This is the honest limit of the argument. Index investing free-rides on the price discovery that active managers perform, which is a dependency worth naming even while the strategy works.",
+        "apply": "Note that indexing is a decision about your costs, not a claim that markets are perfect. Keep expectations tied to that narrower claim.",
+        "format": "single",
+        "tags": [
+          "limits",
+          "price-discovery"
+        ]
+      },
+      {
+        "id": "the-little-book-of-common-sense-investing-s10",
+        "hook": "The fund that is easiest to trade is the one you are most likely to ruin.",
+        "insight": "Bogle spent his later years warning that exchange-traded funds carry the risk of their own convenience. The underlying holdings may be identical to a traditional index fund, but a product that can be traded every second invites exactly the behaviour that destroys returns. The problem is never the wrapper. It is that continuous pricing turns a thirty-year holding into a series of decisions, and each decision is another chance to act on fear.",
+        "why": "Investor returns fall short of fund returns mainly through timing, and the shortfall tends to be larger in vehicles that are traded frequently. Ease of trading changes behaviour, not the asset.",
+        "apply": "If you hold index funds through a broker, remove price alerts and set a rule that you may only trade on scheduled contribution dates.",
+        "format": "single",
+        "tags": [
+          "etfs",
+          "behaviour"
+        ]
+      }
+    ],
+    "actions": [
+      "Total your annual investing costs as a percentage of your portfolio and set a written maximum you will never exceed again.",
+      "Replace overlapping funds with a broad total-market equity fund and a bond fund, sized to your age and time horizon.",
+      "Automate contributions on a fixed date each month and remove the ability to make discretionary trades between those dates.",
+      "Write your expected long-run return from dividend yield plus earnings growth minus costs, and plan your retirement on that number."
+    ],
+    "if_you_liked": [
+      "a-random-walk-down-wall-street",
+      "the-intelligent-investor",
+      "the-most-important-thing"
+    ],
+    "not_for_you_if": "You already index and understand why. The argument is deliberately repetitive, and there is little here for anyone researching individual companies.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2007, with a tenth-anniversary edition in 2017. Bogle founded Vanguard in 1974 and launched the first retail index fund in 1976. All prose original."
+    }
+  },
+  {
+    "id": "security-analysis",
+    "title": "Security Analysis",
+    "subtitle": null,
+    "author": "Benjamin Graham and David Dodd",
+    "year": 1934,
+    "category": "investing-economics",
+    "subcategory": "value-investing",
+    "tags": [
+      "value-investing",
+      "accounting",
+      "bonds",
+      "valuation",
+      "risk",
+      "financial-statements"
+    ],
+    "difficulty": "challenging",
+    "read_time_min": 14,
+    "why_it_matters": "It created security analysis as a discipline with rules rather than a trade based on tips, and it was written by two men who had just watched the 1929 crash destroy a generation of investors. Every professional valuation method descends from it.",
+    "crux": {
+      "headline": "Value is a range, and cheapness is the only edge",
+      "body": "You will never know what a business is precisely worth, and you do not need to. You need a defensible range, built from what the company has actually earned across good years and bad, and a price so far below that range that the imprecision cannot hurt you. Analysis is not forecasting. It is establishing what is known, marking clearly what is not, and buying only when the gap between price and demonstrable value is wide enough to make the unknown unimportant."
+    },
+    "sparks": [
+      {
+        "id": "security-analysis-s01",
+        "hook": "Trying to value a company to the nearest pound is the beginner's mistake.",
+        "insight": "A valuation is not a single number, it is a band, and the honest analyst says so. You might conclude a business is worth somewhere between eighty and a hundred and twenty. That looks like failure until you notice it is enough: if the share trades at forty, you do not need to resolve the range to know it is cheap. The precision people chase in spreadsheets is usually false anyway, because it comes from extending assumptions further than the evidence supports.",
+        "why": "Ranges are honest about model uncertainty. A point estimate hides it, and hidden uncertainty encourages positions sized as though the number were reliable.",
+        "apply": "Value a company twice, once with pessimistic assumptions and once with optimistic ones. Only act if the price sits below the pessimistic figure.",
+        "format": "single",
+        "tags": [
+          "valuation",
+          "uncertainty"
+        ]
+      },
+      {
+        "id": "security-analysis-s02",
+        "hook": "Last year's profit is a data point. Earning power is the number that matters.",
+        "insight": "A single year's earnings reflect the weather: a good market, a one-off contract, an accounting choice. What you want is earning power, meaning what the business can produce in a normal year, estimated by averaging across a full cycle including the bad ones. This one adjustment removes most of the damage investors do to themselves, because it stops you paying peak prices for peak earnings, which is how cyclical companies destroy the people who bought them at their cheapest-looking moment.",
+        "why": "Cyclical businesses show their lowest price-to-earnings ratios at the top of the cycle, when profits are unsustainable. Averaging over a cycle removes that trap without requiring any forecast.",
+        "apply": "Take ten years of earnings for a company you own, average them, and recompute the multiple you are paying on that average.",
+        "format": "single",
+        "tags": [
+          "earnings-power",
+          "cycles"
+        ]
+      },
+      {
+        "id": "security-analysis-s03",
+        "hook": "A bond is safe because the business can pay, not because it promised to.",
+        "insight": "Graham and Dodd began with fixed income and treated it as the more demanding discipline, because a bondholder's upside is capped and the entire job is avoiding loss. The safety of a bond comes from the enterprise's ability to service it across bad years, tested by coverage ratios and by what happens if revenue falls by a third. A contractual promise is only as good as the cash behind it. The same logic disciplines equity analysis: start by asking what happens in the bad case.",
+        "why": "Capped upside forces analytical honesty. If you cannot make money from things going right, you have no reason to be optimistic about anything except survival.",
+        "apply": "For each holding, calculate how far revenue could fall before the company could not cover its interest payments. Write that number down.",
+        "format": "single",
+        "tags": [
+          "bonds",
+          "downside"
+        ]
+      },
+      {
+        "id": "security-analysis-s04",
+        "hook": "In the short run the market counts votes. In the long run it weighs.",
+        "insight": "Over months, a price reflects popularity: who is enthusiastic, who is forced to sell, what the story is this quarter. Over years, it converges on what the business actually earns, because cash accumulates and cannot be argued with indefinitely. This is the single reason value investing can work at all. It also explains why it is unbearable in practice, since the waiting period between being right and being paid can run for years and has no announced end date.",
+        "why": "The convergence is real but its timing is not knowable, which is why the approach demands capital that cannot be withdrawn and a temperament that tolerates looking wrong for a long time.",
+        "apply": "Before buying anything undervalued, decide the number of years you are prepared to hold while the market disagrees with you.",
+        "format": "single",
+        "tags": [
+          "market-psychology",
+          "patience"
+        ]
+      },
+      {
+        "id": "security-analysis-s05",
+        "hook": "Some companies once traded for less than the cash in their own accounts.",
+        "insight": "Graham's most extreme test valued a company using only current assets minus every liability, ignoring buildings, machinery and any future profit entirely. If the shares traded below that figure, you were buying the working capital at a discount and getting the operating business free. It was a real and profitable strategy in the 1930s. Today such companies barely exist in developed markets, and the ones that do are usually being liquidated for good reason. The idea survives as a discipline, not a screen.",
+        "why": "The test worked because it required no forecast at all, only accounting facts. Its disappearance reflects competition, better disclosure and the shift of value into assets that never reach a balance sheet.",
+        "apply": "Use the exercise as a floor check: work out what a holding would be worth if it stopped growing tomorrow and simply wound down.",
+        "format": "single",
+        "tags": [
+          "net-net",
+          "asset-value"
+        ]
+      },
+      {
+        "id": "security-analysis-s06",
+        "hook": "Reported earnings are an opinion. Cash is closer to a fact.",
+        "insight": "Accounting rules leave wide discretion over when revenue is recognised, how costs are capitalised, what counts as unusual, and how pension and lease obligations appear. None of that is fraud, and all of it moves the earnings figure. The analyst's job is to undo the presentation and rebuild the numbers on a consistent basis, particularly across years and against competitors. Items described as one-off that appear every year are not one-off, and that single check catches a great deal.",
+        "why": "Discretion in accounting is largest exactly where management is under most pressure to show a result. Reconstructing the numbers is tedious and is precisely why fewer people do it.",
+        "apply": "Read the notes to one company's accounts, list every item labelled exceptional in the last five years, and add them all back.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Read the notes, not the headline",
+            "body": "The summary figures are the marketing. The notes contain the assumptions, the obligations and the changes in policy that explain how the headline was produced."
+          },
+          {
+            "step": 2,
+            "title": "Track exceptional items",
+            "body": "List every charge described as one-off across five years. Recurring exceptions are ordinary costs wearing a disguise, and adding them back changes the real margin."
+          },
+          {
+            "step": 3,
+            "title": "Compare cash with profit",
+            "body": "Follow operating cash flow next to reported earnings over several years. A widening gap between them is the most reliable early warning available to an outsider."
+          },
+          {
+            "step": 4,
+            "title": "Check what sits off the sheet",
+            "body": "Leases, pensions, guarantees and joint ventures carry real obligations. Add them to debt before you decide a balance sheet is conservative."
+          }
+        ],
+        "tags": [
+          "accounting",
+          "financial-statements"
+        ]
+      },
+      {
+        "id": "security-analysis-s07",
+        "hook": "Prefer facts you can check over a story you find persuasive.",
+        "insight": "Qualitative judgements about a company's prospects, its management or its industry feel like the sophisticated part of analysis, and they are the part most easily distorted by enthusiasm. Quantitative facts have the advantage of being verifiable and hard to argue with. Graham and Dodd's position was that the qualitative should refine a conclusion the numbers already support, never rescue one they contradict. A wonderful story attached to weak figures is the standard shape of a loss.",
+        "why": "Narrative is where confirmation bias operates most freely, because a story can be adjusted to fit any new fact while a coverage ratio cannot.",
+        "apply": "Before reading any commentary about a company, form a view from its financial statements alone, and write it down first.",
+        "format": "single",
+        "tags": [
+          "evidence",
+          "bias"
+        ]
+      },
+      {
+        "id": "security-analysis-s08",
+        "hook": "You are not paid for analysis. You are paid for a gap between price and value.",
+        "insight": "Understanding a company thoroughly is not itself a reason to own it. Thousands of well-run businesses are correctly priced, and buying one at fair value earns you the ordinary return with extra effort and extra risk. The analyst's product is a discrepancy: a specific reason to believe the market's price is wrong, plus an explanation of why the error exists and persists. If you cannot say who is on the other side and what they are missing, you have research but not an idea.",
+        "why": "Mispricing needs a cause, whether forced selling, neglect, complexity or a temporary problem mistaken for a permanent one. Without an identified cause, the likeliest explanation is that the price is right.",
+        "apply": "For each idea, write one sentence naming why the mispricing exists and one naming what will eventually correct it.",
+        "format": "single",
+        "tags": [
+          "mispricing",
+          "edge"
+        ]
+      },
+      {
+        "id": "security-analysis-s09",
+        "hook": "Write down which of your positions is an investment and which is a bet.",
+        "insight": "The distinction Graham and Dodd drew was procedural, not moral. An investment is a position where analysis establishes both safety of the capital and a reasonable expected return, and where you can say specifically what protects you if things go badly. Everything else is speculation. The trouble is not that people speculate, it is that they speculate while using the language and the position sizing of investment, which removes the caution that speculation actually requires.",
+        "why": "Labels change behaviour. A position honestly labelled speculative gets a smaller size, a defined exit and less capital, which is exactly the treatment it needs.",
+        "apply": "Label every holding as investment or speculation, and cap the speculative total at a percentage of your portfolio you write down today.",
+        "format": "single",
+        "tags": [
+          "speculation",
+          "discipline"
+        ]
+      },
+      {
+        "id": "security-analysis-s10",
+        "hook": "The methods were built for a world of factories, not software.",
+        "insight": "This is a book about companies whose value sat in tangible assets, written when disclosure was poor and equities were distrusted. Modern businesses often have most of their worth in brands, code, data and customer relationships, none of which appear on a balance sheet, and research spending is expensed rather than capitalised so profitable software firms can look unprofitable. Applying the original tests literally today leads you toward declining industries. The reasoning is durable, the specific ratios are not.",
+        "why": "Strategies built on accounting book value have underperformed for long stretches since the 1990s. Accounting treatment of intangibles is the most credible explanation, and it is a genuine limitation rather than a temporary one.",
+        "apply": "When valuing an asset-light company, capitalise its research and marketing spend yourself before judging whether the shares look expensive.",
+        "format": "single",
+        "tags": [
+          "intangibles",
+          "limits"
+        ]
+      }
+    ],
+    "actions": [
+      "Take one company and rebuild its last ten years of earnings on a consistent basis, adding back every item labelled exceptional.",
+      "Calculate how far revenue could fall at each of your holdings before interest cover became a problem, and rank them by that margin.",
+      "Value one business as a range rather than a number, then write the price at which you would buy and the price at which you would sell.",
+      "Read the notes to the accounts of your largest holding in full, listing every obligation that does not appear as debt on the balance sheet."
+    ],
+    "if_you_liked": [
+      "the-intelligent-investor",
+      "margin-of-safety",
+      "the-most-important-thing"
+    ],
+    "not_for_you_if": "You are a casual investor. This is a technical textbook of several hundred dense pages, and almost everything practical in it appears more readably elsewhere.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 1934 by McGraw-Hill; several substantially revised editions followed, and later reissues add commentary from modern investors. All prose original."
+    }
+  }
+]

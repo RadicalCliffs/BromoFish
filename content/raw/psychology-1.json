@@ -1341,5 +1341,410 @@
       "confidence": "high",
       "notes": "First published 2012. The underlying personality dimension is well established, and the group brainstorming and open-office findings are solid. The historical argument about a cultural shift toward personality is interpretive, and the leadership-fit result rests on a single line of research. All prose here is original."
     }
+  },
+  {
+    "id": "stumbling-on-happiness",
+    "title": "Stumbling on Happiness",
+    "subtitle": null,
+    "author": "Daniel Gilbert",
+    "year": 2006,
+    "category": "psychology",
+    "subcategory": "judgement-and-bias",
+    "tags": ["happiness", "forecasting", "imagination", "memory", "decision-making", "cognitive-bias"],
+    "difficulty": "moderate",
+    "read_time_min": 10,
+    "why_it_matters": "It explains the specific ways your imagination misleads you about your own future, which is the engine underneath most bad life decisions. Affective forecasting is now standard equipment in psychology, economics and medical decision-making.",
+    "crux": {
+      "headline": "You are bad at predicting what will make you happy",
+      "body": "Your brain simulates the future in order to choose between options, and the simulation has three faults it never reports. It quietly fills in details that will not be there, leaves out the ordinary hours surrounding the event, and colours everything with how you happen to feel right now. Then it fails to account for how quickly you will make sense of whatever actually happens. So the thing you dread is usually survivable, the thing you crave usually fades, and you keep being surprised by both."
+    },
+    "sparks": [
+      {
+        "id": "stumbling-on-happiness-s01",
+        "hook": "The main thing your brain does is imagine what has not happened yet.",
+        "insight": "You spend a remarkable share of your waking life somewhere other than the present, running simulations of what might happen next. It is a genuinely unusual ability and it is what lets you plan, save and worry. The catch is that you treat the simulation as a preview when it is closer to a rough sketch assembled out of memory and current mood. Every decision about a job, a house or a person rests on that sketch, and you never get to see its edges.",
+        "why": "Mental time travel is central to human cognition and depends on the same systems used for remembering. That is a clue to the problem: a system built to reconstruct the past is being asked to construct a future.",
+        "apply": "Before a big decision, write down what you actually expect a normal Tuesday to look like afterwards. Not the event itself — the ordinary week around it.",
+        "format": "single",
+        "tags": ["imagination", "prediction", "future"]
+      },
+      {
+        "id": "stumbling-on-happiness-s02",
+        "hook": "Your imagination adds details you will not get and never mentions it.",
+        "insight": "Asked to picture next year in a new city, you produce something vivid and specific: light in the flat, a walk to work, a certain kind of evening. Very little of that came from information. Your mind fills the gaps the same way it fills the blind spot in your vision — smoothly, invisibly, with material invented on the spot. Because the filled-in version feels like knowledge, you evaluate the plan as though you had seen it, when you have only seen your own construction.",
+        "why": "Perception and memory both fill gaps without flagging them, and imagination inherits the habit. The invented detail comes from your current preferences, which is why imagined futures are so suspiciously well suited to present you.",
+        "apply": "Ask somebody already living the thing you are imagining for three specific details you had not thought of. Add them to the picture before deciding.",
+        "format": "single",
+        "tags": ["imagination", "detail", "bias"]
+      },
+      {
+        "id": "stumbling-on-happiness-s03",
+        "hook": "You picture the wedding and skip straight past the marriage.",
+        "insight": "Imagination is drawn to the vivid middle and quietly omits the rest — the commute in the new job, the paperwork after the move, the second year of anything. What gets left out is precisely the ordinary time that will make up most of the experience. This is why people overrate outcomes that produce a good photograph and underrate ones that produce a good week. The question worth asking is never how the peak will feel, but what the average day will contain.",
+        "why": "Predictions focus on the distinctive features of an outcome and ignore everything left unchanged around it, a pattern known as focalism. Prompting people to think about the rest of their day reliably shrinks their forecasts.",
+        "apply": "Before choosing, write out an ordinary Wednesday under each option, hour by hour. Choose on those, not on the highlight you have been picturing.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Describe the average day", "body": "Write an ordinary Wednesday under this option, hour by hour, including the commute and the admin. Not the first day, and definitely not the best one." },
+          { "step": 2, "title": "Add what you deleted", "body": "List three unglamorous things the change brings that were not in your picture: paperwork, travel, waiting, people you did not get to choose." },
+          { "step": 3, "title": "Subtract what stays the same", "body": "Most of your life carries over unchanged, including whatever is currently bothering you. Name explicitly what this decision will not fix." },
+          { "step": 4, "title": "Compare weeks, not peaks", "body": "Put the two ordinary weeks side by side and choose between those. The highlight you keep picturing is a few hours out of a year." }
+        ],
+        "tags": ["focalism", "expectations", "decisions"]
+      },
+      {
+        "id": "stumbling-on-happiness-s04",
+        "hook": "Never plan next month's food while you are hungry.",
+        "insight": "Predictions about future feelings get made using your current state as the raw material, because that is what your mind has to hand. Hungry, you shop for a household; full, you cannot imagine wanting anything at all. Calm, you underestimate how furious you will be; furious, you cannot picture ever being calm about it. The effect is invisible from inside, because your present state does not feel like a distorting lens. It just feels like the way things are.",
+        "why": "Projection of the current state onto the future is well demonstrated across appetite, mood, pain and arousal. It is one reason plans made on a bad evening look so strange the following morning.",
+        "apply": "Make consequential decisions in a neutral state. If you cannot, write the decision down and revisit it once the state has clearly passed.",
+        "format": "single",
+        "tags": ["presentism", "mood", "planning"]
+      },
+      {
+        "id": "stumbling-on-happiness-s05",
+        "hook": "It will affect you less, and for less time, than you think.",
+        "insight": "Ask people to predict how they will feel a year after a promotion, a breakup or a diagnosis and they overshoot on both intensity and duration. Good events lift less and fade faster than expected; bad ones hurt less and lift sooner. The pattern holds across losing elections, losing jobs and losing relationships. It does not mean nothing matters — some events do change baseline wellbeing durably — but the emotional forecast is systematically too extreme in both directions.",
+        "why": "The impact bias is among the better replicated findings in this area. It has limits: unemployment, disability and bereavement can shift wellbeing lastingly, so the rule concerns typical events rather than every event.",
+        "apply": "For your current worry, write down how bad you expect to feel about it in a year, then diary a reminder to check that prediction against reality.",
+        "format": "single",
+        "tags": ["impact-bias", "forecasting", "emotion"]
+      },
+      {
+        "id": "stumbling-on-happiness-s06",
+        "hook": "You are far better at making sense of bad news than you expect to be.",
+        "insight": "After something goes wrong you begin, without deciding to, assembling a version of events in which it was survivable, informative or secretly for the best. This machinery works quietly and reliably, and its most important feature is that you cannot see it in advance. So you forecast your future misery using a self who does not yet have the explanation — and the explanation is precisely what will rescue you. Predictions of devastation get made before the defences arrive.",
+        "why": "Rationalisation after the fact is well documented, and people consistently fail to anticipate it. The system responds to large blows more than small ones, which is why a major setback is sometimes recovered from faster than a persistent irritation.",
+        "apply": "When dreading an outcome, ask how you adapted to the worst thing that has already happened to you. Use that record instead of your forecast.",
+        "format": "single",
+        "tags": ["rationalisation", "resilience", "coping"]
+      },
+      {
+        "id": "stumbling-on-happiness-s07",
+        "hook": "Choices you cannot undo tend to make you happier than ones you can.",
+        "insight": "Given the option to change their mind later, people take it, and then report being less satisfied with what they chose. A door left open keeps the comparison alive, and comparison is what stops you settling into the thing you actually have. When a decision is closed, the machinery that reconciles you to outcomes gets to work. This is uncomfortable advice, because everyone prefers the version with an escape clause and the escape clause is the part doing the damage.",
+        "why": "This comes from a small set of experiments rather than a large literature, so hold it loosely. The underlying mechanism — that unresolved comparison sustains dissatisfaction — is consistent with wider work on choice and regret.",
+        "apply": "On your next reversible decision, close it deliberately: no returns, no revisiting, no comparison shopping afterwards. Then notice how satisfied you feel.",
+        "format": "single",
+        "tags": ["commitment", "regret", "choice"]
+      },
+      {
+        "id": "stumbling-on-happiness-s08",
+        "hook": "Explain a good thing and you use it up faster.",
+        "insight": "Emotions persist while an event stays unexplained. Once you have a tidy account of why something happened it stops occupying you, which is useful for pain and wasteful for pleasure. Unexplained good fortune keeps producing feeling for far longer than the version you have analysed to death. The practical asymmetry: make sense of the bad thing quickly, and leave the good thing a little mysterious rather than immediately accounting for why you deserved it.",
+        "why": "Uncertainty prolongs both positive and negative emotion, and explanation shortens it. The effect has been shown with unexpected gifts and with ambiguous social feedback, and it is modest in size.",
+        "apply": "Write a full explanation of a recent setback in order to close it down. Then deliberately leave a recent piece of good luck unanalysed for a week.",
+        "format": "single",
+        "tags": ["emotion", "uncertainty", "savouring"]
+      },
+      {
+        "id": "stumbling-on-happiness-s09",
+        "hook": "You cannot learn from experience if you remember it wrong.",
+        "insight": "The obvious way to predict how something will feel is to recall how it felt last time. That fails, because memory stores an edited version: the most intense moment, the ending, and whatever fits the story you now tell about yourself. The dull middle vanishes and the exceptional gets promoted to typical. So you remember the holiday by its best afternoon and the job by its worst week, then use those distortions as the data for your next decision.",
+        "why": "Remembered experience diverges systematically from experience as it was lived, weighting peaks and endings heavily and largely ignoring duration. Diaries kept at the time regularly contradict the account given later.",
+        "apply": "Keep a one-line daily note during any big experience. Read the notes rather than your memory next time you have to make the same call.",
+        "format": "single",
+        "tags": ["memory", "experience", "evidence"]
+      },
+      {
+        "id": "stumbling-on-happiness-s10",
+        "hook": "Ask someone living your imagined future. You will refuse, but ask.",
+        "insight": "The most accurate way to predict how an experience will feel is to find somebody currently having it and ask them. Their report beats your imagination reliably, because it is measurement rather than simulation. Almost nobody does this, because everyone believes they are unusual enough that other people's reactions will not apply. On the narrow question of how an event feels, people turn out to be far more alike than they assume, and the differences are smaller than the forecasting error.",
+        "why": "Studies comparing simulation with reports from people already in a situation find the reports more accurate. Resistance to using them is consistent and driven by beliefs about personal uniqueness rather than by evidence.",
+        "apply": "Find two people already living the option you are considering and ask what their ordinary week is like. Weight their answer above your own imagination.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Find people already there", "body": "Locate two or three people currently living the thing you are considering, not people who did it years ago and now tell a polished story about it." },
+          { "step": 2, "title": "Ask about yesterday", "body": "Ask what they actually did yesterday and how it felt, rather than whether they recommend it. Recommendations are narratives; yesterday is data." },
+          { "step": 3, "title": "Look for the boring parts", "body": "Push for the routine hours: admin, commuting, evenings, the second year. That is the part your own imagination has already deleted for you." },
+          { "step": 4, "title": "Weight it above your picture", "body": "Treat their average report as the better estimate, and override it only for a difference between you and them that you can actually name." }
+        ],
+        "tags": ["surrogation", "advice", "forecasting"]
+      }
+    ],
+    "actions": [
+      "Before your next big decision, interview two people currently living each option about their ordinary week rather than about whether they recommend it.",
+      "Keep a one-line daily log during any significant new experience, so that future decisions rest on records rather than on edited memory.",
+      "Write down a dated prediction of how you will feel in a year about your current worry, then check it against reality when the date arrives.",
+      "Close one reversible decision deliberately this month: no returns, no revisiting, and no comparison shopping afterwards."
+    ],
+    "if_you_liked": ["thinking-fast-and-slow", "the-happiness-hypothesis", "predictably-irrational"],
+    "not_for_you_if": "You want advice on becoming happier. It explains why your forecasts fail and largely declines to tell you what to choose, and the jokes arrive relentlessly.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2006. The impact bias and focalism findings have replicated well; the results on irreversibility and on explanation rest on smaller sets of experiments. All prose here is original."
+    }
+  },
+  {
+    "id": "the-righteous-mind",
+    "title": "The Righteous Mind",
+    "subtitle": "Why Good People Are Divided by Politics and Religion",
+    "author": "Jonathan Haidt",
+    "year": 2012,
+    "category": "psychology",
+    "subcategory": "moral-psychology",
+    "tags": ["morality", "politics", "tribalism", "religion", "persuasion", "reasoning"],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It offered a testable explanation for why decent people find each other's politics incomprehensible, and made moral psychology a public conversation. It is the standard reference for explaining division without calling half a country stupid.",
+    "crux": {
+      "headline": "Judgement comes first, and the reasons are assembled after",
+      "body": "You do not reach moral conclusions by weighing arguments. You react, fast and physically, and your reasoning then goes to work building a case for the verdict you already reached. That is why moral arguments so rarely move anybody: you are presenting evidence to a lawyer rather than to a judge. It also means your political opponents are not failing to think. They are reacting from a different set of moral concerns and then reasoning about as well as you do."
+    },
+    "sparks": [
+      {
+        "id": "the-righteous-mind-s01",
+        "hook": "You reach the verdict in a second, then spend an hour justifying it.",
+        "insight": "Moral judgement arrives fast, as a reaction rather than a conclusion. Reasoning turns up afterwards to produce a case, and it is very good at that job — which is why an argument that defeats your stated reasons rarely changes your view. Haidt's image is a small rider on a large elephant: the rider looks articulate and in charge, while the elephant decides the direction. Persuasion aimed only at the rider gets you a better argument and no change of mind.",
+        "why": "Judgements are made faster than the reasons for them can be generated, and people readily produce fresh justifications when the original ones are refuted. The strong claim that reasoning never matters goes further than the evidence.",
+        "apply": "In your next disagreement, notice how quickly your verdict arrived. Then ask what would have to be true for the other position to be reasonable.",
+        "format": "single",
+        "tags": ["intuition", "reasoning", "morality"]
+      },
+      {
+        "id": "the-righteous-mind-s02",
+        "hook": "People hold moral views they cannot defend, and keep holding them.",
+        "insight": "Presented with a scenario engineered so that nobody is harmed and every objection is blocked in advance, people still judge some acts wrong and then discover they have run out of reasons. What happens next is the instructive part: they do not change the verdict. They say they cannot explain it but they know it anyway. That is strong evidence the judgement never rested on the reasons, and that the reasons were recruited to defend something already decided.",
+        "why": "Moral dumbfounding has been demonstrated in several studies, though critics argue some scenarios are contrived enough that participants reasonably distrust the setup. The core observation that conviction outlives its justification is not seriously disputed.",
+        "apply": "Take one strong moral view of yours and write the best case against it. Notice whether losing that argument makes any difference to what you believe.",
+        "format": "single",
+        "tags": ["dumbfounding", "conviction", "evidence"]
+      },
+      {
+        "id": "the-righteous-mind-s03",
+        "hook": "Your reasoning works for you the way a lawyer works for a client.",
+        "insight": "Reasoning is usually assumed to be a truth-finding instrument that occasionally fails. It behaves more like an advocate that occasionally succeeds. Given a conclusion you want, you search for supporting evidence and stop as soon as you find some. Given one you dislike, you search for a flaw and stop as soon as you find one. Both searches feel identical from the inside, and the difference in how hard you looked is where most motivated reasoning actually lives.",
+        "why": "The asymmetry between must-I-believe and can-I-believe searching is well documented, and reasoning improves markedly in groups with genuine disagreement. That is the practical implication: use other people as the correction.",
+        "apply": "For your next firm opinion, deliberately search for the strongest opposing evidence, with a rule that you read three sources before you stop looking.",
+        "format": "single",
+        "tags": ["motivated-reasoning", "bias", "argument"]
+      },
+      {
+        "id": "the-righteous-mind-s04",
+        "hook": "Different people run on different moral concerns, not fewer of them.",
+        "insight": "Moral reactions appear to draw on several distinct concerns: protecting people from harm, fairness and proportionality, loyalty to your group, respect for legitimate authority, and a sense of purity or degradation. People differ in how heavily they weight each. Somebody whose objection is rooted in loyalty or sanctity is not making a mistake about harm; they are responding to a concern you may barely register, and the conversation fails because neither side hears the other's real grounds.",
+        "why": "Moral foundations theory is influential and useful, but the exact number of foundations is contested and the questionnaire's structure has not always replicated cleanly. Treat it as a working map rather than a settled taxonomy.",
+        "apply": "In your next political disagreement, work out which concern is really driving the other person, then address that one instead of the one you would have used.",
+        "format": "single",
+        "tags": ["moral-foundations", "values", "politics"]
+      },
+      {
+        "id": "the-righteous-mind-s05",
+        "hook": "The moral world you find obvious is a minority position globally.",
+        "insight": "Educated, wealthy, individualist Western populations are unusual on many psychological measures, morality included. They tend to build ethics almost entirely out of harm and fairness, treating everything else as personal taste. Most people in most places also moralise loyalty, hierarchy and sanctity, and regard a society without them as one that is coming apart. Reading the rest of the world as morally underdeveloped is a description of your own sample being strange rather than theirs.",
+        "why": "The finding that Western educated samples are outliers across many psychological measures is robust and has forced a rethink of what counts as a human universal. Most published psychology still draws on those samples.",
+        "apply": "Read one serious argument from a moral tradition you find alien, with the aim of stating its case well enough that a member of it would agree.",
+        "format": "single",
+        "tags": ["culture", "morality", "universals"]
+      },
+      {
+        "id": "the-righteous-mind-s06",
+        "hook": "People are mostly self-interested and occasionally something else.",
+        "insight": "Human beings compete hard with each other and then, under the right conditions, dissolve into a group and work for it at real personal cost. Marching, singing, drilling, worshipping and playing team sport all trigger it. The point is not that groups are good — the same machinery produces armies and mobs — but that a picture of people as purely self-interested fails to explain the behaviour most in need of explanation, including your own at a concert or a protest.",
+        "why": "The evolutionary account here relies on group-level selection, which remains contested among biologists. The psychological observation — that synchronous group activity produces strong shared identity — is well supported independently of that argument.",
+        "apply": "Notice one group you dissolve into and what it makes easy. Then ask what it would take for that same feeling to make you cruel to outsiders.",
+        "format": "single",
+        "tags": ["groups", "identity", "evolution"]
+      },
+      {
+        "id": "the-righteous-mind-s07",
+        "hook": "Religion works less as a set of beliefs than as a way of binding people.",
+        "insight": "Arguing about whether religious claims are true misses most of what religion does. Ritual, restriction and shared worship build groups that trust each other, cooperate and stay together, and the demanding parts are often exactly what makes the trust credible. That is a functional account rather than an endorsement, and it explains why religious communities keep appearing in research on social support and cohesion regardless of what anyone believes about the metaphysics.",
+        "why": "Religious participation is associated with social support, in-group cooperation and some health benefits, largely through community rather than belief. The evolutionary story about how this arose is more speculative than the correlations are.",
+        "apply": "If you have no religious community, identify which secular structure supplies the same things: regular attendance, shared ritual, and duties to specific people.",
+        "format": "single",
+        "tags": ["religion", "community", "cohesion"]
+      },
+      {
+        "id": "the-righteous-mind-s08",
+        "hook": "The team that gives you meaning also decides what you cannot see.",
+        "insight": "Belonging to a moral community delivers real goods: purpose, trust, people who will help you. It also installs a set of things that become unthinkable rather than merely wrong, plus a strong incentive not to notice evidence that would embarrass your own side. This is not a failing peculiar to the other team. The better you are at reasoning, the more effectively you can defend whatever your group already believes, which is why education does not reliably reduce partisanship.",
+        "why": "Politically motivated reasoning is often stronger in more numerate and better informed people, because they have more tools for reaching the conclusion they want. Group identity predicts belief better than knowledge does.",
+        "apply": "Name one fact that would embarrass your own side. Check whether you know it as precisely as you know the equivalent fact about the other side.",
+        "format": "single",
+        "tags": ["tribalism", "blind-spots", "politics"]
+      },
+      {
+        "id": "the-righteous-mind-s09",
+        "hook": "If you want to change a mind, do not start with the argument.",
+        "insight": "Because the verdict arrives before the reasoning, an argument aimed at somebody's stated reasons hits the part that was never doing the deciding. What moves people is a shift in the intuition underneath, and intuitions shift through relationship, respect and being genuinely heard rather than through evidence. That is slower and much less satisfying than winning, and it is the only route that reliably works. Warmth first, then a specific claim, is the order that succeeds.",
+        "why": "Persuasion research consistently finds that perceived respect and shared identity condition whether evidence gets accepted at all. Approaches built on listening and personal narrative outperform argument in field experiments on contested issues.",
+        "apply": "In your next hard conversation, state the other person's view until they agree you have it right, before you say a single word of your own.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Lower the threat", "body": "Warmth, curiosity, no audience. Somebody defending their standing in a group cannot weigh evidence, and being watched makes the defending compulsory." },
+          { "step": 2, "title": "State their view back", "body": "Summarise their position until they say you have got it right. Nobody listens to a person who has clearly not understood what they are arguing against." },
+          { "step": 3, "title": "Find the shared concern", "body": "Locate a value you both hold, then show your position serving it. Arguments land when they are made in the other person's moral currency." },
+          { "step": 4, "title": "Make one small claim", "body": "Ask for a shift in a single specific belief rather than a change of side. Whole conversions are threatening, and threatened people stop listening." }
+        ],
+        "tags": ["persuasion", "conversation", "disagreement"]
+      },
+      {
+        "id": "the-righteous-mind-s10",
+        "hook": "You cannot see your own bias, but you can build a check for it.",
+        "insight": "Individual reasoning is poor at correcting individual bias, because the reasoner and the bias are the same person. What works is external: people who disagree with you and whose good faith you accept, a rule that you must state the opposing case first, a habit of noticing when a conclusion arrived faster than the evidence could possibly allow. None of this feels like insight. It feels like admin, which is exactly why almost nobody does it.",
+        "why": "Reasoning improves substantially in groups where genuine disagreement exists and where members share a goal of getting it right. Solo debiasing efforts have a poor track record by comparison.",
+        "apply": "Recruit one person who reliably disagrees with you and ask them to review your next significant decision before you commit to anything.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Time the verdict", "body": "Notice how long the judgement took. Anything that arrived instantly on a complex question was an intuition, whatever reasons you produced afterwards." },
+          { "step": 2, "title": "Write the other case", "body": "Put the strongest opposing argument in writing, in its own terms. If you cannot make it convincing, you do not yet understand what you disagree with." },
+          { "step": 3, "title": "Find a real dissenter", "body": "Ask someone who genuinely disagrees and whose good faith you accept. Groups with real disagreement reason better than any individual does alone." },
+          { "step": 4, "title": "Name the cost of being wrong", "body": "Say what you would lose socially by changing your mind. That answer explains more of your certainty than the evidence does." }
+        ],
+        "tags": ["reasoning", "bias", "practice"]
+      }
+    ],
+    "actions": [
+      "Write the strongest version of a political position you reject, then show it to somebody who holds it and revise until they say it is fair.",
+      "Identify which moral concerns drive your own reactions most strongly, and which ones you barely register when other people raise them.",
+      "Recruit one thoughtful person who disagrees with you and set up a standing arrangement to review each other's significant decisions.",
+      "In your next argument, spend the first five minutes only listening and summarising, then see whether the conversation goes differently."
+    ],
+    "if_you_liked": ["the-happiness-hypothesis", "thinking-fast-and-slow", "influence"],
+    "not_for_you_if": "You want a settled scientific account rather than a synthesis. The foundations framework is contested, and the evolutionary argument leans on ideas many biologists reject.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2012. Moral foundations theory remains influential and contested; its questionnaire's factor structure has not always replicated, and the group selection argument is disputed among biologists. The claim that conservatives predict liberal answers better than the reverse has weakened in later work. All prose here is original."
+    }
+  },
+  {
+    "id": "the-happiness-hypothesis",
+    "title": "The Happiness Hypothesis",
+    "subtitle": "Finding Modern Truth in Ancient Wisdom",
+    "author": "Jonathan Haidt",
+    "year": 2006,
+    "category": "psychology",
+    "subcategory": "wellbeing-psychology",
+    "tags": ["happiness", "wellbeing", "philosophy", "relationships", "virtue", "meaning"],
+    "difficulty": "moderate",
+    "read_time_min": 11,
+    "why_it_matters": "It tested ten ancient claims about how to live against modern psychological evidence, keeping what survived and discarding what did not. Few books manage to be a serious literature review and a usable guide to living at once.",
+    "crux": {
+      "headline": "Happiness comes from between, not within or without",
+      "body": "Neither the ancient advice to look inward nor the modern advice to arrange better circumstances holds up on its own. What consistently predicts a good life is the fit between a person and the things they are attached to: other people, work that engages them, and something larger than themselves. Temperament sets a range you cannot argue your way out of, but relationships, engagement and a short list of conditions that never stop mattering move you around inside it."
+    },
+    "sparks": [
+      {
+        "id": "the-happiness-hypothesis-s01",
+        "hook": "The reasoning part of you is a rider on an animal that outweighs it.",
+        "insight": "Most of your mind runs automatically, quickly and without consulting you, while a smaller deliberate part observes and explains. Haidt's image is a rider on an elephant. The rider can advise, plan and steer a little, but cannot overpower the animal, which is why willpower alone loses to appetite so reliably. Everything that does work — training, changed surroundings, habit, therapy, medication — works by influencing the elephant slowly rather than by having the rider shout louder.",
+        "why": "The split between automatic and controlled processing is standard in cognitive psychology, and self-control research consistently finds direct suppression weak compared with changing conditions or building habits.",
+        "apply": "Take a behaviour you keep failing to force. Change one thing about the situation instead, and stop spending willpower on it altogether.",
+        "format": "single",
+        "tags": ["self-control", "automaticity", "willpower"]
+      },
+      {
+        "id": "the-happiness-hypothesis-s02",
+        "hook": "Bad events hit harder than equivalent good ones, and always have.",
+        "insight": "Threat gets processed faster, remembered longer and weighted more heavily than reward. That asymmetry made sense for an animal that could afford to miss a meal but not a predator, and it is still running now. It explains why one piece of criticism outweighs five compliments, why a bad start to a relationship is harder to recover from than a bad middle, and why keeping a marriage healthy has more to do with avoiding damage than with adding romance.",
+        "why": "The greater power of bad than good is one of the most consistent findings in psychology, appearing across relationships, learning, impressions and memory. The ratios often quoted vary a great deal by domain and should be held loosely.",
+        "apply": "Audit one important relationship for damage rather than for gestures. Remove one recurring criticism before you add anything nice at all.",
+        "format": "single",
+        "tags": ["negativity-bias", "relationships", "emotion"]
+      },
+      {
+        "id": "the-happiness-hypothesis-s03",
+        "hook": "Gossip is not a character flaw. It is how reputation gets enforced.",
+        "insight": "Human cooperation between people who are not related runs on returning favours, and returning favours only works if cheating can be detected. Gossip is the detection system: it is overwhelmingly about the moral behaviour of people we know, and it is what makes a reputation expensive to lose. Groups that talk about each other sustain cooperation better than groups that do not. The uncomfortable implication is that behaving well in private depends partly on expecting to be discussed.",
+        "why": "Reciprocity and reputation are central to research on cooperation, and studies of gossip content find it is mostly about norm violations rather than idle chatter. Being observed, or even hinted at, increases cooperative behaviour.",
+        "apply": "Assume anything you do will be described accurately to somebody whose opinion you value. Then check whether your last difficult decision survives that.",
+        "format": "single",
+        "tags": ["cooperation", "reputation", "gossip"]
+      },
+      {
+        "id": "the-happiness-hypothesis-s04",
+        "hook": "You judge yourself on intentions and everybody else on results.",
+        "insight": "Your mind produces a flattering account of your own behaviour automatically. Your motives were good, the circumstances were difficult, and the same act by somebody else was simply what they are like. This is not lying, because the favourable version is the one that arrives. It is why the driver who cut you up is a menace and you were in a hurry, and why nearly every conflict has two participants who each know for certain they were the reasonable one.",
+        "why": "Self-serving attribution is robust and largely automatic. Naive realism — the sense that you see the situation plainly, so disagreement must come from bias or bad faith — is among the better documented social biases.",
+        "apply": "In your next dispute, write the other person's version of events as though it were the true one, and find the part of it that actually is.",
+        "format": "single",
+        "tags": ["hypocrisy", "attribution", "conflict"]
+      },
+      {
+        "id": "the-happiness-hypothesis-s05",
+        "hook": "Whatever you are chasing, you get used to it faster than you think.",
+        "insight": "People return toward their baseline after most changes in circumstance, good and bad. Pay rises, new houses and new devices deliver a lift that decays, and many setbacks likewise fade. The strong version of this claim has been revised — unemployment, disability, chronic pain and losing a partner can lower wellbeing durably — but for the ordinary purchases and promotions that people organise their lives around, adaptation is close to complete within a year.",
+        "why": "Long-running panel studies show partial rather than full adaptation, with some events producing lasting change in average wellbeing. The original set-point account was too strong, though the direction of the effect is well established.",
+        "apply": "Before a purchase meant to make you happier, ask whether you will still notice it in six months. Spend on the things you will not adapt to instead.",
+        "format": "single",
+        "tags": ["adaptation", "hedonic-treadmill", "money"]
+      },
+      {
+        "id": "the-happiness-hypothesis-s06",
+        "hook": "Some conditions genuinely matter. Most of what you chase does not.",
+        "insight": "Wellbeing has three inputs: a temperamental range you were born inside, the conditions of your life, and what you voluntarily do. Temperament is largely fixed. Conditions mostly fade, apart from a short list that never stops mattering, including noise, a long commute, having no control over your work, and the quality of your close relationships. Voluntary activity keeps working because it can be varied. So spend on the conditions that do not fade, and on activities rather than objects.",
+        "why": "The three-part framework is useful, but the popular percentages attached to it were never well supported and their authors have since stepped back from them. The list of non-adapting conditions has better evidence than the arithmetic does.",
+        "apply": "Pick the worst non-adapting condition in your life — commute, noise, a controlling job — and spend real money or effort removing it this year.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Accept the range", "body": "Part of your baseline is temperament and will not move much. Aiming to become a fundamentally different kind of person is how people waste a decade." },
+          { "step": 2, "title": "Fix what never fades", "body": "Noise, commuting, lack of control, an unresolved relationship. None of these get absorbed by adaptation, so they are worth real money to fix." },
+          { "step": 3, "title": "Stop buying what does", "body": "Objects and upgrades deliver a short lift and then vanish into the background. Redirect that budget toward experiences and toward other people." },
+          { "step": 4, "title": "Vary the activities", "body": "Voluntary activity keeps paying because you can change it. Rotate what you do rather than optimising a single routine into the ground." }
+        ],
+        "tags": ["wellbeing", "conditions", "spending"]
+      },
+      {
+        "id": "the-happiness-hypothesis-s07",
+        "hook": "Passionate love burns out on schedule. That is not a warning sign.",
+        "insight": "Two kinds of love get confused. One is intense, fast, largely chemical, and fades within a couple of years by design. The other builds slowly out of shared life and mutual dependence, and it is what long relationships actually run on. Expecting the first to persist makes the arrival of the second look like failure, and a great many people leave a perfectly workable relationship at precisely the point where it was about to become the good kind.",
+        "why": "The decline of passionate intensity over the first years is well documented, as is the different course of companionate attachment. Which relationships last depends far more on how conflict is handled than on early intensity.",
+        "apply": "If the intensity has faded, judge the relationship on the second kind instead: whether daily life together is good, and whether repairs actually work.",
+        "format": "single",
+        "tags": ["love", "relationships", "attachment"]
+      },
+      {
+        "id": "the-happiness-hypothesis-s08",
+        "hook": "Adversity sometimes strengthens people. It is not a reliable service.",
+        "insight": "Some people do come out of severe difficulty with better relationships, clearer priorities and more confidence about what they can survive. That is real, and it is not the general rule: plenty of people are simply damaged, and the growth reported afterwards is partly a story assembled to make sense of what happened. It also appears to depend on timing, on age, and on having support during the event rather than on anything about the event itself.",
+        "why": "Post-traumatic growth is measured mostly by retrospective self-report, which inflates it; studies comparing measurements before and after find smaller effects. Nobody should recommend hardship on the strength of this literature.",
+        "apply": "After a hard period, write down what actually changed in your behaviour rather than in your story. Keep only the changes that show up in what you do.",
+        "format": "single",
+        "tags": ["adversity", "growth", "honesty"]
+      },
+      {
+        "id": "the-happiness-hypothesis-s09",
+        "hook": "Modern ethics asks what is permitted. Older ethics asked who you become.",
+        "insight": "Most contemporary moral talk concerns rules and rights: what you are allowed to do, and what harms whom. Ancient traditions asked a different question — which habits make a person good, and how do you train them. That question suits human psychology better, because behaviour is driven by automatic tendencies that respond to practice rather than to argument. You do not decide to be generous. You do generous things repeatedly until the reaction arrives without a decision.",
+        "why": "Character strengths have been catalogued and measured in modern psychology with reasonable success, and habit research supports the training model. Whether virtues remain stable across very different situations is still argued over.",
+        "apply": "Choose one virtue and design a weekly repetition that expresses it. Practise the behaviour rather than trying to hold on to the intention.",
+        "format": "single",
+        "tags": ["virtue", "character", "habits"]
+      },
+      {
+        "id": "the-happiness-hypothesis-s10",
+        "hook": "Happiness turns up between people, not inside one of them.",
+        "insight": "Look for the good life inside yourself and what you find is a person who is difficult to fix. What holds up in the research is the fit between a person and their attachments: relationships that are close and reliable, work that engages and connects to something beyond the pay, and membership of something larger. Ancient advice to detach from the world does reduce suffering, and it cuts off the main source of the good things at exactly the same time.",
+        "why": "Close relationships are among the strongest and most consistent predictors of wellbeing across long-running studies. Work engagement and belonging add further, though most of that evidence is correlational.",
+        "apply": "Pick the weakest of your three connections — people, work, something larger — and give it a scheduled hour every week for three months.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Audit the three", "body": "Score your close relationships, your engagement with work, and your connection to something larger. Be honest about which has been neglected longest." },
+          { "step": 2, "title": "Schedule the weakest", "body": "Put a recurring hour in the calendar for the lowest score. Connection responds to frequency far more than to intensity or good intentions." },
+          { "step": 3, "title": "Choose depth over range", "body": "A few close ties beat many loose ones. Spend the time on the people who would notice your absence inside of a week." },
+          { "step": 4, "title": "Attach the work to someone", "body": "Find the person your work actually helps and make contact with them occasionally. Engagement follows a beneficiary you can see." }
+        ],
+        "tags": ["relationships", "engagement", "meaning"]
+      }
+    ],
+    "actions": [
+      "Identify the non-adapting condition costing you most — commute, noise, lack of control — and commit real money or a decision to removing it this year.",
+      "Stop trying to force one behaviour through willpower and redesign the situation around it instead, then review how it went after a month.",
+      "Give the weakest of your connections — close relationships, work, something larger — a scheduled weekly hour for three months.",
+      "Read one ancient text properly alongside the psychology, noting where the old advice survives the evidence and where it does not."
+    ],
+    "if_you_liked": ["the-righteous-mind", "flow", "mans-search-for-meaning"],
+    "not_for_you_if": "You want either pure philosophy or a practical programme. It moves between traditions and studies quickly, and some happiness research it summarises has since been revised.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2006. The strong set-point account of adaptation has since been revised, and the widely quoted percentages for the happiness formula were never well supported. Post-traumatic growth findings rest largely on retrospective self-report. All prose here is original."
+    }
   }
 ]

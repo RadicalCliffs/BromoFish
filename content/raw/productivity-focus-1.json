@@ -1,0 +1,633 @@
+[
+  {
+    "id": "deep-work",
+    "title": "Deep Work",
+    "subtitle": "Rules for Focused Success in a Distracted World",
+    "author": "Cal Newport",
+    "year": 2016,
+    "category": "productivity-focus",
+    "subcategory": "focus-attention",
+    "tags": [
+      "focus",
+      "attention",
+      "distraction",
+      "knowledge-work",
+      "concentration"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "It gave a name to the thing knowledge work had quietly lost, and made the case that concentration is now a rare skill with rising market value. Half the vocabulary companies use about focus policy, no-meeting days and shallow work traces back to it.",
+    "crux": {
+      "headline": "Concentration is a skill, and it is becoming scarce",
+      "body": "The ability to focus without distraction on a hard problem is trainable, valuable and increasingly rare, which is exactly why it pays. Most knowledge work has drifted into shallow tasks that feel urgent, are easy to do while distracted, and produce little that is hard to replicate. Protect a few hours a day for the difficult thing, treat everything else as the residue, and you compound an advantage most of your peers are actively giving away."
+    },
+    "sparks": [
+      {
+        "id": "deep-work-s01",
+        "hook": "The rarest work skill left is the one your phone is training out of you.",
+        "insight": "Two abilities decide who thrives in an economy full of smart machines and smarter competitors: learning hard things quickly, and producing at a high standard under time pressure. Both depend on the same thing, which is long stretches of undivided attention. That capacity is not fixed, but it is perishable. Spend your days switching between chat, mail and meetings and you train yourself to need novelty every few minutes. The skill is becoming scarce at exactly the moment it became valuable, which is why the people who keep it stand out.",
+        "why": "Scarcity and value rarely rise together. Here they do, because the same tools that raise the return on concentrated work are the ones fragmenting everyone else's attention all day.",
+        "apply": "Name one task this week that genuinely needs your full mind. Book ninety uninterrupted minutes for it and treat that block as unmovable.",
+        "format": "single",
+        "tags": [
+          "focus",
+          "career"
+        ]
+      },
+      {
+        "id": "deep-work-s02",
+        "hook": "Switching tasks leaves part of your mind behind.",
+        "insight": "When you jump from one task to another, attention does not move cleanly. A portion stays stuck on the previous thing, especially if it was unfinished or ambiguous. So the cost of the quick inbox check is not the thirty seconds it took, it is the diminished version of you that returns to the hard task afterwards. Do this ten times in a morning and you never once operate at full capacity, while still feeling busy the whole time.",
+        "why": "Researchers call this attention residue, and it shows up in lab studies of task switching. The effect is worse when you leave the previous task open-ended rather than finished.",
+        "apply": "Close the loop before you switch. Write down the next step of the task you are leaving, then start the new one, rather than leaving it hanging.",
+        "format": "single",
+        "tags": [
+          "task-switching",
+          "attention"
+        ]
+      },
+      {
+        "id": "deep-work-s03",
+        "hook": "There is no one right way to protect focus. There are four, and you must pick.",
+        "insight": "Protecting concentration is a scheduling problem, and the right answer depends on how much control you have over your calendar. Someone who can disappear for a season needs a different design than someone with school runs and standing meetings. Most people fail here not because they lack discipline but because they copy a pattern that does not fit their life, then conclude that focus is impossible for them. Choose the pattern your obligations actually permit, then defend it.",
+        "why": "A schedule that survives your real constraints gets run. One borrowed from someone with more autonomy gets abandoned in week two, and the abandonment gets misread as a character flaw.",
+        "apply": "Pick the pattern that matches your actual autonomy this month, write it into your calendar as recurring events, and review the fit in four weeks.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Go monastic",
+            "body": "Cut off nearly all shallow obligations for a long stretch. It produces the most output and suits almost nobody, because most jobs require you to be reachable."
+          },
+          {
+            "step": 2,
+            "title": "Split the season",
+            "body": "Divide your year or month into blocks: some days entirely for concentrated work, others fully open to meetings and messages. Needs a boss or clients who accept the rhythm."
+          },
+          {
+            "step": 3,
+            "title": "Fix a daily rhythm",
+            "body": "Same hours every day, usually early, before the day's demands arrive. Least dramatic, most durable, and the version that works for people with families and fixed jobs."
+          },
+          {
+            "step": 4,
+            "title": "Take what you get",
+            "body": "Drop into focus wherever a gap appears. This only works once you have trained the ability, so treat it as an advanced move rather than a starting point."
+          }
+        ],
+        "tags": [
+          "scheduling",
+          "routines"
+        ]
+      },
+      {
+        "id": "deep-work-s04",
+        "hook": "Boredom is a training ground you keep refusing to enter.",
+        "insight": "If you reach for your phone every time a queue forms, you are teaching your brain that a moment without stimulation is an emergency to be fixed. Then you sit down to concentrate and it demands the same relief. The fix is not more willpower at the desk, it is fewer rescues everywhere else. Let yourself be bored at the bus stop, in the lift, while the kettle boils. Tolerating understimulation is the base fitness that makes long focus possible.",
+        "why": "You cannot train two opposite reflexes at once. Constant novelty-seeking outside work hours undermines the concentration you are trying to build inside them.",
+        "apply": "Choose one daily waiting moment, such as a queue or a commute, and go through it without your phone every day this week.",
+        "format": "single",
+        "tags": [
+          "boredom",
+          "phones"
+        ]
+      },
+      {
+        "id": "deep-work-s05",
+        "hook": "Ban distraction on a schedule, do not schedule focus around it.",
+        "insight": "Most people work distracted and try to book occasional focus. Flip it. Decide in advance the specific windows when you are allowed to be online, and treat everything outside those windows as offline by default. The point is not to use the internet less. It is to stop training yourself to reach for relief the instant work gets hard, because that reflex is what destroys concentration, not the connection itself.",
+        "why": "The habit being broken is the impulsive switch, not the connectivity. Scheduled access keeps the tool and removes the reflex, which is why simply cutting hours rarely helps.",
+        "apply": "Write tomorrow's online windows on paper tonight. Outside them, stay offline even when the work stalls, and wait for the next window.",
+        "format": "single",
+        "tags": [
+          "internet",
+          "self-control"
+        ]
+      },
+      {
+        "id": "deep-work-s06",
+        "hook": "Most of what fills your day would survive being deleted.",
+        "insight": "Shallow work is the logistical stuff you can do while partly distracted: forwarding, formatting, scheduling, attending. It is not worthless, but it is easy to replicate and it expands to fill whatever room you give it. The useful test is blunt. How long would it take to train a bright graduate with no background in your field to do this task? If the answer is a few weeks, it is shallow, and it should not be eating your best hours.",
+        "why": "Work that is quick to teach is also quick to replace or automate. Time spent there buys you a busy day and very little that is durable or hard to copy.",
+        "apply": "Score every task on tomorrow's list as deep or shallow using the new-graduate test, then move all the deep work before your first meeting.",
+        "format": "single",
+        "tags": [
+          "shallow-work",
+          "prioritising"
+        ]
+      },
+      {
+        "id": "deep-work-s07",
+        "hook": "Set a hard stopping time and watch the day reorganise itself.",
+        "insight": "Concentration is metabolically expensive, and beyond a few hours a day the quality collapses whether or not you keep sitting there. So set an hour after which work is finished: no evening inbox, no weekend catch-up. The constraint does the sorting for you. With a fixed end, you stop letting shallow tasks sprawl and you start protecting the hours that matter. Rest is not the reward for the work, it is part of the equipment.",
+        "why": "Downtime supports the unconscious processing that solves hard problems, and it restores tomorrow's attention. The daily ceiling on real concentration is a rule of thumb, not a measured constant.",
+        "apply": "Pick a shutdown time for tomorrow. When it arrives, review your open loops, note the next step for each, and close the laptop.",
+        "format": "single",
+        "tags": [
+          "rest",
+          "boundaries"
+        ]
+      },
+      {
+        "id": "deep-work-s08",
+        "hook": "Your workday needs an ending, not just a moment you stop.",
+        "insight": "Unfinished tasks keep pulling at attention until your mind trusts they are handled. A short closing routine gives it that trust: everything captured, a rough plan in place, a clear signal that nothing more will be decided tonight. It takes a few minutes and it buys you an evening where work is genuinely absent instead of half-present. Skip it and you spend the evening rehearsing tomorrow without making any progress on it.",
+        "why": "A plan you can see removes the need to keep rehearsing it. The research base here is suggestive rather than settled, but the practical effect is easy to test on yourself inside a week.",
+        "apply": "Run a five-minute close tomorrow: capture, plan, and one spoken phrase that marks work finished. Do it for five days before judging it.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Empty the catches",
+            "body": "Go through inbox, notepad and messages, and pull every task or commitment into one list. Nothing stays only in your head or buried in a thread."
+          },
+          {
+            "step": 2,
+            "title": "Check every open task",
+            "body": "Look at each item and decide whether it is done, waiting on someone, or needs a next step from you. Ambiguity is what keeps things buzzing overnight."
+          },
+          {
+            "step": 3,
+            "title": "Sketch tomorrow",
+            "body": "Write a rough plan for the next day: the one deep block, and the two or three shallow things that genuinely must happen. Rough is enough."
+          },
+          {
+            "step": 4,
+            "title": "Say it is over",
+            "body": "Use the same closing phrase every day. It feels silly and it works, because the ritual is what tells your mind the checking can now stop."
+          }
+        ],
+        "tags": [
+          "shutdown",
+          "evenings"
+        ]
+      },
+      {
+        "id": "deep-work-s09",
+        "hook": "Any benefit is not enough reason to keep a tool in your life.",
+        "insight": "The usual test for a tool is whether it offers some benefit. By that standard everything qualifies, which is how a life fills with apps and obligations that each help slightly and collectively wreck your attention. Use a stricter test. Name the two or three outcomes that actually determine your professional and personal life, then ask whether this tool's positive effect on them clearly outweighs its negative one. Most fail. Drop those.",
+        "why": "Craftsmen in other trades pick tools by weighing costs against benefits. Knowledge workers usually skip the cost side entirely, which is why the tool count only ever rises.",
+        "apply": "List the three outcomes that most determine your career. Audit each app against them this weekend and remove one that fails the test.",
+        "format": "single",
+        "tags": [
+          "tools",
+          "social-media"
+        ]
+      },
+      {
+        "id": "deep-work-s10",
+        "hook": "Change where you work and the work changes with it.",
+        "insight": "Attention responds to setting more than most people admit. A dedicated place, a fixed start time, a rule about what you drink and what sits on the desk: these sound trivial, and they remove dozens of small decisions that otherwise leak concentration. Some people go further and make an unusual investment, a booked room or a trip, purely to signal that this project matters. The extravagance is the point, because it raises the stakes enough to overcome inertia.",
+        "why": "Rituals cut decision overhead and cue a familiar state. The dramatic version works through commitment rather than magic, and it fails if there is no real project waiting at the other end.",
+        "apply": "Fix one detail of your deep work setup, such as the same seat, start time and drink, and repeat it for two weeks before changing anything.",
+        "format": "single",
+        "tags": [
+          "rituals",
+          "environment"
+        ]
+      }
+    ],
+    "actions": [
+      "Audit last week's calendar and highlight every hour that was genuinely undistracted. Use the total as your honest baseline before you change anything.",
+      "Block a recurring ninety-minute focus session at the same time every workday for a month, and defend it like a meeting with your most important client.",
+      "Write your own shutdown routine on an index card, run it every evening for two weeks, and keep work off your devices once it is done.",
+      "Pick the shallow task that eats the most of your week and either batch it into one window, hand it to someone else, or stop doing it."
+    ],
+    "if_you_liked": [
+      "digital-minimalism",
+      "indistractable",
+      "four-thousand-weeks"
+    ],
+    "not_for_you_if": "Your job is genuinely reactive, such as support, operations or clinical shifts, or you want research depth rather than rules. The advice assumes more calendar control than many people have.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published January 2016 by Grand Central. All prose here is original; no wording is reproduced from the book."
+    }
+  },
+  {
+    "id": "getting-things-done",
+    "title": "Getting Things Done",
+    "subtitle": "The Art of Stress-Free Productivity",
+    "author": "David Allen",
+    "year": 2001,
+    "category": "productivity-focus",
+    "subcategory": "task-systems",
+    "tags": [
+      "task-management",
+      "organisation",
+      "workflow",
+      "email",
+      "stress"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It reframed personal organisation as a plumbing problem rather than a discipline problem, and gave a generation of knowledge workers a vocabulary of capture, next action and weekly review that most task apps still ship with today.",
+    "crux": {
+      "headline": "Your head is a terrible place to store commitments",
+      "body": "Stress does not come from having too much to do. It comes from carrying unresolved commitments in a mind built for thinking rather than storage. So get everything out of your head and into an external system you genuinely trust, decide the very next physical action for each item, and review the whole thing often enough to keep believing it. Once your mind stops rehearsing the list, it is free to actually work."
+    },
+    "sparks": [
+      {
+        "id": "getting-things-done-s01",
+        "hook": "A brain used as a filing cabinet does both jobs badly.",
+        "insight": "Working memory is small, unreliable and completely indifferent to importance. It will surface the dentist appointment at midnight and forget the client email at noon. Every commitment you keep only in your head therefore runs a background process that costs attention and delivers nothing. Move all of it into a system you actually trust and the background noise drops, not because the work shrank but because your mind no longer has to keep proving it has not forgotten.",
+        "why": "Reminding is not the same as doing, and your memory schedules reminders at random. The claim that open loops intrude until a plan exists has some experimental support, though the literature is thinner than popular retellings suggest.",
+        "apply": "Spend twenty minutes writing down every unfinished thing on your mind, from work and home to vague worries, in one list. Do not sort it yet.",
+        "format": "single",
+        "tags": [
+          "capture",
+          "memory"
+        ]
+      },
+      {
+        "id": "getting-things-done-s02",
+        "hook": "Every productivity system is five steps. Most people only do one.",
+        "insight": "Getting organised is not one act but five distinct ones, and mixing them is why lists fail. Collecting is different from deciding, deciding is different from filing, filing is different from reviewing, and all four are different from doing. When you try to decide while you collect, the collecting slows to a crawl. When you skip reviewing, you stop trusting the list within a fortnight. Separate the stages and each one becomes fast.",
+        "why": "Each stage needs a different mode of thinking. Batching them separately removes the constant gear-changing that makes list maintenance feel like work in its own right.",
+        "apply": "Do one stage at a time tomorrow: collect for twenty minutes, then clarify for twenty, without letting yourself slip into either during the other.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Capture everything",
+            "body": "Get every commitment, idea and loose end out of your head and into a small number of collection points. Speed matters far more than tidiness at this stage."
+          },
+          {
+            "step": 2,
+            "title": "Clarify each item",
+            "body": "Ask what it is and whether it needs action. If not, bin it, file it or park it. If yes, name the outcome and the very next action."
+          },
+          {
+            "step": 3,
+            "title": "Organise by context",
+            "body": "Put each action where you will see it when you can act: the calendar for time-fixed things, lists by place or tool for everything else."
+          },
+          {
+            "step": 4,
+            "title": "Reflect weekly",
+            "body": "Walk the whole system once a week. Without this the lists rot, you stop believing them, and the system quietly dies inside a month."
+          },
+          {
+            "step": 5,
+            "title": "Engage with judgement",
+            "body": "Choose in the moment by what you can do here, how much time and energy you have, and what matters most. The system informs the call, it does not make it."
+          }
+        ],
+        "tags": [
+          "workflow",
+          "method"
+        ]
+      },
+      {
+        "id": "getting-things-done-s03",
+        "hook": "If you cannot picture the physical action, you will not start it.",
+        "insight": "Most stalled items are stalled because they are not actions. Something like sorting out the website names a project, not a movement, so every time you read it your mind runs a small planning session and then flinches away. Rewrite it as the very next visible thing a body could do, such as opening the hosting account or sending two lines to the developer, and the resistance mostly disappears, because now there is nothing left to work out.",
+        "why": "Ambiguity is the fuel of procrastination. A defined next action pre-pays the thinking cost, so starting no longer requires a decision you were quietly avoiding.",
+        "apply": "Take the three oldest items on your list and rewrite each as a concrete physical action starting with a verb. Delete the vague versions.",
+        "format": "single",
+        "tags": [
+          "next-action",
+          "procrastination"
+        ]
+      },
+      {
+        "id": "getting-things-done-s04",
+        "hook": "If it takes two minutes, doing it now is cheaper than tracking it.",
+        "insight": "Small tasks cost more to organise than to complete. Writing it down, filing it, reading it again later and deciding again all take longer than the task itself. So when something surfaces while you are processing and would take about two minutes, do it immediately and be done with it. This is a filing rule, not a licence to chase every small thing that arrives while you are concentrating on something hard.",
+        "why": "The saving is in the overhead, not the task. Applied during focused work rather than during processing, the same rule becomes a very efficient way to stay permanently distracted.",
+        "apply": "Next time you process your inbox, finish anything under two minutes on the spot and record only what is genuinely longer than that.",
+        "format": "single",
+        "tags": [
+          "email",
+          "processing"
+        ]
+      },
+      {
+        "id": "getting-things-done-s05",
+        "hook": "A list you do not trust is worse than no list at all.",
+        "insight": "The whole system rests on belief. If some commitments live in the list and others live in your head, in threads, in a notebook you rarely open, then your mind keeps its own backup copy and you get the anxiety anyway, plus the maintenance work on top. Trust comes from completeness and from review: every open loop inside the system, and a regular pass over the whole of it. Half a system delivers roughly none of the benefit.",
+        "why": "Your mind only lets go of a commitment when it has evidence the alternative is reliable. Partial capture provides no such evidence, so nothing actually gets released.",
+        "apply": "Set a recurring hour each week to walk every list, calendar and project. Protect it for a month before deciding whether the system works for you.",
+        "format": "single",
+        "tags": [
+          "trust",
+          "review"
+        ]
+      },
+      {
+        "id": "getting-things-done-s06",
+        "hook": "Organise tasks by where you are, not by how urgent they feel.",
+        "insight": "Urgency is a bad sorting key because it changes hourly and tells you nothing about whether the task is possible right now. Location, tool and company are far more useful. A list of calls is exactly what you want when you are stuck in a car, and useless when you are at a desk with an hour of quiet. Grouping actions by the circumstances they need means the right list is short, obvious and immediately doable whenever a gap opens.",
+        "why": "Choice under fatigue is easier from a short, feasible list. Filtering by context removes the items you could not do anyway, which is most of them at any given moment.",
+        "apply": "Split your one long task list into three by context, such as at a computer, out of the house, and needs another person, then use only the relevant one.",
+        "format": "single",
+        "tags": [
+          "context",
+          "lists"
+        ]
+      },
+      {
+        "id": "getting-things-done-s07",
+        "hook": "Nothing goes on the calendar unless it truly happens that day.",
+        "insight": "Calendars stop working when they become wish lists. Once a third of the entries are optional, you start ignoring the whole thing, including the parts that matter. Keep it sacred: time-specific commitments, day-specific commitments, and information you need on a given day. Everything else belongs on an action list you consult whenever a gap appears. A calendar you fully believe is worth more than an elaborate one you negotiate with.",
+        "why": "Reliability is the calendar's only real asset. Every soft entry you ignore trains you to ignore the next one, and the hard ones eventually get the same treatment.",
+        "apply": "Strip your calendar this week down to things that genuinely must happen on their date, and move everything else onto a list.",
+        "format": "single",
+        "tags": [
+          "calendar",
+          "planning"
+        ]
+      },
+      {
+        "id": "getting-things-done-s08",
+        "hook": "Waiting on someone else is a commitment too. Track it.",
+        "insight": "Half of stalled work is not yours to do. You asked a colleague for a number, sent an invoice, ordered a part. Those items vanish from your list and reappear as a nasty surprise three weeks later. Keep a single place for everything you are waiting on, with the date you asked and who you asked. Reviewing it weekly turns chasing from an embarrassing scramble into a two-minute routine, and it makes you the person things do not get lost with.",
+        "why": "Delegated work still occupies attention, but it has no natural home in a normal to-do list, so it defaults back to memory, which is the least reliable option available.",
+        "apply": "Start a waiting-on list today with three things you are owed, each with the date you asked and the name of the person you asked.",
+        "format": "single",
+        "tags": [
+          "delegation",
+          "follow-up"
+        ]
+      },
+      {
+        "id": "getting-things-done-s09",
+        "hook": "You already know how to plan. You do it for dinner without thinking.",
+        "insight": "Planning a project feels heavy because people start with structure: headings, phases, a document. Your mind plans naturally in a different order, starting with why you are doing it, then what done looks like, then loose ideas, then order, then the next move. Run it in that sequence and a stuck project usually unsticks in ten minutes on paper. Run it backwards, beginning with the outline, and you produce a tidy plan that nobody executes.",
+        "why": "The natural sequence puts divergent thinking before organising. Reversing them means judging ideas before you have generated any, which is what makes formal planning feel so airless.",
+        "apply": "Take one stuck project and spend ten minutes on paper covering purpose, what done looks like, ideas, order, next action. Then do the next action.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Say why",
+            "body": "Write one sentence on why this project exists. If you cannot write it, the project may not deserve the slot it is holding in your week."
+          },
+          {
+            "step": 2,
+            "title": "Picture done",
+            "body": "Describe the finished state in concrete terms: what exists, who has it, what changed. Vague outcomes reliably produce vague work."
+          },
+          {
+            "step": 3,
+            "title": "Dump every idea",
+            "body": "Get all of it down without judging any of it: steps, risks, people, open questions. Quantity now, quality in the next step."
+          },
+          {
+            "step": 4,
+            "title": "Impose order",
+            "body": "Group the dump into sequence and components. Structure emerges from material; it is a poor way to generate the material in the first place."
+          },
+          {
+            "step": 5,
+            "title": "Name the next action",
+            "body": "Decide the single physical thing that moves this forward, and put it on the list where you will actually see it tomorrow."
+          }
+        ],
+        "tags": [
+          "projects",
+          "planning"
+        ]
+      },
+      {
+        "id": "getting-things-done-s10",
+        "hook": "Review weekly or the whole system quietly stops being true.",
+        "insight": "Lists decay. Projects finish, priorities move, half the items become irrelevant within a fortnight. The weekly pass is what keeps the system honest: clear the inboxes, check every project has a live next action, look at the waiting list, glance at the horizon. It is the least exciting hour of the week and it is the one that makes the other forty work. Systems rarely fail at capture. They fail here.",
+        "why": "Trust is maintained, not built once. Skipping the review is the single most common reason people abandon a system they otherwise set up correctly.",
+        "apply": "Book a recurring sixty minutes on Friday afternoon, name it clearly in the calendar, and run the same short checklist every week.",
+        "format": "single",
+        "tags": [
+          "weekly-review",
+          "maintenance"
+        ]
+      }
+    ],
+    "actions": [
+      "Do one full collection: empty every drawer, inbox, note and mental worry into a single list, however long it takes. Everything else depends on this.",
+      "Rewrite each item as either a project or a concrete next action, then sort the actions into three or four context lists you will actually open.",
+      "Schedule a weekly review at the same hour each week and run it for six weeks before deciding whether the system suits the way you work.",
+      "Pick one place, a single app or notebook, as the trusted home for commitments, and delete or migrate every competing list you keep."
+    ],
+    "if_you_liked": [
+      "deep-work",
+      "the-one-thing",
+      "make-time"
+    ],
+    "not_for_you_if": "You want a light method that needs no maintenance, or your work is simple enough that a short daily list already holds it. This system asks for real setup time.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2001, with a revised edition in 2015. All prose here is original; no wording is reproduced from the book."
+    }
+  },
+  {
+    "id": "essentialism",
+    "title": "Essentialism",
+    "subtitle": "The Disciplined Pursuit of Less",
+    "author": "Greg McKeown",
+    "year": 2014,
+    "category": "productivity-focus",
+    "subcategory": "prioritisation",
+    "tags": [
+      "priorities",
+      "saying-no",
+      "trade-offs",
+      "focus",
+      "overcommitment"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 10,
+    "why_it_matters": "It made refusal respectable. The core move, treating almost everything as noise so that a few things can get real resources, reshaped how many managers and founders talk about strategy at a personal scale.",
+    "crux": {
+      "headline": "Less, but better, is a discipline not a mood",
+      "body": "Most overload is self-inflicted, one reasonable yes at a time. The alternative is not doing less for its own sake, it is deciding deliberately where your effort goes and then giving that place far more than feels comfortable. That requires explicit trade-offs, a willingness to disappoint people on purpose, and enough slack in the week to think. Without those three, prioritising stays a wish you repeat to yourself."
+    },
+    "sparks": [
+      {
+        "id": "essentialism-s01",
+        "hook": "Anything short of enthusiasm should be treated as a refusal.",
+        "insight": "When you judge an opportunity on whether it is good, almost everything passes, because most requests are perfectly reasonable. Raise the bar instead: unless a thing is clearly better than the best use of that time, decline it. The point is not to be difficult. It is that a merely good commitment is the most expensive kind, because it consumes the hours a genuinely important one would have needed and it never feels bad enough to cancel.",
+        "why": "Your calendar is zero-sum whether or not you admit it. A standard that most things pass is not a standard, it just hands the decision to whoever asks first.",
+        "apply": "Write down the criteria a request must meet to earn your time. Apply them to the next three asks and decline the ones that fall short.",
+        "format": "single",
+        "tags": [
+          "standards",
+          "saying-no"
+        ]
+      },
+      {
+        "id": "essentialism-s02",
+        "hook": "Refusing to choose is still a choice, made worse by being unconscious.",
+        "insight": "Trade-offs feel like defeat, so people avoid naming them and hope that effort will cover the gap. It never does. The trade-off simply happens without your input, usually in favour of whatever was loudest that week. Asking which problem you want, instead of pretending you can dodge all of them, is uncomfortable and it restores control. Every strong strategy, personal or corporate, is at heart a list of things deliberately not done.",
+        "why": "Resources are finite even when ambition is not. Unmade trade-offs get resolved by urgency, which optimises for other people's deadlines rather than for your own goals.",
+        "apply": "Name the trade-off you are currently avoiding in one sentence, then decide it deliberately this week rather than letting it decide itself.",
+        "format": "single",
+        "tags": [
+          "trade-offs",
+          "decisions"
+        ]
+      },
+      {
+        "id": "essentialism-s03",
+        "hook": "Explore far more options than you ever intend to commit to.",
+        "insight": "Doing less does not mean looking at less. The people who choose well are usually the ones who surveyed widely before committing, because a strict filter is only as good as the pool it filters. Read broadly, listen more than you speak early on, sample things cheaply. Then apply a hard standard to what you found. Narrow exploration followed by loose commitment is exactly the wrong order, and it is by far the more common one.",
+        "why": "You cannot select the best option from a set you never generated. Wide search is cheap, and a wrong five-year commitment is not.",
+        "apply": "Before your next significant commitment, list five alternatives you have not seriously considered and spend an hour on the two most interesting.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Look wider than feels efficient",
+            "body": "Survey many more options than you intend to take. A strict filter applied to a thin pool just gives you the best of a bad set."
+          },
+          {
+            "step": 2,
+            "title": "Sample cheaply",
+            "body": "Test the promising ones in small, reversible ways: a conversation, a trial week, one small piece of paid work, before any real commitment."
+          },
+          {
+            "step": 3,
+            "title": "Filter hard",
+            "body": "Apply your written standard without softening it. If the option does not clearly beat the best alternative use of that time, it is a no."
+          },
+          {
+            "step": 4,
+            "title": "Commit properly",
+            "body": "Once chosen, give it far more than seems reasonable. Half-resourced commitments deliver the worst of both: the full cost and none of the result."
+          }
+        ],
+        "tags": [
+          "exploring",
+          "selection"
+        ]
+      },
+      {
+        "id": "essentialism-s04",
+        "hook": "A clear no now beats a resentful yes delivered late.",
+        "insight": "Most people say yes because refusing feels like rejecting the person. Separating the two makes it survivable: you are declining a request, not a relationship, and a vague yes that later collapses does far more damage than an honest no would have. A refusal that is quick, specific and free of apology is usually respected, and occasionally it earns more respect than agreement would have. The awkward second is the whole cost.",
+        "why": "The pain of refusing is immediate and small. The pain of an overcommitted month is delayed and large. Being aware of that asymmetry is what makes the word possible.",
+        "apply": "Say no to one request this week in two sentences, without an excuse or an apology, and notice what actually happens afterwards.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Buy a pause",
+            "body": "Never answer instantly. Say you will check your commitments and reply tomorrow. The delay converts a social reflex into an actual decision."
+          },
+          {
+            "step": 2,
+            "title": "Split person from ask",
+            "body": "Decline the request warmly and specifically. Making it about the work rather than the relationship is what keeps the relationship intact."
+          },
+          {
+            "step": 3,
+            "title": "Be brief and clear",
+            "body": "Two sentences, no elaborate justification. Long excuses invite negotiation and imply the answer is still available for revision."
+          },
+          {
+            "step": 4,
+            "title": "Offer something real",
+            "body": "Where you can, name someone better placed, or a smaller piece you will genuinely do. An alternative is more useful than sympathy."
+          }
+        ],
+        "tags": [
+          "boundaries",
+          "saying-no"
+        ]
+      },
+      {
+        "id": "essentialism-s05",
+        "hook": "Sunk costs are the reason your worst project is still running.",
+        "insight": "Once you have poured money, months or reputation into something, quitting feels like wasting all of it. But the spent part is gone either way, and the only live question is whether the next month is well spent. People stay in bad roles, bad courses and bad products for years because stopping would make the loss official. Naming the trap out loud, or asking what a newcomer would do on day one, is usually enough to break it.",
+        "why": "Sunk cost sensitivity is one of the better-replicated findings in decision research. Knowing about it does not immunise you, but a deliberate reset question reduces its grip.",
+        "apply": "Ask of your most draining commitment: if I were not already in this, how much would I pay to join today? Then act on the answer.",
+        "format": "single",
+        "tags": [
+          "quitting",
+          "sunk-cost"
+        ]
+      },
+      {
+        "id": "essentialism-s06",
+        "hook": "Protecting time to think is not a luxury, it is the input.",
+        "insight": "A schedule with no gaps produces reactive work only, because every judgement gets made in the moment with whatever information happens to be nearest. Space is where you notice that a project is failing, that a priority has shifted, that a meeting series outlived its purpose two quarters ago. It looks like idleness and behaves like maintenance. Booking it feels indulgent right up until the first time it saves you a month of misdirected effort.",
+        "why": "Reflection cannot be squeezed between meetings, because it needs the very thing meetings consume. Unbooked time reliably gets taken, so it has to be scheduled in order to exist.",
+        "apply": "Put two hours of unstructured thinking time in next week's calendar with no agenda, and refuse the first request that tries to take it.",
+        "format": "single",
+        "tags": [
+          "thinking-time",
+          "slack"
+        ]
+      },
+      {
+        "id": "essentialism-s07",
+        "hook": "Fill your day to the brim and one late train wrecks it.",
+        "insight": "Plans fail on the assumption that nothing will go wrong. Traffic, illness, a call that overruns: none of these are unusual, yet most schedules leave no room for any of them. Deliberate slack is what turns a normal disruption into a shrug instead of a cascade through the rest of the week. Adding a buffer to estimates feels like padding, but a plan that only works on a perfect day is not a plan, it is a hope with timestamps.",
+        "why": "People underestimate how long tasks take even when they have done them before, an error robust enough that planners in construction and software build fixed contingency into every estimate.",
+        "apply": "Add fifty percent to your estimate for the next task you schedule, and leave fifteen minutes empty between tomorrow's meetings.",
+        "format": "single",
+        "tags": [
+          "buffers",
+          "estimation"
+        ]
+      },
+      {
+        "id": "essentialism-s08",
+        "hook": "Find the constraint that is slowing everything, and fix only that.",
+        "insight": "When progress stalls, the instinct is to push harder everywhere. Usually one bottleneck is setting the pace, and effort spent elsewhere just builds a longer queue in front of it. Identify the slowest link honestly, which is often a single approval, one overloaded person, or a decision nobody has made, and put your energy there. Removing one constraint can speed up a whole system more than a month of general effort ever will.",
+        "why": "Throughput in any pipeline is set by its narrowest stage. Improvements away from that stage change nothing you can measure, which is why hard work often produces no visible result.",
+        "apply": "Name the single slowest step in your most important project, then spend your best hours this week on that step alone.",
+        "format": "single",
+        "tags": [
+          "bottlenecks",
+          "leverage"
+        ]
+      },
+      {
+        "id": "essentialism-s09",
+        "hook": "Small wins beat big launches when you are building momentum.",
+        "insight": "Big pushes are fragile. They need a run of good days, and one interruption resets them. Progress that is small, visible and frequent survives real life, and it changes how you feel about the work, which turns out to matter more than motivation techniques do. Choose the least glamorous version that produces something real this week, then let the evidence of movement do the persuading. Starting is rarely the problem. Continuing is.",
+        "why": "Feeling that meaningful progress is happening is among the strongest day-to-day drivers of engagement in diary studies of knowledge workers. Momentum follows visible progress rather than preceding it.",
+        "apply": "Break your stalled project into a piece you can finish in ninety minutes, do it today, and tell one person that it is done.",
+        "format": "single",
+        "tags": [
+          "momentum",
+          "progress"
+        ]
+      },
+      {
+        "id": "essentialism-s10",
+        "hook": "Routine is not the enemy of important work. It is the delivery system.",
+        "insight": "People treat essential work as something requiring inspiration, then wonder why it happens only occasionally. Making it routine, with the same time, the same place and no negotiation, moves it out of the daily decision queue entirely, which is where good intentions go to lose. The freedom is on the other side of the structure: once the important thing runs automatically, everything else can be flexible without ever threatening it.",
+        "why": "Repeated behaviour in a stable context becomes cued by that context rather than by intention, which is why routines survive the low-motivation days that decisions do not.",
+        "apply": "Choose the one activity that matters most, give it a fixed slot every weekday for a month, and refuse to move it for anything routine.",
+        "format": "single",
+        "tags": [
+          "routines",
+          "consistency"
+        ]
+      }
+    ],
+    "actions": [
+      "List every commitment in your week and mark each as essential or not, using the standard that anything less than a clear yes counts as a no.",
+      "Cancel or exit one recurring commitment that fails that standard, and deliberately hold the freed time empty for two weeks.",
+      "Practise refusing: decline three requests this month in two sentences each, with no apology, and note the actual consequences of each.",
+      "Book weekly thinking time with no agenda and treat it as unmovable, starting with a slot in the coming week."
+    ],
+    "if_you_liked": [
+      "four-thousand-weeks",
+      "the-one-thing",
+      "deep-work"
+    ],
+    "not_for_you_if": "You have little control over your workload, as in junior roles, shift work or caring duties, where the advice can read as a lecture about choices you are not allowed to make.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2014 by Crown Business. All prose here is original; no wording is reproduced from the book."
+    }
+  }
+]

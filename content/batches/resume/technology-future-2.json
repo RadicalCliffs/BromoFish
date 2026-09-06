@@ -1,0 +1,54 @@
+{
+  "batch": "technology-future-2",
+  "category": "technology-future",
+  "books": [
+    {
+      "title": "The Phoenix Project",
+      "author": "Gene Kim, Kevin Behr and George Spafford"
+    },
+    {
+      "title": "Accelerate",
+      "author": "Nicole Forsgren, Jez Humble and Gene Kim"
+    },
+    {
+      "title": "The Design of Everyday Things",
+      "author": "Don Norman"
+    },
+    {
+      "title": "Don't Make Me Think",
+      "author": "Steve Krug"
+    },
+    {
+      "title": "Hackers",
+      "author": "Steven Levy"
+    },
+    {
+      "title": "Where Wizards Stay Up Late",
+      "author": "Katie Hafner and Matthew Lyon"
+    },
+    {
+      "title": "The Alignment Problem",
+      "author": "Brian Christian"
+    },
+    {
+      "title": "Algorithms to Live By",
+      "author": "Brian Christian and Tom Griffiths"
+    },
+    {
+      "title": "Chip War",
+      "author": "Chris Miller"
+    },
+    {
+      "title": "The Coming Wave",
+      "author": "Mustafa Suleyman"
+    },
+    {
+      "title": "Technopoly",
+      "author": "Neil Postman"
+    },
+    {
+      "title": "Refactoring",
+      "author": "Martin Fowler"
+    }
+  ]
+}

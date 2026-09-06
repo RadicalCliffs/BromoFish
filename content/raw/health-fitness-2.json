@@ -1,0 +1,868 @@
+[
+  {
+    "id": "how-not-to-die",
+    "title": "How Not to Die",
+    "subtitle": "Discover the Foods Scientifically Proven to Prevent and Reverse Disease",
+    "author": "Michael Greger with Gene Stone",
+    "year": 2015,
+    "category": "health-fitness",
+    "subcategory": "nutrition-science",
+    "tags": [
+      "nutrition",
+      "plant-based",
+      "disease-prevention",
+      "diet",
+      "longevity"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It put the case for a whole-plant diet in front of a general audience with the citations attached, and tied particular foods to the particular diseases that kill most people. Disagree with the conclusions if you like; it still raised the bar for what popular nutrition writing has to show its reader.",
+    "crux": {
+      "headline": "Most of what kills you tracks with what you eat",
+      "body": "The dull, consistent finding in nutrition is that people who eat mostly whole plants get less heart disease, less type 2 diabetes and fewer of the cancers linked to diet. No food is a cure and no meal is decisive. The useful claim is narrower: a large share of the illness that ends lives early in wealthy countries sits downstream of a variable you handle three times a day. That is one of the few big risk factors you control yourself."
+    },
+    "sparks": [
+      {
+        "id": "how-not-to-die-s01",
+        "hook": "Most of what kills people in wealthy countries is shaped by what they eat.",
+        "insight": "Heart disease, stroke, type 2 diabetes, high blood pressure and several cancers do not fall randomly. They cluster in populations eating a particular way: heavy on refined grain, processed meat, sugar and oil, light on whole plants. That does not make food the only cause, and no single dinner decides anything. It means the largest block of early death in rich countries sits downstream of something you decide about three times a day, which is a strange thing to treat as fixed and unchangeable.",
+        "why": "The link comes mostly from large observational cohorts, so it shows association rather than proof, and diet travels with income, smoking and exercise. The direction repeats across very different populations; the size of the effect for any one food does not.",
+        "apply": "Pick the meal you eat most often on autopilot and rebuild it around one whole plant food - beans, lentils, oats or greens - every day for the next two weeks.",
+        "format": "single",
+        "tags": [
+          "nutrition",
+          "disease-prevention",
+          "diet"
+        ]
+      },
+      {
+        "id": "how-not-to-die-s02",
+        "hook": "Supplements keep failing the tests that the foods they came from keep passing.",
+        "insight": "Find a compound that looks protective inside a food, isolate it, put it in a capsule, run a trial, and the benefit usually evaporates. Occasionally it inverts. Whole foods deliver hundreds of compounds at once, in amounts and combinations your body has met for a very long time. Pulling one out and giving it at a pharmacological dose is a completely different intervention, and it is the one that keeps coming back empty.",
+        "why": "Two large trials in smokers, ATBC in Finland and CARET in the United States, found more lung cancer in the beta-carotene arms rather than less, and CARET was halted early. Outside genuine deficiency, single-nutrient pills have a poor record.",
+        "apply": "Audit your supplement shelf tonight. Keep what treats a diagnosed deficiency or was prescribed, bin the speculative rest, and move that money to frozen vegetables.",
+        "format": "single",
+        "tags": [
+          "supplements",
+          "evidence",
+          "nutrition"
+        ]
+      },
+      {
+        "id": "how-not-to-die-s03",
+        "hook": "The cheapest thing in the shop is also one of the best-evidenced foods you can eat.",
+        "insight": "Dried beans, lentils and chickpeas cost almost nothing and do several jobs at once. They carry fibre your gut bacteria feed on, protein without the saturated fat that comes attached to most meat, and a starch structure that releases glucose slowly enough to keep you level for hours. Populations known for long healthy lifespans differ from each other in almost every other way, and eat legumes nearly every day.",
+        "why": "The evidence is observational and the effects are modest, not dramatic. But legumes are one of the few foods where cohort data, trial data on blood lipids and glucose, and the practical economics all point the same direction.",
+        "apply": "Cook one large pot of beans or lentils on a Sunday and put a portion into three different meals during the week rather than treating them as one dish.",
+        "format": "single",
+        "tags": [
+          "legumes",
+          "fibre",
+          "budget"
+        ]
+      },
+      {
+        "id": "how-not-to-die-s04",
+        "hook": "Leafy greens act on your blood vessels within hours of the meal.",
+        "insight": "Rocket, spinach, chard and beetroot are unusually rich in dietary nitrate. Bacteria in your mouth convert some of it to nitrite, and your body turns that into nitric oxide, the signal that tells the smooth muscle in your artery walls to relax. Wider vessel, easier flow, slightly lower pressure. It is one of the few dietary effects fast enough that you could measure it on the same afternoon you ate the salad.",
+        "why": "Randomised trials of nitrate-rich beetroot juice show real but small and short-lived drops in blood pressure. That supports a daily habit, not a replacement for treating diagnosed hypertension. Strong antibacterial mouthwash blunts the effect.",
+        "apply": "Add a large handful of leafy greens to one meal a day for a month, and if you already monitor your blood pressure, keep the readings so you can see your own answer.",
+        "format": "single",
+        "tags": [
+          "greens",
+          "blood-pressure",
+          "nitric-oxide"
+        ]
+      },
+      {
+        "id": "how-not-to-die-s05",
+        "hook": "The sugar in fruit arrives wrapped in the thing that slows it down.",
+        "insight": "People avoiding sugar often cut fruit, which gets the mechanism backwards. Sugar in a whole apple sits inside cell walls made of fibre, so it has to be broken down before it can be absorbed, and it arrives with water and bulk that fill you up first. Strip that structure away by juicing or refining and you are drinking a different food. The processing, not the sugar molecule, is what changed.",
+        "why": "Cohort studies consistently link whole fruit with lower type 2 diabetes risk while linking fruit juice with higher risk. Same sugar, different physical structure, opposite association.",
+        "apply": "Replace one glass of juice a day with the whole fruit it came from, and notice how much longer it takes to eat and how much fuller you feel.",
+        "format": "single",
+        "tags": [
+          "fruit",
+          "sugar",
+          "fibre"
+        ]
+      },
+      {
+        "id": "how-not-to-die-s06",
+        "hook": "Processing is not a switch between good and bad. It is a dial.",
+        "insight": "Most food arguments treat processing as a yes or no question, which makes them useless. It is really a ladder, and each rung removes some of the physical structure that governs how fast the food hits your bloodstream and how full you feel. Knowing which rung you are on lets you make a smaller, more realistic change than swearing off a whole category, because moving down one rung is something you will actually keep doing.",
+        "why": "Structure, not just nutrient content, determines glycaemic response and satiety. The same grain eaten whole, cracked, milled or puffed behaves differently in the body despite an almost identical label.",
+        "apply": "Choose one staple you eat daily and move it exactly one rung down the ladder this week. One rung, one food, no other changes.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Whole and intact",
+            "body": "The food still has its original structure: whole grains, whole fruit, beans, nuts in the shell of their own cell walls. Slowest to digest, most filling per calorie."
+          },
+          {
+            "step": 2,
+            "title": "Cut and cooked",
+            "body": "Chopping and heating soften cell walls and speed things up a little. This is ordinary home cooking, and for most foods the trade is worth it for taste and digestibility."
+          },
+          {
+            "step": 3,
+            "title": "Milled and blended",
+            "body": "Flour and smoothies keep the fibre but destroy the structure holding it. Absorption gets faster and you stop feeling full as reliably, even though the label barely changes."
+          },
+          {
+            "step": 4,
+            "title": "Extracted and refined",
+            "body": "Juice, white flour, oil, sugar. The parts that slowed absorption have been discarded, and what remains is easy to overeat because nothing in it tells you to stop."
+          },
+          {
+            "step": 5,
+            "title": "Rebuilt in a factory",
+            "body": "Refined fractions recombined with salt, fat, sugar and flavouring into something engineered for repeat eating. Cheap, durable, and almost impossible to eat in small amounts."
+          }
+        ],
+        "tags": [
+          "processing",
+          "food-structure",
+          "satiety"
+        ]
+      },
+      {
+        "id": "how-not-to-die-s07",
+        "hook": "You can judge a nutrition headline in about ninety seconds.",
+        "insight": "Nutrition news is loud because single studies are cheap to report and contradiction is entertaining. You do not need a science degree to filter it, only a short list of questions that most weak stories fail immediately. Almost every claim that later collapses fails at least one of them, and running the list stops you from rearranging your kitchen every time a press release lands.",
+        "why": "Most single nutrition studies are small, observational, or run in animals, and the press release is written to be shared. Asking about population, comparison and effect size filters out the majority before you have to judge the science itself.",
+        "apply": "Run the next diet headline you see through these four questions before changing anything, and give yourself a rule that no single study changes what you eat.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Who was studied",
+            "body": "Mice, cells, or people? A finding in rodents tells you what to research next, not what to have for dinner. Human trials in people like you are worth far more."
+          },
+          {
+            "step": 2,
+            "title": "Compared with what",
+            "body": "Every diet claim is a comparison. Less meat compared with more beans is a different question from less meat compared with more white bread, and only one of them is useful."
+          },
+          {
+            "step": 3,
+            "title": "How big was the change",
+            "body": "A relative risk sounds dramatic when the absolute risk is tiny. Ask what the change would mean for a hundred people like you over a decade, not what percentage moved."
+          },
+          {
+            "step": 4,
+            "title": "Does it repeat",
+            "body": "One study is a hypothesis. Look for whether several groups, using different methods in different countries, land in roughly the same place before you act."
+          }
+        ],
+        "tags": [
+          "evidence",
+          "media-literacy",
+          "nutrition"
+        ]
+      },
+      {
+        "id": "how-not-to-die-s08",
+        "hook": "Adding food works better than banning it, because addition survives a bad week.",
+        "insight": "Diets built on prohibition run on willpower and fail on the first stressful evening. Diets built on addition run on habit. If you commit to a bowl of beans, a portion of greens and a piece of fruit before anything else, the things you were trying to cut get crowded out by volume rather than forbidden by rule. You are not fighting a craving, you are arriving at it already fairly full.",
+        "why": "Restriction increases the salience of the restricted food and creates an obvious failure point. Crowding out has no failure point: a day where you ate two of three additions is still a better day, not a broken diet.",
+        "apply": "Write down three plant foods you will add every day this month. Do not write a single thing you are cutting out, and do not track anything else.",
+        "format": "single",
+        "tags": [
+          "habits",
+          "diet",
+          "crowding-out"
+        ]
+      },
+      {
+        "id": "how-not-to-die-s09",
+        "hook": "A convincing mechanism is not the same thing as a proven benefit.",
+        "insight": "Broccoli and its relatives contain compounds that do genuinely interesting things to cells in a dish, and that is where a lot of confident food advice actually comes from. But a compound that changes a marker in a laboratory has to survive digestion, dosing, and decades of real life inside a person eating a hundred other things. Sometimes it does. Often nobody has checked. Treat a mechanism as a reason to be interested, not as a result.",
+        "why": "Cruciferous vegetables look protective in observational data and plausible in cell studies, but long human outcome trials are scarce and hard to fund. Honest confidence sits somewhere between hype and dismissal.",
+        "apply": "Next time a food is sold to you on a mechanism, ask whether anyone has measured the outcome in people. If not, eat it because it is good food, not because it is medicine.",
+        "format": "single",
+        "tags": [
+          "evidence",
+          "vegetables",
+          "scepticism"
+        ]
+      },
+      {
+        "id": "how-not-to-die-s10",
+        "hook": "Read an advocate for their evidence, not for their conclusion.",
+        "insight": "This is a case made by someone who already believes the verdict, and it reads that way: supportive studies are described in detail, awkward ones get less room. That does not make it worthless. It makes it a well-referenced brief for one side, and the right way to use a brief is to check whether the strongest evidence survives when you go looking for the counterargument yourself. On whole plants, most of it does. On individual miracle foods, much less.",
+        "why": "Selective citation is the standard failure mode of popular nutrition books in every dietary camp. Naming it lets you keep the strong general claim while discounting the specific ones that rest on single small studies.",
+        "apply": "For any single-food claim that impressed you, spend ten minutes searching for the best argument against it before you build a habit on top of it.",
+        "format": "single",
+        "tags": [
+          "scepticism",
+          "evidence",
+          "reading"
+        ]
+      }
+    ],
+    "actions": [
+      "Build a shopping list around whole plants you will actually cook: one legume, one leafy green, one other vegetable, one fruit, one whole grain, one nut or seed.",
+      "Cook a large batch of beans or lentils once a week and plan the three meals they will go into before you cook them, so none of it goes to waste.",
+      "Choose one refined staple in your kitchen and swap it for a less processed version for a month, then decide honestly whether you will keep it.",
+      "Write down which claims in the book you found most persuasive, then go looking for the strongest published objection to each before acting on them."
+    ],
+    "if_you_liked": [
+      "in-defense-of-food",
+      "the-blue-zones",
+      "outlive"
+    ],
+    "not_for_you_if": "You want a balanced survey of the evidence rather than a well-referenced case for one dietary position, or you find a checklist of daily food targets more stressful than helpful.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2015 by Flatiron Books, credited to Michael Greger MD with Gene Stone. The book is openly advocacy for a whole-food plant-based diet and cites selectively; that is flagged inside the content. All prose original."
+    }
+  },
+  {
+    "id": "in-defense-of-food",
+    "title": "In Defense of Food",
+    "subtitle": "An Eater's Manifesto",
+    "author": "Michael Pollan",
+    "year": 2008,
+    "category": "health-fitness",
+    "subcategory": "food-culture",
+    "tags": [
+      "nutrition",
+      "food-culture",
+      "processed-food",
+      "diet",
+      "eating-habits"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 10,
+    "why_it_matters": "It gave ordinary eaters a way to think about food that does not depend on trusting the latest nutrient of the month. A generation of food writing, labelling arguments and supermarket habits runs on the distinction it drew between food and food-shaped products.",
+    "crux": {
+      "headline": "Nutrients are a bad map of what you actually eat",
+      "body": "Once food gets reduced to a list of nutrients, it can be reformulated, marketed and argued about endlessly while the eating gets worse. Fat becomes the villain, so sugar floods in. Then sugar becomes the villain. The way out is not a better nutrient theory but a shift in the unit of analysis: eat things recognisable as food, not too much of them, with plants doing most of the work, and let the nutrients look after themselves."
+    },
+    "sparks": [
+      {
+        "id": "in-defense-of-food-s01",
+        "hook": "The moment food became a delivery system for nutrients, eating got worse.",
+        "insight": "Somewhere along the way the public conversation stopped being about foods and became about the invisible components inside them. That shift sounds scientific and is enormously convenient for manufacturers, because a product can be redesigned to score well on whichever component is currently feared while remaining a bad thing to eat. You cannot fortify your way to a good diet, but you can absolutely fortify your way to a good label.",
+        "why": "Reducing food to nutrients works well for treating deficiency diseases, which is where the approach came from. It works badly for chronic disease, where the whole pattern of eating, not one compound, is what varies.",
+        "apply": "Look at three packets in your cupboard and read only the ingredient list, ignoring the nutrition panel entirely. Ask whether you would recognise those items as food.",
+        "format": "single",
+        "tags": [
+          "nutritionism",
+          "processed-food",
+          "labels"
+        ]
+      },
+      {
+        "id": "in-defense-of-food-s02",
+        "hook": "The healthiest things in the shop are the ones with nothing written on them.",
+        "insight": "Health claims cost money to make and are worth making only on products with margins to protect, which means they cluster on manufactured food. A cabbage has no marketing budget. This gives you a surprisingly reliable inverse rule for a supermarket: the louder a package argues for its own healthiness, the more likely it is to be a heavily processed product looking for a reason to be forgiven.",
+        "why": "The rule works statistically rather than universally. Some genuinely useful products carry claims, and the heuristic is a shortcut for shopping fast, not a law of nutrition.",
+        "apply": "Do one full shop where you refuse to buy anything making a health claim on the front of the pack, and see what your trolley ends up containing.",
+        "format": "single",
+        "tags": [
+          "shopping",
+          "marketing",
+          "heuristics"
+        ]
+      },
+      {
+        "id": "in-defense-of-food-s03",
+        "hook": "The low-fat era is the cleanest case of confident advice going wrong.",
+        "insight": "For decades the official message was to cut fat, and food companies obliged by removing it and replacing what was lost with refined starch and sugar to keep products edible. People followed the advice. Obesity and type 2 diabetes rose anyway. That is not proof the advice caused the harm, but it is a hard example of what happens when a single nutrient is targeted without asking what will fill the gap.",
+        "why": "Whether low-fat guidance directly worsened outcomes remains disputed among researchers, and other things changed at the same time. What is not disputed is that the substitution effect was neither predicted nor monitored.",
+        "apply": "Whenever you cut something from your diet, write down what will take its place before you start. If the answer is a refined product, you have not improved anything.",
+        "format": "single",
+        "tags": [
+          "dietary-guidelines",
+          "low-fat",
+          "history"
+        ]
+      },
+      {
+        "id": "in-defense-of-food-s04",
+        "hook": "People who take vitamins are healthier. The vitamins are mostly not the reason.",
+        "insight": "Supplement users tend to exercise more, smoke less, earn more and see doctors sooner. So when a study finds they live longer, the pill is standing in a crowd of other explanations. This is one of the most common ways nutrition research goes wrong, and once you can spot it you will see it under half the health claims you read, including claims about foods you personally like.",
+        "why": "This is healthy user bias, and it is a well-recognised confounder. It is also why randomised trials of supplements so often fail to reproduce the benefit the observational data suggested.",
+        "apply": "When you next read that people who consume something live longer, ask what else is probably true about those people. Then decide whether the food is really the cause.",
+        "format": "single",
+        "tags": [
+          "evidence",
+          "bias",
+          "supplements"
+        ]
+      },
+      {
+        "id": "in-defense-of-food-s05",
+        "hook": "A whole food is not the sum of its parts, and the parts keep proving it.",
+        "insight": "An orange is not vitamin C plus water plus sugar. The compounds in it arrive together, embedded in a physical structure, and interact in ways nobody has fully mapped. This is why isolating a promising component so often disappoints in trials. It also means the honest position on many foods is that we do not know exactly which bit is doing the work, and eating the food is the only way to get all the candidates at once.",
+        "why": "The interaction between food components, sometimes called the food matrix, is real and measurable in things like dairy fat and nut fat, which behave differently from the same fats given alone.",
+        "apply": "Choose a supplement or fortified product you buy and replace it for a month with the actual food it was extracted from, then judge how much you missed it.",
+        "format": "single",
+        "tags": [
+          "food-matrix",
+          "whole-foods",
+          "supplements"
+        ]
+      },
+      {
+        "id": "in-defense-of-food-s06",
+        "hook": "Three rules that outperform most diets and fit on a napkin.",
+        "insight": "The advice at the centre of this book is deliberately short, because a rule you can remember while hungry beats a system you consult on a laptop. Eat things that are genuinely food rather than industrial products wearing food's clothes. Keep portions modest instead of eating to the point of fullness by default. Let plants take up most of the plate. None of it is precise, and that is the point: it survives contact with a real week.",
+        "why": "The three rules do not carry trial evidence of their own. They are a compression of what most dietary patterns associated with good health have in common, which is why they hold up while the individual nutrient advice keeps changing.",
+        "apply": "Write the three rules where you cook and use them as the only dietary decision for one month, without counting or tracking anything.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Eat actual food",
+            "body": "If the ingredient list is long, unpronounceable, or contains things no home kitchen has, treat it as an industrial product. Occasional is fine. Daily is the problem."
+          },
+          {
+            "step": 2,
+            "title": "Keep the portion modest",
+            "body": "Stop somewhere short of full rather than eating until the plate or the packet is finished. Serve less than you think you want and go back only if you still want it."
+          },
+          {
+            "step": 3,
+            "title": "Let plants take the plate",
+            "body": "Vegetables, fruit, legumes, whole grains, nuts. Meat becomes a component rather than the centre, which is how most long-standing food cultures did it anyway."
+          },
+          {
+            "step": 4,
+            "title": "Eat like it matters",
+            "body": "At a table, with other people, at a normal pace, without a screen. How you eat changes how much you eat and how much of it you actually notice."
+          }
+        ],
+        "tags": [
+          "rules",
+          "eating-habits",
+          "simplicity"
+        ]
+      },
+      {
+        "id": "in-defense-of-food-s07",
+        "hook": "The Western diet is one package, and populations swap it in wholesale.",
+        "insight": "When a group moves from a traditional way of eating to refined grain, sugar, industrial oil and abundant meat, the same set of conditions tends to follow within a generation. It happens across wildly different genetics and continents. That pattern is far stronger evidence than any single nutrient study, because the thing that changed was the whole diet, not one component of it.",
+        "why": "Migration and transition studies are among the more robust findings in nutrition, though they confound diet with urbanisation, smoking, activity and stress, all of which arrive together.",
+        "apply": "Look at the way your grandparents' generation ate in your own family and pick one specific dish or habit from it to bring back into your normal week.",
+        "format": "single",
+        "tags": [
+          "western-diet",
+          "food-culture",
+          "epidemiology"
+        ]
+      },
+      {
+        "id": "in-defense-of-food-s08",
+        "hook": "Cooking is the single habit that quietly decides most of your diet.",
+        "insight": "Almost everything you would want to change about how you eat is downstream of who prepared the food. When you cook, portions, salt, sugar and fat come back under your control without any rules being required, and industrial products drop out of the diet by default rather than by discipline. The decline in home cooking explains more about modern eating patterns than any individual nutrient ever has.",
+        "why": "Time-use and household data across countries link home cooking with better diet quality. It is partly a marker for income and time, so the causal share is debated, but it remains the highest-leverage single habit available to most people.",
+        "apply": "Add one home-cooked meal per week to whatever you currently do, and pick a dish so simple you could make it while tired.",
+        "format": "single",
+        "tags": [
+          "cooking",
+          "eating-habits",
+          "home"
+        ]
+      },
+      {
+        "id": "in-defense-of-food-s09",
+        "hook": "How you eat changes how much you eat, before you decide anything.",
+        "insight": "Eating alone, standing up, from a packet, in front of a screen produces a different quantity than the same food served on a plate at a table with other people. Speed matters because fullness signals lag behind the mouth. Company matters because conversation slows the meal down. None of this involves discipline. It changes the amount by changing the conditions rather than by asking you to resist anything.",
+        "why": "Portion size, container size, distraction and eating rate all reliably shift how much people consume in controlled studies, usually without the eater noticing or reporting feeling any different.",
+        "apply": "For one week eat every dinner from a plate at a table with no screen, and put the packet away in the cupboard before you start eating.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Serve it, then put it away",
+            "body": "Plate the food and return the pan or packet to the kitchen. Refills should require standing up, which is enough friction to make the second helping a real decision."
+          },
+          {
+            "step": 2,
+            "title": "Sit at a table",
+            "body": "Standing at a counter or eating on the move makes the meal feel like an interruption rather than an event, and you will eat again sooner because it barely registered."
+          },
+          {
+            "step": 3,
+            "title": "Remove the screen",
+            "body": "Attention spent on a screen is attention not spent on the food. Distracted eaters consistently eat more in the moment and more again at the next meal."
+          },
+          {
+            "step": 4,
+            "title": "Slow the pace down",
+            "body": "Fullness signals arrive late, so a fast meal is finished before your body has had a chance to comment on it. Put the fork down between mouthfuls."
+          },
+          {
+            "step": 5,
+            "title": "Eat with someone",
+            "body": "Company stretches the meal out, which does the work that willpower otherwise has to do. It is also the part of eating that most diets quietly delete."
+          }
+        ],
+        "tags": [
+          "mindful-eating",
+          "portions",
+          "environment"
+        ]
+      },
+      {
+        "id": "in-defense-of-food-s10",
+        "hook": "Some of these rules are good taste dressed as science, and it is worth knowing which.",
+        "insight": "The claim that food has been over-reduced to nutrients is well argued. The rules built on top of it are heuristics from a journalist, not conclusions from trials: nobody has tested whether avoiding ingredients your great-grandparents would not recognise makes you live longer. They are still useful, because they are cheap to follow and unlikely to hurt. Just hold them with the confidence of a rule of thumb rather than a finding.",
+        "why": "Separating the critique from the prescriptions matters. The critique of nutrient reductionism is broadly accepted by researchers; the specific shopping rules are untested and occasionally reflect romanticism about the past rather than evidence.",
+        "apply": "Sort the advice you took from this book into two lists: things with evidence behind them and things that are sensible habits. Follow both, but only argue for the first.",
+        "format": "single",
+        "tags": [
+          "scepticism",
+          "evidence",
+          "heuristics"
+        ]
+      }
+    ],
+    "actions": [
+      "Do one supermarket shop buying nothing that carries a health claim on the front of the package, and note which aisles you stop visiting entirely.",
+      "Add one extra home-cooked meal to your week and keep it simple enough that you would still make it on a bad day.",
+      "Pick a dish from your own family or regional food tradition, learn to cook it properly, and put it into regular rotation.",
+      "Before cutting any food group, write down exactly what will replace it, and reject the plan if the replacement is a refined product."
+    ],
+    "if_you_liked": [
+      "the-omnivores-dilemma",
+      "how-not-to-die",
+      "salt-fat-acid-heat"
+    ],
+    "not_for_you_if": "You want specific numbers, macros or a protocol. This is a way of thinking about food, and it is deliberately vague about quantities.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2008 by Penguin Press. The critique of nutrient reductionism is widely accepted; the practical shopping rules are the author's heuristics and untested, which the content states plainly. All prose original."
+    }
+  },
+  {
+    "id": "the-omnivores-dilemma",
+    "title": "The Omnivore's Dilemma",
+    "subtitle": "A Natural History of Four Meals",
+    "author": "Michael Pollan",
+    "year": 2006,
+    "category": "health-fitness",
+    "subcategory": "food-culture",
+    "tags": [
+      "food-system",
+      "food-culture",
+      "agriculture",
+      "eating-habits",
+      "sustainability"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 13,
+    "why_it_matters": "It taught a mass audience to follow food backwards from the plate to the field, and made the industrial supply chain a subject ordinary readers argue about. Most modern writing on farming, meat and supermarket labelling is working in the space it opened.",
+    "crux": {
+      "headline": "Every meal is the end of a chain you cannot see",
+      "body": "Food arrives stripped of its history, which is why the choices around it feel like preferences rather than consequences. Trace one meal back through the processing plant, the feedlot and the field and the real costs appear: cheap grain propped up by policy, animals fed things they did not evolve to eat, and energy accounting that only works because nobody adds it up. Knowing the chain will not make eating simple. It makes it honest."
+    },
+    "sparks": [
+      {
+        "id": "the-omnivores-dilemma-s01",
+        "hook": "Run a supermarket trolley through a lab and most of it comes back as corn.",
+        "insight": "Corn is not just the sweetcorn aisle. It is the feed behind the meat, the syrup in the drinks, the starch in the sauces, the oil in the fryer and the coating on much of the rest. A shopper choosing between dozens of brands is often choosing between different arrangements of the same plant. The variety on the shelf is real at the level of packaging and largely illusory at the level of raw ingredients.",
+        "why": "Carbon isotope analysis of hair and tissue can show how much of a person's carbon originates in corn, because corn uses a distinct photosynthetic pathway. American diets test unusually high on this measure.",
+        "apply": "Read the ingredient lists of ten packaged items in your kitchen and count how many contain corn in some form. Do it before you decide the count is low.",
+        "format": "single",
+        "tags": [
+          "corn",
+          "food-system",
+          "supermarket"
+        ]
+      },
+      {
+        "id": "the-omnivores-dilemma-s02",
+        "hook": "Cheap food is not cheap. The rest of the bill is just paid elsewhere.",
+        "insight": "The price on the shelf covers a fraction of what the food actually cost to produce. Subsidies, fossil fuel, water, soil loss, antibiotic use, animal welfare and downstream health costs are all real expenses that simply do not appear at the till. This is not an argument that everything should be expensive. It is an argument that the price signal you are responding to is incomplete, and comparing on price alone compares the wrong thing.",
+        "why": "Externalised costs are standard economics, not a food-specific complaint. Quantifying them precisely is contested, and estimates vary widely depending on what is counted and how.",
+        "apply": "Pick one food you buy weekly and spend twenty minutes finding out how it is actually produced, then decide whether the price still looks like the whole story.",
+        "format": "single",
+        "tags": [
+          "economics",
+          "externalities",
+          "food-system"
+        ]
+      },
+      {
+        "id": "the-omnivores-dilemma-s03",
+        "hook": "A cow's stomach was built for grass, and the feedlot argues with it daily.",
+        "insight": "Ruminants evolved to convert grass, which humans cannot digest, into food that we can. Feeding them grain instead makes them grow faster and cheaper, but it acidifies the rumen, causes illness, and creates the conditions that make routine antibiotics part of the business model. The efficiency is genuine and so is the cost of it. The animal did not stop being a grass digester because the economics changed.",
+        "why": "Grain finishing and its digestive consequences are well documented in animal science. How much of the industry's antibiotic use is attributable to diet rather than crowding is debated, and practices differ by country.",
+        "apply": "Find out how the meat you buy most often was fed and finished. If the seller cannot tell you, treat that as information rather than a neutral gap.",
+        "format": "single",
+        "tags": [
+          "meat",
+          "livestock",
+          "agriculture"
+        ]
+      },
+      {
+        "id": "the-omnivores-dilemma-s04",
+        "hook": "Organic scaled up, and became industrial with better labels.",
+        "insight": "Once organic food entered national supermarket chains, it had to adopt the logistics that made those chains work: monocultures, long distance freight, processing plants and standardised inputs. The pesticide rules still apply, so the label is not a lie. But many of the things buyers imagine they are paying for, like small farms and short supply chains, quietly stopped being part of the deal. The word describes a certification, not a way of life.",
+        "why": "Organic certification regulates permitted inputs. It says little about farm size, energy use, transport distance, labour conditions or soil practice, which is why two organic products can differ enormously.",
+        "apply": "Next time you pay extra for an organic label, name the specific thing you believe you are buying, then check whether the certification actually covers it.",
+        "format": "single",
+        "tags": [
+          "organic",
+          "labels",
+          "food-system"
+        ]
+      },
+      {
+        "id": "the-omnivores-dilemma-s05",
+        "hook": "The most interesting farms grow relationships between species, not crops.",
+        "insight": "There are farms where cattle graze a paddock, chickens follow a few days later to spread the manure and eat the larvae, and the pasture regrows faster because of the sequence. Nothing here is exotic. It is timing and stacking, using each species to do a job that would otherwise need a purchased input. Output per acre can be respectable, but it demands attention and skill in place of the chemicals and machinery that industrial farming substitutes for both.",
+        "why": "Rotational and multi-species grazing shows genuine benefits for soil and reduced inputs. Claims that it could feed the whole world at current consumption levels are contested and depend heavily on how much meat people eat.",
+        "apply": "Find one farm within reach that sells directly, visit it or read how it operates, and buy one thing from it to see what the difference actually costs.",
+        "format": "single",
+        "tags": [
+          "farming",
+          "soil",
+          "grass-fed"
+        ]
+      },
+      {
+        "id": "the-omnivores-dilemma-s06",
+        "hook": "Having no instinct about what to eat is exactly why we argue about it.",
+        "insight": "A specialist animal has the question solved for it. An omnivore can eat almost anything, which is a huge survival advantage and leaves it permanently uncertain about what it should eat. Humans solved this for most of history with culture: cuisines, taboos, traditions and grandmothers. When those weaken and the number of available products explodes, the ancient uncertainty comes back, and the vacuum gets filled by marketing and diet fashions.",
+        "why": "The dilemma is a real concept from research on omnivore food selection rather than a metaphor. It explains why food anxiety rises with choice instead of falling.",
+        "apply": "Adopt one food tradition deliberately, whether inherited or chosen, and let it settle a category of decisions so you stop relitigating them meal by meal.",
+        "format": "single",
+        "tags": [
+          "food-culture",
+          "psychology",
+          "tradition"
+        ]
+      },
+      {
+        "id": "the-omnivores-dilemma-s07",
+        "hook": "Trace one meal backwards and the questions get much better.",
+        "insight": "Most food arguments happen at the level of slogans because nobody has the chain in front of them. Following a single item back through the steps that produced it turns an abstract debate into a set of specific, answerable questions, and it usually changes which item you were worried about. It takes an afternoon and you only need to do it a few times before the habit generalises to everything else in the trolley.",
+        "why": "Concrete supply-chain knowledge outperforms label heuristics because labels are designed by sellers while chains are structural. The method also exposes where you genuinely cannot find out, which is itself useful.",
+        "apply": "Choose one ordinary item from tonight's dinner and work backwards through its chain this week, writing down what you cannot discover.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Start at the plate",
+            "body": "Pick one specific item, not a category. Not meat, but this chicken. Not bread, but this loaf. Specificity is what makes the rest of the exercise possible."
+          },
+          {
+            "step": 2,
+            "title": "Find the processor",
+            "body": "Who turned the raw material into this product, and where? For most packaged food the answer is on the label and tells you the scale you are dealing with."
+          },
+          {
+            "step": 3,
+            "title": "Find the farm system",
+            "body": "What was grown or raised, on what kind of land, fed on what. You often cannot get to a named farm, and noticing that you cannot is part of the finding."
+          },
+          {
+            "step": 4,
+            "title": "Count the inputs",
+            "body": "Fertiliser, fuel, water, feed, transport. You will not get precise numbers, but you will learn whether the chain is short and simple or long and energy-hungry."
+          },
+          {
+            "step": 5,
+            "title": "Decide once",
+            "body": "Turn the result into a standing rule for that item so you are not researching it again next week. The point of the work is fewer future decisions."
+          }
+        ],
+        "tags": [
+          "supply-chain",
+          "research",
+          "food-system"
+        ]
+      },
+      {
+        "id": "the-omnivores-dilemma-s08",
+        "hook": "Modern food is largely a way of turning fossil fuel into calories.",
+        "insight": "Synthetic nitrogen fertiliser is made from natural gas. Machinery, processing, refrigeration and freight all run on fuel. Once you add it up, the industrial food system spends more energy producing and moving a calorie than the calorie contains, which is an inversion of what farming did for most of human history. That is what makes the abundance possible and what makes it fragile in a way a price tag never shows.",
+        "why": "The energy ratio depends on system boundaries and varies enormously by food, so specific multipliers should be treated with caution. The direction of the finding is not seriously disputed.",
+        "apply": "Grow one thing you eat, even a pot of herbs on a windowsill, purely to reconnect the effort involved with the food that results.",
+        "format": "single",
+        "tags": [
+          "energy",
+          "agriculture",
+          "sustainability"
+        ]
+      },
+      {
+        "id": "the-omnivores-dilemma-s09",
+        "hook": "Eating an animal is easier when the process stays out of sight.",
+        "insight": "Most meat eating depends on a division of labour that keeps the killing invisible. The honest positions are that you accept the animal's death and want it done well, or you decline to participate. What does not survive contact with the facts is the common third position of eating industrially raised meat while assuming a version of the process that has not existed for decades. Look at it, then decide, in either direction.",
+        "why": "This is an ethical argument rather than an empirical one, and reasonable people land in different places. The claim being made is only that the decision should be informed rather than avoided.",
+        "apply": "Watch or read a factual account of how the meat you eat is actually produced, then make a deliberate decision about your consumption within the week.",
+        "format": "single",
+        "tags": [
+          "ethics",
+          "meat",
+          "transparency"
+        ]
+      },
+      {
+        "id": "the-omnivores-dilemma-s10",
+        "hook": "This book is a portrait of one country in one decade, not a global map.",
+        "insight": "The reporting is American and now nearly twenty years old. Corn dominance, subsidy structure and feedlot practice look different in Europe, India or Brazil, and some of what is described has since changed. The method survives all of that: pick a meal, follow it back, count what nobody is counting. Use the argument as a way of investigating your own food system rather than as a description of it.",
+        "why": "Treating a dated national case study as a universal account is the most common misreading of this book, and it leads people to make confident claims about supply chains they have never examined.",
+        "apply": "Find out how one staple is actually produced and subsidised where you live, rather than assuming the arrangements described here apply to your country.",
+        "format": "single",
+        "tags": [
+          "context",
+          "food-system",
+          "scepticism"
+        ]
+      }
+    ],
+    "actions": [
+      "Trace one item from your next dinner all the way back to the land it came from, and write down every point where the information simply runs out.",
+      "Visit or research one farm near you that sells directly, and buy something from it so you learn the real price difference rather than guessing at it.",
+      "Find out which crops are subsidised where you live and how that shows up in the prices you pay at the supermarket.",
+      "Decide deliberately how you want to eat animals, whether that means less, differently sourced, or not at all, and write down the reasoning."
+    ],
+    "if_you_liked": [
+      "in-defense-of-food",
+      "how-not-to-die",
+      "sapiens"
+    ],
+    "not_for_you_if": "You want practical nutrition advice or a diet plan. This is long-form reporting on agriculture and the food industry, and it will not tell you what to eat tonight.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2006 by Penguin Press. Reporting is US-specific and now dated in places; the content flags this. Claims about pasture-based farming scaling globally are contested and marked as such. All prose original."
+    }
+  },
+  {
+    "id": "becoming-a-supple-leopard",
+    "title": "Becoming a Supple Leopard",
+    "subtitle": "The Ultimate Guide to Resolving Pain, Preventing Injury, and Optimizing Athletic Performance",
+    "author": "Kelly Starrett",
+    "year": 2013,
+    "category": "health-fitness",
+    "subcategory": "movement-mobility",
+    "tags": [
+      "mobility",
+      "movement",
+      "strength-training",
+      "injury-prevention",
+      "stretching"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It moved mobility work from a warm-up afterthought to a daily practice with a vocabulary, and gave a generation of lifters a way to talk about position and range instead of only load. Its influence on gym culture is far larger than its evidence base.",
+    "crux": {
+      "headline": "Position first, then load, then speed",
+      "body": "Strength built on a bad shape is strength you will eventually pay for. Treat every movement as a technical skill with a standard you can check, get into a stable position before adding weight, and add speed last. When a position is unavailable, that is a specific restriction to work on rather than a personal limit. The daily ten minutes spent restoring range is what keeps the training going for decades instead of years."
+    },
+    "sparks": [
+      {
+        "id": "becoming-a-supple-leopard-s01",
+        "hook": "You can be strong and still move like the hinge is rusted shut.",
+        "insight": "Strength and range of motion are separate qualities, and training one hard does not maintain the other. Plenty of people can lift heavy through a shape their joints hate, because muscle will happily compensate for a joint that has quietly stopped moving. It works until it does not. Treating range as a trainable quality with its own daily practice, rather than something you either have or lack, is the entire premise here.",
+        "why": "Range of motion responds to regular loading at end range, and it declines with disuse. The claim that restoring it prevents injury is plausible and popular but not well supported by trials.",
+        "apply": "Test one position you avoid, like a full-depth squat or arms overhead against a wall, and note exactly where it stops rather than how it feels.",
+        "format": "single",
+        "tags": [
+          "mobility",
+          "range-of-motion",
+          "strength-training"
+        ]
+      },
+      {
+        "id": "becoming-a-supple-leopard-s02",
+        "hook": "Movement is a skill with standards, not a talent you were issued at birth.",
+        "insight": "Nobody would say you either can play the piano or you cannot. Movement gets treated that way constantly. The alternative is to define what a good squat, hinge, press and carry actually look like, then practise them the way you would practise a technical skill: slowly, with feedback, at a load light enough that the shape survives. You are not born with a squat. You are either practising one or losing one.",
+        "why": "Motor learning research supports deliberate practice of movement patterns with feedback. What remains contested is whether any single prescribed shape is correct for every body, given real anatomical variation in hips and shoulders.",
+        "apply": "Film one set of your main lift from the side this week and watch it once without judging it, just describing what your joints actually did.",
+        "format": "single",
+        "tags": [
+          "technique",
+          "skill",
+          "practice"
+        ]
+      },
+      {
+        "id": "becoming-a-supple-leopard-s03",
+        "hook": "Set the trunk before you move, not while you are moving.",
+        "insight": "Most people organise their spine and pelvis somewhere in the middle of a lift, which means the first part of every rep happens in a shape nobody chose. The alternative is a fixed sequence you run before load: stand tall, set the pelvis, bring the ribcage down, create tension, then breathe into that shape and keep it. It takes about two seconds and it turns the setup from an accident into a decision.",
+        "why": "Bracing measurably increases trunk stiffness and is standard in strength coaching. The stronger claim, that spinal flexion under load is inherently dangerous, is disputed by pain researchers and should be held loosely.",
+        "apply": "Run a fixed setup sequence before every working set this week, and refuse to start the rep until the shape is set and you have taken one breath.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Stand and stack",
+            "body": "Feet under hips, weight through the middle of the foot. Get tall before anything else, so the spine starts from a neutral position rather than finding one mid-lift."
+          },
+          {
+            "step": 2,
+            "title": "Set the pelvis",
+            "body": "Squeeze the glutes lightly to stop the pelvis tipping forward. You are looking for a small correction, not a clench that locks up the hips."
+          },
+          {
+            "step": 3,
+            "title": "Bring ribs down",
+            "body": "Drop the front of the ribcage so it sits over the pelvis rather than flaring up. This is what actually connects the trunk into one unit."
+          },
+          {
+            "step": 4,
+            "title": "Breathe and brace",
+            "body": "Take air into the belly and sides, then tighten as if expecting a light punch. Pressure, not breath holding for its own sake."
+          },
+          {
+            "step": 5,
+            "title": "Keep it, then move",
+            "body": "The shape has to survive the whole rep. If it collapses at a particular point, that is your working depth for now, not a failure of effort."
+          }
+        ],
+        "tags": [
+          "bracing",
+          "technique",
+          "spine"
+        ]
+      },
+      {
+        "id": "becoming-a-supple-leopard-s04",
+        "hook": "The sore knee is often reporting on the ankle nobody has checked.",
+        "insight": "Joints work in a chain, and a joint that will not move hands its job to the neighbours. A stiff ankle forces the knee inward or the heel up in a squat. A locked mid-back makes the shoulder do the reaching. So the place that hurts is frequently the place absorbing someone else's missing range, which is why treating the painful spot alone so often produces temporary relief and a returning problem.",
+        "why": "Kinetic chain compensation is well established in biomechanics. Confidently predicting which restriction caused which pain is much shakier, and pain has drivers beyond mechanics, including sleep, load history and stress.",
+        "apply": "When something aches, test the range of the joints directly above and below it before you do anything to the sore area itself.",
+        "format": "single",
+        "tags": [
+          "pain",
+          "biomechanics",
+          "kinetic-chain"
+        ]
+      },
+      {
+        "id": "becoming-a-supple-leopard-s05",
+        "hook": "Test, work, retest. If nothing moved, you just spent ten minutes on nothing.",
+        "insight": "Most mobility work is performed on faith. The fix is to treat every session as a small experiment: measure a specific position, do one intervention for a few minutes, measure the same position again. If it changed, keep the method. If it did not, drop it without sentiment. This single loop separates people who slowly gain range from people who have been rolling the same muscle for three years with nothing to show.",
+        "why": "Immediate range changes are measurable and repeatable within a session. Whether short-term gains accumulate into lasting change is less certain, which is exactly why the retest habit matters.",
+        "apply": "Before your next mobility session, pick one measurable test position. Do one thing for five minutes. Retest immediately and write down the result.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Pick one test",
+            "body": "Something specific and repeatable: how deep the squat goes before the heels lift, or how far the arms reach overhead with the back flat against a wall."
+          },
+          {
+            "step": 2,
+            "title": "Choose one intervention",
+            "body": "One area, one method, five minutes. Changing several things at once means you learn nothing about which of them was worth the time."
+          },
+          {
+            "step": 3,
+            "title": "Retest immediately",
+            "body": "Same test, same setup, same day. Compare against what you recorded, not against how the position feels, because feeling is a terrible instrument."
+          },
+          {
+            "step": 4,
+            "title": "Keep or bin it",
+            "body": "Real change means keep it and repeat tomorrow. No change means bin it and try something else. Loyalty to a technique is the enemy here."
+          }
+        ],
+        "tags": [
+          "mobility",
+          "testing",
+          "method"
+        ]
+      },
+      {
+        "id": "becoming-a-supple-leopard-s06",
+        "hook": "Ten minutes every day beats an hour every fortnight, and it is not close.",
+        "insight": "Tissue and nervous system adapt to what happens regularly, not to occasional heroic sessions. Ten focused minutes a day, aimed at whatever is currently most restricted, accumulates into range you keep. A long session once in a while mostly produces soreness and the feeling of having done something. The daily version also fits into life, which is the only reason it survives past the second week.",
+        "why": "Frequency generally beats duration for flexibility and motor adaptation, in line with how other skills develop. The specific ten-minute figure is a practical recommendation, not a tested dose.",
+        "apply": "Put ten minutes of mobility work directly after an existing daily anchor, such as after your evening shower, and do it in the same spot each time.",
+        "format": "single",
+        "tags": [
+          "consistency",
+          "mobility",
+          "routine"
+        ]
+      },
+      {
+        "id": "becoming-a-supple-leopard-s07",
+        "hook": "Pain during a lift is information about position, not a toughness test.",
+        "insight": "Training through sharp pain is treated as discipline in a lot of gyms, and it is mostly just a way of turning a small problem into a long one. Sharp or joint-specific pain is a signal to change something now: reduce the load, shorten the range, alter the setup. Discomfort from effort is different, and learning to tell them apart is one of the more valuable skills in training. Stop, adjust, retest, continue.",
+        "why": "Pain is a protective output influenced by tissue state, sleep, stress and expectation rather than a direct damage readout. That makes it worth listening to and a poor instrument for diagnosing exactly what is wrong.",
+        "apply": "Agree a rule with yourself now: sharp or joint pain means you change load or range within that same set, not at the end of the session.",
+        "format": "single",
+        "tags": [
+          "pain",
+          "injury-prevention",
+          "training"
+        ]
+      },
+      {
+        "id": "becoming-a-supple-leopard-s08",
+        "hook": "A chair is a position you hold for eight hours without any practice.",
+        "insight": "Nobody would train a single position for forty hours a week and expect it to have no effect. Sitting is exactly that, and the issue is less the posture itself than the total absence of variation. The fix is not a perfect ergonomic setup but frequent change: stand sometimes, move every half hour, take a few minutes of the opposite shape. Variety is the active ingredient, and no chair provides it.",
+        "why": "The link between specific postures and pain is weaker than commonly claimed, and studies have struggled to show that sitting position predicts back pain. Lack of movement variation has better support than posture correction.",
+        "apply": "Set an alarm for every thirty minutes of desk work and change position for sixty seconds. Stand, walk, or take your hips through a full range.",
+        "format": "single",
+        "tags": [
+          "posture",
+          "sitting",
+          "desk-work"
+        ]
+      },
+      {
+        "id": "becoming-a-supple-leopard-s09",
+        "hook": "You cannot own a position you only visit under a barbell.",
+        "insight": "If the bottom of a squat is a place you reach twice a week for a fraction of a second under load, you do not really have it. Owning a position means being able to sit in it, breathe there, look around, and get out under control. Spend unloaded time in the end ranges you need, and the loaded version stops being a place you fall into and becomes somewhere you can actually work.",
+        "why": "Loading and spending time at end range does build usable range, and it holds better than passive stretching alone. The precise mechanism involves both tissue and nervous system tolerance, and is still argued over.",
+        "apply": "Spend two minutes a day resting in the bottom of an unloaded squat, breaking it into shorter holds if that is all you can currently manage.",
+        "format": "single",
+        "tags": [
+          "end-range",
+          "squat",
+          "mobility"
+        ]
+      },
+      {
+        "id": "becoming-a-supple-leopard-s10",
+        "hook": "This is a coach's system, and it is confident well past its evidence.",
+        "insight": "The framework is detailed, internally consistent and mostly untested. Claims about fascia, specific tissue techniques, and mobility work preventing injury are far more certain in the writing than in the research, and some explanations for why a technique works have not held up. The practical parts still earn their place: move daily, respect position, test what you do. Take the practice, discount the mechanisms, and ignore anything promising to bulletproof a joint.",
+        "why": "Systematic reviews have found little evidence that stretching or mobility work prevents injury, though strength training does show a protective effect. Naming that gap makes the useful parts more trustworthy, not less.",
+        "apply": "Keep the daily practice and the test-retest habit from this book, and treat every anatomical explanation in it as a hypothesis rather than a fact.",
+        "format": "single",
+        "tags": [
+          "evidence",
+          "scepticism",
+          "injury-prevention"
+        ]
+      }
+    ],
+    "actions": [
+      "Film your three main lifts from the side, watch each once, and write down the single position that breaks down first under load.",
+      "Choose one test position, measure it today, and run a daily ten-minute session for a month with a weekly retest recorded in the same place.",
+      "Set a thirty-minute movement alarm for every working day and change position for a minute each time it goes off.",
+      "Add or keep a strength training programme, since that has better evidence for reducing injury than any mobility work you will do."
+    ],
+    "if_you_liked": [
+      "starting-strength",
+      "exercised",
+      "born-to-run"
+    ],
+    "not_for_you_if": "You want evidence-graded rehabilitation guidance, or you find long lists of prescribed techniques and confident anatomical explanations more discouraging than useful.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2013 by Victory Belt; a revised second edition followed in 2015. Injury-prevention and fascia claims in the book are not well supported by current evidence and the content says so directly. All prose original."
+    }
+  }
+]

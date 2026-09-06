@@ -39,3 +39,18 @@ Reply with ONE short paragraph: book count, any swaps and why, final validator s
 Do **not** paste any content into your reply.
 
 Write the file with the Write tool, in 2–4 chunks if long. Never truncate a record.
+
+---
+
+## Resume mode
+
+If you are given a batch name **and told to resume**, part of that batch already exists and must
+not be lost.
+
+1. Read `content/batches/resume/<BATCH>.json` — it lists **only the books still missing**. Write
+   those and no others.
+2. Read the existing `content/raw/<BATCH>.json` first. Your job is to produce the **union**:
+   every record already in that file, unchanged, plus the missing ones. Never overwrite the file
+   with only your new records, and never re-write a book that is already there.
+3. Keep the order from `content/batches/<BATCH>.json` (the full batch file) where you can.
+4. Validate the whole file as usual. Report how many you added and the new total.

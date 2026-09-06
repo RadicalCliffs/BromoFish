@@ -1,0 +1,410 @@
+[
+  {
+    "id": "just-keep-buying",
+    "title": "Just Keep Buying",
+    "subtitle": "Proven Ways to Save Money and Build Your Wealth",
+    "author": "Nick Maggiulli",
+    "year": 2022,
+    "category": "personal-finance",
+    "subcategory": "saving-and-investing",
+    "tags": ["investing", "saving", "index-funds", "market-timing", "wealth-building"],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "It takes the arguments personal finance keeps having and settles several of them with data rather than opinion, then reduces the answer to one instruction anyone with an income can follow. It is the least glamorous and most durable advice in the category.",
+    "crux": {
+      "headline": "Buy income-producing assets continuously and never stop",
+      "body": "Wealth does not come from picking the right moment or the right stock. It comes from converting income into ownership on a schedule, over decades, through good years and terrible ones. Waiting for a better price loses on average, even with perfect foresight. So automate the purchase, raise the amount as your pay rises, and spend your attention on earning more rather than on forecasting a market that does not care what you think."
+    },
+    "sparks": [
+      {
+        "id": "just-keep-buying-s01",
+        "hook": "Waiting for a better price usually costs more than the price you avoided.",
+        "insight": "Imagine you knew in advance the exact date of every market bottom for the next forty years, and you held cash so you could buy only at those moments. Tested across long stretches of market history, that strategy still loses to simply investing every month as the money arrives. Markets spend most of their time rising, so cash sitting out misses more than it dodges. If perfect foresight is not enough to make waiting pay, a hunch about a coming dip is not either.",
+        "why": "Time out of the market is a certain, compounding cost, while the dip you are waiting for may never arrive below today's price. The advantage of buying now comes from upward drift, not from luck.",
+        "apply": "Take any cash you are holding back for a better entry point and set a date this month for it to go in, then let the transfer run.",
+        "format": "single",
+        "tags": ["market-timing", "investing", "cash"]
+      },
+      {
+        "id": "just-keep-buying-s02",
+        "hook": "Early on your savings rate is the whole game. Later, returns take over.",
+        "insight": "When your portfolio is small, returns are noise. A strong year on three thousand pounds buys dinner, while an extra two hundred a month changes your trajectory entirely. So at the start the only lever that matters is the gap between what you earn and what you spend. As the balance grows, the arithmetic flips, and one percentage point of return moves more money than you could plausibly save in a year. Most people pull the wrong lever for their stage, agonising over fund choice while saving a rounding error.",
+        "why": "Contributions are additive and capped by your income. Returns are multiplicative on the balance. The crossover arrives on its own once the portfolio is worth several years of saving.",
+        "apply": "Add up last year's contributions and last year's investment gains. The larger number tells you where this year's effort should go.",
+        "format": "single",
+        "tags": ["saving", "compounding", "investing"]
+      },
+      {
+        "id": "just-keep-buying-s03",
+        "hook": "The cure for spending guilt is not restraint. It is a matching transfer.",
+        "insight": "Frugality advice tends to end in one of two places: joyless self-denial, or a spree followed by shame. A simpler rule dissolves both. Whenever you want to buy something extravagant, move the same amount into your investments at the same moment. If matching it is impossible, you have your answer about affordability without any moral argument attached. If you can do both, the purchase is genuinely paid for and the guilt has nothing left to feed on.",
+        "why": "The rule converts a vague question about deserving into a concrete affordability test, and it makes every splurge fund your future rather than compete with it.",
+        "apply": "Pick the next non-essential purchase above your usual limit and transfer the same sum into your index fund before you check out.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Name the splurge", "body": "Write down the thing you want and its full price, including delivery, insurance and whatever it commits you to paying later. Vagueness is what makes overspending feel harmless." },
+          { "step": 2, "title": "Match it in full", "body": "Move an identical amount into your investment account first, in the same sitting. Not a percentage of it, not later in the month. The same number, now." },
+          { "step": 3, "title": "Watch your reaction", "body": "If matching the amount feels impossible or frightening, that is your affordability answer, and no budgeting spreadsheet was going to tell you anything kinder." },
+          { "step": 4, "title": "Buy it without commentary", "body": "If both transfers cleared, the purchase is funded and so is your future. Enjoy it and drop the running argument in your head. That is the entire point of the rule." }
+        ],
+        "tags": ["spending", "guilt-free", "investing"]
+      },
+      {
+        "id": "just-keep-buying-s04",
+        "hook": "You cannot cut your way to wealth on an income that is already stretched.",
+        "insight": "Spending has a floor. Rent, food, transport and childcare cannot go below what they actually cost, and for many households that number is most of the paycheque. Income has no matching ceiling. So the standard advice to trim small luxuries is aimed at the wrong people twice over: a stretched household has nothing left to trim, and a comfortable one is rarely leaking money through coffee. Work out which problem you have before choosing a solution.",
+        "why": "The two levers are not symmetrical. Cutting is bounded by your cost of living. Earning is bounded by nothing in particular. Which one is available to you depends on where your income already sits.",
+        "apply": "Total your genuinely fixed costs as a share of take-home pay. Above roughly seventy percent, spend this year on raising income, not on spreadsheets.",
+        "format": "single",
+        "tags": ["income", "frugality", "budgeting"]
+      },
+      {
+        "id": "just-keep-buying-s05",
+        "hook": "Most individual stocks lose to Treasury bills. A tiny minority carries everything.",
+        "insight": "Research on long-horizon American stock returns found that the majority of individual companies underperformed short-term government bills across their lifetimes, and that the market's entire net gain traces back to a small fraction of firms. The average is carried by extreme winners. That is the strongest available argument for owning the whole market: if you select, you have to catch the few, and a portfolio that misses them takes more risk for less return.",
+        "why": "Stock returns are heavily skewed rather than bell-shaped, so the typical stock and the average stock behave nothing alike. Owning everything guarantees you hold the outliers you cannot identify in advance.",
+        "apply": "Check what share of your portfolio sits in individual names, then cap it at an amount you could lose entirely without changing your plans.",
+        "format": "single",
+        "tags": ["index-funds", "stock-picking", "diversification"]
+      },
+      {
+        "id": "just-keep-buying-s06",
+        "hook": "Buying at a record high feels reckless. Records arrive in clusters.",
+        "insight": "Rising markets set new highs constantly, so a large share of all trading days sit at or near a record. Refusing to invest whenever the index is at a peak means refusing to invest through most of every bull market. The label carries no information about what happens next. It only tells you the market has done well recently, which is the normal condition of something that rises over long periods.",
+        "why": "This is not a claim that highs are bargains. It is that a record level is not a signal, and treating it as one keeps you in cash during exactly the stretches you most needed to be invested.",
+        "apply": "If you have paused contributions because the market looks expensive, restart them at the next scheduled date and keep the amount unchanged.",
+        "format": "single",
+        "tags": ["market-timing", "psychology", "investing"]
+      },
+      {
+        "id": "just-keep-buying-s07",
+        "hook": "Treat buying assets like paying rent: same date, same amount, no opinion.",
+        "insight": "The central instruction is deliberately dull. Choose a broad, cheap fund, decide how much goes in and on which day, then let it happen whether the news is good or catastrophic. The point is not that the schedule is optimal. The point is that it removes the two decisions that reliably destroy returns, which are when to start and when to stop. A mediocre plan you never interrupt beats a clever one you abandon in a bad quarter.",
+        "why": "Automated purchases take your forecast out of the process entirely. Since the forecast is the part most likely to be wrong, deleting it raises your expected result without requiring any skill.",
+        "apply": "Set a standing order for the day after payday into one broad index fund, then take the investing app off your phone for a quarter.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Pick one broad fund", "body": "A single global or total-market index fund with a low ongoing charge is enough to begin. Choosing between three near-identical funds is procrastination wearing a spreadsheet." },
+          { "step": 2, "title": "Fix the date and amount", "body": "Schedule the transfer for the day after your pay lands, so investing happens before spending rather than out of whatever survives the month." },
+          { "step": 3, "title": "Automate the whole chain", "body": "Money should move from salary to investment without you approving anything. Every manual step is a place where one bad week can quietly cancel the plan." },
+          { "step": 4, "title": "Raise it with every rise", "body": "When your pay increases, send a fixed share of the increase straight into the same standing order before your spending adjusts to the larger number." },
+          { "step": 5, "title": "Stop checking", "body": "Daily balance-watching adds no information and a great deal of temptation. Quarterly is plenty and yearly is fine. The plan does not need supervision." }
+        ],
+        "tags": ["automation", "index-funds", "consistency"]
+      },
+      {
+        "id": "just-keep-buying-s08",
+        "hook": "Debt is not a moral category. The interest rate decides the answer.",
+        "insight": "A card charging over twenty percent and a fixed mortgage at three percent are not the same object, though both get called debt. The high rate is a guaranteed loss you can delete instantly by paying it off, which makes clearing it the best risk-free return available to you anywhere. The low fixed rate is a genuinely different question, and the honest answer involves your job security and how you would feel in a crash, not only the spread between numbers.",
+        "why": "Expected investment returns are uncertain while the debt payment is certain, so the comparison should lean toward paying down. The rate, the term and your ability to sleep are the real inputs.",
+        "apply": "List every debt beside its interest rate. Clear anything above roughly eight percent before adding to investments, and stop apologising for the rest.",
+        "format": "single",
+        "tags": ["debt", "interest-rates", "priorities"]
+      },
+      {
+        "id": "just-keep-buying-s09",
+        "hook": "The common retirement failure is not running out. It is dying rich by accident.",
+        "insight": "Work on how retirees actually spend finds that many draw down far less than their savings could safely support and leave large balances behind. The habits that built the money do not switch off on the day the salary stops. Decades of deferring trains a reflex against spending, and the reflex outlives its usefulness by twenty years. Money is a tool for buying a life, and a balance that only ever grows has quietly stopped doing its job.",
+        "why": "This pattern is real but it is also a comfortable problem, and plenty of retirees genuinely do not have enough. The warning is aimed at savers who over-corrected, not at everyone.",
+        "apply": "Name one thing worth real money to you in the next twelve months, fund it from savings, and put the date in your calendar today.",
+        "format": "single",
+        "tags": ["retirement", "spending", "enough"]
+      },
+      {
+        "id": "just-keep-buying-s10",
+        "hook": "The crashes are not a malfunction. They are the price of the return.",
+        "insight": "Long-run stock returns are payment for enduring stretches where your balance falls by a third and nobody can tell you when it stops. If those stretches did not exist, the returns would not either, because there would be nothing to be compensated for. Treating a decline as a system failure leads to selling at the worst possible moment, then waiting for a feeling of safety that only returns once prices already have.",
+        "why": "Risk and return are linked precisely because most people will not tolerate the risk. The premium exists because holding through a severe drawdown is unpleasant and many investors do not manage it.",
+        "apply": "Write down today exactly what you will do if your portfolio falls forty percent, then keep the note somewhere you will actually find it.",
+        "format": "single",
+        "tags": ["volatility", "risk", "behaviour"]
+      }
+    ],
+    "actions": [
+      "Set one automatic transfer into a broad index fund for the day after payday, and commit now to raising it by half of every future pay rise.",
+      "Calculate last year's savings rate as a share of take-home pay, then decide honestly whether income or spending is the lever you can move.",
+      "Apply the matching rule to your next large discretionary purchase: invest the same amount at the same moment, or accept that you cannot afford it.",
+      "Write a one-page crash plan naming what you will buy, what you will never sell, and who you must call before making any change."
+    ],
+    "if_you_liked": ["the-psychology-of-money", "the-simple-path-to-wealth", "die-with-zero"],
+    "not_for_you_if": "You want stock analysis or a route to fast returns. This is a case for boring, automatic buying, and it will feel repetitive if you already do exactly that.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2022 by Harriman House. The claim about skewed long-run stock returns reflects published finance research on long-horizon US equity performance. All prose here is original."
+    }
+  },
+  {
+    "id": "the-automatic-millionaire",
+    "title": "The Automatic Millionaire",
+    "subtitle": "A Powerful One-Step Plan to Live and Finish Rich",
+    "author": "David Bach",
+    "year": 2004,
+    "category": "personal-finance",
+    "subcategory": "automation",
+    "tags": ["automation", "saving", "budgeting", "retirement", "debt-payoff"],
+    "difficulty": "easy",
+    "read_time_min": 9,
+    "why_it_matters": "It moved the centre of gravity in personal finance from discipline to plumbing. The idea that you should build a system that saves without your involvement now sits underneath payroll pensions, round-up apps and default enrolment everywhere.",
+    "crux": {
+      "headline": "Make the saving happen before you can decide against it",
+      "body": "Willpower is a terrible thing to depend on twelve times a year. The reliable route to wealth on an ordinary income is to arrange for money to move into savings, investments and debt payments automatically, on the day you are paid, before it reaches the account you spend from. One afternoon of setup replaces a decade of monthly decisions, and the decisions were always the part that failed."
+    },
+    "sparks": [
+      {
+        "id": "the-automatic-millionaire-s01",
+        "hook": "A plan that needs you to be disciplined every month is not a plan.",
+        "insight": "Most financial advice quietly assumes you will make the right choice repeatedly, in a bad mood, after an expensive week. That assumption is why so many budgets die by March. The alternative is to move the decision upstream: make it once, wire it into your bank, and let the system carry the behaviour instead of your character. Nothing about your motivation has to change. What changes is how many chances you get to opt out.",
+        "why": "Recurring decisions fail at a compounding rate. A single setup decision fails once and can be repaired. Defaults are the strongest predictor of what people actually save.",
+        "apply": "Pick the one saving decision you renegotiate most often and turn it into a standing order this week, before you improve anything else.",
+        "format": "single",
+        "tags": ["automation", "willpower", "defaults"]
+      },
+      {
+        "id": "the-automatic-millionaire-s02",
+        "hook": "If you save what is left at month end, you will save what is left. Nothing.",
+        "insight": "Spending expands to fill whatever sits in your current account, so a plan that saves the remainder is a plan that saves nothing. Reverse the order. Money for your future should leave first, on payday, ideally before it ever appears in the account you spend from. What is left becomes your budget by definition, and you will adapt to it within two months without noticing much. The sequence does the work that self-control was never going to do.",
+        "why": "Whatever is visible and available gets spent. Removing money before it becomes visible changes the reference point rather than fighting it, which is why payroll deduction outperforms intention.",
+        "apply": "Move your savings transfer to the day after payday and increase it by one percent of income. Do not adjust anything else for a month.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Find your pay date", "body": "Everything hangs off the day the money lands. Automation that fires on the wrong day bounces, and one bounce is usually enough to make someone cancel the whole arrangement." },
+          { "step": 2, "title": "Set the first transfer", "body": "Send a fixed percentage into a retirement or investment account the day after pay arrives. Percentage, not a fixed sum, so it scales when your income does." },
+          { "step": 3, "title": "Add the cushion", "body": "Point a second, smaller transfer at a separate savings account you have no card for. Distance and friction are what keep an emergency fund intact." },
+          { "step": 4, "title": "Point debt at the same day", "body": "Schedule more than the minimum on your highest-rate debt for the same date, so repayment competes with nothing and never depends on how the month went." },
+          { "step": 5, "title": "Leave it alone for a year", "body": "The system only pays if it runs untouched through bad months. Review it annually, raise the percentages, and otherwise treat it as none of your business." }
+        ],
+        "tags": ["pay-yourself-first", "automation", "saving"]
+      },
+      {
+        "id": "the-automatic-millionaire-s03",
+        "hook": "The daily coffee is a real leak and a badly oversold explanation.",
+        "insight": "Small recurring purchases do add up, and noticing them is genuinely useful, because a habit costing five a day is a meaningful annual sum you never chose deliberately. But the popular version of this argument stretches it much too far. Turning a coffee into a fortune requires optimistic return assumptions and decades of perfect redirection, and it ignores that housing, transport, childcare and insurance dominate almost every household budget. Fix the small leak. Do not expect it to fix your finances.",
+        "why": "The mechanism is sound and the arithmetic in the popular telling is inflated. Critics are right that blaming small treats shifts attention away from large fixed costs and from wages.",
+        "apply": "Find your two largest recurring costs and spend an hour renegotiating one of them, then cancel a subscription for good measure.",
+        "format": "single",
+        "tags": ["spending", "small-leaks", "honest-caveat"]
+      },
+      {
+        "id": "the-automatic-millionaire-s04",
+        "hook": "You do not need a budget. You need money to leave before you see it.",
+        "insight": "Line-item budgeting asks you to predict and then police dozens of categories every month, which is a part-time job most people quit. An automatic system needs none of that. If the right amounts already left for investments, savings and debt on payday, then whatever remains can be spent in any pattern you like without harm. You have replaced surveillance with structure, and structure does not get tired in December.",
+        "why": "Budgets fail because they need constant maintenance and produce guilt as their main output. Automation converts the same goal into a one-time configuration that keeps working when attention lapses.",
+        "apply": "Cancel your budgeting spreadsheet for one month and instead raise your automatic transfers to the amount the budget said you should save.",
+        "format": "single",
+        "tags": ["budgeting", "automation", "simplicity"]
+      },
+      {
+        "id": "the-automatic-millionaire-s05",
+        "hook": "Work one hour a day for your future self and nothing else has to change.",
+        "insight": "Saving targets stated as percentages feel abstract, so translate them into time. If you work eight hours, one hour of that day's pay belongs to you later, which is roughly twelve percent of your income. It is a small enough share to be survivable on most incomes and a large enough one to matter over thirty years. The framing also makes the trade honest: you are not giving something up, you are being paid for part of your own day.",
+        "why": "Percentage targets scale automatically with income and raises, while fixed amounts silently shrink with inflation. The hour framing makes an abstract percentage concrete enough to commit to.",
+        "apply": "Work out one hour of your daily pay, then set your automatic retirement contribution to that share of gross income this week.",
+        "format": "single",
+        "tags": ["saving-rate", "framing", "retirement"]
+      },
+      {
+        "id": "the-automatic-millionaire-s06",
+        "hook": "Split the mortgage payment in half and pay it fortnightly. Count the payments.",
+        "insight": "A fortnightly half-payment sounds identical to a monthly one, but there are twenty-six fortnights in a year and only twelve months. Twenty-six halves make thirteen full payments, so you make one extra payment a year without ever feeling it, and every extra pound lands on the principal. On a long mortgage that quietly removes years from the term and a large sum from the total interest, purely through a scheduling change.",
+        "why": "The gain is arithmetic, not magic, and it depends on your lender applying payments as they arrive rather than holding them. Check that before assuming the benefit.",
+        "apply": "Ask your lender whether fortnightly payments are applied immediately, and if they are, switch and leave the amount alone.",
+        "format": "single",
+        "tags": ["mortgage", "debt-payoff", "interest"]
+      },
+      {
+        "id": "the-automatic-millionaire-s07",
+        "hook": "A mortgage is a savings plan that bills you when you would rather not save.",
+        "insight": "Owning a home forces regular payments that partly build equity, and the enforcement is the useful part for people who struggle to save. That is a real argument, but it is not the whole picture. Buying costs a large sum in fees on the way in and out, maintenance never stops, and a short stay in an expensive market can leave you worse off than renting and investing the difference. Forced saving is a benefit, not a guarantee.",
+        "why": "Housing returns vary enormously by market and holding period, and transaction costs punish short ownership. The behavioural benefit is real, but it is not the same as a good investment.",
+        "apply": "Before buying, calculate your total costs over five years, including fees and maintenance, and compare them with renting plus investing the gap.",
+        "format": "single",
+        "tags": ["housing", "forced-saving", "rent-vs-buy"]
+      },
+      {
+        "id": "the-automatic-millionaire-s08",
+        "hook": "Your emergency fund should live somewhere annoying to reach.",
+        "insight": "A cushion of three to six months of expenses is what stops one bad event from becoming years of credit card debt. Its usefulness depends almost entirely on friction. Money sitting beside your spending account with a card attached gets absorbed within a year. Money in a separate institution, without a card, reachable in a day or two but not a minute, survives. Boring and slightly inconvenient is the correct design here.",
+        "why": "Emergency funds fail on accessibility, not on returns. Adding a small delay between impulse and withdrawal preserves the balance without preventing genuine emergency use.",
+        "apply": "Open a savings account at a different bank, order no card for it, and automate a small weekly transfer until it holds three months of costs.",
+        "format": "single",
+        "tags": ["emergency-fund", "friction", "saving"]
+      },
+      {
+        "id": "the-automatic-millionaire-s09",
+        "hook": "Automate the debt payoff too, or it will always come second.",
+        "insight": "Debt repayment above the minimum is the most easily postponed line in anyone's month, because postponing it has no immediate consequence. Automating it removes the postponement entirely. Set a fixed extra amount to leave on payday for your highest-rate balance while everything else stays on minimums, and when that balance clears, redirect the whole payment to the next one instead of absorbing it back into spending.",
+        "why": "The redirect is what accelerates things, because your total outgoing stays flat while the amount hitting principal grows with each cleared balance.",
+        "apply": "Automate one fixed extra payment on your highest-rate debt, and write a calendar note to redirect it the day that balance hits zero.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "List every balance", "body": "Write each debt with its rate, minimum payment and balance. Most people have never seen these on one page, and the total is usually the motivating part." },
+          { "step": 2, "title": "Minimums on autopilot", "body": "Automate the minimum on everything first. Missed minimums trigger fees and credit damage that cost far more than any clever repayment ordering saves." },
+          { "step": 3, "title": "Attack one balance", "body": "Send every spare pound to a single debt, chosen by highest rate for the best maths or smallest balance if you need the early win to stay engaged." },
+          { "step": 4, "title": "Redirect, do not relax", "body": "When a balance clears, add its whole payment to the next target the same week. Your outgoings stay flat and the payoff speeds up each time." }
+        ],
+        "tags": ["debt-payoff", "automation", "snowball"]
+      },
+      {
+        "id": "the-automatic-millionaire-s10",
+        "hook": "Every pay rise is a decision you get exactly once.",
+        "insight": "The window between a rise landing and your spending expanding to meet it is short, usually a month or two. Inside that window, redirecting part of the increase costs you nothing that you currently have, because you never lived on the higher figure. Outside it, the same redirect feels like a pay cut. This is why automatic escalation works so well: it captures the increase before your standard of living has time to claim it.",
+        "why": "Lifestyle adjustment to higher income is fast and largely permanent. Acting before the adjustment means you never experience a loss, only a smaller gain.",
+        "apply": "The day your next rise is confirmed, increase your automatic contribution by half of the increase, before the first larger payslip arrives.",
+        "format": "single",
+        "tags": ["pay-rise", "lifestyle-creep", "automation"]
+      }
+    ],
+    "actions": [
+      "Spend one afternoon setting up automatic transfers on your pay date for retirement, savings and extra debt payments, then leave them running.",
+      "Convert your saving target into a percentage of gross income rather than a fixed amount, so it rises automatically with every pay increase.",
+      "Move your emergency fund to a separate bank with no card attached, and top it up weekly until it covers three months of essential costs.",
+      "Diarise a single annual review date to raise each automatic percentage by one point, and make no other changes for the rest of the year."
+    ],
+    "if_you_liked": ["the-total-money-makeover", "i-will-teach-you-to-be-rich", "the-richest-man-in-babylon"],
+    "not_for_you_if": "You already automate your finances, or you want investment detail. The core message is one idea repeated, and the small-purchases argument is weaker than it sounds.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published by Broadway Books, released at the turn of 2003 into 2004 and generally catalogued as 2004; later expanded editions exist. The caveat about small daily purchases reflects widely made criticism of the argument, and is stated here deliberately."
+    }
+  },
+  {
+    "id": "happy-money",
+    "title": "Happy Money",
+    "subtitle": null,
+    "author": "Elizabeth Dunn and Michael Norton",
+    "year": 2013,
+    "category": "personal-finance",
+    "subcategory": "spending-psychology",
+    "tags": ["spending", "happiness", "psychology", "experiences", "generosity"],
+    "difficulty": "easy",
+    "read_time_min": 10,
+    "why_it_matters": "It reframed the oldest question in personal finance. Instead of asking how much money buys happiness, it asks which spending decisions convert money into wellbeing, and gives five usable principles with research behind each one.",
+    "crux": {
+      "headline": "How you spend matters more than how much you have",
+      "body": "Money converts into happiness at wildly different rates depending on what you buy. Experiences outlast objects, scarcity keeps pleasure alive, buying back your time beats buying more things, paying before you consume adds anticipation for free, and spending on other people returns more than spending on yourself. None of this requires a larger income. It requires noticing that most people spend as though the opposite were true."
+    },
+    "sparks": [
+      {
+        "id": "happy-money-s01",
+        "hook": "Money buys happiness badly, mostly because of what people choose to buy.",
+        "insight": "The tired debate about whether money makes you happy hides a more useful question. Two people with identical incomes can end up with very different daily experience depending on what they spend on. One buys a bigger house further from work and a car to reach it. The other buys a shorter commute, occasional trips and help with the chores they hate. Same money, different lives. The conversion rate is a decision, not a constant.",
+        "why": "Wellbeing research consistently finds that spending patterns predict daily mood better than income does above a basic level of security. The effects are modest individually and compound across a life.",
+        "apply": "Look at your three largest discretionary purchases last year and mark each one for how much happiness it still delivers today.",
+        "format": "single",
+        "tags": ["spending", "happiness", "choices"]
+      },
+      {
+        "id": "happy-money-s02",
+        "hook": "Objects sit still while memories keep working. Buy the trip.",
+        "insight": "A purchased object is at its best on day one and declines from there, both physically and in your attention. An experience works the other way. It gets anticipated beforehand, lived through once, then retold and gradually improved in memory for years. Experiences also resist comparison, because nobody can hold your weekend up against theirs on a spec sheet, while your phone is compared against a better one within months.",
+        "why": "Adaptation runs fast on possessions and slowly on memories, and experiences are harder to rank against other people's. The line blurs for objects that generate experiences, like an instrument or a bike.",
+        "apply": "Redirect the cost of your next planned upgrade into something you will do with someone, and book the date before you can reconsider.",
+        "format": "single",
+        "tags": ["experiences", "adaptation", "spending"]
+      },
+      {
+        "id": "happy-money-s03",
+        "hook": "Making something available every day is how you stop enjoying it.",
+        "insight": "Pleasure depends on contrast, and constant access removes it. The coffee you drink daily stops registering as anything within a fortnight, which means you now pay for something you no longer notice. Deliberately rationing a pleasure restores it: the same purchase, made weekly rather than daily, costs less and delivers more. Scarcity is usually treated as a constraint to escape. Applied on purpose, it is the cheapest available upgrade to your enjoyment.",
+        "why": "Hedonic adaptation is one of the most reliable findings in wellbeing research. Interrupting exposure resets the baseline, which is why an occasional treat outperforms a permanent supply of the same thing.",
+        "apply": "Pick one daily small luxury and make it a fixed weekly ritual instead. Notice at the end of the month whether you enjoy it more.",
+        "format": "single",
+        "tags": ["treats", "adaptation", "pleasure"]
+      },
+      {
+        "id": "happy-money-s04",
+        "hook": "You can buy time back. Almost nobody does it on purpose.",
+        "insight": "Paying someone to do a task you dislike converts money directly into hours, and those hours reliably improve how a week feels. Yet people who can easily afford it resist, because spending on a cleaner or a delivery feels like laziness while spending the same amount on an object feels like a purchase. The framing is backwards. One buys you an afternoon you will actually experience, the other buys a thing you will stop seeing.",
+        "why": "Studies on time-saving purchases find they raise reported wellbeing, and that most people underuse them even with the money available. The benefit depends on what you do with the freed time.",
+        "apply": "Name the household task you resent most, price out having it done once this month, and put the freed hours in your calendar first.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Audit your worst hours", "body": "Track a week and mark the tasks you actively dread. Dread, not duration, is the signal. A short miserable task can weigh more than a long dull one." },
+          { "step": 2, "title": "Price one of them", "body": "Get an actual cost for outsourcing the single worst task. Guessing keeps it theoretical, and theoretical costs are always imagined as higher than real ones." },
+          { "step": 3, "title": "Book the replacement", "body": "Decide what fills the freed time before it exists, or it will be absorbed by email and errands, and the purchase will feel like it bought nothing." },
+          { "step": 4, "title": "Judge it after a month", "body": "Ask whether your weeks feel different, not whether the money was well spent in the abstract. If they do not, stop. If they do, make it permanent." }
+        ],
+        "tags": ["time", "outsourcing", "wellbeing"]
+      },
+      {
+        "id": "happy-money-s05",
+        "hook": "Pay first, consume later, and get the waiting for free.",
+        "insight": "Anticipation is a genuine source of pleasure that costs nothing extra. A trip booked four months ahead delivers four months of looking forward on top of the trip itself. Credit reverses the structure. You consume first and pay afterwards, so the pleasure has already faded while the bill is still arriving, and the same money produces a fraction of the enjoyment. The sequence, not the sum, is doing most of the work here.",
+        "why": "Anticipated pleasure is measurable and sometimes exceeds the event. Paying afterwards attaches the cost to a memory rather than to a future, which is the weaker pairing psychologically.",
+        "apply": "Book your next significant purchase or trip well in advance and pay for it now, then deliberately talk about it while you wait.",
+        "format": "single",
+        "tags": ["anticipation", "credit", "planning"]
+      },
+      {
+        "id": "happy-money-s06",
+        "hook": "Spending on other people returns more per pound than spending on yourself.",
+        "insight": "Give someone a small sum and tell them to spend it on themselves or on somebody else, and the ones who spend it on others tend to report feeling better afterwards. The effect appears across very different countries and income levels. It is also modest in size, and later replication work has produced mixed and sometimes weaker results, so treat it as a reliable nudge rather than a law. It works best when you choose the recipient and can see what your money did.",
+        "why": "The original findings are real and cross-cultural, but effect sizes are small and replications have varied. Generosity that is chosen, personal and visible in its effect holds up best.",
+        "apply": "Give a specific amount to one person or cause where you will see the result, and choose it yourself rather than responding to a request.",
+        "format": "single",
+        "tags": ["generosity", "giving", "honest-caveat"]
+      },
+      {
+        "id": "happy-money-s07",
+        "hook": "The income where happiness stops rising is still being argued over.",
+        "insight": "A famous early finding suggested day-to-day emotional wellbeing stopped improving past a moderate income while life satisfaction kept climbing. Later work using far more frequent sampling found wellbeing continuing to rise well beyond that point. The two teams then investigated the disagreement together and landed somewhere more interesting: for most people happiness keeps rising with income, but for an unhappy minority it plateaus, because their problems are not the kind money solves.",
+        "why": "This is a live and honestly contested area, and the collaboration between the disagreeing researchers is a model of how to handle it. Anyone quoting a single magic income figure is out of date.",
+        "apply": "Stop treating one income number as the finish line and instead identify which of your current stresses money could genuinely remove.",
+        "format": "single",
+        "tags": ["income", "research", "honest-caveat"]
+      },
+      {
+        "id": "happy-money-s08",
+        "hook": "A long commute is the most expensive thing most people never price.",
+        "insight": "Commuting shows up near the bottom of almost every study of daily activities and mood, and unlike most miseries people do not adapt to it. The trade is usually made for a larger or cheaper home, and the extra space gets absorbed into normal life within months while the journey stays awful every single day. Two hours a day is roughly a working month a year, spent in the activity you rank lowest.",
+        "why": "Adaptation is strong for housing and weak for variable, uncontrollable stress like traffic. That asymmetry is what makes the standard space-for-commute trade a reliably bad one.",
+        "apply": "Price your commute in hours per year and in money, then compare it directly against the rent difference of living closer.",
+        "format": "single",
+        "tags": ["commuting", "housing", "time"]
+      },
+      {
+        "id": "happy-money-s09",
+        "hook": "Buy frequency, not grandeur. Small and often beats large and rare.",
+        "insight": "Given a fixed budget, several modest pleasures usually produce more happiness than one expensive one, because each occasion delivers its own anticipation, its own experience and its own memory. One remarkable dinner is a single event that fades. A regular ordinary one with people you like accumulates. The exception is the genuinely transformative purchase, but most spending is not transformative, and treating it as though it were is how budgets get built around rare events.",
+        "why": "Repeated moderate pleasures resist adaptation better than a single intense one, because each repetition restarts the cycle of anticipation and recall rather than extending a fading peak.",
+        "apply": "Split the cost of one planned luxury into four smaller versions spread across the year and schedule all four dates now.",
+        "format": "single",
+        "tags": ["frequency", "spending", "pleasure"]
+      },
+      {
+        "id": "happy-money-s10",
+        "hook": "Run every purchase through five questions before you spend anything.",
+        "insight": "The five principles work best as a checklist rather than a philosophy. Before a significant purchase, ask whether it buys an experience or an object, whether it stays special or becomes routine, whether it gives you time or takes it, whether you are paying before or after, and whether anyone besides you benefits. Most spending fails several of these. The checklist takes a minute and changes what you buy far more than any budget does.",
+        "why": "Each principle rests on a separate and reasonably well-supported effect, and the checklist works by making them available at the moment of decision rather than afterwards.",
+        "apply": "Write the five questions on a card and keep it with your bank card. Use it on anything above your usual spending threshold.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Experience or object", "body": "Ask what you will still be telling people about in two years. Objects are compared and replaced. Experiences get retold and quietly improve each time." },
+          { "step": 2, "title": "Special or routine", "body": "If this becomes an everyday availability, you will stop noticing it within weeks while continuing to pay. Consider buying it less often instead." },
+          { "step": 3, "title": "Time gained or lost", "body": "Some purchases give hours back and some quietly demand them in maintenance, storage or insurance. Count the hours the thing will ask of you." },
+          { "step": 4, "title": "Pay now, use later", "body": "Paying in advance buys anticipation and removes the bill that arrives after the pleasure has faded. Borrowing for a treat inverts both benefits." },
+          { "step": 5, "title": "Anyone else better off", "body": "Spending that includes another person tends to return more than the same amount spent alone. Add someone to the plan where you reasonably can." }
+        ],
+        "tags": ["checklist", "decisions", "spending"]
+      }
+    ],
+    "actions": [
+      "Review your last three months of spending and mark each purchase as an experience or an object, then shift one recurring object cost toward experiences.",
+      "Identify the household task you most dislike, pay to have it done for one month, and protect the freed hours by scheduling something specific.",
+      "Convert one daily small luxury into a weekly ritual, and put the saved money toward something you book well in advance and pay for now.",
+      "Choose one person or cause to give to deliberately this quarter, in an amount you notice, where you will be able to see what the money did."
+    ],
+    "if_you_liked": ["die-with-zero", "the-psychology-of-money", "your-money-or-your-life"],
+    "not_for_you_if": "You want budgeting or investing guidance. This is about spending decisions only, and it assumes you already have enough income to have choices.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2013; subtitle omitted because it differs between editions. The caveats about prosocial spending replication and the ongoing income-and-happiness debate are stated deliberately and reflect the current state of that research."
+    }
+  }
+]
