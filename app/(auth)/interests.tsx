@@ -6,7 +6,7 @@ import { useTheme } from '../../src/theme/ThemeProvider';
 import { space, type } from '../../src/theme/tokens';
 import { Button } from '../../src/components/Button';
 import { Chip } from '../../src/components/Chip';
-import { categories, topTags } from '../../src/lib/library';
+import { advertisedCategories, topTags } from '../../src/lib/library';
 import { useSession } from '../../src/lib/session';
 
 const MIN = 3;
@@ -28,7 +28,7 @@ export default function Interests() {
   const toggle = (id: string) =>
     setPicked((prev) => (prev.includes(id) ? prev.filter((p) => p !== id) : [...prev, id]));
 
-  const pickedCategories = picked.filter((p) => categories.some((c) => c.id === p)).length;
+  const pickedCategories = picked.filter((p) => advertisedCategories.some((c) => c.id === p)).length;
   const enough = pickedCategories >= MIN;
 
   const save = async () => {
@@ -51,7 +51,7 @@ export default function Interests() {
 
         <Text style={[type.overline, { color: theme.textMuted }]}>CATEGORIES</Text>
         <View style={styles.grid}>
-          {categories.map((c) => (
+          {advertisedCategories.map((c) => (
             <Chip
               key={c.id}
               label={c.label}

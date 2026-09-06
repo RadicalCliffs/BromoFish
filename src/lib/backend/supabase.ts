@@ -73,8 +73,9 @@ export const supabaseBackend: Backend = {
       options: { data: { display_name: displayName } },
     });
     if (error) throw new BackendError(error.message, error.code ?? 'signup');
-    if (!data.user) throw new BackendError('Check your inbox to confirm your email, then sign in.', 'confirm-email');
-    return { profile: await loadProfile(data.user.id) };
+    // If the user exists but is not confirmed, email confirmation is required.
+    if (!data.session) throw new BackendError('Check your inbox to confirm your email, then sign in.', 'confirm-email');
+    return { profile: await loadProfile(data.user!.id) };
   },
 
   async signIn({ email, password }) {

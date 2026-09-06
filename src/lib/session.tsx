@@ -27,17 +27,22 @@ interface SessionValue {
 
 const SessionContext = createContext<SessionValue | null>(null);
 
-const ACTIVITY_KEY = 'shift.activity';
-const today = () => new Date().toISOString().slice(0, 10);
+const ACTIVITY_KEY_PREFIX = 'shift.activity.';
+const activityKey = (userId: string | null) => (userId ? `${ACTIVITY_KEY_PREFIX}${userId}` : ACTIVITY_KEY_PREFIX);
+const today = () => {
+  const d = new Date();
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+};
 
 interface Activity {
   /** date -> count of sparks read */
   days: Record<string, number>;
 }
 
-const loadActivity = async (): Promise<Activity> => {
+const loadActivity = async (userId: string | null): Promise<Activity> => {
   try {
-    const raw = await AsyncStorage.getItem(ACTIVITY_KEY);
+    const key = activityKey(userId);
+    const raw = await AsyncStorage.getItem(key);
     return raw ? (JSON.parse(raw) as Activity) : { days: {} };
   } catch {
     return { days: {} };
@@ -46,8 +51,8 @@ const loadActivity = async (): Promise<Activity> => {
 
 /** Counts back from today (or yesterday, so an unread today doesn't break a live streak). */
 const streakFrom = (days: Record<string, number>): number => {
+  const key = (d: Date) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
   const day = new Date();
-  const key = (d: Date) => d.toISOString().slice(0, 10);
   if (!days[key(day)]) day.setDate(day.getDate() - 1);
   let n = 0;
   while (days[key(day)]) {
@@ -74,20 +79,23 @@ export function SessionProvider({ children }: { children: React.ReactNode }) {
     if (!p) {
       setSaved([]);
       setSeen([]);
+      const a = await loadActivity(null);
+      setActivity(a);
       return;
     }
-    const [s, v] = await Promise.all([
+    const [s, v, a] = await Promise.all([
       backend.listSaved().catch(() => []),
       backend.listSeen().catch(() => []),
+      loadActivity(p.id),
     ]);
     setSaved(s);
     setSeen(v);
+    setActivity(a);
   }, []);
 
   useEffect(() => {
     (async () => {
-      const [p, a] = await Promise.all([backend.restore().catch(() => null), loadActivity()]);
-      setActivity(a);
+      const p = await backend.restore().catch(() => null);
       await hydrate(p);
       setReady(true);
     })();
@@ -98,8 +106,13 @@ export function SessionProvider({ children }: { children: React.ReactNode }) {
     pendingViews.current.clear();
     flushTimer.current = null;
     if (!ids.length) return;
-    backend.markSeen(ids).catch(() => {
-      // Losing view telemetry is acceptable; blocking the feed on it is not.
+    backend.markSeen(ids).catch((error) => {
+      // Re-add failed views to retry later; losing critical telemetry would break streak tracking.
+      for (const id of ids) {
+        pendingViews.current.add(id);
+      }
+      // Schedule a retry after a delay
+      flushTimer.current = setTimeout(flushViews, 8000);
     });
   }, []);
 
@@ -110,12 +123,13 @@ export function SessionProvider({ children }: { children: React.ReactNode }) {
       setActivity((prev) => {
         const key = today();
         const next = { days: { ...prev.days, [key]: (prev.days[key] ?? 0) + 1 } };
-        AsyncStorage.setItem(ACTIVITY_KEY, JSON.stringify(next)).catch(() => {});
+        const storageKey = activityKey(profile?.id ?? null);
+        AsyncStorage.setItem(storageKey, JSON.stringify(next)).catch(() => {});
         return next;
       });
       if (!flushTimer.current) flushTimer.current = setTimeout(flushViews, 4000);
     },
-    [seen, flushViews]
+    [seen, flushViews, profile]
   );
 
   useEffect(() => () => flushViews(), [flushViews]);
@@ -163,8 +177,11 @@ export function SessionProvider({ children }: { children: React.ReactNode }) {
         const isSaved = savedIds.has(spark_id);
         // Optimistic: the fold animation has to land on the same frame as the tap.
         if (isSaved) {
+          const original = saved.find((s) => s.spark_id === spark_id);
           setSaved((prev) => prev.filter((s) => s.spark_id !== spark_id));
-          backend.unsave(spark_id).catch(() => setSaved((prev) => [...prev]));
+          backend.unsave(spark_id).catch(() => {
+            if (original) setSaved((prev) => [original, ...prev]);
+          });
         } else {
           const entry: SavedSpark = { spark_id, book_id, saved_at: new Date().toISOString() };
           setSaved((prev) => [entry, ...prev]);

@@ -17,9 +17,12 @@ export const libraryCounts = library.counts;
 
 const byId = new Map(books.map((b) => [b.id, b]));
 const categoryById = new Map(categories.map((c) => [c.id, c]));
+const categoriesWithBooks = categories.filter((c) => books.some((b) => b.category === c.id));
 
 export const getBook = (id: string): Book | undefined => byId.get(id);
 export const getCategory = (id: string): Category | undefined => categoryById.get(id);
+/** Categories that have at least one book, safe to advertise to users. */
+export const advertisedCategories = categoriesWithBooks;
 
 /** Books, grouped by category, in taxonomy order. Empty categories are omitted. */
 export function booksByCategory(): { category: Category; books: Book[] }[] {

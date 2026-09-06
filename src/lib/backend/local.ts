@@ -63,8 +63,7 @@ export const localBackend: Backend = {
   },
 
   async signOut() {
-    // The profile survives sign-out on purpose: with no server there is nowhere to sign back
-    // in from, so clearing it would silently destroy the user's saves.
+    await write(K.profile, null);
   },
 
   async updateProfile(patch) {

@@ -34,13 +34,12 @@ create policy "sparks are public"
 
 -- --- Profiles ----------------------------------------------------------------
 
--- Handles and display names are meant to be discoverable; email never lives in this table, so
--- a public select here exposes nothing private.
+-- Handles and display names are discoverable but interests (preferences) are private.
 drop policy if exists "profiles are readable" on public.profiles;
 create policy "profiles are readable"
   on public.profiles for select
-  to anon, authenticated
-  using (true);
+  to authenticated
+  using (auth.uid() = id);
 
 drop policy if exists "own profile is writable" on public.profiles;
 create policy "own profile is writable"

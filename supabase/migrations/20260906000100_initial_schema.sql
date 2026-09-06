@@ -99,7 +99,7 @@ create table if not exists public.profiles (
 
 create table if not exists public.saved_sparks (
   user_id   uuid        not null references public.profiles (id) on delete cascade,
-  spark_id  text        not null references public.sparks (id) on delete cascade,
+  spark_id  text        not null references public.sparks (id) on delete restrict,
   book_id   text        not null references public.books (id) on delete cascade,
   note      text        check (char_length(note) <= 500),
   saved_at  timestamptz not null default now(),
@@ -110,7 +110,7 @@ create index if not exists saved_sparks_user_idx on public.saved_sparks (user_id
 
 create table if not exists public.spark_views (
   user_id   uuid        not null references public.profiles (id) on delete cascade,
-  spark_id  text        not null references public.sparks (id) on delete cascade,
+  spark_id  text        not null references public.sparks (id) on delete restrict,
   viewed_at timestamptz not null default now(),
   primary key (user_id, spark_id)
 );
@@ -122,7 +122,8 @@ create index if not exists spark_views_user_idx on public.spark_views (user_id, 
 -- ---------------------------------------------------------------------------
 
 -- Derives a unique handle from the display name or email, appending digits on collision so
--- sign-up never fails on a name someone else already took.
+-- sign-up never fails on a name someone else already took. Uses advisory locks to prevent
+-- simultaneous sign-up race conditions.
 create or replace function public.unique_handle(seed text)
 returns text
 language plpgsql
@@ -133,18 +134,28 @@ declare
   base      text;
   candidate text;
   n         integer := 0;
+  lock_id   integer;
 begin
   base := regexp_replace(lower(coalesce(seed, '')), '[^a-z0-9]', '', 'g');
   if char_length(base) < 3 then
     base := 'reader';
   end if;
   base := left(base, 14);
-  candidate := base;
-  while exists (select 1 from public.profiles p where p.handle = candidate) loop
-    n := n + 1;
-    candidate := left(base, 14) || n::text;
-  end loop;
-  return candidate;
+
+  -- Use an advisory lock to serialize concurrent handle generation attempts
+  lock_id := ('x' || md5(base))::bit(32)::integer;
+  perform pg_advisory_lock(lock_id);
+
+  begin
+    candidate := base;
+    while exists (select 1 from public.profiles p where p.handle = candidate) loop
+      n := n + 1;
+      candidate := left(base, 14) || n::text;
+    end loop;
+    return candidate;
+  ensure
+    perform pg_advisory_unlock(lock_id);
+  end;
 end;
 $$;
 
