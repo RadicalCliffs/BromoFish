@@ -810,3 +810,407 @@
       "notes": "Composed around 523 to 524 CE during imprisonment at Pavia; the year is an estimate, and his execution is usually dated 524 or 525. Authorship is not disputed, but his guilt or innocence on the treason charge cannot now be established, and the book's near-total silence about Christianity remains an open scholarly question. All prose here is original."
     }
   },
+  {
+    "id": "justice",
+    "title": "Justice",
+    "subtitle": "What's the Right Thing to Do?",
+    "author": "Michael J. Sandel",
+    "year": 2009,
+    "category": "philosophy",
+    "subcategory": "political-philosophy",
+    "tags": ["justice", "ethics", "politics", "markets", "moral-reasoning"],
+    "difficulty": "easy",
+    "read_time_min": 10,
+    "why_it_matters": "It turned a lecture course into a public argument watched by millions, and it is the clearest available map of the three families of answer that every question about justice falls into.",
+    "crux": {
+      "headline": "Every argument about justice is one of three arguments",
+      "body": "Ask whether something is just and you can answer in only three ways: by what it maximises, by what it respects, or by what it honours. Welfare, freedom, virtue. Most public disputes are not disagreements about facts but people reasoning inside different families without noticing. The further claim is that the third family, the one asking what a practice is actually for, cannot be avoided however much liberal politics would prefer to."
+    },
+    "sparks": [
+      {
+        "id": "justice-s01",
+        "hook": "There are three ways to answer any question about justice, and you use all of them.",
+        "insight": "When you say an arrangement is unjust you are appealing to one of three things. Either it fails to maximise welfare, so the sums come out wrong. Or it violates something owed to people regardless of the sums, usually their freedom or their standing as choosers. Or it dishonours what the practice is actually for, handing the reward to the wrong kind of excellence. Most people switch families mid-argument without noticing, which is a large part of why so many disputes feel unresolvable.",
+        "why": "Naming the family does not settle the dispute, but it locates it. Two people arguing from different families are not yet contradicting each other, and cannot begin to until they see what they are doing.",
+        "apply": "Take your last political argument and identify which of the three you were using and which the other person was. Then restate your case inside their family.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Welfare", "body": "Judge by consequences. The just arrangement is the one producing the most good overall, and the arithmetic decides. Efficient, and prone to sacrificing individuals to totals." },
+          { "step": 2, "title": "Freedom", "body": "Judge by what is owed to people as choosers. Some things may not be done to a person whatever the sums say. Protective, and prone to blessing outcomes that arose from unequal starts." },
+          { "step": 3, "title": "Virtue", "body": "Judge by what the practice is for and what it should honour. Explains disputes the other two cannot, and prone to letting a majority impose its own account of purpose." }
+        ],
+        "tags": ["welfare", "freedom", "virtue"]
+      },
+      {
+        "id": "justice-s02",
+        "hook": "The trolley problem is not about trolleys. It is a test of what you hold.",
+        "insight": "Divert a runaway tram so it kills one person instead of five and most people say yes. Push a large man off a bridge to stop the same tram, with identical arithmetic, and most people say no. The numbers have not changed, so something other than the numbers is deciding. Usually it is the thought that using a person as a physical means differs from harming him as a side effect. The value of the puzzle is not the answer. It is that it forces your principle into the open.",
+        "why": "Answers to hypothetical dilemmas map poorly onto real conduct, and critics argue these cases test intuitions about bizarre scenarios rather than moral competence. As a device for surfacing your own principle it still works.",
+        "apply": "Find a real decision where you refuse the option with the better arithmetic. Write down in one sentence what the refusal is protecting.",
+        "format": "single",
+        "tags": ["trolley-problem", "intuitions", "consequences"]
+      },
+      {
+        "id": "justice-s03",
+        "hook": "Price gouging after a hurricane: three arguments, three different moral worlds.",
+        "insight": "When shops charge four times the usual price for generators after a storm, one argument says leave it alone, because high prices summon supply and move generators toward the people who need them. A second says the transaction is not really free, since someone choosing between an inflated price and no clean water is not choosing. A third says the practice rewards greed at the moment a community most needs solidarity, and that what a society permits teaches people what it values.",
+        "why": "The example works because the empirical question about supply does not settle the moral one. Even if high prices really do bring generators faster, the second and third objections are untouched by that fact.",
+        "apply": "Take a market you find distasteful and separate the three complaints: it is inefficient, it is coerced, or it is degrading. Then argue only the one you actually believe.",
+        "format": "single",
+        "tags": ["markets", "coercion", "solidarity"]
+      },
+      {
+        "id": "justice-s04",
+        "hook": "Doing the right thing for the wrong reason is not, on Kant's account, moral.",
+        "insight": "A shopkeeper who gives correct change because cheating would damage his reputation has done what he ought and earns no credit for it, since his honesty is contingent on the market. Kant's claim is that moral worth lies in acting from duty, because the act is right, rather than from inclination or interest. It is a demanding standard, and it is the foundation of the idea that people must be treated as ends in themselves rather than as instruments for someone else's purposes.",
+        "why": "The strongest objection is that Kant's rigour produces monstrous results in edge cases, most famously his insistence that you must not lie even to a murderer asking where your friend is hiding.",
+        "apply": "Check one thing you do that is honest and also convenient. Ask what you would do if the incentives reversed, then decide whether to build a guard against that.",
+        "format": "single",
+        "tags": ["kant", "duty", "motives"]
+      },
+      {
+        "id": "justice-s05",
+        "hook": "Putting a price on something can change what the thing is.",
+        "insight": "Paying a soldier, hiring a surrogate mother, buying a kidney, paying children to read. In each case markets are defended as voluntary exchanges that leave both parties better off. The counter-argument is that some goods are partly constituted by the attitude people take toward them, so introducing a price does not merely allocate them but degrades them. Military service performed for wages is a different thing from military service performed as a civic duty, even when the same tasks get done.",
+        "why": "This is the case Sandel developed at length in a later book. It rests on a claim about meaning that market-first economists reject, since on their account the value of a good just is what people will pay for it.",
+        "apply": "Name something in your life you would refuse to sell at any price. Then work out what exactly would be destroyed by the sale, beyond the object itself.",
+        "format": "single",
+        "tags": ["markets", "commodification", "meaning"]
+      },
+      {
+        "id": "justice-s06",
+        "hook": "To divide something fairly, ask first what the thing is for.",
+        "insight": "Aristotle's method starts from purpose. Who should get the best flutes? Not the richest or the best connected, but the best players, because that is what flutes are for and what music honours. The approach explains disputes that welfare and freedom cannot touch. Arguments about who counts as a golfer, what a university exists to do, or which relationships marriage should recognise are arguments about purpose and honour, and they cannot be settled while both sides pretend to be arguing about efficiency.",
+        "why": "The obvious risk is that reasoning from purpose lets a majority impose its own account of what a practice is for. That danger is precisely why liberal theory tried to build a politics without teleology.",
+        "apply": "Take a contested allocation at work, such as who gets promoted. Write one sentence on what the role is genuinely for, then check your criteria against it.",
+        "format": "single",
+        "tags": ["aristotle", "purpose", "honour"]
+      },
+      {
+        "id": "justice-s07",
+        "hook": "Do you owe your countrymen more than strangers, and if so, on what grounds?",
+        "insight": "Liberal theory grounds obligation in consent or in universal duty. Neither explains the loyalties most people actually feel. You never consented to be born into your family, your city or your country, and yet you feel obligations toward them that you do not feel toward equally deserving strangers. Either those feelings are prejudice to be trained out, or the story about consent is incomplete. Sandel takes the second view, arguing people are partly constituted by attachments they never chose.",
+        "why": "The obvious danger is that unchosen loyalties also underwrite nationalism and exclusion. His reply is that pretending we have no such loyalties simply leaves the field to whoever is least embarrassed to appeal to them.",
+        "apply": "List three obligations you feel that you never agreed to. For each, decide whether it is a real claim on you or an inherited habit you are content to keep.",
+        "format": "single",
+        "tags": ["obligation", "community", "loyalty"]
+      },
+      {
+        "id": "justice-s08",
+        "hook": "The argument you pick for affirmative action reveals what you think a university is.",
+        "insight": "There are three defences and they are not compatible. The corrective argument says admissions tests measure a distorted playing field, so adjustment restores accuracy. The diversity argument says a mixed student body educates everyone better, which makes the applicant partly a means to other students' education. The remedial argument says universities should help repair a historical injustice. Each survives different objections, and each gives a different answer when the underlying facts change.",
+        "why": "The point being made is that you cannot defend the policy without saying what admission is for, which drags the argument back to purpose and honour whether the participants wanted it there or not.",
+        "apply": "Pick a selection process you run or take part in. Write the sentence stating what it exists to reward, then check whether its criteria actually track that.",
+        "format": "single",
+        "tags": ["admissions", "fairness", "purpose"]
+      },
+      {
+        "id": "justice-s09",
+        "hook": "Leaving your moral convictions at the door is itself a moral position.",
+        "insight": "Liberal politics asks citizens to argue from reasons everyone can accept and to set their deepest commitments aside. Sandel argues this is neither possible nor desirable. Not possible, because questions about abortion, assisted dying and marriage cannot be settled without taking a position on the disputed matter itself. Not desirable, because a public life emptied of moral argument does not stay empty. It fills with narrow appeals and with whoever is least embarrassed to talk about meaning.",
+        "why": "Rawlsians answer that public reason is not silence about morality but a discipline about which reasons may be used to coerce others. The disagreement is genuine and remains one of the live fault lines in political philosophy.",
+        "apply": "Argue your next political position out loud in moral terms rather than in terms of efficiency or growth. Notice whether the conversation gets better or worse.",
+        "format": "single",
+        "tags": ["neutrality", "public-reason", "politics"]
+      },
+      {
+        "id": "justice-s10",
+        "hook": "You find out what you actually believe by having to defend it to someone.",
+        "insight": "Moral reasoning is presented here as a public activity rather than a private one. You start from a judgement about a particular case, meet a principle that conflicts with it, and adjust one or the other. You do this best in company, because other people supply the cases you would never have thought of and the objections you would never have raised against yourself. The teaching method is the argument: the discipline of defending a view in front of people who disagree.",
+        "why": "This is Rawls's method of mutual adjustment turned outward into a practice. It also fits what is known about reasoning, since people are markedly better at finding flaws in others' arguments than in their own.",
+        "apply": "Take a view you hold strongly and argue the opposite side to a friend for ten minutes without irony. Note the strongest thing you were forced to say.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Start from a verdict", "body": "Take a concrete case where you are sure. Abstract principles are easy to endorse and reveal nothing; a specific verdict is something you can be held to." },
+          { "step": 2, "title": "Find the principle", "body": "Ask what general rule would produce that verdict. Say it in one sentence, and make it general enough to cover cases you have not thought about yet." },
+          { "step": 3, "title": "Test it on a new case", "body": "Push the principle somewhere unfamiliar until it produces a verdict you cannot accept. This is the step people skip, and it is the only one that teaches anything." },
+          { "step": 4, "title": "Revise in public", "body": "Change the principle or give up the verdict, out loud, in front of someone who disagrees. Doing it privately lets you quietly move the goalposts instead." }
+        ],
+        "tags": ["moral-reasoning", "argument", "dialogue"]
+      }
+    ],
+    "actions": [
+      "Work through one case a week and argue the side you dislike until you can state it in a form its actual holders would accept as fair.",
+      "Write down what you think three institutions in your life are for: your job, your school, your city. Then check whether their rules reward that.",
+      "Take a market transaction you find distasteful and separate the efficiency, coercion and degradation objections. Defend only the one you actually hold.",
+      "Read Rawls and Nozick directly afterwards. Sandel summarises both fairly, and the primary texts argue harder than any summary can."
+    ],
+    "if_you_liked": ["a-theory-of-justice", "the-prince", "reasons-and-persons"],
+    "not_for_you_if": "You already know the canon. It is an introduction built from a lecture course, and specialists will find its treatment of each thinker brisk.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2009, based on Sandel's long-running Harvard undergraduate course of the same name. All prose here is original."
+    }
+  },
+  {
+    "id": "reasons-and-persons",
+    "title": "Reasons and Persons",
+    "subtitle": null,
+    "author": "Derek Parfit",
+    "year": 1984,
+    "category": "philosophy",
+    "subcategory": "moral-philosophy",
+    "tags": ["personal-identity", "ethics", "future-generations", "death", "rationality"],
+    "difficulty": "challenging",
+    "read_time_min": 14,
+    "why_it_matters": "It created population ethics as a field and forced philosophers to take seriously that identity may not be what matters. Longtermism and the modern argument about future generations both trace back to it.",
+    "crux": {
+      "headline": "Identity is not what matters in survival",
+      "body": "You are not a further fact hiding underneath your experiences. You are a series of mental states held together by memory, intention and character, and those connections come in degrees. Once you see that, the question of whether some future person is you stops being deep and starts being verbal. What matters is the connection itself, which can be strong or weak, and which could in principle hold between you and more than one person at once."
+    },
+    "sparks": [
+      {
+        "id": "reasons-and-persons-s01",
+        "hook": "Whether a future person will be you may not be a real question at all.",
+        "insight": "Ask whether the person waking up tomorrow is you and it feels as though there must be a definite answer, hidden but real. Parfit denies it. Once you have described every physical and psychological fact, including how much that person remembers, intends and resembles you, there is nothing further left to discover. Cases where the description is complete and the answer still feels unclear are not cases of ignorance. They are cases where the question has run out of content.",
+        "why": "The argument is reductionist rather than sceptical. Persons exist in the way that nations and clubs exist, but there is no extra entity whose presence or absence settles the borderline cases.",
+        "apply": "Describe yourself at twelve and ask what specifically connects that person to you. List the connections one by one rather than simply asserting the identity.",
+        "format": "single",
+        "tags": ["personal-identity", "reductionism", "self"]
+      },
+      {
+        "id": "reasons-and-persons-s02",
+        "hook": "A machine copies you on Mars and destroys the original. Did you travel?",
+        "insight": "The scanner records every cell, transmits the information, builds a person on Mars with your memories and intentions, and destroys the body on Earth. Nothing about that person's inner life differs from yours. Now vary the case. Suppose the Earth body survives, damaged, for a few days. There are now two claimants and no fact that makes one of them you. The conclusion drawn is that ordinary survival is only ever the same relation holding less dramatically, and identity was never carrying the weight.",
+        "why": "Thought experiments are contested evidence. Critics argue that intuitions about impossible cases are unreliable and heavily shaped by framing. The reply is that these cases only make explicit a structure ordinary survival already has.",
+        "apply": "Ask what you actually want to survive about yourself: the body, the memories, the projects, or the relationships. Rank them and notice what falls off the list.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "The clean copy", "body": "Scanned, transmitted, rebuilt on Mars, original destroyed. The person there continues your projects and remembers your childhood. Most people are uneasy but cannot say what is missing." },
+          { "step": 2, "title": "The branch line", "body": "Now the Earth body survives for a week. Two people have equal claim to your memories. Whatever you say about one, symmetry forces you to say about the other." },
+          { "step": 3, "title": "The gradual case", "body": "Replace neurons one at a time over decades, as your body already does with its atoms. No moment is the moment. Identity does not have a sharp edge to defend." },
+          { "step": 4, "title": "Drop the question", "body": "If no fact settles it, stop asking whether it is you and ask how strong the psychological connection is. That question always has an answer, and it is the one you cared about." }
+        ],
+        "tags": ["teletransporter", "thought-experiment", "survival"]
+      },
+      {
+        "id": "reasons-and-persons-s03",
+        "hook": "You are connected to your teenage self by degrees, not by a switch.",
+        "insight": "Psychological connectedness weakens over time. A great deal of what you thought and wanted at fifteen has no direct link to what you think and want now, and in a few decades much of your present self will be equally remote. If what matters comes in degrees, then so do the things built on it. Responsibility for a distant act can be weaker without vanishing. A promise made by someone very unlike you retains some claim on you, but perhaps not the whole of it.",
+        "why": "This is the most practically unsettling implication and Parfit accepts it explicitly. Legal and moral systems assume a binary self, and the degrees view puts real strain on punishment, contracts and long-term commitment alike.",
+        "apply": "Recall something you did over a decade ago that you still flinch at. Ask honestly how much of that person's psychology is still the thing running you now.",
+        "format": "single",
+        "tags": ["responsibility", "memory", "change"]
+      },
+      {
+        "id": "reasons-and-persons-s04",
+        "hook": "He said the view made his own death matter less, and he meant it literally.",
+        "insight": "If there is no deep further fact about your identity, then what ends at death is a particular chain of psychological connections. That is a real loss and Parfit does not pretend otherwise. But the terror usually attached to it draws on the picture of a self being extinguished, and if there is no such self then the terror is aimed at something that was never there. He reported that the argument changed how the prospect felt to him, not only what he thought about it.",
+        "why": "Whether an argument can genuinely alter a fear is doubtful, and readers differ sharply about this passage. It is at least an unusual case of a philosopher reporting a psychological effect from his own conclusion.",
+        "apply": "Write down what you specifically fear about death: the ending, the missing out, the pain, or the disappearance of a self. Then treat each one separately.",
+        "format": "single",
+        "tags": ["death", "fear", "consolation"]
+      },
+      {
+        "id": "reasons-and-persons-s05",
+        "hook": "Pure self-interest turns out to be unstable from both directions at once.",
+        "insight": "The self-interest theory says you should always do what is best for you across your whole life. Parfit shows it is a hybrid under attack from two sides. Against morality, it is impartial about times but partial about persons, which looks arbitrary. Against theories of present aims, it demands you sacrifice today for a future self whose connection to you is only a matter of degree, which is also arbitrary. Push for consistency in either direction and you leave the theory rather than repair it.",
+        "why": "The argument is structural rather than moralising. It does not say selfishness is wrong. It says the position cannot be held steady once you ask why it treats persons and times so differently.",
+        "apply": "Find a sacrifice you are making purely for your own future benefit. Ask what makes that future person's claim on you stronger than a present stranger's.",
+        "format": "single",
+        "tags": ["rationality", "self-interest", "prudence"]
+      },
+      {
+        "id": "reasons-and-persons-s06",
+        "hook": "Why is next week's pain less alarming than tonight's, if it hurts the same?",
+        "insight": "People discount the future steeply and treat past suffering as though it no longer counts. Parfit examines waking in hospital unsure whether you are the patient whose long operation happened yesterday or the one facing a short operation today, and noticing that you would rather the greater agony were behind you. The preference is near-universal and very hard to justify. Bias toward the near is not obviously rational, and much of what we call prudence is that bias getting its way.",
+        "why": "Behavioural work finds discounting steeper and less consistent than any defensible rate, and the resulting preference reversals replicate well. Parfit's distinctive contribution is asking whether the bias can be justified at all.",
+        "apply": "Take a decision where you are trading future pain for present relief. Redo it as if both moments were equally present, and see which way it comes out.",
+        "format": "single",
+        "tags": ["time", "discounting", "prudence"]
+      },
+      {
+        "id": "reasons-and-persons-s07",
+        "hook": "You cannot harm someone by causing them to exist with a life worth living.",
+        "insight": "Suppose a policy depletes resources and leaves people two centuries from now poorer than they might have been. It looks obviously wrong. But a different policy would have changed who met whom and when children were conceived, and therefore which people exist at all. The people affected by depletion would not have existed under the alternative, and their lives are still worth living. So nobody is worse off than they would otherwise have been, and the ordinary account of harm cannot say what went wrong.",
+        "why": "This is the non-identity problem and it remains genuinely unsolved. It bites hardest on climate policy, genetic selection and any decision whose reach is long enough to change who gets born at all.",
+        "apply": "When you argue that a long-range policy harms future people, say whether you mean specific individuals or a worse life for whoever exists. They are different claims.",
+        "format": "single",
+        "tags": ["non-identity", "future-generations", "harm"]
+      },
+      {
+        "id": "reasons-and-persons-s08",
+        "hook": "Maximise total happiness and you end up choosing lives barely worth living.",
+        "insight": "Start with ten billion people whose lives are wonderful. Now compare a far larger population whose lives are only just above the point of being worth living. If value is the total quantity of wellbeing, the second world scores higher, because sheer numbers outweigh the drop in quality. Parfit found this repugnant, and he could not find a principle that avoids it without generating something equally strange somewhere else. The problem has resisted everyone since.",
+        "why": "Impossibility results since have shown that every escape route abandons some intuition most people hold. Many population ethicists now argue the conclusion should not be treated as decisive, precisely because no consistent theory avoids it.",
+        "apply": "When an argument works from a total rather than an average, check what it implies at very large scale. Aggregates behave strangely at the limits.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Start high", "body": "A population of ten billion, every life excellent. This is the world almost everyone would pick if asked to describe a good future for the species." },
+          { "step": 2, "title": "Add people, lose a little", "body": "A larger population with slightly less good lives has more total wellbeing. Each step looks defensible on its own, which is what makes the sequence dangerous." },
+          { "step": 3, "title": "Iterate to the bottom", "body": "Repeat until you reach an enormous population of lives barely worth living. On the totalling principle this world is better than the one you started from." },
+          { "step": 4, "title": "Try to get off", "body": "Averaging blocks it and then endorses killing off the less happy. Every known exit gives up something you hold. That is the actual result." }
+        ],
+        "tags": ["population-ethics", "utilitarianism", "aggregation"]
+      },
+      {
+        "id": "reasons-and-persons-s09",
+        "hook": "Some moral theories fail precisely when everybody follows them.",
+        "insight": "A theory is self-defeating when people acting on it produce less of what the theory says matters than they would by acting on something else. Pure self-interest can work this way: a group each maximising individual gain can end up worse off than a group who each restrained themselves. Consequentialism can too, when acts are individually negligible and collectively enormous. The response is not to abandon such theories but to notice that a theory can rationally instruct you to stop consulting it.",
+        "why": "The analysis anticipated much later work on collective action, and it explains why individual acts that plainly change nothing on their own can still be a fair target of moral criticism.",
+        "apply": "Identify a problem where your own contribution is genuinely negligible. Decide whether you act on the aggregate anyway, and be honest about the real reason.",
+        "format": "single",
+        "tags": ["collective-action", "consequentialism", "self-defeat"]
+      },
+      {
+        "id": "reasons-and-persons-s10",
+        "hook": "He spent a whole book looking for a theory and admitted he had not found it.",
+        "insight": "The book ends with an open problem rather than a system. Parfit wanted a theory of how to weigh the interests of people whose existence depends on our choices, one that avoids the repugnant conclusion, handles non-identity, and produces no absurdities elsewhere. He named it Theory X, set out the conditions any candidate must satisfy, and said plainly that he had not found it. The admission is not modesty. It marks out a research problem a whole field has worked on since.",
+        "why": "Ending on an unsolved problem gave the field something to do, which is much of why population ethics exists. Decades of work have sharpened the constraints without producing the theory.",
+        "apply": "When you cannot solve a problem, write down precisely what a solution would have to satisfy. That statement is often worth more than a forced answer.",
+        "format": "single",
+        "tags": ["open-problems", "population-ethics", "honesty"]
+      }
+    ],
+    "actions": [
+      "Work through the teletransporter case slowly and mark the variation at which your intuition flips. That point is where your real theory of the self is hiding.",
+      "Apply the non-identity problem to one long-range policy you support, then rewrite your argument so it does not depend on identifiable future victims.",
+      "Read a good critic of reductionism, such as Bernard Williams on personal identity, because the case reads very differently once it has been resisted well.",
+      "List the commitments you hold toward your own future self and check whether you would hold them equally toward a stranger with identical needs."
+    ],
+    "if_you_liked": ["a-theory-of-justice", "justice", "the-denial-of-death"],
+    "not_for_you_if": "You want conclusions. It is long and technical, built from numbered arguments and strange cases, and it ends by naming a problem the author could not solve.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 1984 by Oxford University Press, with corrected reprints in following years. All prose here is original."
+    }
+  },
+  {
+    "id": "the-problems-of-philosophy",
+    "title": "The Problems of Philosophy",
+    "subtitle": null,
+    "author": "Bertrand Russell",
+    "year": 1912,
+    "category": "philosophy",
+    "subcategory": "epistemology",
+    "tags": ["knowledge", "perception", "scepticism", "logic", "reality"],
+    "difficulty": "moderate",
+    "read_time_min": 10,
+    "why_it_matters": "It is the shortest honest introduction to philosophy in English, and the only famous one that shows you the difficulty inside ordinary things instead of summarising what other philosophers believed.",
+    "crux": {
+      "headline": "The point of philosophy is the questions, not the answers",
+      "body": "Russell takes a table and shows that almost nothing you believe about it is straightforwardly known. From there he works through matter, induction, universals and truth, conceding uncertainty at every step. His conclusion is that philosophy's value lies not in settled answers, which mostly graduate into sciences and leave, but in keeping large questions open so that habit and local prejudice do not quietly close the mind."
+    },
+    "sparks": [
+      {
+        "id": "the-problems-of-philosophy-s01",
+        "hook": "You have never seen a table. You have seen how one looks from where you sit.",
+        "insight": "A table seems the plainest object in the world. But its colour changes with the light and with where you stand, the shape you see is not the shape you believe it has, and pressing it gives you a sensation rather than a hardness. What you actually have is appearance. The table itself, if there is one, is inferred. Russell begins here not to be clever but because the difficulty is genuine: the gap between what is given and what is believed opens under the most ordinary object in the room.",
+        "why": "His sense-data framework was later abandoned, including by him. The problem it dramatises did not go away, and any account of perception still has to say something about that gap.",
+        "apply": "Describe an object in front of you using only what you are directly given: colour patches, sounds, pressure. Note how much of your usual description was inference.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Report the colour", "body": "Not the colour you know it is. The colour of this patch, now, under this light, from this angle. It changes as you move and none of the versions is the real one." },
+          { "step": 2, "title": "Report the shape", "body": "What reaches your eye is almost never a rectangle. You see a distorted figure and correct it automatically, then forget that any correcting took place." },
+          { "step": 3, "title": "Report the touch", "body": "Pressing gives you a sensation whose intensity varies with how hard you press. Hardness is what you conclude, not what you feel." },
+          { "step": 4, "title": "Notice the leap", "body": "From those fragments you posited a single persisting object that nobody perceives directly. The leap is reasonable and it is still a leap." }
+        ],
+        "tags": ["perception", "appearance", "sense-data"]
+      },
+      {
+        "id": "the-problems-of-philosophy-s02",
+        "hook": "The existence of the outside world is a very good theory, not an observation.",
+        "insight": "You cannot step outside your own experience to check that it is caused by things. So belief in an external world is a hypothesis, and Russell defends it as by far the best one: it explains why the cat appears in a new place having apparently grown hungry in between, whereas the view that only appearances exist has to treat that as an unexplained jump. He is honest that this is not proof. It is that one explanation is enormously simpler than every alternative.",
+        "why": "Simplicity is a real ground for belief and not a decisive one. His willingness to say so rather than manufacture certainty is the intellectual habit the book is actually teaching.",
+        "apply": "Take a belief you call obvious and try to state the evidence for it without circularity. Then decide whether it is knowledge or a very good hypothesis.",
+        "format": "single",
+        "tags": ["realism", "hypothesis", "simplicity"]
+      },
+      {
+        "id": "the-problems-of-philosophy-s03",
+        "hook": "Idealism confuses the act of knowing a thing with the thing that is known.",
+        "insight": "Berkeley argued that we can only ever be aware of ideas, so whatever exists must be mental. Russell's diagnosis is that the argument trades on an ambiguity. When you have something in mind, the having is mental, but that does not make the thing had mental as well. The colour you see and your seeing of it are two different items, and running them together makes an astonishing conclusion look forced when it has only been packed into the vocabulary beforehand.",
+        "why": "Locating an error in an ambiguity rather than denying a premise became a signature move of analytic philosophy. Whether it fully answers Berkeley is still argued over.",
+        "apply": "When an argument reaches a startling conclusion, check whether one key word is doing two jobs. Rewrite the argument twice, once for each meaning.",
+        "format": "single",
+        "tags": ["idealism", "ambiguity", "argument"]
+      },
+      {
+        "id": "the-problems-of-philosophy-s04",
+        "hook": "The chicken fed daily by the farmer had excellent evidence, right up to the end.",
+        "insight": "Every plan you make assumes the future will resemble the past. That assumption cannot be defended by experience, because the only evidence available is that it has worked before, which is exactly what is in question. Russell's illustration is a bird fed by a man every morning, forming a well-supported expectation about mornings and being wrong once, fatally. Induction is not a proof. It is a habit we cannot do without and cannot justify from underneath.",
+        "why": "Hume raised the problem and it has never been dissolved. Attempts to justify induction either use induction somewhere in the argument or weaken it into a claim about coherence rather than truth.",
+        "apply": "Take a forecast you rely on and ask what has changed in the system since the data was generated. Regularity is a feature of a period, not a law of nature.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Name the regularity", "body": "Something has happened reliably: a market has behaved, a person has been dependable, a machine has held. Write down how long the run actually is." },
+          { "step": 2, "title": "Ask why it held", "body": "A regularity with a known mechanism is far stronger than one supported only by repetition. If you cannot state the mechanism, say so out loud." },
+          { "step": 3, "title": "Check what has changed", "body": "The chicken's evidence was perfect and the farmer's plans were the relevant fact, invisible from inside the coop. Look for the fact outside your data." },
+          { "step": 4, "title": "Price the break", "body": "You will still act on induction, because there is nothing else. Decide in advance what it costs you if the run ends tomorrow, and size the bet accordingly." }
+        ],
+        "tags": ["induction", "prediction", "hume"]
+      },
+      {
+        "id": "the-problems-of-philosophy-s05",
+        "hook": "Almost everything you know, you know only by description.",
+        "insight": "Russell separates two ways of knowing. You are directly acquainted with your own sensations and perhaps a few other things. Everything else you know as whatever satisfies a description: the man who wrote this book, the centre of the earth, your own grandmother. Second-hand knowledge is not defective, and it is how nearly all of science and history reaches you. But the distinction matters, because a description can be satisfied by something quite different from what you had pictured.",
+        "why": "The acquaintance and description distinction survives in modified form in philosophy of language, and it explains how sentences about things nobody has ever met can still be true or false.",
+        "apply": "Pick a strong opinion about a person or place you have never encountered directly. Write out the description you are relying on and name who supplied it.",
+        "format": "single",
+        "tags": ["acquaintance", "description", "testimony"]
+      },
+      {
+        "id": "the-problems-of-philosophy-s06",
+        "hook": "A belief is true because of something that does not care whether you believe it.",
+        "insight": "Russell's account is that truth is a correspondence between what you believe and how things stand. Beliefs are the kind of thing that can be false; facts are not. That has a consequence he accepts cheerfully. Whether your belief is true does not depend on anyone's agreement, on the evidence available, or on how useful it is. We need minds for there to be beliefs at all, but the thing that makes a belief true sits out in the world and is indifferent to us.",
+        "why": "Correspondence remains the common-sense default and is contested by pragmatist and deflationary accounts. His version also struggles to say precisely what a fact is, a problem he returned to for decades.",
+        "apply": "Separate two questions about a claim you hold: is it true, and can I currently show that it is. Notice how often you have been answering the second one.",
+        "format": "single",
+        "tags": ["truth", "correspondence", "belief"]
+      },
+      {
+        "id": "the-problems-of-philosophy-s07",
+        "hook": "Where does the relation north of live, if not in any particular thing?",
+        "insight": "Two cities stand in a relation. The relation is not in Edinburgh, not in London, and not in your mind, since it held before anyone thought about it. Russell concludes that relations and other universals are real without being physical, which strict empiricism has trouble accommodating. Whiteness, or being taller than, is not something you can point at, and yet statements about them are true and false in the ordinary way and appear in every science.",
+        "why": "This is unapologetic Platonism and many philosophers reject it, preferring to treat universals as useful ways of speaking. The problem he raises is nonetheless hard to make disappear.",
+        "apply": "Try to state what two similar things have in common without naming a property. Notice how quickly you find yourself committed to something abstract.",
+        "format": "single",
+        "tags": ["universals", "abstraction", "metaphysics"]
+      },
+      {
+        "id": "the-problems-of-philosophy-s08",
+        "hook": "Self-evidence comes in degrees, and certainty is not one of them.",
+        "insight": "Some things seem to force themselves on you: that you are in pain, that two and two make four, that this looks red. Russell notes that the feeling of obviousness varies in strength and is not a guarantee of anything. Mathematicians have found obvious principles that turned out to be inconsistent, and memory feels self-evident while being demonstrably unreliable. The sensible policy is to grade beliefs by how strongly they present themselves and how well they cohere, and to treat none as immune.",
+        "why": "He had personal reason for caution. The paradox he found in set theory destroyed a system that had looked obviously correct to its author. Obviousness is a psychological report, not evidence.",
+        "apply": "Grade three of your convictions from strong to weak by how obvious each one feels, then check whether the strongest is actually the best supported.",
+        "format": "single",
+        "tags": ["certainty", "intuition", "error"]
+      },
+      {
+        "id": "the-problems-of-philosophy-s09",
+        "hook": "Philosophy's value lies mostly in the size of the questions it keeps open.",
+        "insight": "Russell concedes that philosophy answers very few of its questions definitively, then turns this into its defence. Someone who has never questioned anything moves through life inside the assumptions of their era and their street, and finds them obvious because nothing has ever pressed against them. Philosophy does the pressing. It enlarges what a person can consider possible, and that enlargement, rather than any settled doctrine, is what the subject actually has to offer.",
+        "why": "It is an honest sales pitch rather than a triumphant one, and it has held up better than claims that philosophy delivers wisdom. The cost is that the benefit is hard to measure, which leaves the subject perpetually vulnerable.",
+        "apply": "Spend twenty minutes taking seriously a position you find obviously wrong, arguing it as well as you can. Do not resolve it afterwards.",
+        "format": "single",
+        "tags": ["value", "open-mindedness", "questions"]
+      },
+      {
+        "id": "the-problems-of-philosophy-s10",
+        "hook": "Every science began as philosophy and left as soon as it started working.",
+        "insight": "Physics, psychology, logic and linguistics were once philosophical questions. When a method emerges that can settle a question, the question moves out and becomes a science, and philosophy keeps whatever remains unsettled. That is why the subject looks permanently unsuccessful: it is defined by its residue. Russell treats this as the description of a working process rather than a failure, and it explains why philosophy's problems always seem to be the ones nobody can crack.",
+        "why": "The pattern is historically accurate, though the boundary moves in both directions, and some questions, such as the nature of consciousness, have crossed it more than once.",
+        "apply": "Take a question you keep arguing about and ask whether it needs a measurement, a definition, or a decision. Only the first can be settled by evidence.",
+        "format": "single",
+        "tags": ["science", "history-of-ideas", "method"]
+      }
+    ],
+    "actions": [
+      "Read one chapter a night for two weeks and afterwards write a paragraph stating the problem in your own words, without any of the technical vocabulary.",
+      "Do the table exercise on an ordinary object and record how much of your description turned out to be inference rather than what you were given.",
+      "Write down what would count as evidence against three beliefs you rely on daily, then check whether any of them is supported only by induction.",
+      "Follow it with Hume's Enquiry Concerning Human Understanding, where the problem of induction is set out first and hardest."
+    ],
+    "if_you_liked": ["essays", "language-truth-and-logic", "a-brief-history-of-thought"],
+    "not_for_you_if": "You want a survey of the great philosophers or practical guidance. It works on a handful of technical problems and its sense-data framework is now historical.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 1912 in the Home University Library series. Russell later abandoned the sense-data account of perception the early chapters rely on. All prose here is original."
+    }
+  },
