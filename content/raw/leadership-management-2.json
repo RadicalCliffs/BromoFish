@@ -1281,5 +1281,659 @@
       "confidence": "high",
       "notes": "First published 2004. Built on comparative case studies of sports, business and education, which is selection on the outcome; flagged in sparks one and ten. All prose original."
     }
+  },
+  {
+    "id": "the-fearless-organization",
+    "title": "The Fearless Organization",
+    "subtitle": "Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth",
+    "author": "Amy C. Edmondson",
+    "year": 2018,
+    "category": "leadership-management",
+    "subcategory": "psychological-safety",
+    "tags": [
+      "psychological-safety",
+      "teams",
+      "learning",
+      "failure",
+      "culture",
+      "speaking-up"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 11,
+    "why_it_matters": "It turned a research concept into something managers can act on, and gave a name to the thing that separates teams where problems surface early from teams where they surface in a lawsuit. The term is now standard management vocabulary.",
+    "crux": {
+      "headline": "Silence is the default, and it is expensive",
+      "body": "In any group, the cost of speaking up lands on you immediately and the benefit lands on the organisation later, so staying quiet is the rational individual choice almost every time. That is why silence is the default and why it takes deliberate work to overturn. Psychological safety is not comfort or niceness. It is the shared belief that saying the awkward thing will not be punished, which is what lets a team learn faster than it fails."
+    },
+    "sparks": [
+      {
+        "id": "the-fearless-organization-s01",
+        "hook": "The better hospital teams reported more errors, not fewer.",
+        "insight": "A study designed to show that strong teams make fewer mistakes found the opposite in the data, and the surprise turned out to be the discovery. The better teams were not making more errors, they were reporting them. In the weaker teams the mistakes still happened and simply went unrecorded, which meant nobody learned anything and the same failure recurred. Measured error rates in an organisation tell you at least as much about how safe it is to report as about how well the work is done.",
+        "why": "This is where the research programme started, and it inverts a common management instinct. A falling incident count can mean improvement or it can mean fear, and the two look identical on a dashboard.",
+        "apply": "Look at your incident or bug reports. If they dropped without a change in process, ask three people whether reporting still feels worth it.",
+        "format": "single",
+        "tags": [
+          "failure",
+          "measurement",
+          "learning"
+        ]
+      },
+      {
+        "id": "the-fearless-organization-s02",
+        "hook": "Psychological safety is not about being nice. Nice teams often fail quietly.",
+        "insight": "The term gets read as comfort, low pressure, everyone getting along. It means almost the opposite: the confidence that you can disagree, admit a mistake, or say the project will not work, without being punished for it. Groups that prize harmony are frequently the least safe in this sense, because the unspoken rule is that raising problems is disloyal. Safety is what makes candour affordable, and candour is uncomfortable by definition.",
+        "why": "The confusion matters because it leads managers to pursue pleasantness, which suppresses exactly the information the concept was meant to surface. Safety is about the response to bad news, not the absence of it.",
+        "apply": "Ask your team when someone last disagreed with you in a meeting. If nobody can name an instance, you do not have safety, you have politeness.",
+        "format": "single",
+        "tags": [
+          "psychological-safety",
+          "candour",
+          "culture"
+        ]
+      },
+      {
+        "id": "the-fearless-organization-s03",
+        "hook": "Safety without high standards produces a very pleasant team that achieves nothing.",
+        "insight": "Two dials run independently: how safe it feels to speak, and how much is expected. Low on both gives you apathy, where people are comfortable and disengaged. High standards with low safety gives you anxiety, where people work hard and hide problems. High safety with low standards gives you a warm team that drifts. Only both together produce a group that can take on hard work and talk honestly about how it is going. Managers usually think they must trade one for the other.",
+        "why": "The trade-off is imaginary, and believing in it is what produces both the fearful high-performing team and the comfortable slow one. The two dials are set by different behaviours.",
+        "apply": "Rate your team from one to five on safety and on standards. Whichever is lower, name one behaviour of yours that is holding it down.",
+        "format": "single",
+        "tags": [
+          "standards",
+          "accountability",
+          "psychological-safety"
+        ]
+      },
+      {
+        "id": "the-fearless-organization-s04",
+        "hook": "Nobody was ever fired for the problem they did not raise.",
+        "insight": "Speaking up has an immediate, personal and visible cost: looking ignorant, negative, or disloyal in front of people who decide your future. Staying silent has a delayed, diffuse and unattributable cost that lands on the organisation. Given that asymmetry, silence is not cowardice, it is arithmetic, and it is why exhortations to be more open change nothing. The only thing that shifts the calculation is repeated evidence that the immediate cost is not actually charged.",
+        "why": "Because the incentives are structural, the fix has to be structural too. One reassuring speech does not alter what a junior person has watched happen to the last three people who objected.",
+        "apply": "Next time someone raises a problem, thank them by name in front of the group before you say anything about the problem itself.",
+        "format": "single",
+        "tags": [
+          "speaking-up",
+          "incentives",
+          "silence"
+        ]
+      },
+      {
+        "id": "the-fearless-organization-s05",
+        "hook": "Most failures are not blameworthy. Punishing them anyway buys you the next one.",
+        "insight": "Organisations punish failure as a category, then wonder why nobody experiments and why bad news arrives late. Sort them instead. Some failures come from ignoring a known process and deserve a real consequence. Some come from complexity, where several small things combined in a way nobody could reasonably foresee. And some are the deliberate cost of trying something new where the answer could not be known in advance. Only the first group is a discipline issue.",
+        "why": "Managers privately estimate that only a small share of failures are genuinely blameworthy, while behaving as though nearly all of them are. That gap is where the fear comes from.",
+        "apply": "At your next post-mortem, classify the failure out loud into one of the three types before anyone discusses what to do about it.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Separate deviation from the rest",
+            "body": "Someone skipped a step in a well-understood process with a known right answer. This is the only category where sanction makes sense, and it is much rarer than it feels."
+          },
+          {
+            "step": 2,
+            "title": "Name complexity honestly",
+            "body": "Several ordinary conditions combined in an unusual way. Nobody was negligent. The fix is in the system, the handovers and the monitoring, not in anyone's attitude."
+          },
+          {
+            "step": 3,
+            "title": "Celebrate the intelligent ones",
+            "body": "A well-designed attempt in territory nobody had mapped, kept small enough to survive, that produced information you could not have bought another way. This is the failure you want more of."
+          },
+          {
+            "step": 4,
+            "title": "Say which one it was",
+            "body": "Announce the classification publicly. People calibrate their willingness to try things from what they see happen to the last person who failed, not from your policy document."
+          }
+        ],
+        "tags": [
+          "failure",
+          "learning",
+          "experimentation"
+        ]
+      },
+      {
+        "id": "the-fearless-organization-s06",
+        "hook": "Framing the work is a leadership act, and most leaders skip it.",
+        "insight": "People decide what kind of situation they are in before they decide how to behave in it. If the work is genuinely uncertain and interdependent, say so, out loud, before it starts. Teams that believe they are executing a known plan treat every problem as somebody's mistake. Teams that know they are in unmapped territory treat the same problem as information. The facts are identical. The framing determines whether the next person mentions what they noticed.",
+        "why": "Framing is cheap and its effect is large, because it changes the default interpretation of every subsequent event. It has to be stated explicitly, since people default to assuming the plan is known.",
+        "apply": "Open your next project by naming the parts nobody has done before and saying you expect to be wrong about some of them.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Set the stage",
+            "body": "Say plainly how uncertain the work is and how much it depends on people flagging things early. Name the stakes in terms of what happens if a problem is found late."
+          },
+          {
+            "step": 2,
+            "title": "Admit your own limits",
+            "body": "State something you do not know or got wrong recently. A leader who is never wrong in public makes everyone else's mistakes look disqualifying."
+          },
+          {
+            "step": 3,
+            "title": "Ask better questions",
+            "body": "Replace the general invitation to speak up with specific questions. What are we missing, what would have to be true for this to fail, what worries you most this week."
+          },
+          {
+            "step": 4,
+            "title": "Respond so the next person watches",
+            "body": "Thank the messenger before assessing the message, separate the report from the reporter, and act visibly on at least one thing so people know it was worth it."
+          }
+        ],
+        "tags": [
+          "framing",
+          "leadership",
+          "psychological-safety"
+        ]
+      },
+      {
+        "id": "the-fearless-organization-s07",
+        "hook": "An open door is not an invitation. A specific question is.",
+        "insight": "Telling people your door is always open moves all the risk onto them: they must decide the issue is important enough, find a moment, and open a conversation about something awkward. Almost nobody does. A direct question does the opposite. Asking what worries you most about this plan, or what would make this fail, gives permission, supplies the topic, and makes not answering the conspicuous choice. Then you have to wait through the silence without filling it.",
+        "why": "The general invitation leaves the initiation cost with the least powerful person in the room. A specific question transfers that cost to you, which is where it belongs.",
+        "apply": "Replace any invitation to share concerns with one concrete question this week, then stay silent for a full ten seconds after asking it.",
+        "format": "single",
+        "tags": [
+          "questions",
+          "listening",
+          "meetings"
+        ]
+      },
+      {
+        "id": "the-fearless-organization-s08",
+        "hook": "Your reaction to the first bad news sets the price of the second.",
+        "insight": "Everything you say about openness is tested in the ten seconds after someone tells you something you did not want to hear. If you look irritated, interrogate the person, or immediately explain why they are wrong, the whole team updates. Not because you shouted, but because they can now estimate the cost of being that person. Appreciation first, then the problem, then a visible decision about it. The sequence sounds trivial and it is the entire mechanism.",
+        "why": "People infer the real rules from observed consequences, not from stated policy. One badly handled disclosure can undo months of encouragement, because it is more informative than any speech.",
+        "apply": "Prepare one sentence to say automatically when you hear bad news, thanking the person and asking what they need, before your opinion arrives.",
+        "format": "single",
+        "tags": [
+          "response",
+          "trust",
+          "leadership"
+        ]
+      },
+      {
+        "id": "the-fearless-organization-s09",
+        "hook": "Psychological safety is a property of your team, not your company.",
+        "insight": "Two teams in one building, under the same policies and the same values statement, can differ enormously in whether anyone will say the awkward thing. It is built and destroyed locally, by what one manager does in meetings. That is good news for anyone who cannot change their organisation and bad news for anyone hoping a company-wide programme will fix it. A firm-level score is an average that hides the teams that need attention most.",
+        "why": "The construct was measured at team level from the start and the variation within organisations is large. Averaging across a company destroys exactly the signal you were looking for.",
+        "apply": "Ask for your engagement or safety data broken down by team rather than by division, and look at the worst three rather than the mean.",
+        "format": "single",
+        "tags": [
+          "teams",
+          "measurement",
+          "management"
+        ]
+      },
+      {
+        "id": "the-fearless-organization-s10",
+        "hook": "The evidence is people telling you how safe they feel, which has real limits.",
+        "insight": "The concept is measured mostly through surveys, and survey answers are correlated with mood, with recent results and with how safe it feels to answer honestly about safety. Much of the supporting research is observational, so the direction of cause is not settled: good performance may make teams feel safer as much as the reverse. That does not make the idea wrong. It means treating a safety score as a conversation starter rather than a verdict, and watching behaviour instead.",
+        "why": "Being clear about this protects the idea from the backlash that follows overselling. The concept was also popularised by one company's internal team study, which is suggestive rather than conclusive.",
+        "apply": "Stop tracking the score alone. Count observable events instead: how many times this month someone challenged a decision in a meeting.",
+        "format": "single",
+        "tags": [
+          "evidence",
+          "measurement",
+          "honesty"
+        ]
+      }
+    ],
+    "actions": [
+      "Classify your last three failures as deviation, complexity or intelligent experiment, and tell the team which was which.",
+      "Replace your standing invitation for feedback with one specific question asked in every team meeting, and wait ten seconds for the answer.",
+      "Write and rehearse your automatic first response to bad news so that appreciation comes before assessment every time.",
+      "Get your team-level safety or engagement data disaggregated, look at the three lowest teams, and spend a month with one of them."
+    ],
+    "if_you_liked": [
+      "crucial-conversations",
+      "the-culture-code",
+      "team-of-teams"
+    ],
+    "not_for_you_if": "You want experimental evidence and effect sizes rather than a practitioner framework, or you are looking for tools to handle a genuinely toxic manager above you.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2018 by Wiley. Builds on the author's hospital team research from the 1990s. Measurement limits and the correlational nature of much of the evidence are flagged in spark ten. All prose original."
+    }
+  },
+  {
+    "id": "give-and-take",
+    "title": "Give and Take",
+    "subtitle": "A Revolutionary Approach to Success",
+    "author": "Adam Grant",
+    "year": 2013,
+    "category": "leadership-management",
+    "subcategory": "influence-and-networks",
+    "tags": [
+      "generosity",
+      "networks",
+      "influence",
+      "collaboration",
+      "reputation",
+      "burnout"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "It made generosity a serious subject in management rather than a sentimental one, and gave a plausible account of why the most generous people are found at both the bottom and the top of success rankings. It changed how many organisations think about collaboration.",
+    "crux": {
+      "headline": "Generosity fails from missing boundaries, not missing self-interest",
+      "body": "People differ in what they expect from an exchange: some try to take more than they give, some keep score, and some give more than they get. The last group ends up disproportionately at the bottom of performance rankings, and also disproportionately at the top. What separates the two ends is not how much they give but whether they give in ways that are sustainable, targeted and honest about their own interests as well as everybody else's."
+    },
+    "sparks": [
+      {
+        "id": "give-and-take-s01",
+        "hook": "The most generous people are over-represented at the bottom and the top.",
+        "insight": "Rank people in an organisation by results and you find the same pattern in several settings. Those who consistently give more than they get cluster at the bottom, which is unsurprising, and then cluster again at the very top, which is. The people in the middle tend to be the score-keepers and the self-interested. So generosity is not a handicap or an advantage in itself. It is a high-variance strategy, and the variance is explained by how it is practised.",
+        "why": "Honest caveat: this is drawn from correlational field data across a handful of professions, sliced after the fact. The distribution is real and striking, but it is an observed pattern rather than a demonstrated cause.",
+        "apply": "Ask yourself which end you are heading for: are your favours going to people and problems you chose, or to whoever asked most recently?",
+        "format": "single",
+        "tags": [
+          "generosity",
+          "performance",
+          "reciprocity"
+        ]
+      },
+      {
+        "id": "give-and-take-s02",
+        "hook": "Selfless is a failure mode. Generous with your own interest included is not.",
+        "insight": "The generous people who do badly are the ones who cannot say no, treat every request as equally urgent, and consider their own goals slightly shameful. The ones who do well give as much or more, but they choose where, they protect blocks of time for their own work, and they are open about wanting something too. That combination is not a compromise between selfishness and generosity. It is what makes the generosity survive past the first exhausting year.",
+        "why": "Holding your own interests alongside other people's is what keeps giving from becoming a resource that runs out. The distinction is about design, not about intensity.",
+        "apply": "Set a weekly ceiling on unplanned favours and protect two blocks for your own priorities. Say the ceiling out loud when you decline.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Chunk it, do not sprinkle it",
+            "body": "Batch your helping into set periods rather than scattering it through the week. Continuous interruption is what makes generosity feel like it is costing you your own work."
+          },
+          {
+            "step": 2,
+            "title": "Give what is cheap for you",
+            "body": "Favour the help that costs you little and is worth a lot to them: an introduction, a review, ten minutes of context. The lopsided ones are the ones you can keep doing."
+          },
+          {
+            "step": 3,
+            "title": "Name your own goal",
+            "body": "Say what you are working towards. People help back far more reliably when they know what would actually be useful, and hiding it does not make you more admirable."
+          },
+          {
+            "step": 4,
+            "title": "Refuse without apologising",
+            "body": "Decline clearly, offer one alternative if you have it, and move on. A vague maybe costs both of you more than a clean no."
+          }
+        ],
+        "tags": [
+          "boundaries",
+          "generosity",
+          "burnout"
+        ]
+      },
+      {
+        "id": "give-and-take-s03",
+        "hook": "Being agreeable and being generous are different things, and confusing them is expensive.",
+        "insight": "Warmth is a style and generosity is an intent, and all four combinations exist. The pleasant person who takes is the most dangerous, because they are easy to trust and hard to catch. The blunt person who quietly does a great deal for others is the most undervalued, and is often the only one who will tell you something true about your work. Judging people on manner rather than on what they actually do for others is one of the commonest errors in hiring and promotion.",
+        "why": "Manner is visible immediately and intent only becomes visible over repeated interactions, so the fast judgement is systematically wrong in a predictable direction.",
+        "apply": "For one person you find abrasive, list what they have actually done for others in the last year before you write your next assessment of them.",
+        "format": "single",
+        "tags": [
+          "character",
+          "hiring",
+          "judgement"
+        ]
+      },
+      {
+        "id": "give-and-take-s04",
+        "hook": "Most of what you get comes from the people you barely know.",
+        "insight": "Close contacts move in your circles, read what you read, and hear about the same openings you do. Acquaintances sit in different networks and carry information you would never otherwise meet. That is why opportunities so often arrive from the edge of your contacts rather than the centre. Better still are the relationships that were once close and have lapsed: the trust is already built, so the conversation costs nothing, but the information they hold has diverged for years.",
+        "why": "The weak-tie finding is one of the more durable results in social science. The specific value of reconnecting with lapsed contacts is a smaller literature, but the reasoning holds: high trust, low overlap.",
+        "apply": "List ten people you were once close to and have not spoken to in two years. Contact two of them this week with no request attached.",
+        "format": "single",
+        "tags": [
+          "networks",
+          "weak-ties",
+          "opportunity"
+        ]
+      },
+      {
+        "id": "give-and-take-s05",
+        "hook": "A favour that costs you five minutes can be worth a year to someone else.",
+        "insight": "Generosity gets imagined as a large sacrifice, which is why people ration it and then feel guilty. Most of the value in practice comes from small asymmetric acts: an introduction between two people who should know each other, twenty minutes of feedback on a draft, telling someone about a role they had not heard of. These cost almost nothing, can be done many times a week, and accumulate into a reputation that is worth considerably more than any single large favour.",
+        "why": "The mechanism is asymmetry, not sacrifice. Your ordinary knowledge and contacts are scarce to someone else, which means you can give a lot away without depleting anything.",
+        "apply": "Make two introductions this week between people who should know each other, with one sentence each on why they would be useful to the other.",
+        "format": "single",
+        "tags": [
+          "favours",
+          "networks",
+          "generosity"
+        ]
+      },
+      {
+        "id": "give-and-take-s06",
+        "hook": "Trust everyone a little, and adjust fast when someone shows you what they are.",
+        "insight": "Being generous by default gets exploited unless you pair it with attention. The practical version is to start generous with almost anyone, keep the initial investment small, and watch what they do rather than what they say. Someone who returns nothing over several exchanges gets your matched behaviour rather than your generosity, and you can shift back later if they change. This costs very little to run and captures most of the upside while capping the losses.",
+        "why": "Screening people in advance is unreliable and expensive, because takers present well. Screening them cheaply through small repeated exchanges is far more accurate and the errors are small.",
+        "apply": "Notice who has taken from you three times and reciprocated none. Move them to matched exchange rather than cutting them off entirely.",
+        "format": "single",
+        "tags": [
+          "trust",
+          "reciprocity",
+          "boundaries"
+        ]
+      },
+      {
+        "id": "give-and-take-s07",
+        "hook": "Asking for advice persuades more reliably than making the case.",
+        "insight": "Confident assertion is the default persuasion style and it invites counter-argument. Asking someone for advice does something different: it flatters without flattery, it makes them think through your problem using their own reasoning, and it commits them slightly to the answer they gave you. Tentative language, questions and admitted uncertainty read as weakness in a competitive room, but in most working relationships they get more cooperation than a polished pitch does.",
+        "why": "Honest note: much of the supporting work comes from a single research programme and modest experimental samples, and the effect depends heavily on context. It fails where the audience is explicitly evaluating your competence.",
+        "apply": "Take one proposal you were going to argue for and instead ask two sceptics for advice on its weakest part before you finalise it.",
+        "format": "single",
+        "tags": [
+          "influence",
+          "advice",
+          "communication"
+        ]
+      },
+      {
+        "id": "give-and-take-s08",
+        "hook": "Takers are cheap to spot now that everyone can ask about you.",
+        "insight": "Extracting more than you contribute used to be survivable, because reputations moved slowly and only within one building. Now a hiring manager can reach three former colleagues in an afternoon, and a bad pattern travels further than any single good result. The people who have been quietly generous for years accumulate a set of people willing to vouch for them without being asked, which is the only kind of endorsement that carries weight.",
+        "why": "The mechanism is reputational information moving faster and further than it once did. Note that it is weakest where power is very concentrated, since people rarely report on someone who can still hurt them.",
+        "apply": "Write the names of five people who would speak up for you unprompted. If the list is short, spend the next quarter being useful without asking.",
+        "format": "single",
+        "tags": [
+          "reputation",
+          "networks",
+          "career"
+        ]
+      },
+      {
+        "id": "give-and-take-s09",
+        "hook": "Burnout comes from giving without ever seeing what it did.",
+        "insight": "The intuitive fix for an exhausted helper is to make them help less. Often the better fix is to show them the result. People who spend their days assisting others frequently never meet the person who benefited, and the work becomes an endless queue with no visible output. Contact with the outcome, even briefly, changes both the effort people put in and how depleting they find it. The exhaustion tracks meaninglessness more closely than it tracks hours.",
+        "why": "This rests on field experiments run largely by one research group, so treat the size of the effect cautiously. The direction is consistent with a broad literature on task significance and motivation.",
+        "apply": "Once a month, put someone on your team in direct contact with a person who benefited from their work. Let the beneficiary do the talking.",
+        "format": "single",
+        "tags": [
+          "burnout",
+          "motivation",
+          "meaning"
+        ]
+      },
+      {
+        "id": "give-and-take-s10",
+        "hook": "Most people will give freely and will not ask. Fix the asking, not the giving.",
+        "insight": "In almost every team, the constraint is not willingness to help. It is that nobody wants to look incapable by requesting something, so needs go unspoken while capacity sits idle beside them. Making requests routine and public solves it cheaply. Once asking is a normal part of a meeting rather than an admission, the help that was always available starts moving, and people discover how often someone two desks away could have saved them a week.",
+        "why": "Reciprocity is easy to trigger and requests are hard to make, so the bottleneck sits on the demand side. Structuring the ask removes the status cost that was suppressing it.",
+        "apply": "Add a standing agenda item where each person states one thing they need and one thing they can offer. Keep it to ninety seconds each.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Make the ask structural",
+            "body": "Put requests on the agenda so they are expected rather than volunteered. Nobody has to decide whether asking is acceptable if the meeting requires it of everyone."
+          },
+          {
+            "step": 2,
+            "title": "Require specificity",
+            "body": "An introduction to someone at a named company, or thirty minutes on a particular problem. Vague requests get vague sympathy and no action."
+          },
+          {
+            "step": 3,
+            "title": "Let anyone answer",
+            "body": "Do not route requests through the manager. The useful contact is usually held by someone junior whose network nobody has thought to ask about."
+          },
+          {
+            "step": 4,
+            "title": "Close the loop out loud",
+            "body": "Report back what happened to last month's requests. Visible follow-through is what stops the ritual decaying into a round of politely ignored asks."
+          }
+        ],
+        "tags": [
+          "teams",
+          "asking",
+          "collaboration"
+        ]
+      }
+    ],
+    "actions": [
+      "Set a weekly time budget for helping others, batch it into one or two blocks, and protect the rest of the week for your own priorities.",
+      "Reconnect with two lapsed contacts a month with no request attached, and keep a note of where those conversations lead over a year.",
+      "Review your last promotion or hiring decision and check whether you rewarded pleasant manner or actual contribution to other people's work.",
+      "Add a routine to your team where everyone states one specific need and one offer, and report back on outcomes at the following session."
+    ],
+    "if_you_liked": [
+      "originals",
+      "influence",
+      "the-culture-code"
+    ],
+    "not_for_you_if": "You want rigorous causal evidence rather than field studies plus illustrative profiles, or you work somewhere political enough that visible generosity is reliably exploited.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2013 by Viking. Much of the supporting research is correlational or comes from the author's own research programme; flagged in sparks one, seven and nine. All prose original."
+    }
+  },
+  {
+    "id": "originals",
+    "title": "Originals",
+    "subtitle": "How Non-Conformists Move the World",
+    "author": "Adam Grant",
+    "year": 2016,
+    "category": "leadership-management",
+    "subcategory": "innovation-and-dissent",
+    "tags": [
+      "creativity",
+      "innovation",
+      "dissent",
+      "risk",
+      "ideas",
+      "change"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "It attacks the romantic picture of the original thinker as a bold risk-taker, and replaces it with something more useful: people who generate enormous numbers of ideas, hedge carefully, and get very good at making dissent survivable.",
+    "crux": {
+      "headline": "Originality is volume and hedging, not courage",
+      "body": "The people who produce genuinely new things are not braver than everyone else and are not better at recognising which of their ideas is good. They produce far more ideas, which means more bad ones and, by simple arithmetic, more excellent ones. They hedge aggressively elsewhere in their lives so that a failure is survivable. And they spend real effort on the political problem of getting an unwelcome idea heard, which is a separate skill from having it."
+    },
+    "sparks": [
+      {
+        "id": "originals-s01",
+        "hook": "Nobody can pick their own best idea, including the people with the best ideas.",
+        "insight": "Prolific creators are bad forecasters of which of their own works will matter. They are too close to the effort, they over-value novelty in their newest thing, and they systematically misjudge how an audience will react. The reliable path is not better selection but higher volume plus early external feedback. And the best judges are not managers or the creators themselves. They are peers doing similar work, who are neither invested in the outcome nor obliged to be encouraging.",
+        "why": "Studies of highly productive creators consistently find that output volume predicts the number of outstanding works, and that self-assessment of one's own work is weakly related to how it is eventually received.",
+        "apply": "Generate ten options before evaluating any of them, then show the top three to a peer doing similar work rather than to your boss.",
+        "format": "single",
+        "tags": [
+          "ideas",
+          "creativity",
+          "feedback"
+        ]
+      },
+      {
+        "id": "originals-s02",
+        "hook": "The founders who kept their day jobs failed less often, not more.",
+        "insight": "The story we tell about originality involves burning the boats. The pattern in the data runs the other way: people who take a large risk in one area tend to be unusually cautious in others, and entrepreneurs who kept earning elsewhere while building were less likely to fail. Security in one part of life is what makes it possible to be genuinely reckless in another. Removing your safety net does not increase commitment so much as it increases the pressure to settle for the first thing that pays.",
+        "why": "This rests on a study of a large sample of business founders and it is observational, so the people who keep their jobs may differ in other ways. The direction, though, contradicts the folklore strongly enough to be worth noting.",
+        "apply": "Before you quit anything, write which part of your life is providing the stability that lets you take this risk. If the answer is none, build one first.",
+        "format": "single",
+        "tags": [
+          "risk",
+          "entrepreneurship",
+          "hedging"
+        ]
+      },
+      {
+        "id": "originals-s03",
+        "hook": "Delaying a task on purpose can improve the idea, if you started it first.",
+        "insight": "Beginning a piece of work and then deliberately leaving it alone lets the problem keep running in the background, and the first obvious solution loses its grip. That is different from not starting, which produces nothing but panic and whatever you can assemble the night before. The useful version is early start, deliberate pause, late finish. Many people who describe themselves as productive procrastinators are actually doing this, and many others are just late.",
+        "why": "Be careful here. The supporting experiments are small and the effect appears for moderate delay only, with genuine procrastination linked to worse outcomes on almost every measure. Treat it as a permission to pause, not to postpone.",
+        "apply": "Start your next creative task within a day of receiving it, work for thirty minutes, then leave it for a week before returning to finish.",
+        "format": "single",
+        "tags": [
+          "creativity",
+          "procrastination",
+          "process"
+        ]
+      },
+      {
+        "id": "originals-s04",
+        "hook": "Lead with the reasons your idea might fail.",
+        "insight": "The instinct when pitching something unfamiliar is to oversell it, which makes a sceptical audience work harder to find the flaw. Naming the three biggest weaknesses yourself does several things at once. It removes the pleasure of discovering them, it signals that you have thought seriously rather than fallen in love, and it makes everything else you say more credible. It also lowers expectations to a level the project can actually clear, which matters more than the initial enthusiasm.",
+        "why": "Honest caveat: the memorable version of this in the book is a single company's fundraising anecdote, not evidence. The broader point that admitting flaws builds credibility has support, but the effect depends on the audience already respecting your competence.",
+        "apply": "In your next proposal, put the three strongest objections on slide two, with your honest assessment of which one worries you most.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "List the objections first",
+            "body": "Write every reason a smart sceptic would say no, before you write a single benefit. If you cannot produce five, you have not understood the idea's weaknesses yet."
+          },
+          {
+            "step": 2,
+            "title": "Say the worst one out loud",
+            "body": "Open with the objection that genuinely worries you. It disarms the room and it stops the conversation being a hunt for what you left out."
+          },
+          {
+            "step": 3,
+            "title": "Separate fatal from survivable",
+            "body": "Be explicit about which risks would kill the project and which are merely costly. Treating all objections as equal makes you look either defensive or naive."
+          },
+          {
+            "step": 4,
+            "title": "Ask for the specific next step",
+            "body": "Request a small, cheap commitment that tests the biggest risk. An unfamiliar idea gets funded in stages, not adopted whole on the strength of a pitch."
+          }
+        ],
+        "tags": [
+          "pitching",
+          "persuasion",
+          "ideas"
+        ]
+      },
+      {
+        "id": "originals-s05",
+        "hook": "Being first is usually worse than being second and better.",
+        "insight": "Pioneers absorb the cost of teaching a market what a thing is, of building infrastructure that did not exist, and of every mistake that has to be made once. The improvers arrive later, watch what failed, and enter with a better version and a customer base that already understands the category. Studies comparing early entrants with later ones have repeatedly found higher failure rates among the pioneers. The advantage of moving first is real in some markets, and it is much narrower than the phrase suggests.",
+        "why": "The finding comes from historical comparisons of firms, which are vulnerable to how categories are defined. Still, the reflex that speed to market is always decisive is stronger than the evidence for it.",
+        "apply": "Before racing to be first, write what a competitor entering two years later would do better, then decide whether you can pre-empt that.",
+        "format": "single",
+        "tags": [
+          "timing",
+          "strategy",
+          "innovation"
+        ]
+      },
+      {
+        "id": "originals-s06",
+        "hook": "Appointing a devil's advocate does not work. Finding a real one does.",
+        "insight": "Assigning someone to argue against a plan produces objections everyone knows are performed, so the group treats them as a ritual and its confidence actually rises. Genuine dissent works differently. When someone in the room truly holds the minority view, the group thinks harder, considers more options and finds better answers, even when the dissenter turns out to be wrong. So the task is not to stage disagreement but to find the person who already disagrees and make it safe for them to say so.",
+        "why": "This distinction between assigned and authentic dissent comes from a well-established experimental line in social psychology. The finding that minority views improve group reasoning even when incorrect has held up well.",
+        "apply": "Before your next big decision, ask privately who has doubts, then ask that person to open the meeting with their case.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Find the genuine sceptic",
+            "body": "Ask around before the meeting rather than assigning a role in it. Somebody already thinks this is a bad idea, and they are usually not the loudest person present."
+          },
+          {
+            "step": 2,
+            "title": "Let them go first",
+            "body": "Once a decision has visible momentum, opposing it costs far more. Putting the dissent at the start makes it a contribution rather than an obstruction."
+          },
+          {
+            "step": 3,
+            "title": "Protect them afterwards",
+            "body": "Say publicly that the objection improved the plan, whether or not you took it. People watch what happens to the last dissenter far more closely than they read your policy."
+          },
+          {
+            "step": 4,
+            "title": "Decide anyway",
+            "body": "Authentic dissent improves the decision, it does not replace it. Hear the case properly, then choose, and make clear that the matter is now closed."
+          }
+        ],
+        "tags": [
+          "dissent",
+          "decision-making",
+          "groupthink"
+        ]
+      },
+      {
+        "id": "originals-s07",
+        "hook": "Speak up after you have earned the right, not while you are still earning it.",
+        "insight": "The same objection carries wildly different weight depending on who says it. People accumulate a kind of credit by contributing and conforming early, and can then spend it on unpopular positions later. That is not an argument for silence. It is an argument for sequencing: deliver something the group values before you tell it what it is doing wrong, and spend the credit on the fights that matter rather than on every small disagreement.",
+        "why": "The idea that groups grant latitude for deviation to people who have first demonstrated commitment is long-standing in social psychology. It is a description of how groups behave, not an endorsement of it.",
+        "apply": "Pick the one thing you most want to change, and spend a quarter being conspicuously useful on something else before you raise it.",
+        "format": "single",
+        "tags": [
+          "influence",
+          "status",
+          "speaking-up"
+        ]
+      },
+      {
+        "id": "originals-s08",
+        "hook": "Coalitions break over small differences far more often than large ones.",
+        "insight": "Groups pushing for the same change often reserve their fiercest hostility for the group next door that wants almost the same thing slightly differently. Purity feels like principle and it shrinks your coalition to the people who already agree with everything. Widening it requires accepting partial allies, describing your goal in terms that a moderate can repeat without embarrassment, and letting other people carry your argument in their own words rather than yours.",
+        "why": "The pattern of sharpest conflict between near neighbours is well documented in studies of social movements. The practical implication is that message moderation is a recruitment tool, not a betrayal.",
+        "apply": "Name one group that half agrees with you. Find the part you share, and ask them to make that argument in their own language.",
+        "format": "single",
+        "tags": [
+          "coalitions",
+          "change",
+          "persuasion"
+        ]
+      },
+      {
+        "id": "originals-s09",
+        "hook": "Familiarity is what stops you seeing the obvious problem in your own work.",
+        "insight": "The hardest thing about noticing an improvement is that you have stopped seeing the thing at all. Processes that made sense a decade ago become invisible furniture, and the new person who asks why it works this way is treated as naive rather than useful. Getting the outsider's view back requires deliberate effort: bringing in someone unfamiliar, describing your work to a person in another field, or spending time in an industry that solved a similar problem differently.",
+        "why": "Repeated exposure reduces attention to detail, which is efficient for routine and disastrous for improvement. The fix has to be structural, because you cannot decide to find something unfamiliar again.",
+        "apply": "Ask your newest team member to list everything that seemed strange in their first month, and treat the list as a work item rather than an induction issue.",
+        "format": "single",
+        "tags": [
+          "fresh-eyes",
+          "innovation",
+          "process"
+        ]
+      },
+      {
+        "id": "originals-s10",
+        "hook": "Treat the studies here as prompts, not proof, and the ideas get better.",
+        "insight": "This is a book of psychology findings assembled into an argument, written during a period when the field discovered that many of its results did not replicate. Some of the studies behind these claims are single experiments with modest samples. That does not make the arguments useless. It means they are best used as hypotheses to test on your own team, where you can watch what happens, rather than as settled facts to quote at people who disagree with you.",
+        "why": "The author has publicly revised positions as evidence changed, which is the right response. Readers who quote the findings as established science do the ideas more damage than any critic does.",
+        "apply": "Take one claim from this book, run it on your team for a quarter, and write down what actually happened before you adopt it as policy.",
+        "format": "single",
+        "tags": [
+          "evidence",
+          "honesty",
+          "replication"
+        ]
+      }
+    ],
+    "actions": [
+      "Set a volume target for your next creative problem: generate a fixed large number of options before you allow yourself to evaluate any of them.",
+      "Build a stability source outside the risk you are taking, so that failure is survivable and you are not forced to accept the first offer that appears.",
+      "Rebuild your next proposal to lead with the three strongest objections and a request for a small, cheap test of the biggest risk.",
+      "Find the person who genuinely disagrees with your next big decision, have them open the meeting, and back them publicly afterwards."
+    ],
+    "if_you_liked": [
+      "give-and-take",
+      "think-again",
+      "range"
+    ],
+    "not_for_you_if": "You want primary research rather than a synthesis built from studies of varying strength, or you already work somewhere that rewards dissent and needs no persuading.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2016 by Viking. Several supporting studies are small or observational, and one prominent pitching example is a single company anecdote; both flagged in the sparks. All prose original."
+    }
   }
 ]

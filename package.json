@@ -22,8 +22,10 @@
     "content:salvage": "node scripts/salvage-partial.mjs",
     "content:orphans": "node scripts/recover-orphans.mjs",
     "content:remaining": "node scripts/remaining-work.mjs",
-    "content:recover": "node scripts/salvage-partial.mjs && node scripts/remaining-work.mjs",
-    "content:duplicates": "node scripts/find-duplicates.mjs"
+    "content:recover": "node scripts/salvage-partial.mjs && node scripts/fix-cross-batch-duplicates.mjs && node scripts/remaining-work.mjs",
+    "content:duplicates": "node scripts/find-duplicates.mjs",
+    "content:dedupe": "node scripts/fix-cross-batch-duplicates.mjs",
+    "screenshots": "node scripts/screenshot-web.mjs"
   },
   "dependencies": {
     "@expo/metro-runtime": "^57.0.15",

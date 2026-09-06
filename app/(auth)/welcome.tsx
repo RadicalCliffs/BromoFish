@@ -19,7 +19,7 @@ export default function Welcome() {
       <ScrollView contentContainerStyle={styles.content}>
         <View style={styles.hero}>
           <DogearMark size={64} />
-          <Wordmark size={40} />
+          <Wordmark size={40} showMark={false} />
           <Text style={[type.title, styles.tagline, { color: theme.text }]}>Fold the bits worth keeping.</Text>
           <Text style={[type.body, styles.blurb, { color: theme.textMuted }]}>
             The best books ever written, cut down to the ideas that actually change something. One

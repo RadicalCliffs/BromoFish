@@ -1,34 +1,5 @@
 {
   "batch": "medical-body-1",
   "category": "medical-body",
-  "books": [
-    {
-      "title": "Gut",
-      "author": "Giulia Enders"
-    },
-    {
-      "title": "The Immortal Life of Henrietta Lacks",
-      "author": "Rebecca Skloot"
-    },
-    {
-      "title": "Complications",
-      "author": "Atul Gawande"
-    },
-    {
-      "title": "When Breath Becomes Air",
-      "author": "Paul Kalanithi"
-    },
-    {
-      "title": "Do No Harm",
-      "author": "Henry Marsh"
-    },
-    {
-      "title": "Bad Science",
-      "author": "Ben Goldacre"
-    },
-    {
-      "title": "Bad Pharma",
-      "author": "Ben Goldacre"
-    }
-  ]
+  "books": []
 }

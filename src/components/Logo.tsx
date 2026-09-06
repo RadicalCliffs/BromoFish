@@ -32,11 +32,20 @@ export function DogearMark({ size = 28, color, foldColor }: { size?: number; col
   );
 }
 
-export function Wordmark({ size = 22, color }: { size?: number; color?: string }) {
+export function Wordmark({
+  size = 22,
+  color,
+  showMark = true,
+}: {
+  size?: number;
+  color?: string;
+  /** Off when the caller is already showing the mark at a larger size above it. */
+  showMark?: boolean;
+}) {
   const theme = useTheme();
   return (
     <View style={styles.row}>
-      <DogearMark size={size * 1.25} />
+      {showMark && <DogearMark size={size * 1.25} />}
       <Text
         style={[
           styles.word,

@@ -1,42 +1,5 @@
 {
   "batch": "investing-economics-1",
   "category": "investing-economics",
-  "books": [
-    {
-      "title": "The Intelligent Investor",
-      "author": "Benjamin Graham"
-    },
-    {
-      "title": "A Random Walk Down Wall Street",
-      "author": "Burton G. Malkiel"
-    },
-    {
-      "title": "Common Stocks and Uncommon Profits",
-      "author": "Philip A. Fisher"
-    },
-    {
-      "title": "Margin of Safety",
-      "author": "Seth A. Klarman"
-    },
-    {
-      "title": "The Most Important Thing",
-      "author": "Howard Marks"
-    },
-    {
-      "title": "Fooled by Randomness",
-      "author": "Nassim Nicholas Taleb"
-    },
-    {
-      "title": "The Black Swan",
-      "author": "Nassim Nicholas Taleb"
-    },
-    {
-      "title": "Antifragile",
-      "author": "Nassim Nicholas Taleb"
-    },
-    {
-      "title": "Skin in the Game",
-      "author": "Nassim Nicholas Taleb"
-    }
-  ]
+  "books": []
 }

@@ -629,5 +629,1454 @@
       "confidence": "high",
       "notes": "First published 2014 by Crown Business. All prose here is original; no wording is reproduced from the book."
     }
+  },
+  {
+    "id": "four-thousand-weeks",
+    "title": "Four Thousand Weeks",
+    "subtitle": "Time Management for Mortals",
+    "author": "Oliver Burkeman",
+    "year": 2021,
+    "category": "productivity-focus",
+    "subcategory": "time-philosophy",
+    "tags": [
+      "time",
+      "finitude",
+      "priorities",
+      "attention",
+      "procrastination"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "It turned time management on its head by starting from the fact that you will die with things undone. That premise pulled a whole genre away from squeezing more in and toward choosing what to abandon on purpose.",
+    "crux": {
+      "headline": "You will not get everything done, and that is the point",
+      "body": "Time management usually assumes that with the right system you could finally clear the decks. You cannot. A finite life produces infinitely many plausible things to do, so the backlog is permanent by design. Once you accept that, the question changes from how to fit everything in to which few things you will deliberately fail at. Choosing what to neglect is the only real control on offer."
+    },
+    "sparks": [
+      {
+        "id": "four-thousand-weeks-s01",
+        "hook": "An eighty-year life is roughly four thousand weeks. That is the budget.",
+        "insight": "Written out in weeks, a human life stops sounding abstract. Four thousand is a number you could count on a wall chart, and a large share of yours is already spent. The usual response is to try to move faster, but speed does not change the size of the budget, it only changes how many things you touch briefly. Finitude is not a problem waiting for a better system. It is the fixed constraint every honest plan has to start from.",
+        "why": "Eighty years works out at about four thousand one hundred weeks. The number is not a trick, it is arithmetic, and it reframes time as a fixed stock rather than a renewable resource.",
+        "apply": "Work out roughly how many weeks you have already used. Then name the one commitment you would drop if the count were half what it is.",
+        "format": "single",
+        "tags": [
+          "finitude",
+          "time"
+        ]
+      },
+      {
+        "id": "four-thousand-weeks-s02",
+        "hook": "Getting faster at your work quietly summons more work.",
+        "insight": "Clearing an inbox signals to everyone that you are good at clearing inboxes, so more arrives. Efficiency does not empty the queue, it widens the pipe. The same happens at home: the faster errands go, the more errands seem reasonable to take on. This is why productivity improvements so rarely produce the calm they promise. The volume of incoming demand adjusts upward to meet whatever capacity you build, and it does so within weeks.",
+        "why": "Demand for your attention is not fixed. It responds to supply, so any capacity you create gets filled. It is the personal version of induced demand on a widened road.",
+        "apply": "Pick one task you have optimised heavily and check whether you now do more of it than before. If so, cap the volume rather than the time.",
+        "format": "single",
+        "tags": [
+          "efficiency",
+          "overload"
+        ]
+      },
+      {
+        "id": "four-thousand-weeks-s03",
+        "hook": "Choosing one thing is quietly refusing thousands of others.",
+        "insight": "A decision feels like an addition, but it is mostly subtraction. Spend Saturday with one friend and you have not spent it with any other, or alone, or working. That loss is real, and it does not disappear if you refuse to decide, because indecision just hands the choice to whatever is loudest. Feeling the weight of a commitment is not a sign you chose wrong. It is evidence the thing you chose actually cost something, which is what makes it worth anything.",
+        "why": "Opportunity cost is not an accounting abstraction here. Because the underlying resource cannot be replaced or borrowed against, every allocation of hours permanently forecloses the alternatives.",
+        "apply": "Before your next big yes, write the three things it rules out. Say yes anyway if it still wins, but say it knowing the price you paid.",
+        "format": "single",
+        "tags": [
+          "choice",
+          "trade-offs"
+        ]
+      },
+      {
+        "id": "four-thousand-weeks-s04",
+        "hook": "You will neglect things. The only choice is whether you pick which ones.",
+        "insight": "Since the demands outnumber the hours, some part of your life is underserved every week. Left alone, the loser is whatever makes the least noise, usually health, friendships or your own long projects, because none of them send escalating emails. Choosing your failures in advance turns that from a slow accident into a policy. You accept a lower standard in named areas so you can hold a high one where it counts, and you stop feeling vaguely guilty about everything at once.",
+        "why": "Guilt spreads across every neglected area when the neglect is unplanned. Naming the areas converts diffuse failure into a deliberate trade you can actually defend to yourself.",
+        "apply": "Name two areas where you will consciously operate below your standard this quarter, and tell one person, so it becomes a decision rather than a drift.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "List the demands",
+            "body": "Write every arena asking something of you: work, health, family, friendships, the house, side projects, community. Seeing them together makes the arithmetic obvious in a way a to-do list never does."
+          },
+          {
+            "step": 2,
+            "title": "Pick your failures",
+            "body": "Choose two or three arenas to hold at merely acceptable for now. Not abandoned, just not excellent. A spotless house and a full social calendar are common candidates."
+          },
+          {
+            "step": 3,
+            "title": "Protect the rest",
+            "body": "Move the freed hours to the arenas you refused to compromise, and put them in the calendar the same week. Unassigned time gets reabsorbed within days."
+          },
+          {
+            "step": 4,
+            "title": "Revisit each season",
+            "body": "Failures should rotate. Review the list every few months so the same part of your life is not permanently the one paying for all the others."
+          }
+        ],
+        "tags": [
+          "prioritisation",
+          "trade-offs"
+        ]
+      },
+      {
+        "id": "four-thousand-weeks-s05",
+        "hook": "Distraction is rarely about the phone.",
+        "insight": "You reach for the feed at the exact moment the work turns uncomfortable, when the sentence will not come or the problem resists. The phone is not seizing your attention so much as offering an exit from a feeling you would rather not sit in. That is why blocking software helps less than expected. Remove one exit and the mind finds another, because the discomfort is still there. The real skill is tolerating the friction of a hard thing slightly longer than feels natural.",
+        "why": "Attention follows relief. If the underlying pull is escape from difficulty, controlling the device treats the symptom while leaving the mechanism completely intact.",
+        "apply": "Next time you reach for your phone mid-task, stop and name what you were feeling one second earlier. Write the word down, then return to the task.",
+        "format": "single",
+        "tags": [
+          "distraction",
+          "attention"
+        ]
+      },
+      {
+        "id": "four-thousand-weeks-s06",
+        "hook": "Waiting for life to begin is how most of it gets spent.",
+        "insight": "It is easy to treat the present as a corridor to somewhere better: get through this project, this year, this stage, and then the real thing starts. But the corridor is the building. Treating every hour as preparation makes the whole of life instrumental, valuable only for what it leads to, which means it is never quite valuable now. Some hours genuinely are investments. The mistake is when all of them are and the payoff keeps receding.",
+        "why": "A future-directed frame has no endpoint, because each arrival immediately becomes preparation for the next thing. Nothing in the logic ever tells you to stop and collect.",
+        "apply": "Do one thing this week purely because you want to, with no productive justification available if somebody asks you why you bothered.",
+        "format": "single",
+        "tags": [
+          "presence",
+          "meaning"
+        ]
+      },
+      {
+        "id": "four-thousand-weeks-s07",
+        "hook": "Almost nothing you do matters cosmically. That is a relief, not an insult.",
+        "insight": "Measured against history, your career decisions are a rounding error, and so are your mistakes. Held as self-hatred that reads as bleak. Held accurately it removes an impossible standard. You are not obliged to justify your existence with achievement, because the scale on which achievement would register does not notice anyone at all. What is left is a smaller and more honest question: what would make the next few thousand days good for you and the handful of people near you.",
+        "why": "Much time anxiety comes from an implicit demand to matter at a scale no human ever has. Dropping the demand lowers the stakes without lowering the standards you actually chose.",
+        "apply": "Take the decision you have been agonising over and give yourself a deadline of one week, on the grounds that the cosmos is not grading it.",
+        "format": "single",
+        "tags": [
+          "perspective",
+          "anxiety"
+        ]
+      },
+      {
+        "id": "four-thousand-weeks-s08",
+        "hook": "Protect time for what matters before the day is spent, not after.",
+        "insight": "Leftover time is a myth. If your own work, exercise or reading depends on the hours remaining once everyone else has been served, it will happen a few times a year at best. The alternative is to take the slice off the top, early and non-negotiably, and let the obligations compete over what remains. It feels selfish until you notice the alternative is not generosity, it is a slow drift in which nothing of yours ever gets built.",
+        "why": "Residual claimants get paid last and usually get nothing. Treating your own priority as a fixed cost rather than a remainder is what lets it survive a busy week.",
+        "apply": "Move your most important personal project into the first hour of tomorrow, before email, and keep the slot even if you manage only twenty minutes.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Choose one project",
+            "body": "Pick a single thing that would make this year feel different: a manuscript, a fitness base, a language. One, not a portfolio, because competing priorities collapse back into leftovers."
+          },
+          {
+            "step": 2,
+            "title": "Take the slice first",
+            "body": "Book it at the start of the day or the week, before obligations land. The point is sequence, not duration. Thirty early minutes beat two theoretical evening hours."
+          },
+          {
+            "step": 3,
+            "title": "Keep it survivable",
+            "body": "Set a session length you could still manage on a bad day. A slot you keep at low effort outlives a slot you abandon at high effort."
+          },
+          {
+            "step": 4,
+            "title": "Let the rest compete",
+            "body": "Everything else fits around it, including some things that will not fit at all. That is the trade, and it only works if you genuinely let some things drop."
+          }
+        ],
+        "tags": [
+          "priorities",
+          "habits"
+        ]
+      },
+      {
+        "id": "four-thousand-weeks-s09",
+        "hook": "Impatience is what turns a hard task into an impossible one.",
+        "insight": "Anything worth doing has a rate it wants to go at, and pushing past that rate mostly produces worse work and more resistance. Reading fast enough to finish is not really reading. Practising an instrument in a hurry builds sloppy motor habits. Real skill accumulates in ordinary sessions that feel unremarkable while you are inside them. Being willing to stay with something at its own pace, day after day, is closer to a superpower than any productivity tool.",
+        "why": "Most complex skills are limited by consolidation rather than by hours squeezed in. Speed that outruns consolidation feels productive and quietly degrades the result.",
+        "apply": "Choose one long project and set a daily minimum you could sustain for a year. Do that amount and stop, even on the days it is going well.",
+        "format": "single",
+        "tags": [
+          "patience",
+          "practice"
+        ]
+      },
+      {
+        "id": "four-thousand-weeks-s10",
+        "hook": "What you attend to is what your life turns out to have been.",
+        "insight": "Experience is not made of the hours on your calendar but of the moments you actually noticed. A week spent half-present is genuinely a shorter week in memory, which is why years pass faster when everything is routine and mediated by a screen. Attention is not a resource you spend in order to get things. It is the raw material the finished life is made of, so where it goes is not a detail of the plan. It is the plan.",
+        "why": "Memory encodes what was attended to. Time spent without attention leaves little trace, so distraction shortens the felt length of a life as well as reducing its output.",
+        "apply": "Pick one daily activity, a meal or a walk or a bedtime, and do it this week with the phone in another room. Write down what you noticed.",
+        "format": "single",
+        "tags": [
+          "attention",
+          "presence"
+        ]
+      }
+    ],
+    "actions": [
+      "Count roughly how many weeks you have already used and write the number where you will see it. Let it settle before you make your next large commitment.",
+      "Name three ambitions you are quietly keeping alive and formally drop two of them this month, so the third can finally get real hours.",
+      "Take your most important personal project off the leftovers pile and give it the first slot of the day for four consecutive weeks.",
+      "Choose two areas of life you will hold at merely good enough this quarter, tell somebody which ones, and stop apologising for them."
+    ],
+    "if_you_liked": [
+      "essentialism",
+      "deep-work",
+      "the-one-thing"
+    ],
+    "not_for_you_if": "You want checklists and tactics. This is a philosophical argument that deliberately refuses to hand you a method, and it can read as fatalistic if you are early in a career.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2021 by Farrar, Straus and Giroux. All prose here is original; no wording is reproduced from the book."
+    }
+  },
+  {
+    "id": "the-one-thing",
+    "title": "The One Thing",
+    "subtitle": "The Surprisingly Simple Truth Behind Extraordinary Results",
+    "author": "Gary Keller and Jay Papasan",
+    "year": 2013,
+    "category": "productivity-focus",
+    "subcategory": "prioritisation",
+    "tags": [
+      "priorities",
+      "focus",
+      "goals",
+      "time-blocking",
+      "habits"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 10,
+    "why_it_matters": "It compressed prioritisation into a single repeatable question and one calendar rule, which is why it spread through sales teams and small businesses with no patience for a full system. Its focusing question is now standard planning vocabulary.",
+    "crux": {
+      "headline": "Ask what makes everything else easier or unnecessary",
+      "body": "Results are not spread evenly across your tasks. A small number of actions carry most of the outcome and the rest mostly make you feel busy. So instead of ranking a long list, keep narrowing until one thing is left: the action that, done now, would shrink or remove much of the list behind it. Then protect a long block of hours for it before anything else can claim them."
+    },
+    "sparks": [
+      {
+        "id": "the-one-thing-s01",
+        "hook": "Most of your results come from a few of your tasks. Find them first.",
+        "insight": "Effort and outcome are not proportional. On any real list, a couple of items move the number and the rest move your sense of accomplishment. The trap is that small items are clear, quick and satisfying, while the important one is vague and hard, so the list gets worked from the wrong end. The fix is not better ranking, it is ruthless narrowing: cut until one task is left standing and treat everything else as optional until it is done.",
+        "why": "Uneven returns show up across sales, software defects and creative output, though the neat eighty-twenty split is a rule of thumb rather than a law. The direction holds even when the ratio does not.",
+        "apply": "Take today's list and cross out everything except the single item that would matter most by Friday. Do that one first thing tomorrow.",
+        "format": "single",
+        "tags": [
+          "prioritisation",
+          "pareto"
+        ]
+      },
+      {
+        "id": "the-one-thing-s02",
+        "hook": "One question, asked at five time horizons, builds a whole plan.",
+        "insight": "The useful version of prioritising is a question rather than a list: what is the one thing you could do such that everything else gets easier or stops mattering? Asked about today it produces a task. Asked about this year it produces a project. Asked about your life it produces a direction. Run it down the ladder and each answer constrains the next, so the task on your desk this morning connects to what you actually want rather than to whatever arrived most recently.",
+        "why": "Chaining the horizons is what stops the question becoming a daily gimmick. Without the ladder, today's most important task drifts steadily toward whatever feels urgent.",
+        "apply": "Answer the question for this year, then this month, then tomorrow morning, writing each answer directly under the last one on a single page.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Start with the direction",
+            "body": "Ask what one thing would make the rest of your working life simpler if you got it right. The answer is broad and that is fine. It is a compass, not a task."
+          },
+          {
+            "step": 2,
+            "title": "Narrow to the year",
+            "body": "Given that direction, name the single outcome this year that would move it most. If you have three, you have not answered yet. Pick the one the others depend on."
+          },
+          {
+            "step": 3,
+            "title": "Cut to the month",
+            "body": "Ask what has to be true in four weeks for the yearly outcome to stay on track. This is where the answer stops sounding inspiring and starts sounding like work."
+          },
+          {
+            "step": 4,
+            "title": "Land on tomorrow",
+            "body": "Name the first block of tomorrow morning. It should be traceable up the chain, and if it is not, you are working on somebody else's priority."
+          }
+        ],
+        "tags": [
+          "focus",
+          "planning"
+        ]
+      },
+      {
+        "id": "the-one-thing-s03",
+        "hook": "If it is not blocked in the calendar, it is not really a priority.",
+        "insight": "Intentions lose to invitations. A long block reserved early in the day for your most important work is the only reliable defence, because it makes the time unavailable rather than merely spoken for. Treat it as an appointment with a client who fires people, put it at the same hour daily, and arrange meetings around it. Size matters too: an hour disappears into setup, while a long block lets you get past the shallow part of a hard problem.",
+        "why": "Calendars allocate scarce time by claim, not by importance. Blocking converts a stated priority into a physical constraint on what else can be booked.",
+        "apply": "Block your first three hours tomorrow for one task, mark the time as busy, and decline the first meeting request that lands on it.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Block the big work first",
+            "body": "Put your one thing in the calendar before anything else, for a long stretch, ideally early. Recurring daily beats clever, because a fixed hour removes the decision."
+          },
+          {
+            "step": 2,
+            "title": "Block the planning hour",
+            "body": "Reserve an hour a week to review the chain of answers and set next week's blocks. Without it, the daily block drifts back toward whatever is urgent."
+          },
+          {
+            "step": 3,
+            "title": "Block the recovery",
+            "body": "Put rest, holidays and family time in the same calendar. Unbooked recovery is the first thing an ambitious quarter quietly eats."
+          },
+          {
+            "step": 4,
+            "title": "Defend it",
+            "body": "Expect people to test the block. Offer alternative times rather than explanations, and move it only for something that genuinely outranks the goal it serves."
+          }
+        ],
+        "tags": [
+          "time-blocking",
+          "calendar"
+        ]
+      },
+      {
+        "id": "the-one-thing-s04",
+        "hook": "Multitasking is just switching, and every switch charges you a fee.",
+        "insight": "Your brain does not run two demanding tasks at once. It alternates between them and pays a cost each time it changes lane. The cost is small individually and enormous in aggregate: a fragmented hour produces far less than a whole one and the work is more error-prone. The feeling of doing several things at once is real, but what you are actually experiencing is constant restarting, which is why fragmented days leave you exhausted with little to show.",
+        "why": "Task-switching costs are among the more robust findings in attention research. People who report heavy multitasking do not escape them, and often filter distraction slightly worse.",
+        "apply": "Close every tab and app not needed for the next thirty minutes, and put your phone face down in a drawer for the whole block.",
+        "format": "single",
+        "tags": [
+          "multitasking",
+          "attention"
+        ]
+      },
+      {
+        "id": "the-one-thing-s05",
+        "hook": "Willpower is a bad thing to schedule your hardest work around.",
+        "insight": "Most people have a window each day when hard thinking is genuinely easier, and for many it comes early. Whatever the timing, the practical move is to spend that window on what matters most and let email and errands take the trough. The popular framing is that willpower drains like a battery through the day. That specific model has held up badly, but the scheduling advice survives on simpler grounds: fatigue, interruptions and accumulated obligations all rise as the day goes on.",
+        "why": "Ego depletion, the battery model of self-control, failed large replication attempts. The advice still works because attention genuinely degrades with fatigue and interruption load.",
+        "apply": "Rate your energy hourly for three days, find your best two hours, and permanently move your hardest recurring task into them.",
+        "format": "single",
+        "tags": [
+          "willpower",
+          "energy"
+        ]
+      },
+      {
+        "id": "the-one-thing-s06",
+        "hook": "A balanced life is not something you hold, only something you cross.",
+        "insight": "Anything exceptional requires a period of imbalance, because excellence is concentrated attention that other areas are not receiving. The realistic aim is not a permanently level life but a counterweighted one: go long on the thing that matters now, then deliberately swing back before the neglected part breaks. Trouble comes from staying out of balance so long that a relationship or your health passes the point where the return trip becomes expensive.",
+        "why": "Sustained focus and even coverage are mathematically in conflict when hours are fixed. Treating balance as a rhythm rather than a state makes the trade explicit instead of guilty.",
+        "apply": "Set a date now for the swing back: the week you will short-change the current priority and repay the part of life you are neglecting for it.",
+        "format": "single",
+        "tags": [
+          "balance",
+          "trade-offs"
+        ]
+      },
+      {
+        "id": "the-one-thing-s07",
+        "hook": "Line the work up so each finished piece knocks over the next.",
+        "insight": "Progress feels impossible when every task is separate and equally heavy. It gets easier when you sequence them so completing one genuinely reduces the effort of the next: build the tool before the ten jobs that need it, win the reference customer before the pitch, learn the notation before the repertoire. Sequencing is a form of leverage most plans ignore, because they order tasks by deadline or by appetite rather than by what each one unlocks.",
+        "why": "Ordering by dependency compounds. Ordering by urgency does not. The same list of tasks can take twice as long in the wrong sequence, with no change in effort.",
+        "apply": "Take your current project's task list and reorder it by what each item makes easier, then start with whatever unlocks the most work behind it.",
+        "format": "single",
+        "tags": [
+          "sequencing",
+          "leverage"
+        ]
+      },
+      {
+        "id": "the-one-thing-s08",
+        "hook": "Set a target big enough that your current method obviously cannot reach it.",
+        "insight": "A modest goal invites you to work slightly harder at what you already do. A goal several times larger forces a different question: what would somebody have to do to get there, since it clearly is not more of this? That question sends you to find people who have already done it and to copy the shape of their approach before improvising. The size of the ambition is useful mainly because of the search it triggers, not because of the motivation it supplies.",
+        "why": "Stretch targets work through method change rather than effort. They fail when they demand more effort from a method that has already hit its ceiling, so the search step is the mechanism.",
+        "apply": "Take one goal and multiply it by ten, then spend an hour finding three people who reached that level and noting how they actually did it.",
+        "format": "single",
+        "tags": [
+          "goals",
+          "models"
+        ]
+      },
+      {
+        "id": "the-one-thing-s09",
+        "hook": "You need discipline long enough to install a habit, then not much at all.",
+        "insight": "People who look highly disciplined are usually not applying constant force. They installed a few specific routines, one at a time, and now run them without deciding. That is a much smaller ask than being generally self-controlled: choose one behaviour, give it enough weeks to become automatic, and only then add another. Trying to overhaul several areas at once is what makes discipline feel like a personality trait you were never issued.",
+        "why": "Automaticity builds per behaviour rather than in general, and the time it takes varies widely between people and habits. Sequential installation respects that. Simultaneous overhauls do not.",
+        "apply": "Pick one habit tied to your most important goal and run it alone for the next sixty days before you allow yourself to add a second.",
+        "format": "single",
+        "tags": [
+          "habits",
+          "discipline"
+        ]
+      },
+      {
+        "id": "the-one-thing-s10",
+        "hook": "Every unearned yes is time stolen from the thing you said mattered.",
+        "insight": "Once you have named the one thing, saying no stops being rude and becomes arithmetic. The requests are not the problem. The problem is that each arrives with a small, specific cost and no visible connection to the goal it displaces. Deciding in advance what you protect makes refusal mechanical rather than emotional. You are not judging the request or the person, you are reporting a prior commitment that already spent the hours being asked for.",
+        "why": "Refusal is far easier when the decision was made before the request arrived. In the moment, social pressure reliably beats an abstract priority.",
+        "apply": "Write one sentence you can reuse to decline requests that land on your protected block, and use it word for word the next three times.",
+        "format": "single",
+        "tags": [
+          "saying-no",
+          "boundaries"
+        ]
+      }
+    ],
+    "actions": [
+      "Write your answer to the focusing question at three horizons, this year, this month and tomorrow, on a single page and keep it on your desk.",
+      "Book a recurring block of at least three hours each morning for your one thing, and hold it for a full month before judging the method.",
+      "Audit last week for the tasks that produced almost nothing, then delegate, batch or stop two of them permanently.",
+      "Choose one habit that serves your main goal and install it alone for sixty days, adding nothing else to your routine in that period."
+    ],
+    "if_you_liked": [
+      "essentialism",
+      "deep-work",
+      "eat-that-frog"
+    ],
+    "not_for_you_if": "You want nuance or evidence. The argument is repetitive, the research is used loosely, and the single-priority framing fits founders and salespeople better than most jobs.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2013 by Bard Press. The willpower-as-battery material rests on ego depletion, which has since failed replication; that caveat is flagged in the sparks. All prose here is original."
+    }
+  },
+  {
+    "id": "eat-that-frog",
+    "title": "Eat That Frog!",
+    "subtitle": "21 Great Ways to Stop Procrastinating and Get More Done in Less Time",
+    "author": "Brian Tracy",
+    "year": 2001,
+    "category": "productivity-focus",
+    "subcategory": "procrastination",
+    "tags": [
+      "procrastination",
+      "prioritisation",
+      "discipline",
+      "time-management",
+      "habits"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 9,
+    "why_it_matters": "It is the shortest useful book on procrastination, and its central instruction, do the hardest task first, survives translation into almost any job. For millions of readers it was the entry point to taking their own time seriously.",
+    "crux": {
+      "headline": "Do the worst task first, while the day is still yours",
+      "body": "Procrastination is not cured by feeling ready. It is cured by ordering. Identify the task you are most tempted to avoid, which is usually the one with the largest consequence attached, and do it before anything else touches the day. Everything after it becomes easier by comparison, and the low-grade dread that would otherwise have shadowed every hour disappears inside the first one."
+    },
+    "sparks": [
+      {
+        "id": "eat-that-frog-s01",
+        "hook": "Do the task you dread first, before the day can argue with you.",
+        "insight": "There is usually one task you keep sliding down the list, and it is rarely the smallest. It is the one with real consequences attached, which is exactly why it makes you uncomfortable. Doing it first works for two reasons: your morning has not yet been colonised by other people, and the dread it generates stops taxing every other hour of the day. Finish it by ten and what remains runs on a kind of surplus, because nothing left is worse.",
+        "why": "Avoidance grows with delay. Acting early removes both the accumulating anxiety and the window in which better-sounding excuses tend to arrive.",
+        "apply": "Tonight, write down the one task you would most like to avoid tomorrow. Start it within fifteen minutes of sitting down, before you open email.",
+        "format": "single",
+        "tags": [
+          "procrastination",
+          "starting"
+        ]
+      },
+      {
+        "id": "eat-that-frog-s02",
+        "hook": "Consequence tells you a task's real size. Urgency only tells you its volume.",
+        "insight": "Urgency is a poor guide because it is generated by other people. A more reliable test is consequence: what actually happens, in a month, if this gets done or does not. Tasks with large long-term consequences almost never announce themselves loudly, so they lose every contest against a ringing phone. Ranking by consequence rather than by noise usually reveals that most of your list could be delayed indefinitely without anything bad occurring at all.",
+        "why": "Importance and urgency are independent, and only urgency comes with a built-in signal. Anything measured by consequence has to be scored deliberately or it loses by default.",
+        "apply": "Score each item on today's list by what happens in a month if you skip it, then do the highest-scoring one before lunch.",
+        "format": "single",
+        "tags": [
+          "priorities",
+          "urgency"
+        ]
+      },
+      {
+        "id": "eat-that-frog-s03",
+        "hook": "Never start a day you have not already decided on paper.",
+        "insight": "A day without a written plan gets shaped by whatever arrives first, and what arrives first is almost always somebody else's priority. Writing the list the night before does two things: it decides the order while you are calm rather than reactive, and it lets the problem sit overnight so the first task is half solved when you sit down. The gain is not the list itself. It is removing decisions from the moment you are least equipped to make them.",
+        "why": "Deciding in advance separates planning from execution, so the plan is not made by the version of you that is tired, interrupted and being asked for things.",
+        "apply": "Spend the last ten minutes of today writing tomorrow's list on paper, with the first task circled and nothing else permitted before it.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Write it the night before",
+            "body": "Empty the day's leftovers and tomorrow's commitments onto one page before you stop working. Ten minutes is enough. The point is to leave nothing in your head overnight."
+          },
+          {
+            "step": 2,
+            "title": "Mark the consequences",
+            "body": "Go down the list and mark what genuinely matters in a month. Most items will not survive this pass, and that is the useful part of the exercise."
+          },
+          {
+            "step": 3,
+            "title": "Circle exactly one",
+            "body": "Choose the single task the day should be judged on. One, not three, so there is nothing left to negotiate when the morning turns noisy."
+          },
+          {
+            "step": 4,
+            "title": "Set the first move",
+            "body": "Write the first physical action of that task, small enough to start without thinking: open the file, draft the subject line, dial the number."
+          }
+        ],
+        "tags": [
+          "planning",
+          "daily-routine"
+        ]
+      },
+      {
+        "id": "eat-that-frog-s04",
+        "hook": "You will never feel ready. Ready is what the first ten minutes produce.",
+        "insight": "Motivation is mostly a consequence of starting rather than a prerequisite for it. Waiting for the mood costs you every day it does not arrive, which is most days. The practical move is to shrink the entry point until it is beneath your ability to refuse: one paragraph, one call, one page of the report. Then let momentum do the rest. Once you are inside the task, stopping starts to feel more effortful than continuing does.",
+        "why": "Starting carries the whole activation cost. Once underway, the unfinished state itself supplies some of the pull that motivation was supposed to provide.",
+        "apply": "Set a timer for ten minutes on the task you are avoiding, with full permission to stop when it rings. Most times you will not want to.",
+        "format": "single",
+        "tags": [
+          "motivation",
+          "starting"
+        ]
+      },
+      {
+        "id": "eat-that-frog-s05",
+        "hook": "A task you cannot start is usually a task you have not cut up.",
+        "insight": "Large projects resist you because they have no obvious first move, not because they are hard. Break one into pieces small enough that each has a clear beginning and end, then commit only to the first piece. Work through them one at a time or take a slice a day, and either way the project stops being a single intimidating object and becomes a queue of ordinary tasks. Most procrastination on big work is a sizing problem wearing an emotional disguise.",
+        "why": "Ambiguity predicts delay more strongly than difficulty does. Decomposition removes the ambiguity, which is why it reliably restarts a stalled project.",
+        "apply": "Take your most stalled project and write ten sub-tasks, each under thirty minutes long. Do the first one before you close the list.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Name the finished state",
+            "body": "Write one sentence describing what done looks like. A project you cannot describe as finished cannot be broken into pieces that end."
+          },
+          {
+            "step": 2,
+            "title": "Split until each piece ends",
+            "body": "Cut the work until every piece has a visible finish line and fits inside half an hour. If a piece still feels heavy, it is still two pieces."
+          },
+          {
+            "step": 3,
+            "title": "Order by dependency",
+            "body": "Put the pieces in the order where each one unlocks the next, then ignore the rest of the queue completely while you work."
+          },
+          {
+            "step": 4,
+            "title": "Do only the first",
+            "body": "Commit to piece one and nothing beyond it. Finishing something small today does more for a stalled project than replanning the whole thing again."
+          }
+        ],
+        "tags": [
+          "procrastination",
+          "planning"
+        ]
+      },
+      {
+        "id": "eat-that-frog-s06",
+        "hook": "Set the workspace up so starting requires no decisions at all.",
+        "insight": "Half of a stalled start is logistics: the file is not open, the notes are somewhere else, the desk is still covered in the last task. Every one of those is a small excuse to check something else instead. Preparing the space and the materials the night before means that when you sit down, the only available action is the work. This sounds trivial and is not, because sitting down is exactly the moment your resistance peaks.",
+        "why": "Friction at the start of a task compounds with reluctance. Removing setup steps means the first action available to you is the work itself rather than another decision.",
+        "apply": "Before you finish today, clear your desk and leave out only what tomorrow's first task needs, with the document already open on screen.",
+        "format": "single",
+        "tags": [
+          "environment",
+          "preparation"
+        ]
+      },
+      {
+        "id": "eat-that-frog-s07",
+        "hook": "The skill you are worst at is probably capping your whole output.",
+        "insight": "In most jobs, performance is limited by one weak component rather than by general ability. A strong analyst who dreads writing will delay every report. A good engineer who avoids conversations will stall on every dependency. Because the weak skill is unpleasant, it also becomes the most procrastinated, which multiplies the damage. Identifying the single limiting skill and improving it deliberately usually produces more than sharpening what you are already good at.",
+        "why": "Output tends to be constrained by the binding limitation rather than by the average. Improving a strength you already have moves a number that was never the bottleneck.",
+        "apply": "Ask a colleague which single skill, if you improved it, would help you most. Spend one hour a week on it for a quarter.",
+        "format": "single",
+        "tags": [
+          "skills",
+          "bottleneck"
+        ]
+      },
+      {
+        "id": "eat-that-frog-s08",
+        "hook": "Starting and stopping a task can triple the work it takes.",
+        "insight": "Every return to an interrupted task costs a reload: remembering where you were, rebuilding the context, finding your place. Do that five times and a job that needed forty minutes has taken two hours and come out worse. Working a single item continuously until it is genuinely finished is not a personality trait, it is a decision to refuse interruptions for a defined stretch. The rule is simple and hard: once the important task starts, it is the only thing until it is done.",
+        "why": "Resumption costs are real and largely invisible, because you feel the interruption itself but never the rebuild time that follows it.",
+        "apply": "Pick one task tomorrow and work it to completion without opening anything else, timing how long it takes against your estimate.",
+        "format": "single",
+        "tags": [
+          "focus",
+          "interruptions"
+        ]
+      },
+      {
+        "id": "eat-that-frog-s09",
+        "hook": "There is never time for everything, and always time for the main thing.",
+        "insight": "The complaint of having no time is almost always inaccurate. What is true is that there is no time for the full list, which was never achievable in the first place. There is nearly always time for the single most consequential item, because it usually needs a few hours rather than a week. Accepting the first half of that sentence stops the guilt. Acting on the second half is what makes the day count for anything.",
+        "why": "A permanently unfinishable list is the normal state of knowledge work. Treating it as an emergency produces frantic effort on small items rather than progress on large ones.",
+        "apply": "Say out loud what the main thing is today, do it, and then let yourself finish the day with the list still open.",
+        "format": "single",
+        "tags": [
+          "time-management",
+          "priorities"
+        ]
+      },
+      {
+        "id": "eat-that-frog-s10",
+        "hook": "Written goals are not magic, but vague ones fail for a real reason.",
+        "insight": "Putting a goal on paper forces the two decisions people avoid: what exactly counts as done, and by when. That is the whole mechanism and it is enough. The famous story that a study proved graduates with written goals out-earned everyone else has never been traced to an actual study, and repeating it does the idea no favours. What holds up is duller and more useful: specific, time-bound targets get pursued more consistently than vague intentions do.",
+        "why": "The written-goals study is widely quoted and appears not to exist. Specificity and deadlines do have genuine support in goal-setting research, which is the part worth keeping.",
+        "apply": "Rewrite your top goal with a number and a date attached, then write the single next physical action directly underneath it.",
+        "format": "single",
+        "tags": [
+          "goals",
+          "evidence"
+        ]
+      }
+    ],
+    "actions": [
+      "Every evening this week, write tomorrow's list on paper and circle the single task with the largest consequence attached to it.",
+      "Start each morning on that circled task before opening email or chat, and keep going for at least thirty minutes before anything else.",
+      "Take your most stalled project, cut it into sub-tasks under thirty minutes each, and complete the first one today.",
+      "Identify the one weak skill that most limits your output, and book a weekly hour to work on it for the next three months."
+    ],
+    "if_you_liked": [
+      "the-one-thing",
+      "getting-things-done",
+      "deep-work"
+    ],
+    "not_for_you_if": "You want evidence rather than exhortation. The tone is motivational, the claims are asserted rather than tested, and the twenty-one tactics overlap heavily.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2001 by Berrett-Koehler, with later revised editions. Motivational literature of this era often repeats an unsourced written-goals study; that is flagged in the sparks. All prose here is original."
+    }
+  },
+  {
+    "id": "indistractable",
+    "title": "Indistractable",
+    "subtitle": "How to Control Your Attention and Choose Your Life",
+    "author": "Nir Eyal",
+    "year": 2019,
+    "category": "productivity-focus",
+    "subcategory": "focus-attention",
+    "tags": [
+      "attention",
+      "distraction",
+      "habits",
+      "technology",
+      "self-control"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "It moved the distraction argument away from blaming apps and toward the internal discomfort that sends you looking for them. It is also unusual in coming from someone who previously taught companies how to build the hooks.",
+    "crux": {
+      "headline": "Distraction starts inside you, not in the device",
+      "body": "The pull to check something is usually an escape from an uncomfortable internal state: boredom, uncertainty, anxiety, fatigue. Apps exploit that state but they did not create it, which is why deleting them relocates the problem instead of solving it. The durable fix has four layers: handle the internal trigger, plan your time so distraction becomes definable, remove the external prompts, and make quitting a session genuinely inconvenient."
+    },
+    "sparks": [
+      {
+        "id": "indistractable-s01",
+        "hook": "You cannot call something a distraction until you planned what it displaced.",
+        "insight": "Distraction only means being pulled away from something you intended to do. Without a plan for the hour there is nothing to be pulled away from, so an afternoon on the feed is not technically a distraction, just an unplanned afternoon. This is why people who feel constantly distracted often have no schedule at all beyond meetings. Deciding in advance what each block of time is for converts a vague sense of wasted days into a specific, fixable gap.",
+        "why": "The judgement requires a reference point. Planning supplies it, which is why filling the calendar does more for felt focus than blocking software usually does.",
+        "apply": "Fill tomorrow's whole day in the calendar, including rest and scrolling, then compare at night what you actually did against what you planned.",
+        "format": "single",
+        "tags": [
+          "planning",
+          "attention"
+        ]
+      },
+      {
+        "id": "indistractable-s02",
+        "hook": "Every distraction begins with a feeling you would rather not have.",
+        "insight": "Watch closely and the sequence is always the same. A small discomfort appears, boredom in a slow meeting, uncertainty about how to start, a flicker of loneliness, and within a second you are holding your phone without any decision having been made. The device is the exit, not the cause. Which means the real skill is noticing the feeling in the gap before the reach, and being willing to stay with it for a few uncomfortable seconds.",
+        "why": "Behaviour that reliably relieves discomfort gets reinforced fast. Remove the app and the discomfort persists, so the search for an exit simply continues elsewhere.",
+        "apply": "For three days, log the feeling that came immediately before each unplanned phone check. One word each time, nothing more than that.",
+        "format": "single",
+        "tags": [
+          "triggers",
+          "emotions"
+        ]
+      },
+      {
+        "id": "indistractable-s03",
+        "hook": "Four moves, in order: the feeling, the plan, the pings, the pact.",
+        "insight": "Attention problems are usually attacked at one layer only, which is why the fix never holds. Handle the internal discomfort and you still drift without a plan. Make a plan and the notifications still interrupt it. Silence the notifications and you still quit the hard task when it turns tedious. The four layers work because each closes a different escape route, and the order matters: start inside, then structure the time, then the environment, then the commitment that makes leaving costly.",
+        "why": "Single-layer fixes fail predictably. Each layer addresses a different mechanism, so removing only one leaves the others free to reproduce the same behaviour.",
+        "apply": "Score yourself out of ten on each of the four layers this week, then spend the next fortnight working only on the weakest one.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Handle the feeling",
+            "body": "Notice the discomfort that precedes the reach and stay with it for ten seconds before acting. Curiosity about the sensation works better than fighting it does."
+          },
+          {
+            "step": 2,
+            "title": "Plan the time",
+            "body": "Give every hour of the week a job, including leisure. A plan is the thing that makes an interruption identifiable as an interruption at all."
+          },
+          {
+            "step": 3,
+            "title": "Cut the prompts",
+            "body": "Turn off notifications you did not consciously choose, leave the phone in another room, and unsubscribe from lists rather than filtering them."
+          },
+          {
+            "step": 4,
+            "title": "Make quitting costly",
+            "body": "Add a pact: an app that locks the session, a colleague who checks in, money on the line. Effort at the exit beats willpower in the middle."
+          }
+        ],
+        "tags": [
+          "framework",
+          "attention"
+        ]
+      },
+      {
+        "id": "indistractable-s04",
+        "hook": "If your calendar is only meetings, it is other people's plan for you.",
+        "insight": "Giving every hour a purpose in advance, including exercise, family, admin and doing nothing, is not about precision. The day will deviate. The value is that deviations become visible and negotiable instead of invisible. It also forces an honest look at your values: if there is no block for the people you say matter most, the claim is untested. Reviewing the plan against reality each week turns a fantasy schedule into a working one.",
+        "why": "Unbooked time is claimed by default by whoever asks first. A plan makes the trade-offs explicit rather than letting them happen quietly on your behalf.",
+        "apply": "Build a full weekly template with blocks for work, relationships and yourself. Review it on Friday and change one block for next week.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Start from your values",
+            "body": "List what the week should serve: your work, the people close to you, your body. Blocks come from these, not from whatever is sitting in your inbox."
+          },
+          {
+            "step": 2,
+            "title": "Book the fixed points",
+            "body": "Sleep, meals, exercise, family and anything you genuinely cannot move go in first. Everything else fits around them, not the other way round."
+          },
+          {
+            "step": 3,
+            "title": "Give work hours a job",
+            "body": "Split working time into reflective blocks for hard thinking and reactive blocks for messages, so email has a slot instead of a permanent seat."
+          },
+          {
+            "step": 4,
+            "title": "Review on Friday",
+            "body": "Compare the plan with what happened and change the template rather than your self-esteem. The schedule is a hypothesis you retest every week."
+          }
+        ],
+        "tags": [
+          "timeboxing",
+          "calendar"
+        ]
+      },
+      {
+        "id": "indistractable-s05",
+        "hook": "Most notifications are somebody else deciding when you concentrate.",
+        "insight": "External triggers are only useful when they serve something you planned, and nearly all of them do not: a badge, a buzz, a mail that arrives mid-sentence. The test is simple. Does this prompt serve me, or does it serve whoever sent it? Anything failing gets turned off, delayed, or moved out of reach. It is a one-off hour of configuration that pays back every working day, and most people have never once done it deliberately.",
+        "why": "An interruption costs far more than the seconds it takes, because rebuilding the context you lost is slow and error-prone even when the interruption was brief.",
+        "apply": "Spend thirty minutes turning off every notification that fails that test, then move your two most reflexive apps off the home screen.",
+        "format": "single",
+        "tags": [
+          "notifications",
+          "environment"
+        ]
+      },
+      {
+        "id": "indistractable-s06",
+        "hook": "Make leaving the task harder than staying inside it.",
+        "insight": "When willpower is the only thing between you and an exit, the exit usually wins. Pacts work by raising the cost of leaving: a timer that locks the browser, a friend who expects a message when the session ends, money you forfeit if you quit early. The trick is that the commitment gets made while you are clear-headed and enforced when you are not. It does not replace the other layers, but it catches the failures they miss.",
+        "why": "Precommitment reliably changes behaviour when the future self is predictably weaker. It fails when the pact is easy to undo in the moment, so the friction has to be genuine.",
+        "apply": "Set a pact for tomorrow's session: tell one person exactly what you will finish and when you will report back to them.",
+        "format": "single",
+        "tags": [
+          "precommitment",
+          "accountability"
+        ]
+      },
+      {
+        "id": "indistractable-s07",
+        "hook": "Calling yourself an addict is a way of predicting your own defeat.",
+        "insight": "The language of addiction gets used loosely for ordinary overuse, and it carries a cost: believing you are powerless makes relapse feel inevitable and effort pointless. Some people genuinely develop compulsive patterns that need real help. Most do not, and are better served by treating the behaviour as a habit with identifiable triggers. This framing is contested, since other researchers argue persuasive design makes the comparison fair, so hold it lightly.",
+        "why": "Beliefs about self-control shape behaviour. The claim that most technology overuse is not addiction is genuinely disputed, so treat it as one credible position rather than a settled finding.",
+        "apply": "Replace the sentence about being addicted with a specific one: name the trigger, the time of day, and the feeling involved.",
+        "format": "single",
+        "tags": [
+          "self-talk",
+          "evidence"
+        ]
+      },
+      {
+        "id": "indistractable-s08",
+        "hook": "Beating yourself up after a lapse makes the next lapse more likely.",
+        "insight": "Shame is a bad regulator. After a wasted evening, harsh self-judgement adds exactly the kind of discomfort that sends you looking for another escape, which is how one lost hour becomes a lost week. Treating the lapse as information instead, what the trigger was, what the plan had been, where it broke, keeps you in the problem-solving mode where change actually happens. Being gentle here is not indulgence, it is maintenance of the mechanism you depend on.",
+        "why": "Self-criticism generates the internal discomfort that drives escape behaviour, so it feeds the loop it is meant to punish. Self-compassion research supports the gentler approach, though effects are modest.",
+        "apply": "After the next lapse, write three neutral sentences: what triggered it, what you had planned instead, and what you will change tomorrow.",
+        "format": "single",
+        "tags": [
+          "self-compassion",
+          "relapse"
+        ]
+      },
+      {
+        "id": "indistractable-s09",
+        "hook": "Your job design is a bigger distraction than your phone is.",
+        "insight": "In many workplaces constant interruption is the culture rather than a personal failing: replies expected within minutes, meetings stacked without gaps, no norm that protects concentration. Individual tactics have a low ceiling there. What changes it is a team agreement, a channel that is asynchronous by default, a shared signal that means do not disturb, a meeting with an owner and an agenda. Distraction is often an organisational problem being handled as a self-help problem.",
+        "why": "When interruption is rewarded and availability is measured, individual discipline is fighting the incentive structure directly, and it generally loses.",
+        "apply": "Propose one team norm this week: a two-hour no-meeting block, or an agreement that chat replies are expected within four hours rather than four minutes.",
+        "format": "single",
+        "tags": [
+          "workplace",
+          "culture"
+        ]
+      },
+      {
+        "id": "indistractable-s10",
+        "hook": "Banning a child's screen time without asking why they use it fails.",
+        "insight": "Children reach for screens for the same reasons adults do, and often for one specific reason: the competence, belonging or autonomy they are not getting elsewhere. Blanket restriction treats the symptom and reliably produces a workaround. Involving them in setting the rules returns some of the autonomy the device was supplying, and holds up better than a rule handed down. The evidence on screen-time harms is noisier than headlines suggest, so proportion helps.",
+        "why": "Rules children help set are followed more consistently than imposed ones. Screen-time research is largely correlational and the reported effect sizes are small and heavily contested.",
+        "apply": "Ask your child what they get from the app they use most, then set the limit together and write it where you can both see it.",
+        "format": "single",
+        "tags": [
+          "parenting",
+          "screen-time"
+        ]
+      }
+    ],
+    "actions": [
+      "Keep a three-day log of the feeling that precedes each unplanned check of your phone, then pick the most common one and plan a different response.",
+      "Build a weekly timeboxed template covering work, relationships and rest, and review it every Friday for a month, adjusting the template rather than blaming yourself.",
+      "Spend one hour auditing every notification on every device, keeping only the prompts that serve something you planned.",
+      "Set one pact for your hardest recurring task, such as a locked session or a person you report to, and run it for two weeks."
+    ],
+    "if_you_liked": [
+      "deep-work",
+      "digital-minimalism",
+      "make-time"
+    ],
+    "not_for_you_if": "You believe platform design is the main problem and want a structural critique. The framing puts most of the responsibility on the individual, which some readers find lets tech companies off.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2019 by BenBella, written with Julie Li. The argument that most technology overuse is not addiction is contested by other researchers; that is flagged in the sparks. All prose here is original."
+    }
+  },
+  {
+    "id": "digital-minimalism",
+    "title": "Digital Minimalism",
+    "subtitle": "Choosing a Focused Life in a Noisy World",
+    "author": "Cal Newport",
+    "year": 2019,
+    "category": "productivity-focus",
+    "subcategory": "focus-attention",
+    "tags": [
+      "technology",
+      "social-media",
+      "attention",
+      "solitude",
+      "leisure"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 10,
+    "why_it_matters": "It gave people a positive reason to use less technology rather than a guilty one, and its month-long reset became the template that thousands of readers copied for their own break from the feeds.",
+    "crux": {
+      "headline": "Start from what you value, then admit the tools",
+      "body": "The usual approach is to adopt a tool because it offers some benefit, then try to limit the damage afterwards. Reverse it. Decide what you actually want your life to contain, close relationships, real leisure, quiet thinking, and admit only the technologies that serve those directly, used in a stated way at a stated time. A benefit that is merely nice does not earn a permanent claim on your attention."
+    },
+    "sparks": [
+      {
+        "id": "digital-minimalism-s01",
+        "hook": "Any benefit at all is not a good enough reason to keep an app.",
+        "insight": "The argument for most platforms is that they offer something useful: a few interesting links, occasional contact with old friends. That is true and irrelevant, because the cost is not measured against zero but against what the same hours could otherwise have held. A tool earns a place only if it serves something you actually care about, and does so better than the alternatives. Judged that way, most of what is on your phone is paying rent in small change.",
+        "why": "Any-benefit reasoning ignores cost entirely. Once the comparison is made against the best alternative use of the time, most marginal apps stop qualifying.",
+        "apply": "Take the three apps you use most and write what each one is actually for. If any answer is vague, remove it for thirty days.",
+        "format": "single",
+        "tags": [
+          "technology",
+          "evaluation"
+        ]
+      },
+      {
+        "id": "digital-minimalism-s02",
+        "hook": "Thirty days away is what makes the decision about which tools to keep.",
+        "insight": "Cutting back gradually rarely works, because the pull is strongest at exactly the moments you are trying to negotiate. A clean break of about a month does something different. It breaks the reflex, gives back enough empty time to reveal what you genuinely miss, and forces you to rebuild leisure that does not involve a screen. Then you reintroduce tools deliberately, one at a time, each with a purpose and rules. Most people bring back far less than they expected.",
+        "why": "A month is long enough to pass the withdrawal phase and to find replacements. Gradual reduction leaves the habit loop intact, which is why it tends to rebound.",
+        "apply": "Pick a start date within two weeks, list the optional technologies you will stop for thirty days, and tell someone who will ask you about it.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Name what stops",
+            "body": "List the optional technologies: social feeds, video, news apps, games. Anything not required for work or essential logistics goes on the list."
+          },
+          {
+            "step": 2,
+            "title": "Fill the space first",
+            "body": "Decide in advance what the freed hours contain, a craft, exercise, reading, seeing people. Empty time with no plan is what ends most resets early."
+          },
+          {
+            "step": 3,
+            "title": "Take the full month",
+            "body": "Go a clean thirty days. The first week is uncomfortable and unrepresentative. The useful information arrives in weeks three and four."
+          },
+          {
+            "step": 4,
+            "title": "Readmit on purpose",
+            "body": "Bring back only tools that serve something you value, each with rules: which purpose, which hours, which device. No rules means no reintroduction."
+          }
+        ],
+        "tags": [
+          "reset",
+          "habits"
+        ]
+      },
+      {
+        "id": "digital-minimalism-s03",
+        "hook": "Never being alone with your thoughts is a new condition, and it costs.",
+        "insight": "Solitude is not being physically alone. It is spending time with no input from other minds: no podcast, no feed, no messages. That state is where you process difficult feelings, form your own opinions and get ideas that are actually yours. A phone in a pocket makes it possible to avoid it entirely for months without noticing, since every queue and every walk can be filled. The absence shows up as restlessness and a strange difficulty making up your own mind.",
+        "why": "The claim is argued from history and reasoning more than experiment, and the links between phone use and youth mental health are genuinely contested. The solitude point stands on its own terms.",
+        "apply": "Take one walk this week with no phone at all, not even for music, and let the first twenty minutes of boredom simply pass.",
+        "format": "single",
+        "tags": [
+          "solitude",
+          "thinking"
+        ]
+      },
+      {
+        "id": "digital-minimalism-s04",
+        "hook": "Likes and replies are a poor substitute for an actual conversation.",
+        "insight": "Interaction on platforms is cheap in every sense. It costs seconds, it carries little information, and it lets you feel connected while sustaining nothing. Real relationships run on higher-bandwidth contact, voice, faces, shared time, which is expensive and therefore limited. The problem is not that the cheap kind exists but that it satisfies the urge just enough to stop the expensive kind happening. You end up with many contacts and very few conversations.",
+        "why": "Low-bandwidth exchange partly satisfies the social drive without delivering what a relationship needs, so it substitutes for connection rather than adding to it.",
+        "apply": "Set aside two hours a week as available for calls, tell your closest friends the window, and stop replying to comments in place of talking.",
+        "format": "single",
+        "tags": [
+          "relationships",
+          "social-media"
+        ]
+      },
+      {
+        "id": "digital-minimalism-s05",
+        "hook": "Your attention is the product, and the design reflects that.",
+        "insight": "Feeds are not neutral containers. Intermittent rewards, social approval scored in numbers, and a scroll with no natural end are deliberate choices, tested against engagement metrics by large and well-paid teams. Understanding this changes the frame from personal weakness to a mismatch in resources: you are improvising against something optimised. That is not an excuse, but it explains why willpower alone performs so badly and why structural rules perform so much better.",
+        "why": "Attention-based business models reward time on site. The design choices follow from the incentive, which is why the same pull shows up across otherwise different products.",
+        "apply": "Remove the two apps you open most reflexively from your phone and use them only in a browser, on a laptop, at a set time.",
+        "format": "single",
+        "tags": [
+          "attention-economy",
+          "design"
+        ]
+      },
+      {
+        "id": "digital-minimalism-s06",
+        "hook": "Deleting the app is easy. Having something better to do is the hard part.",
+        "insight": "Most attempts at cutting back fail on the same evening: the day ends, there is nothing to do, and the screen is the only option present. Quality leisure has to be built in advance, and the useful kind is usually demanding, a craft that produces something, a physical activity with skill in it, a group that expects you to turn up. Passive consumption fills time. Effortful leisure actually restores you, which is what makes it competitive with the feed.",
+        "why": "Structured, skilful activity is more restorative than passive consumption, and it comes with social ties and visible progress that a feed cannot supply.",
+        "apply": "Choose one skill-based hobby, buy the minimum equipment this week, and put two sessions in the calendar before the weekend is over.",
+        "format": "single",
+        "tags": [
+          "leisure",
+          "hobbies"
+        ]
+      },
+      {
+        "id": "digital-minimalism-s07",
+        "hook": "Making things beats consuming them, even when you are tired.",
+        "insight": "Producing something physical, repairing a bike, cooking properly, building a shelf, playing an instrument, gives a specific satisfaction that consumption does not, because the result is external, visible and yours. The reason people default to consumption instead is that it has no setup cost and no risk of doing it badly. Accepting a stretch of being bad at something is the entry fee, and it is considerably lower than it looks from the sofa.",
+        "why": "Craft supplies feedback, skill growth and a finished object. Consumption supplies stimulation, which stops the moment the screen does.",
+        "apply": "Fix or build one thing this month with your hands, ideally something you would otherwise have paid somebody else to do for you.",
+        "format": "single",
+        "tags": [
+          "craft",
+          "making"
+        ]
+      },
+      {
+        "id": "digital-minimalism-s08",
+        "hook": "A tool without rules will expand until it fills the day.",
+        "insight": "Deciding to keep an app is only half a decision. The other half is the operating rules: what it is for, when you use it, on which device, and how you know a session should end. Without those, use drifts back to whatever the design encourages, which is always more. Written rules feel excessive for about a week and then become invisible, the same way not eating in bed stops requiring willpower once it is simply what you do.",
+        "why": "Defaults are set by the product unless you set them. A stated rule replaces the moment-by-moment decision that the design was built to win.",
+        "apply": "Write a one-line rule for each app you keep, covering purpose, time and device, then keep it visible for a fortnight.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "State the purpose",
+            "body": "One sentence on what this tool is for. If you cannot write a use that matters to you, you have your answer about whether it stays."
+          },
+          {
+            "step": 2,
+            "title": "Fix the window",
+            "body": "Name when it may be used: twenty minutes after lunch, Sunday evenings, weekdays only. Anytime access is what quietly erases the rule."
+          },
+          {
+            "step": 3,
+            "title": "Choose the device",
+            "body": "Move optional tools to the least convenient device you own. A laptop-only rule cuts casual use more than any screen-time setting will."
+          },
+          {
+            "step": 4,
+            "title": "Define the exit",
+            "body": "Decide what ends a session before it starts: a message sent, a timer, a page closed. Feeds have no natural stopping point, so you supply one."
+          }
+        ],
+        "tags": [
+          "rules",
+          "technology"
+        ]
+      },
+      {
+        "id": "digital-minimalism-s09",
+        "hook": "Joining a group in person does more for you than any settings change.",
+        "insight": "Time reclaimed from screens goes stale unless something claims it. Groups that meet physically and expect you to show up, a club, a class, a team, a volunteer shift, do that better than solo intentions, because other people notice an absence. They also supply the connection platforms imitate: shared activity, real conversation, people who know your circumstances. It is a slower and more awkward path than opening an app, and it is the one that works.",
+        "why": "Commitment to other people is a stronger scheduling force than personal resolve, and shared activity is the format most digital substitutes are trying to approximate.",
+        "apply": "Find one group that meets weekly near you and attend twice before deciding anything about it. Two visits is the honest minimum.",
+        "format": "single",
+        "tags": [
+          "community",
+          "connection"
+        ]
+      },
+      {
+        "id": "digital-minimalism-s10",
+        "hook": "Nobody chose this. It accumulated, one reasonable install at a time.",
+        "insight": "Almost nobody sat down and decided to spend several hours a day on a handful of platforms. It arrived one small yes at a time: an app for a specific purpose, a notification left switched on, an account kept for one friend. Since it was never chosen as a whole, it can be unchosen as a whole. The point of an explicit philosophy is that you make the decision once, deliberately, rather than a hundred times a day against a system built to win those arguments.",
+        "why": "Drift accumulates because each individual step is trivially defensible. A single explicit policy is far easier to hold than repeated in-the-moment judgement.",
+        "apply": "Write a short paragraph stating how you intend to use technology and what it is for, then check your phone against it tonight.",
+        "format": "single",
+        "tags": [
+          "intention",
+          "philosophy"
+        ]
+      }
+    ],
+    "actions": [
+      "Run a full thirty-day break from optional technologies, deciding first what the freed hours will contain so the time does not sit empty.",
+      "Reintroduce tools one at a time after the break, writing for each one its purpose, its permitted hours and the device it lives on.",
+      "Take one phone-free walk a day for a fortnight and note what you think about once the first stretch of boredom passes.",
+      "Join one group that meets in person every week and commit to attending for two months before judging whether it suits you."
+    ],
+    "if_you_liked": [
+      "deep-work",
+      "indistractable",
+      "four-thousand-weeks"
+    ],
+    "not_for_you_if": "Your work or your community genuinely lives on these platforms, or you want data rather than argument. The evidence is largely historical and anecdotal rather than experimental.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published February 2019 by Portfolio. Claims linking smartphone use to youth mental health decline are contested in the research literature; that is flagged in the sparks. All prose here is original."
+    }
+  },
+  {
+    "id": "so-good-they-cant-ignore-you",
+    "title": "So Good They Can't Ignore You",
+    "subtitle": "Why Skills Trump Passion in the Quest for Work You Love",
+    "author": "Cal Newport",
+    "year": 2012,
+    "category": "productivity-focus",
+    "subcategory": "career-craft",
+    "tags": [
+      "career",
+      "skills",
+      "passion",
+      "deliberate-practice",
+      "autonomy"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "It made the case against following your passion at the moment that advice was at its peak, and offered a more workable alternative: become rare and valuable at something first, then trade that value for the work you actually want.",
+    "crux": {
+      "headline": "Skill comes first, and passion follows the skill",
+      "body": "Passion is usually a result of doing something well rather than a prerequisite you discover in advance. So stop auditioning careers for a feeling of destiny and start accumulating skills that are rare and valuable. That accumulation is the currency you later spend on what genuinely makes work satisfying: control over your time, a mission you believe in, and the standing to refuse things. Without the currency, those demands get ignored."
+    },
+    "sparks": [
+      {
+        "id": "so-good-they-cant-ignore-you-s01",
+        "hook": "Follow your passion is advice that assumes you already have one.",
+        "insight": "The instruction to find work you love implies a pre-existing passion waiting to be matched to a job. Most people do not have one, and those who do often find it corresponds to nothing anyone will pay for. Worse, the advice sets an impossible test for any real job, which will be tedious by month three however well matched it is. Chronic dissatisfaction is a predictable output of the frame, not a sign you chose wrong.",
+        "why": "Research on how people relate to work suggests a sense of calling tends to grow with experience and mastery rather than being identified in advance and then matched.",
+        "apply": "Stop asking whether this job is your passion. Ask instead what skill it lets you build that would be valuable somewhere else too.",
+        "format": "single",
+        "tags": [
+          "passion",
+          "career"
+        ]
+      },
+      {
+        "id": "so-good-they-cant-ignore-you-s02",
+        "hook": "Ask what you can offer before you ask what the job owes you.",
+        "insight": "One stance asks whether a role is fulfilling enough, whether it fits, whether it deserves you. The other asks what you are producing and how to make it better. The second is uncomfortable because it removes the comforting explanation that dissatisfaction is your employer's fault, and it works because markets pay for output rather than for enthusiasm. Focusing on the quality of what you produce also happens to be the fastest route to the freedom the first stance wants.",
+        "why": "Value has to exist before it can be traded. Focusing on output builds the leverage that focusing on fit merely demands and rarely receives.",
+        "apply": "Name the single most valuable thing you produce at work, then spend one hour this week deliberately improving how you do it.",
+        "format": "single",
+        "tags": [
+          "craft",
+          "mindset"
+        ]
+      },
+      {
+        "id": "so-good-they-cant-ignore-you-s03",
+        "hook": "Rare and valuable skills are the only real career currency.",
+        "insight": "The things that make work good, control over your hours, interesting problems, the ability to refuse, are all rare, which means they are expensive. Nobody hands them out because you asked nicely or because you want them badly. You buy them with skills that are hard to find and clearly useful, built over years. This is why career advice that skips the accumulation stage produces frustration. It describes the purchase without mentioning the price.",
+        "why": "Scarce benefits go to people with scarce skills, because that is the only leverage an employer or a market actually responds to.",
+        "apply": "List the skills that would make you hard to replace in your field, pick the one you are furthest along, and put weekly hours against it.",
+        "format": "single",
+        "tags": [
+          "skills",
+          "leverage"
+        ]
+      },
+      {
+        "id": "so-good-they-cant-ignore-you-s04",
+        "hook": "Doing your job for ten years is not the same as ten years of practice.",
+        "insight": "Most people improve rapidly for a year or two and then plateau, because ordinary work rewards comfortable performance rather than stretch. Getting genuinely good requires the harder pattern: work slightly beyond your current ability, get feedback fast enough to correct, and keep going past the point where it stops being enjoyable. Almost nobody does this at work voluntarily, which is exactly why it separates people. The famous ten thousand hours figure oversells the precision, but the mechanism is real.",
+        "why": "Deliberate practice beats mere experience, though how much it explains varies a lot by field, and the ten-thousand-hour number is a rough average rather than a threshold.",
+        "apply": "Choose one skill, define what a level above your current one looks like, and build a weekly session that includes real feedback from someone better.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Pick a single skill",
+            "body": "Name one concrete capability rather than a job title: writing analyses that get acted on, running a room, debugging systems you did not build."
+          },
+          {
+            "step": 2,
+            "title": "Work at the edge",
+            "body": "Choose tasks slightly beyond your current level, where failure is genuinely possible. Comfortable repetition is precisely where improvement stops."
+          },
+          {
+            "step": 3,
+            "title": "Get feedback fast",
+            "body": "Find someone better than you to review the work, or build a measure you cannot argue with. Practice without feedback only rehearses your mistakes."
+          },
+          {
+            "step": 4,
+            "title": "Book it, do not hope",
+            "body": "Put the sessions in the calendar and expect them to feel unpleasant. That strain is the signal that you are working in the right region."
+          }
+        ],
+        "tags": [
+          "deliberate-practice",
+          "skills"
+        ]
+      },
+      {
+        "id": "so-good-they-cant-ignore-you-s05",
+        "hook": "Autonomy demanded too early gets refused, and fairly.",
+        "insight": "Asking for control over your work before you have built anything valuable produces a polite no, because there is no reason to grant it. Asking after you have become hard to replace usually produces a yes, since the cost of losing you now exceeds the cost of flexibility. The test is simple and unsentimental. If nobody would notice your absence, the leverage is not there yet. Build the skills first and the conversation becomes short.",
+        "why": "Bargaining power comes from replacement cost. Without it, a request for autonomy is only a preference. With it, the same request becomes a negotiation.",
+        "apply": "Before asking for a change in how you work, write the honest case for why replacing you would be difficult. If it reads thin, build first.",
+        "format": "single",
+        "tags": [
+          "autonomy",
+          "negotiation"
+        ]
+      },
+      {
+        "id": "so-good-they-cant-ignore-you-s06",
+        "hook": "If nobody is trying to stop you, you may not be doing anything valuable.",
+        "insight": "There is a useful signal buried in resistance. When you ask for more control and people push back, it often means what you do is worth enough that they want it kept as it is. When they agree instantly, it can mean the opposite: your work is easy to reorganise because it is easy to replace. The test is imperfect and easy to misread, since a manager can simply be generous, but it beats your own sense of readiness.",
+        "why": "This is a heuristic drawn from cases rather than a tested rule, and it misleads badly in poorly run organisations where resistance is the default answer to everything.",
+        "apply": "Next time you request more freedom, watch the reaction. Treat instant agreement as a prompt to check how replaceable your work really is.",
+        "format": "single",
+        "tags": [
+          "autonomy",
+          "signals"
+        ]
+      },
+      {
+        "id": "so-good-they-cant-ignore-you-s07",
+        "hook": "A mission worth pursuing sits just beyond what your field can already do.",
+        "insight": "Compelling missions do not come from introspection. They come from standing at the current edge of a field and seeing what has just become possible, which requires knowing the field well enough to see the edge at all. That is why a mission is a mid-career move rather than a starting point, and why the search for one at twenty-two so often produces something vague and borrowed. Expertise is what makes the next possibility visible in the first place.",
+        "why": "Ideas that look obvious in hindsight tend to occur to several experts at once, which suggests the edge of a field generates them rather than individual vision.",
+        "apply": "Spend two hours a month reading the newest work in your field and keep a running list of the questions that seem newly answerable.",
+        "format": "single",
+        "tags": [
+          "mission",
+          "expertise"
+        ]
+      },
+      {
+        "id": "so-good-they-cant-ignore-you-s08",
+        "hook": "Test a big change with small bets before you bet the career.",
+        "insight": "A mission is not executed in one leap. It is approached with small, cheap experiments that produce fast feedback: a side project, a talk, an article, a pilot with a single client. Each takes weeks rather than years, and each tells you whether the direction has any real pull. Most will fail, which is exactly why they stay small. People who quit everything for an untested idea are not being brave, they are skipping the information-gathering stage.",
+        "why": "Small tests convert an unfalsifiable belief into evidence at low cost. Because the failure rate is high, the size of each bet matters more than the quality of the idea.",
+        "apply": "Define one experiment you can finish within a month that would tell you something real about a direction you are considering.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Write the smallest test",
+            "body": "Define something you can finish within a month that produces real feedback: one paid job, one published piece, one working prototype in front of a user."
+          },
+          {
+            "step": 2,
+            "title": "Set the cost cap",
+            "body": "Decide in advance what you will spend in money and hours. A bet you cannot afford to lose will distort how you read the result."
+          },
+          {
+            "step": 3,
+            "title": "Name what would count",
+            "body": "Write the outcome that would justify continuing, before you start. Otherwise every result gets read as mildly encouraging and nothing is learned."
+          },
+          {
+            "step": 4,
+            "title": "Kill it or double it",
+            "body": "Review against that criterion and act. Most experiments should end, and the value comes from ending them quickly rather than nursing them along."
+          }
+        ],
+        "tags": [
+          "experiments",
+          "strategy"
+        ]
+      },
+      {
+        "id": "so-good-they-cant-ignore-you-s09",
+        "hook": "Courage is not the missing ingredient in most stalled careers.",
+        "insight": "The story that only fear stands between you and remarkable work is flattering and usually wrong. Quitting takes nerve. It does not create value. If you leave with nothing rare to offer, the new venture meets the same market as the old job did, and you have less runway to survive it. The uncomfortable version is that most people who feel stuck do not need more courage, they need another two years of getting genuinely good at something specific.",
+        "why": "Advice to be brave is over-represented in survivor stories. People who leapt without skills and failed do not write books, which distorts the visible base rate badly.",
+        "apply": "Before any leap, write what you would sell on day one and who has paid for that before. If you cannot answer, stay and build.",
+        "format": "single",
+        "tags": [
+          "risk",
+          "survivorship-bias"
+        ]
+      },
+      {
+        "id": "so-good-they-cant-ignore-you-s10",
+        "hook": "The case here rests on stories, and stories select themselves.",
+        "insight": "The argument is built from case studies of people who succeeded, which is a weak form of evidence even when the reasoning is sound. There will have been people who patiently accumulated rare skills and still ended up in dull work, and none of them appear in the interviews. Take the core claim seriously, since skills before satisfaction is a better default than passion-hunting, while holding the supporting stories lightly. The mechanism is more convincing than the sampling.",
+        "why": "Selecting subjects by outcome cannot show what caused the outcome. That is survivorship bias, and it affects nearly all career advice built on interviews with successful people.",
+        "apply": "When any career book convinces you, ask who would have been interviewed if the method had failed, and what that group would look like.",
+        "format": "single",
+        "tags": [
+          "evidence",
+          "survivorship-bias"
+        ]
+      }
+    ],
+    "actions": [
+      "Write down the two or three skills in your field that are genuinely rare and valuable, and pick the one you are best placed to build over the next two years.",
+      "Design a weekly deliberate practice session for that skill, working just beyond your current level and getting feedback from someone better than you.",
+      "Audit your current leverage honestly by writing the case for why you would be hard to replace, then use it or build it before asking for more control.",
+      "Run one month-long experiment on a direction you are curious about, with a written criterion for continuing or stopping decided before you begin."
+    ],
+    "if_you_liked": [
+      "deep-work",
+      "the-one-thing",
+      "four-thousand-weeks"
+    ],
+    "not_for_you_if": "You are in a field where credentials or connections dominate, or your dissatisfaction is about conditions rather than skill. The advice underplays luck, money and who you know.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published September 2012 by Business Plus. The supporting evidence is case-based and vulnerable to survivorship bias; that is flagged in the sparks. All prose here is original."
+    }
+  },
+  {
+    "id": "make-time",
+    "title": "Make Time",
+    "subtitle": "How to Focus on What Matters Every Day",
+    "author": "Jake Knapp and John Zeratsky",
+    "year": 2018,
+    "category": "productivity-focus",
+    "subcategory": "daily-routines",
+    "tags": [
+      "daily-routine",
+      "focus",
+      "energy",
+      "attention",
+      "habits"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 10,
+    "why_it_matters": "It is a menu rather than a system: dozens of small tactics, each testable in a single day, from two designers who spent years building the products that eat attention. Its daily loop of choosing one priority is the most portable idea in the genre.",
+    "crux": {
+      "headline": "Choose one thing a day and build a wall around it",
+      "body": "The default state of a modern day is a stream of messages, feeds and other people's meetings, and it will consume every hour you do not claim. The alternative is a small daily loop: pick one thing that would make the day feel worthwhile, put barriers around the time it needs, treat energy as a physical input rather than a mood, then look back at night and adjust. Small tested tactics beat a total system."
+    },
+    "sparks": [
+      {
+        "id": "make-time-s01",
+        "hook": "Pick one thing today that would make the day count. Just one.",
+        "insight": "A daily list is a menu of competing claims and it never tells you what mattered. Choosing a single priority does, because it forces a decision about what the day is for before the day decides for you. It can be work, but it can equally be a conversation you have been avoiding or an hour with your kid. The test is what you would want to have done when you look back tonight, and picking it in the morning is what makes it likely.",
+        "why": "One clear priority survives a chaotic day. A ranked list does not, because ranking gets renegotiated every time something urgent arrives in front of you.",
+        "apply": "Write tomorrow's single priority on paper tonight and leave it where you will see it before you open your inbox.",
+        "format": "single",
+        "tags": [
+          "priorities",
+          "daily-routine"
+        ]
+      },
+      {
+        "id": "make-time-s02",
+        "hook": "Your inbox and your feed are two bottomless pools.",
+        "insight": "Some tools are designed never to be finished. The feed refills, the inbox refills, the recommendations never run out. Any time you allocate to them gets consumed entirely, so the only workable defence is a boundary set in advance: a fixed time, a fixed number of checks, or a device that simply does not have them. Willpower does badly here because the products were tuned against exactly that, at a scale no individual can match.",
+        "why": "An unbounded supply meets an unstructured demand and expands to fill it. The constraint has to come from outside the moment of use to hold at all.",
+        "apply": "Delete the two most refillable apps from your phone tonight, and decide the exact times you will check email tomorrow.",
+        "format": "single",
+        "tags": [
+          "distraction",
+          "boundaries"
+        ]
+      },
+      {
+        "id": "make-time-s03",
+        "hook": "Four moves, run daily, beat any system you install once.",
+        "insight": "The loop is deliberately small: choose a single priority, put up barriers so the time survives, keep your body supplied so the attention is actually available, and spend two minutes at night writing what worked. That last step is what makes it a method rather than a pile of tips, because it turns each day into a small experiment. Nothing here needs software, a setup weekend, or anybody else's agreement to start.",
+        "why": "Daily iteration adapts to your job and your body better than a fixed system, because it keeps only the tactics that survive contact with your actual week.",
+        "apply": "Run the loop tomorrow and write one line at bedtime about what helped and what got in the way of it.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Choose the one thing",
+            "body": "Name a single priority for the day, big enough to matter and small enough to fit. Write it somewhere physical before the day begins."
+          },
+          {
+            "step": 2,
+            "title": "Build the barriers",
+            "body": "Remove or delay whatever would take that time: notifications off, phone in a bag, a calendar block, a closed door, a later start to email."
+          },
+          {
+            "step": 3,
+            "title": "Fuel the attention",
+            "body": "Treat sleep, food, daylight and movement as inputs to focus rather than rewards for finishing. Tired attention cannot be willed into working."
+          },
+          {
+            "step": 4,
+            "title": "Review at night",
+            "body": "Two minutes: what helped, what did not, what you will try tomorrow. Keep the tactics that worked and drop the rest without ceremony."
+          }
+        ],
+        "tags": [
+          "framework",
+          "daily-routine"
+        ]
+      },
+      {
+        "id": "make-time-s04",
+        "hook": "Attention is a physical output. Feed it like one.",
+        "insight": "Concentration depends on sleep, movement, daylight and food far more than on motivation. A badly slept day cannot be rescued with a better technique, and no planning method survives four hours in bed. The practical consequence is that energy management belongs inside a productivity plan rather than in a separate wellness one: a short walk before hard work, real food instead of a desk snack, and an early bedtime treated as part of tomorrow's working method.",
+        "why": "Sleep loss degrades sustained attention and judgement quickly and measurably, and people are consistently poor judges of how impaired they currently are.",
+        "apply": "Move your bedtime thirty minutes earlier for a week, and take a fifteen-minute walk before your hardest task each day.",
+        "format": "single",
+        "tags": [
+          "energy",
+          "sleep"
+        ]
+      },
+      {
+        "id": "make-time-s05",
+        "hook": "A phone with nothing interesting on it is stranger than it sounds.",
+        "insight": "Removing feeds, mail and the browser leaves something that still does everything genuinely useful: calls, messages, maps, music, camera. What disappears is the reflex, the reach in the lift, in the queue, in the pause in a conversation. The first days feel oddly empty, and that emptiness is the information, because it shows how much of the use was habitual rather than chosen. Most people who try it keep some version of it afterwards.",
+        "why": "Removing the app removes the option, which works better than intention because it acts at the moment of the reflex rather than after you have already opened it.",
+        "apply": "Delete the browser and social apps from your phone for one week, and note what you genuinely had to reinstall by the end.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Strip the apps",
+            "body": "Remove social apps, mail, news and the browser. Keep calls, messages, maps, camera and music, which is what a phone is genuinely for."
+          },
+          {
+            "step": 2,
+            "title": "Log out everywhere else",
+            "body": "Otherwise the use just migrates. Log out of the same services on your computer so every visit costs a deliberate password."
+          },
+          {
+            "step": 3,
+            "title": "Ride out the empty days",
+            "body": "The first two days feel strange and slightly boring. That reflex is the thing you are interrupting, so let it go unfed and watch it fade."
+          },
+          {
+            "step": 4,
+            "title": "Reinstall only what you missed",
+            "body": "After a week, bring back only the tools you actually needed, and keep them off the home screen so using them stays a decision."
+          }
+        ],
+        "tags": [
+          "phone",
+          "distraction"
+        ]
+      },
+      {
+        "id": "make-time-s06",
+        "hook": "Book time for your priority before anyone else can book you.",
+        "insight": "If a priority does not appear in your calendar, the calendar is a list of other people's priorities and it will win every time. Putting your one thing in as an appointment makes it visible to colleagues and to yourself, and shifts the burden onto whoever wants to move it. Where the day is dense with meetings, the useful version is often earlier than feels reasonable, because the hour before the day starts is the one nobody else can claim.",
+        "why": "Shared calendars allocate by first claim. Putting your own work in early changes the default answer to a meeting request from yes to maybe.",
+        "apply": "Block ninety minutes tomorrow for your one thing, before your first meeting, and mark it busy so it cannot be booked over.",
+        "format": "single",
+        "tags": [
+          "calendar",
+          "time-blocking"
+        ]
+      },
+      {
+        "id": "make-time-s07",
+        "hook": "Treat every tactic as an experiment with a sample size of one day.",
+        "insight": "Advice that works for a designer with a flexible schedule may be useless to a nurse or to the parent of a toddler. The way through is to treat each tactic as a one-day test rather than a rule: try leaving the phone in another room, or working before email, and note whether the day went better. Keep what helps, drop what does not, and stop feeling guilty about advice that simply does not fit your circumstances.",
+        "why": "Variation between schedules, jobs and bodies is large, so the average effect of any tactic tells you very little about its effect on you specifically.",
+        "apply": "Choose one tactic tomorrow, run it for the whole day, and write a single sentence at night on whether to keep it.",
+        "format": "single",
+        "tags": [
+          "experiments",
+          "habits"
+        ]
+      },
+      {
+        "id": "make-time-s08",
+        "hook": "Match the hardest work to the hours your brain is actually sharp.",
+        "insight": "People differ in when concentration comes easily, and the difference is large enough to reorganise a day around. Track it honestly for a week instead of assuming you are a morning person because you admire them. Then put your one thing in the sharp window and push meetings, admin and errands into the dull one. It is a free improvement in output, since it needs no extra effort, only a rearrangement of what already happens.",
+        "why": "Circadian timing shifts peak alertness by several hours between people, and it is stable enough to plan around, unlike day-to-day motivation.",
+        "apply": "Rate your focus hourly for five days, find your best two-hour window, and move one recurring meeting out of it permanently.",
+        "format": "single",
+        "tags": [
+          "energy",
+          "chronotype"
+        ]
+      },
+      {
+        "id": "make-time-s09",
+        "hook": "Whatever is nearest is what you will do tonight.",
+        "insight": "Evening choices get made with almost no deliberation, so they go to whatever is physically closest and easiest to start: the remote, the phone on the arm of the sofa, the app already open on screen. Moving the guitar into the living room and the phone charger into the hall is a smaller intervention than resolving to be a different person, and it changes far more evenings. Arrange the room so the default is the thing you would rather have done.",
+        "why": "Choice under low effort follows proximity and ease. Changing what is nearest changes behaviour more reliably than changing intentions does.",
+        "apply": "Tonight, move one object you want to use into the room where you relax, and one you want to avoid into a cupboard.",
+        "format": "single",
+        "tags": [
+          "environment",
+          "evenings"
+        ]
+      },
+      {
+        "id": "make-time-s10",
+        "hook": "Two honest minutes at night are the whole feedback loop.",
+        "insight": "Without a look back, every day is a fresh guess. Two minutes is enough: did you do the one thing, what got in the way, what will you try tomorrow. The value is cumulative rather than daily, because after two weeks you have a specific and personal list of what actually helps you focus, which is worth more than any general advice including this. It is also the step people skip first, and the one that makes the rest compound.",
+        "why": "Iteration needs measurement. Without a nightly note the tactics never get tested, so the good ones are never identified and the useless ones quietly stay.",
+        "apply": "Put a notebook by your bed and write three lines before sleep: the one thing, what interfered, and tomorrow's experiment.",
+        "format": "single",
+        "tags": [
+          "review",
+          "reflection"
+        ]
+      }
+    ],
+    "actions": [
+      "Choose a single priority every morning for two weeks and write it on paper before you open any device, then check each night whether you did it.",
+      "Strip your phone back to its useful functions for one week, logging out of the same services on your computer so the use cannot simply migrate.",
+      "Track your focus hourly for five days, find your sharpest window, and move your most demanding recurring work into it.",
+      "Keep a two-minute nightly note for a month recording which tactics helped, then build your own short list from what survived."
+    ],
+    "if_you_liked": [
+      "deep-work",
+      "indistractable",
+      "the-one-thing"
+    ],
+    "not_for_you_if": "Your hours are set by someone else, in shift work, caring or frontline roles, where most of the tactics assume a control over the day you do not have.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published September 2018 by Currency. The tactics are drawn from the authors' own self-experiments rather than controlled research, which is flagged in the sparks. All prose here is original."
+    }
   }
 ]

@@ -55,6 +55,8 @@ export function SparkCard({ item, height, saved, onToggleSave }: Props) {
         contentContainerStyle={[styles.content, { paddingBottom: space.xxxl * 2 }]}
         showsVerticalScrollIndicator={false}
       >
+        {/* The rail is absolutely positioned over the lower right of the card, so everything
+            in this column stops short of it — see RAIL_WIDTH. */}
         <View style={styles.metaRow}>
           <Pressable
             onPress={() => router.push({ pathname: '/category/[id]', params: { id: item.category } })}
@@ -124,9 +126,12 @@ export function SparkCard({ item, height, saved, onToggleSave }: Props) {
   );
 }
 
+/** Width the floating action rail occupies, reserved out of the content column. */
+const RAIL_WIDTH = 48;
+
 const styles = StyleSheet.create({
   fill: { position: 'absolute', top: 0, left: 0, right: 0, bottom: 0 },
-  content: { paddingHorizontal: space.xl, paddingTop: space.xxl, gap: space.lg },
+  content: { paddingLeft: space.xl, paddingRight: space.xl + RAIL_WIDTH, paddingTop: space.xxl, gap: space.lg },
   metaRow: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', gap: space.md },
   categoryPill: { paddingHorizontal: space.md, paddingVertical: 6, borderRadius: radius.pill },
   hook: { marginTop: space.xs },
@@ -140,6 +145,6 @@ const styles = StyleSheet.create({
     borderRadius: radius.md,
     padding: space.lg,
   },
-  rail: { position: 'absolute', right: space.md, bottom: space.xxl, alignItems: 'center', gap: space.lg },
+  rail: { position: 'absolute', right: space.sm, bottom: space.xxl, width: RAIL_WIDTH, alignItems: 'center', gap: space.lg },
   railBtn: { alignItems: 'center', justifyContent: 'center', minWidth: 44, minHeight: 44 },
 });
