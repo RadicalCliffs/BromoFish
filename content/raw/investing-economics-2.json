@@ -1,0 +1,407 @@
+[
+  {
+    "id": "principles",
+    "title": "Principles",
+    "subtitle": "Life and Work",
+    "author": "Ray Dalio",
+    "year": 2017,
+    "category": "investing-economics",
+    "subcategory": "decision-frameworks",
+    "tags": ["decision-making", "investing", "feedback", "management", "systems-thinking"],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "A hedge fund manager wrote down the rules he actually used and published them, including the unflattering ones. Whatever you make of the culture it describes, the habit of turning every expensive mistake into a written, reusable rule is the part anyone can steal.",
+    "crux": {
+      "headline": "Write the rule down, then test it against reality",
+      "body": "Most people meet a problem, react, and forget. The alternative is to treat each encounter as one case of a recurring type, decide in advance how you will handle that type, write the decision down, and then check it against what actually happens. Over years you accumulate a personal operating manual that beats your mood on any given morning. Pain plus reflection is the engine. Pain on its own just hurts."
+    },
+    "sparks": [
+      {
+        "id": "principles-s01",
+        "hook": "Pain plus reflection is progress. Pain on its own is just pain.",
+        "insight": "The instinct after a bad outcome is to move on quickly and stop feeling it. That wastes the most expensive information you will ever buy. The discipline is to stop at the moment of discomfort and ask three things: what type of situation was this, what did you do, and what rule would have produced a better result. Then write the answer where you will read it again. A mistake you never examined comes back in a slightly different costume, and you pay for it twice.",
+        "why": "Reflection converts a single event into a rule that covers a whole class of events. Without it you keep relearning the same lesson, because memory of an episode fades much faster than a written principle does.",
+        "apply": "Open a note today and record your last real mistake in three lines: the situation type, what you did, and the rule you will use next time.",
+        "format": "single",
+        "tags": ["mistakes", "reflection"]
+      },
+      {
+        "id": "principles-s02",
+        "hook": "Ego and blind spots will cost you more than the market ever does.",
+        "insight": "Two things stop you seeing straight. The first is the part of you that treats being wrong as an attack, so it argues instead of listening. The second is structural: every mind is built to notice some things and miss others, and you cannot find your own gaps by looking harder at them. The fix is not more confidence or more effort. It is finding people whose blind spots differ from yours and giving them real permission to tell you what you are missing.",
+        "why": "You can partly correct for a bias you know you have, but a blind spot is invisible by definition. Only an outside view detects it, which is why the remedy has to be social rather than personal.",
+        "apply": "Name one decision you are close to making, then ask someone who disagrees to argue the other side for ten minutes while you take notes and say nothing.",
+        "format": "single",
+        "tags": ["ego", "blind-spots", "feedback"]
+      },
+      {
+        "id": "principles-s03",
+        "hook": "Politeness in meetings is usually just failure with a delay on it.",
+        "insight": "Most organisations run on a quiet agreement that nobody says the harsh version out loud, so problems stay hidden until they are expensive. The alternative is deliberately uncomfortable. Criticism goes to a person's face rather than around them, disagreements get recorded instead of smoothed over, and the awkwardness is treated as the price of finding errors early. It is not cruelty, and it only works if it applies to the most senior person in the room first.",
+        "why": "Hidden problems compound, and the cost of raising one grows the longer it stays unsaid. Openness survives only when leaders absorb the criticism publicly, otherwise everyone reads the invitation as a trap.",
+        "apply": "In your next team meeting, say the thing everyone is thinking but nobody has said, and make the first example a criticism of your own work.",
+        "format": "single",
+        "tags": ["candour", "culture"]
+      },
+      {
+        "id": "principles-s04",
+        "hook": "Every ambition breaks at one of five points. Find out which is yours.",
+        "insight": "Getting what you want runs through five stages, and a failure at any one of them looks identical from the outside. Most people are strong at some stages and reliably weak at others, which is fixable once you know which. Someone who sets vivid goals but cannot bear diagnosing a problem will keep starting over. Someone excellent at diagnosis who never ships will keep producing analysis. The aim is not to master all five yourself, it is to know your weak stage and staff it.",
+        "why": "Splitting one vague ability into five separate skills turns a character judgement into a diagnosis. You stop asking whether you are capable and start asking which specific step keeps breaking.",
+        "apply": "Walk your last failed project through the five stages, mark the one where it actually broke, and ask someone who worked on it whether they agree.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Set a clear goal", "body": "Pick what you actually want, not the acceptable version. Vague goals make every later stage impossible to judge, because nothing can be measured against a target that keeps moving." },
+          { "step": 2, "title": "Find the problems", "body": "Hunt for whatever stands between you and the goal, and do not flinch at what turns up. Problems you refuse to look at do not stop existing, they only stop being solvable." },
+          { "step": 3, "title": "Diagnose the cause", "body": "Go past the symptom to the reason it happened, which is usually a person, a process, or a missing skill. Skip this stage and you get busy fixes that repair nothing." },
+          { "step": 4, "title": "Design the fix", "body": "Build a specific plan with named tasks, owners and dates, as if sketching a machine. A plan with no person's name attached to it is a hope, not a design." },
+          { "step": 5, "title": "Push it through", "body": "Finish the work, including the dull parts. This stage kills more good diagnoses than any other, because it needs no cleverness and a great deal of persistence." }
+        ],
+        "tags": ["problem-solving", "process"]
+      },
+      {
+        "id": "principles-s05",
+        "hook": "One opinion is not one vote. Some people have earned more weight.",
+        "insight": "In most rooms the loudest voice or the most senior one wins, which quietly assumes that confidence tracks accuracy. It does not. A better rule weights opinions by demonstrated record on the specific question being decided: who has been right about this kind of thing before, and can they explain the reasoning rather than just assert the conclusion. That is neither a democracy nor a dictatorship, and it forces you to keep score honestly and in advance.",
+        "why": "Track record is a noisy signal but a real one, and far better than seniority or volume. It works only if the record is kept before the outcome, not reconstructed afterwards by whoever happened to win.",
+        "apply": "For one recurring decision, write down who has been right about it before and why, then give their view more weight than the org chart currently does.",
+        "format": "single",
+        "tags": ["decision-making", "expertise"]
+      },
+      {
+        "id": "principles-s06",
+        "hook": "A mistake that repeats is a broken process, not a character flaw.",
+        "insight": "When the same error keeps happening, blaming yourself is a dead end, because guilt changes nothing about the machinery that produced it. Log the error instead. Write what happened, what it cost, and which step let it through. Once you have twenty entries the patterns are obvious, and most of them are structural: a missing check, a handoff nobody owns, a decision made at the end of a long day. Fix the structure and the error rate drops without anyone becoming a better person.",
+        "why": "Errors cluster around the weak joints of a process. A log turns invisible repetition into a visible pattern, which is the only thing that makes a root cause addressable rather than merely regrettable.",
+        "apply": "Start a running mistake log this week with three columns: what happened, what it cost, which step let it through. Read the whole thing every Friday.",
+        "format": "single",
+        "tags": ["mistakes", "systems"]
+      },
+      {
+        "id": "principles-s07",
+        "hook": "Hire for values first. Skills are the cheapest thing on the list.",
+        "insight": "Interviews drift towards whoever performs best in a conversation, which mostly measures interview skill. A more useful order is to check what someone values, then what they are natively capable of, then what they happen to know already. Values almost never change, raw capability changes slowly, and skills can be taught in months. Hiring in the wrong order means trying to correct the uncorrectable parts later, which is where most painful exits actually begin.",
+        "why": "The three attributes differ enormously in how changeable they are. Ordering the filter by changeability puts the irreversible judgements first, where a mistake is hardest and most costly to undo.",
+        "apply": "Before your next interview loop, write the three values the role genuinely requires and give one interviewer the sole job of testing for them.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Name the values you need", "body": "Be specific: high standards, appetite for criticism, follow-through. Generic words like integrity and passion cannot be tested in an interview, so they end up filtering nobody out." },
+          { "step": 2, "title": "Test thinking, not knowledge", "body": "Watch how someone reasons through an unfamiliar problem in front of you. Knowing your tools is a temporary advantage. Working through a mess without panicking is not." },
+          { "step": 3, "title": "Check skills last", "body": "Skills matter, but they are the part you can teach and the part that ages fastest. Treat a missing skill as a training plan rather than an automatic rejection." },
+          { "step": 4, "title": "Record your prediction", "body": "Write what you expect this person to be good and bad at before they start. Reading it back a year later is the only reliable way your hiring judgement improves." }
+        ],
+        "tags": ["hiring", "values"]
+      },
+      {
+        "id": "principles-s08",
+        "hook": "The closest thing to a free lunch is owning things that move apart.",
+        "insight": "Chasing the single best asset is a losing game, because you cannot know in advance which one it will be. Holding several bets driven by genuinely different forces is a different proposition: the swings partly cancel while the returns still add up, so you can keep roughly the same expected gain with far less violence on the way there. The hard part is that holdings which look unrelated in calm markets have a habit of moving together on the worst day.",
+        "why": "Combining imperfectly correlated bets lowers portfolio volatility, which is arithmetic rather than opinion. The honest caveat is that correlations tend to rise sharply in a crisis, exactly when you were counting on them not to.",
+        "apply": "List what you own and write beside each holding what would damage it. If the same event appears next to most of them, you own one bet in several costumes.",
+        "format": "single",
+        "tags": ["diversification", "risk"]
+      },
+      {
+        "id": "principles-s09",
+        "hook": "Most of what people call money is credit, and credit moves in cycles.",
+        "insight": "Spending drives an economy, and a great deal of spending is made with borrowed money rather than earned money. That means today's demand can be pulled forward from tomorrow, which feels exactly like growth while it lasts. Debt builds in a short cycle that central banks can smooth by moving interest rates, and in a much longer one they eventually cannot smooth, because rates reach a floor while borrowers still owe more than their income can service.",
+        "why": "This framework is descriptive rather than predictive, and other economists model debt cycles differently. It earns its place mainly by explaining why recoveries after credit busts look nothing like recoveries after ordinary recessions.",
+        "apply": "Run the same test on yourself: work out how much of last year's spending was borrowed, and what happens to those payments if your income drops for six months.",
+        "format": "single",
+        "tags": ["debt", "macroeconomics", "cycles"]
+      },
+      {
+        "id": "principles-s10",
+        "hook": "The culture behind the record is the part you probably cannot copy.",
+        "insight": "Written rules look transferable, and some of them are. The management system around them is a different matter. It ran inside one firm with unusual selection, unusual pay and a founder who could impose it, and later reporting by journalists who interviewed former staff describes daily life in harsher terms than the book does. Take the practice of writing your rules down and checking them against outcomes. Be much slower to import somebody else's regime.",
+        "why": "One firm's success is a single data point, and the people who left rarely write books. Judge any management system by whether it still works somewhere the founder is not standing in the room.",
+        "apply": "Adopt the habit rather than the regime: write your own decision rules, review them each quarter, and import no rituals from another company for now.",
+        "format": "single",
+        "tags": ["survivorship-bias", "culture", "caveats"]
+      }
+    ],
+    "actions": [
+      "Start a personal principles document. Each time something goes badly, add one rule that would have changed the outcome, and reread the whole list once a month.",
+      "Run your last significant failure through the five stages, name the exact one that broke, then ask a colleague whether they agree with your diagnosis.",
+      "Ask the person who disagrees with you most often to write down what you are systematically wrong about. Sit with it for a day before you reply.",
+      "Map your income sources and investments by what would damage each one, then add a single source driven by something genuinely different from the rest."
+    ],
+    "if_you_liked": ["poor-charlies-almanack", "the-most-important-thing", "thinking-in-bets"],
+    "not_for_you_if": "You want a tight argument rather than a long list of rules, or you distrust management systems described by the person who built and benefited from them.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2017 as Principles: Life and Work. Later journalism about the firm's internal culture is flagged inside the sparks rather than hidden. All prose original."
+    }
+  },
+  {
+    "id": "freakonomics",
+    "title": "Freakonomics",
+    "subtitle": "A Rogue Economist Explores the Hidden Side of Everything",
+    "author": "Steven D. Levitt and Stephen J. Dubner",
+    "year": 2005,
+    "category": "investing-economics",
+    "subcategory": "incentives-and-data",
+    "tags": ["incentives", "data", "economics", "cheating", "unintended-consequences"],
+    "difficulty": "easy",
+    "read_time_min": 10,
+    "why_it_matters": "It moved economics off the subject of money and onto the subject of incentives, and taught a very large audience to ask what the numbers show rather than what the story implies. It also became a lesson in how confidently a popular finding can be stated and later disputed.",
+    "crux": {
+      "headline": "Follow the incentives, then go and check the data",
+      "body": "People respond to incentives, including the ones nobody meant to create. When an outcome looks strange, stop asking what people say they want and start asking what the system actually pays them for. Then go to the numbers, because the conventional explanation is usually the one that flatters whoever is telling it. The method is simple and portable. The conclusions, as later argument showed, are not always as durable as the method."
+    },
+    "sparks": [
+      {
+        "id": "freakonomics-s01",
+        "hook": "A fine turned lateness into a service people were happy to buy.",
+        "insight": "Nurseries in Israel tried to stop parents collecting children late by charging a small penalty. Lateness went up. The fine had quietly converted a social obligation into a price, and once there was a price, parents could pay it without guilt. Worse, when the fine was withdrawn the new behaviour stuck. Incentives are not knobs you turn up and down. They change what kind of situation people think they are in, and that change can outlast the incentive itself.",
+        "why": "Money crowds out moral and social motives rather than adding to them. Once a relationship is priced it is hard to unprice, which is why removing the penalty did not restore the old behaviour.",
+        "apply": "Before you attach a penalty or a bonus to anything, ask what the current behaviour is being held in place by. If the answer is shame or goodwill, leave it alone.",
+        "format": "single",
+        "tags": ["incentives", "motivation"]
+      },
+      {
+        "id": "freakonomics-s02",
+        "hook": "Your agent sells your house faster than they sell their own.",
+        "insight": "An estate agent earns a small slice of the sale price, so an extra week of effort to lift your price a little barely moves their pay. Their real incentive is volume: close quickly, move to the next client. Sales records suggest agents keep their own homes on the market longer and accept higher prices for them. The agent is not corrupt. The contract simply pays them for something slightly different from what you want, and nobody in the room says so.",
+        "why": "Whenever one side knows more and is paid on a different metric, small misalignments in the contract produce predictable behaviour. The published effect is modest in size and has been debated, but the mechanism is real.",
+        "apply": "For any adviser you pay, write out in one line how they earn money. Then ask what advice that formula rewards, and get a second opinion from someone paid differently.",
+        "format": "single",
+        "tags": ["incentives", "information-asymmetry"]
+      },
+      {
+        "id": "freakonomics-s03",
+        "hook": "Cheating is hard to see and surprisingly easy to count.",
+        "insight": "People who cheat leave a shape in the data even when no individual case looks suspicious. Teachers under pressure from test scores produced answer sheets with runs of identical corrections that random error does not generate. Sumo wrestlers with a tournament record on a knife edge won crucial bouts at rates that are difficult to explain by effort alone. You are not looking for a smoking gun. You are looking for a pattern that honest behaviour would not produce.",
+        "why": "Individual cases are ambiguous, but aggregate patterns have expected distributions. Deviation from the expected shape is evidence, though it is statistical evidence rather than proof about any single person.",
+        "apply": "Pick one number your team is judged on and ask what a person could do to move it without doing the underlying work. Then check whether the data shows that shape.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Find the pressure point", "body": "Cheating clusters where a threshold sits: a pass mark, a bonus target, a quota. Look for the place where a tiny difference in the number produces a large difference in someone's life." },
+          { "step": 2, "title": "Ask what honest data looks like", "body": "Work out the pattern you would expect if everyone behaved. Random error is messy in specific ways, and knowing that shape is what makes the deviation visible." },
+          { "step": 3, "title": "Look just above the line", "body": "Manipulation shows up as a pile-up of results barely clearing the threshold and a suspicious hole just below it. Nature rarely produces cliffs at round numbers." },
+          { "step": 4, "title": "Treat it as a lead", "body": "A statistical pattern tells you where to investigate, not who is guilty. Use it to open the file, and never as a verdict on an individual." }
+        ],
+        "tags": ["cheating", "data", "detection"]
+      },
+      {
+        "id": "freakonomics-s04",
+        "hook": "The book's most famous claim is also its most contested one.",
+        "insight": "The best known argument links the legalisation of abortion in the United States to the fall in crime roughly two decades later, on the reasoning that fewer unwanted children meant fewer young adults in high-risk circumstances. It is a striking piece of thinking. It is also disputed. Economists at the Boston Federal Reserve found a coding error and a specification problem in the underlying analysis, the authors responded, and the argument has run for years without a settled verdict.",
+        "why": "Big social outcomes have many causes moving at once, and separating them from tax records and crime statistics is genuinely hard. Treat this as an open question that sharpened a method, not as an established fact.",
+        "apply": "When a single elegant cause is offered for a large social change, write down three other things that changed in the same period before you accept it.",
+        "format": "single",
+        "tags": ["contested-claims", "crime", "causation"]
+      },
+      {
+        "id": "freakonomics-s05",
+        "hook": "Experts are paid to make you feel that you need an expert.",
+        "insight": "Anyone who advises you on a problem also benefits from that problem seeming large and urgent. This does not require dishonesty. It works through emphasis: which risks get mentioned first, which numbers get quoted, which reassuring detail gets left out. Campaigners inflate the scale of a harm because attention follows size. Salespeople describe the worst case because fear closes deals. Once you notice the pattern you start reading advice as a document with an author and a motive.",
+        "why": "The incentive to overstate is structural, not personal. It appears wherever the person describing a problem also profits from the response to it, which is most of the advice industry.",
+        "apply": "Next time you are given a scary number, ask who produced it, how it was measured, and what they gain if you believe it. Then look for a source with no stake.",
+        "format": "single",
+        "tags": ["experts", "conventional-wisdom"]
+      },
+      {
+        "id": "freakonomics-s06",
+        "hook": "Secrecy was the Klan's main asset, so someone gave it away.",
+        "insight": "A hate group runs partly on mystique: private words, private rituals, the idea that it knows things you do not. An activist infiltrated the Ku Klux Klan and fed its inner language to the writers of a popular radio serial, where it was turned into material for children. Ridicule did what confrontation could not, because it attacked the thing the organisation was actually selling. Later reporting showed the activist overstated his own role, which the authors themselves acknowledged.",
+        "why": "Groups that trade on secrecy are vulnerable to exposure rather than argument. The correction to the story matters too: it shows how a good anecdote can outrun the evidence behind it.",
+        "apply": "When facing an organisation that relies on mystique, publish its ordinary details rather than debating its claims. Then check your best anecdote against a primary source.",
+        "format": "single",
+        "tags": ["information", "secrecy", "contested-claims"]
+      },
+      {
+        "id": "freakonomics-s07",
+        "hook": "What parents are predicts more than what parenting books tell them to do.",
+        "insight": "Comparing large samples of schoolchildren, the things that correlate with test scores are mostly characteristics the parents already had before the child arrived: education, income, the age at which they started a family, the books already in the house. The busy interventions that fill parenting advice, from museum trips to daily reading rituals, show far weaker links. The uncomfortable reading is that a lot of parenting effort is signalling rather than causation.",
+        "why": "These are correlations from survey data, not experiments, so they cannot separate genes, environment and money cleanly. What they do show is that the confident causal claims in parenting advice rest on very little.",
+        "apply": "Drop one parenting activity you do out of anxiety rather than enjoyment, and spend the time on something that improves the household everyone lives in.",
+        "format": "single",
+        "tags": ["parenting", "correlation", "data"]
+      },
+      {
+        "id": "freakonomics-s08",
+        "hook": "A name signals where you came from more than where you will end up.",
+        "insight": "Naming patterns move down the income distribution over time: distinctive names appear first among wealthier, better educated parents and spread outward, so a name carries information about the household a child was born into. Comparing children with similar backgrounds, the name itself does not appear to determine their later outcomes. That is a genuinely useful correction to a common anxiety, but it sits awkwardly beside audit studies where identical applications with different names get different callback rates.",
+        "why": "The two findings are about different things: long-run life outcomes within similar households, versus immediate discrimination by strangers reading a page. Both can be true, and the second is well replicated.",
+        "apply": "When a study says something does not matter, check what it was compared against and over what timescale before you extend it to a different question.",
+        "format": "single",
+        "tags": ["names", "discrimination", "evidence"]
+      },
+      {
+        "id": "freakonomics-s09",
+        "hook": "Most street dealers earned less than the minimum wage.",
+        "insight": "A sociologist spent years with a crack-selling gang and came away with its actual accounts. The structure looked like a fast food franchise: a small number at the top took most of the money, while the people on the corner taking all the physical risk earned very little and often lived with their mothers. They stayed because the job was a tournament, and the visible winner at the top made the terrible odds feel survivable. Most tournament industries work the same way.",
+        "why": "Tournament markets pay a huge premium to a few winners and near nothing to everyone else. People join by looking at the prize rather than the distribution, which is exactly what the prize is there to make them do.",
+        "apply": "Before entering any winner-takes-most field, find out what the median participant earns, not the top one. Then decide with that number in front of you.",
+        "format": "single",
+        "tags": ["tournaments", "risk", "labour"]
+      },
+      {
+        "id": "freakonomics-s10",
+        "hook": "The method survives even where the conclusions did not.",
+        "insight": "Twenty years on, several headline results have been challenged and at least one core argument remains unresolved. That is not a reason to discard the book, it is a reason to read it for procedure rather than for answers. The procedure is a short sequence you can run on almost any confident claim, and it protects you from the book's own weaknesses as well as everyone else's. Curiosity about mechanisms plus scepticism about stories is the durable part.",
+        "why": "Popular social science ages badly when the field moves on. A method transfers, a finding does not, so the reader who copies the questions gets more value than the reader who memorises the results.",
+        "apply": "Take one claim you repeat at dinner parties and run it through the four questions below. Be willing to retire it if the answers are thin.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Who is being paid what", "body": "Identify every party in the situation and what each one actually gains. Stated motives are for public consumption. The payment structure is usually the better predictor of behaviour." },
+          { "step": 2, "title": "Ask what it is compared to", "body": "A number alone means nothing. Find the comparison group and ask whether it is genuinely similar, because most weak findings hide inside a badly chosen baseline." },
+          { "step": 3, "title": "Look for the other cause", "body": "List three things that changed at the same time as the thing being blamed. If none of them can be ruled out, you have a story rather than a result." },
+          { "step": 4, "title": "Check who replicated it", "body": "A single striking study is a hypothesis. Ask whether anyone independent found the same thing, and whether the original authors published a response to the critics." }
+        ],
+        "tags": ["method", "scepticism"]
+      }
+    ],
+    "actions": [
+      "Take one metric your workplace optimises and write down the three easiest ways to move it without improving the underlying thing. Then check whether anyone is doing them.",
+      "Pick a statistic you have repeated confidently and spend twenty minutes finding its original source, its sample and any published criticism of it.",
+      "For every professional who advises you on money, health or property, write one sentence describing exactly how their pay is calculated.",
+      "Choose a belief about your own field that everyone treats as obvious, and go looking for the data that would falsify it rather than confirm it."
+    ],
+    "if_you_liked": ["thinking-fast-and-slow", "poor-economics", "against-the-gods"],
+    "not_for_you_if": "You want a coherent theory of the economy rather than a set of clever case studies, or you dislike social science delivered with a showman's confidence.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2005. The abortion-crime analysis was challenged by Boston Fed economists who identified a coding error, and the Klan anecdote was later corrected by the authors. Both flagged in the sparks."
+    }
+  },
+  {
+    "id": "capital-in-the-twenty-first-century",
+    "title": "Capital in the Twenty-First Century",
+    "subtitle": null,
+    "author": "Thomas Piketty",
+    "year": 2013,
+    "category": "investing-economics",
+    "subcategory": "inequality-and-growth",
+    "tags": ["inequality", "wealth", "capitalism", "taxation", "economic-history"],
+    "difficulty": "challenging",
+    "read_time_min": 13,
+    "why_it_matters": "It put centuries of tax and estate records behind a question economists had mostly argued about theoretically, and made wealth concentration a mainstream political subject. The database it grew from now outlives the arguments about the book itself.",
+    "crux": {
+      "headline": "When wealth grows faster than wages, inheritance wins",
+      "body": "If the return on accumulated wealth stays higher than the growth rate of the economy, fortunes compound faster than salaries can catch up, and the share of everything owned by people who already own things rises. Nothing about this requires a conspiracy. It is arithmetic, running quietly across generations. The twentieth century interrupted it with war, depression and heavy taxation, which is why the postwar decades felt like the natural state of capitalism when they were the exception."
+    },
+    "sparks": [
+      {
+        "id": "capital-in-the-twenty-first-century-s01",
+        "hook": "Owning grows faster than earning, and that gap is the whole story.",
+        "insight": "Two engines drive who ends up with what. One is the economy growing, which lifts wages and creates new fortunes. The other is existing wealth earning a return, which compounds for whoever already holds it. When the second runs faster than the first over long periods, inherited capital pulls ahead of work, and the share of national wealth held by the top gradually rises. No villain is required. The mechanism is compound interest applied across generations.",
+        "why": "Historical estate and tax records show returns on capital exceeding growth for most of recorded economic history. Economists dispute how tight the relationship is and what it implies, but the long-run pattern in the data is not seriously contested.",
+        "apply": "Work out what share of your own future depends on earning versus owning, and shift one percentage point of income each year from the first column to the second.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Wealth earns a return", "body": "Land, shares, property and businesses generate income to whoever owns them, whether or not that owner does anything. Over long periods that return has been reasonably steady." },
+          { "step": 2, "title": "Wages track growth", "body": "Pay rises roughly with the size of the economy, which depends on population and productivity. Both have slowed in rich countries, so the wage engine is running weaker than it did." },
+          { "step": 3, "title": "The gap compounds", "body": "When capital returns outpace growth year after year, existing fortunes grow as a share of the whole. Small annual differences become enormous across three generations." },
+          { "step": 4, "title": "Inheritance takes over", "body": "As accumulated wealth grows relative to annual income, who your parents were starts to matter more than what you do. That is a measurable shift, not a moral complaint." }
+        ],
+        "tags": ["inequality", "compounding", "capital"]
+      },
+      {
+        "id": "capital-in-the-twenty-first-century-s02",
+        "hook": "The postwar boom was the exception. We keep mistaking it for the rule.",
+        "insight": "People who came of age between the nineteen fifties and the nineteen eighties grew up inside an unusual window: capital had been destroyed by two wars and a depression, taxes on high incomes and estates were punishing, and growth was fast because of reconstruction and a rising population. Inequality fell and mobility rose. Then the special conditions expired. The long historical pattern has been reasserting itself since, which feels like decline only because we benchmarked against an anomaly.",
+        "why": "The compression of wealth in the mid twentieth century is visible in the records of several countries at once, and lines up with the destruction of capital and the tax regimes of the period rather than with any smooth market process.",
+        "apply": "Check whether your assumptions about housing, pensions or careers come from your parents' era. Ask what conditions made that era work before you plan around it.",
+        "format": "single",
+        "tags": ["economic-history", "inequality"]
+      },
+      {
+        "id": "capital-in-the-twenty-first-century-s03",
+        "hook": "Wealth is far more concentrated than income, and it is not close.",
+        "insight": "Debates about inequality usually quote income, because income is what tax systems measure well. Wealth tells a much sharper story. In most rich countries the bottom half of the population holds almost no net assets at all, while the top tenth holds the majority of everything. That gap matters because wealth buys security, opportunity and political attention in a way that a monthly salary does not. Two households on identical incomes can live in different countries.",
+        "why": "Wealth accumulates and inherits while income resets each year, so the same forces produce a much longer tail. Measuring wealth is harder, and figures vary with how pensions and housing are counted.",
+        "apply": "Calculate your household net worth once, not your salary. Then work out how many months it would cover with no income at all.",
+        "format": "single",
+        "tags": ["wealth", "inequality", "measurement"]
+      },
+      {
+        "id": "capital-in-the-twenty-first-century-s04",
+        "hook": "Bigger fortunes tend to earn better returns than small ones.",
+        "insight": "The return on capital is not the same for everyone. Large fortunes can afford professional management, take illiquid positions, wait out bad decades, pay for tax structuring and access investments that small savers cannot reach. Records from large university endowments show the biggest funds consistently outperforming the smallest ones. If returns rise with size, then concentration feeds itself, and the gap widens even when everybody behaves identically well.",
+        "why": "Scale buys diversification, patience and expertise, all of which raise risk-adjusted returns. The endowment comparison is one of the cleaner pieces of evidence because the institutions publish comparable long-run figures.",
+        "apply": "Cut the two costs that scale away from small investors: fees and forced selling. Use low-cost index funds and hold enough cash to avoid selling at the wrong time.",
+        "format": "single",
+        "tags": ["returns", "scale", "investing"]
+      },
+      {
+        "id": "capital-in-the-twenty-first-century-s05",
+        "hook": "Top pay is set by committees and norms, not by a market for talent.",
+        "insight": "The rise in top incomes in English-speaking countries is driven less by owners of capital than by senior corporate managers whose pay climbed away from everyone else's. The justification is that they produce proportionate value, but nobody can measure an individual executive's contribution to a large firm with any precision. What actually determines the number is bargaining power, a compensation committee, comparison with peer companies, and the prevailing social tolerance for large gaps.",
+        "why": "Marginal productivity is unobservable at the top of a big organisation, so pay gets set by norms and process. Countries with similar firms and different norms produce very different executive pay, which is hard to explain by talent alone.",
+        "apply": "When judging any pay claim, ask what would have happened to output if the person had not been there. If nobody can answer, you are looking at bargaining, not measurement.",
+        "format": "single",
+        "tags": ["executive-pay", "labour", "norms"]
+      },
+      {
+        "id": "capital-in-the-twenty-first-century-s06",
+        "hook": "The real contribution is the data, not the prediction.",
+        "insight": "Long before the argument, there was a decade of unglamorous work assembling income and estate records from national archives across several countries and centuries. That series is what made the debate possible, and it remains in use by researchers who disagree strongly with the conclusions drawn from it. Theories in economics are cheap and plentiful. Consistent long-run measurement is rare, expensive and slow, and it is what actually moves a field.",
+        "why": "Once a shared dataset exists, arguments become testable instead of rhetorical. That is why the database has outlived the specific forecasts and is cited by critics as often as by supporters.",
+        "apply": "In any argument you care about, spend your next hour improving the measurement rather than sharpening the position. Better data settles more than better rhetoric.",
+        "format": "single",
+        "tags": ["data", "economic-history", "research"]
+      },
+      {
+        "id": "capital-in-the-twenty-first-century-s07",
+        "hook": "Serious economists attacked the numbers, and some of the hits landed.",
+        "insight": "A financial newspaper published an analysis alleging errors and questionable adjustments in the wealth series, particularly for Britain. The author replied in detail and most economists concluded the central pattern survived, though not every adjustment was well documented. Separately, other researchers argued that much of the rise in the capital share comes from housing rather than from productive capital, which changes what policy would follow. None of that makes the book worthless. It makes it a live argument.",
+        "why": "Long historical series require judgement calls where records are patchy, and those calls deserve scrutiny. Knowing which parts are contested is the difference between using a book and quoting it.",
+        "apply": "Before citing any headline finding, spend ten minutes reading its strongest published critic. Note which parts of the claim survive that reading and which do not.",
+        "format": "single",
+        "tags": ["contested-claims", "criticism", "housing"]
+      },
+      {
+        "id": "capital-in-the-twenty-first-century-s08",
+        "hook": "Slow growth is what makes old money powerful again.",
+        "insight": "When an economy grows quickly, each generation builds so much that inherited wealth is small in comparison, and a person can plausibly out-earn their family history. When growth slows to the low rates that ageing rich countries now show, existing stocks of wealth loom much larger relative to annual output, and inheritance regains the importance it had in the nineteenth century. Demographic slowdown is therefore not just a fiscal problem, it is a distributional one.",
+        "why": "The ratio of accumulated wealth to yearly income rises mechanically as growth falls, even with no change in saving behaviour. That ratio is what determines how much inheritance matters relative to work.",
+        "apply": "When you read a growth forecast, translate it into a question about inheritance: in that world, does what your family owns matter more or less than what you earn?",
+        "format": "single",
+        "tags": ["growth", "inheritance", "demographics"]
+      },
+      {
+        "id": "capital-in-the-twenty-first-century-s09",
+        "hook": "The proposed remedy is a tax the author admits is nearly impossible.",
+        "insight": "The suggested response is a coordinated tax on wealth levied across borders, so that capital cannot simply move to whichever country charges least. The proposal is honest about its own unlikelihood, which is unusual in a policy book. Its more practical descendant is the push for automatic exchange of financial information between tax authorities, which has actually happened. National wealth taxes tried alone have mostly been repealed, because capital left or the administrative cost exceeded the revenue.",
+        "why": "Mobile capital defeats an uncoordinated tax, so the enforcement problem is real rather than ideological. The information-sharing agreements that did arrive show the transparency half of the idea was more achievable than the tax half.",
+        "apply": "When you meet any policy proposal, ask who has to cooperate for it to work. If the answer is every country at once, treat it as a direction rather than a plan.",
+        "format": "single",
+        "tags": ["taxation", "policy", "capital-flight"]
+      },
+      {
+        "id": "capital-in-the-twenty-first-century-s10",
+        "hook": "Education alone cannot outrun compounding capital.",
+        "insight": "The standard answer to inequality is more schooling and better skills, on the argument that technology rewards the educated and the fix is to educate more people. Skills matter enormously for individuals, and the evidence for that is strong. But the top of the wealth distribution is not made of people with slightly better qualifications. It is made of accumulated assets and the returns on them, and no amount of training changes the arithmetic that separates a salary from a portfolio.",
+        "why": "Skill-based explanations account for much of the spread within wages, but very little of the concentration at the very top, which is dominated by capital income and inheritance rather than pay.",
+        "apply": "Treat education as your defence against the middle of the distribution and ownership as your only exposure to the top. Build both rather than assuming one covers the other.",
+        "format": "carousel",
+        "carousel": [
+          { "step": 1, "title": "Separate the two questions", "body": "Inequality among wage earners and concentration at the very top have different causes. A policy or a plan that addresses one will usually do nothing about the other." },
+          { "step": 2, "title": "See what skills do", "body": "Better skills reliably move an individual up the wage ladder. That is a strong, well-supported result and worth acting on for your own life." },
+          { "step": 3, "title": "See what they do not do", "body": "No qualification converts a salary into a compounding asset base. Above a point, the distribution is decided by ownership, not by credentials or effort." },
+          { "step": 4, "title": "Act on both fronts", "body": "Keep raising your earning power, and convert a fixed share of what it produces into assets. One without the other leaves you exposed to whichever engine runs faster." }
+        ],
+        "tags": ["education", "skills", "capital"]
+      }
+    ],
+    "actions": [
+      "Calculate your household net worth and the share of it that came from saving versus from asset prices rising. Repeat the exercise once a year.",
+      "Read one serious published critique of the book alongside it, and write down which of its claims you still hold and which you have downgraded.",
+      "Find the wealth distribution figures for your own country and locate roughly where your household sits, in wealth rather than income terms.",
+      "Set an automatic monthly transfer that converts a fixed percentage of your earnings into owned assets, so the conversion does not depend on your attention."
+    ],
+    "if_you_liked": ["the-wealth-of-nations", "good-economics-for-hard-times", "poor-economics"],
+    "not_for_you_if": "You want practical investing advice, or you have no appetite for several hundred pages of historical statistics before you reach a conclusion.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published in French in 2013, English translation 2014. The 2014 Financial Times challenge to the wealth series and the housing-driven critique of the capital share are both flagged in the sparks."
+    }
+  },
