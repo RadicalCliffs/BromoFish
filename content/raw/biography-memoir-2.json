@@ -1,0 +1,622 @@
+[
+  {
+    "id": "surely-youre-joking-mr-feynman",
+    "title": "Surely You're Joking, Mr. Feynman!",
+    "subtitle": "Adventures of a Curious Character",
+    "author": "Richard P. Feynman, as told to Ralph Leighton",
+    "year": 1985,
+    "category": "biography-memoir",
+    "subcategory": "scientist-memoir",
+    "tags": [
+      "curiosity",
+      "physics",
+      "learning",
+      "playfulness",
+      "science",
+      "nonconformity"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "It made a Nobel physicist look like a safecracker with a bongo drum, and in doing so it changed what a scientific life looks like from the outside. Thousands of people took up science because what was modelled was curiosity rather than solemnity.",
+    "crux": {
+      "headline": "Curiosity is a discipline, not a mood",
+      "body": "The same move runs through every story here: refuse to accept an explanation you cannot rebuild yourself, then play with the thing until it gives. The playfulness is not decoration. It is what keeps you on a problem long after duty would have released you, and it is why he trusted his own working over the authority of the room. Understand it yourself or do not claim to understand it."
+    },
+    "sparks": [
+      {
+        "id": "surely-youre-joking-mr-feynman-s01",
+        "hook": "Reciting the rule is not the same as seeing it in the water outside.",
+        "insight": "Teaching in Brazil, he met students who could answer any exam question and could not use a single answer. Ask them about light glancing off the bay outside the classroom window and nothing connected, though they had just recited the rule that governs it. They had learned the words in the order the words came, because that was what the exam rewarded. Knowledge that only works in the shape it was memorised in is not knowledge. It is a recording.",
+        "why": "Recall and transfer are different abilities, and most testing measures only the first. If you have never used an idea outside the setting where you met it, you have no evidence that you understand it.",
+        "apply": "Take something you claim to know and explain it to a friend using an example from today, no jargon and no notes. Mark every place you stall.",
+        "format": "single",
+        "tags": [
+          "understanding",
+          "learning"
+        ]
+      },
+      {
+        "id": "surely-youre-joking-mr-feynman-s02",
+        "hook": "A wobbling plate in a cafeteria led him back to the work that won a Nobel.",
+        "insight": "Burned out and convinced he was finished, he decided to treat physics as a toy again and work only on what amused him. Someone threw a plate across the cafeteria, he noticed the way it wobbled as it spun, and he started calculating for no reason at all. That pointless piece of arithmetic pulled him back into the equations that eventually took him to Stockholm. The lesson is not that play always pays off. It is that curiosity dies when every question has to justify itself in advance.",
+        "why": "Play removes the fear of wasted effort, which is what stops people beginning hard problems. He also misremembered details of the plate's motion, a reminder that this is a memory rather than a lab notebook.",
+        "apply": "Spend one hour this week on a question in your field that has no payoff and that nobody asked for. Tell no one you did it.",
+        "format": "single",
+        "tags": [
+          "curiosity",
+          "play",
+          "creative-work"
+        ]
+      },
+      {
+        "id": "surely-youre-joking-mr-feynman-s03",
+        "hook": "Ants got into his flat, so he ran an experiment on the floor.",
+        "insight": "Instead of looking up how ants find food, he set up a test. He laid down paper, marked the paths they walked, shifted his marks, and watched what the next ants did. He worked out that a trail is a message left behind by whoever went first, sharpened a little each time someone follows it. Everything he needed was already in the room. The barrier was never equipment. It was the habit of treating a question as something to look up rather than something to try.",
+        "why": "Even a crude experiment gives you knowledge that reading cannot: you discover which parts of your question were wrong before you get near an answer.",
+        "apply": "Pick one thing you have idly wondered about at home and design a five-minute test for it tonight, however rough, before you search for the answer.",
+        "format": "single",
+        "tags": [
+          "experiments",
+          "curiosity"
+        ]
+      },
+      {
+        "id": "surely-youre-joking-mr-feynman-s04",
+        "hook": "The person most likely to fool you is the one running the experiment.",
+        "insight": "Ordinary honesty means not lying to other people. The scientific version is harder: you go hunting for the things that would make you look wrong and you hand them over yourself. The failed runs. The rival explanation you cannot rule out. The reason your method might have produced this result on its own. It is uncomfortable and it is the entire job, because a claim nobody has tried to break is worth nothing yet.",
+        "why": "Motivated reasoning is invisible from the inside, so willpower is no defence against it. What works is a procedure that forces the disconfirming evidence into the open before anyone else finds it.",
+        "apply": "Before you present your next conclusion, write the three strongest reasons it could be wrong, and put them in the presentation rather than in your notes.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Write the disproof first",
+            "body": "Before gathering evidence, state plainly what result would make you drop the idea. If nothing could, you are not testing anything, you are collecting decoration for a conclusion you already hold."
+          },
+          {
+            "step": 2,
+            "title": "Report the runs that failed",
+            "body": "Include the attempts that went nowhere and any data you set aside, with your reason for setting it aside. A story with no loose ends usually means somebody tidied it."
+          },
+          {
+            "step": 3,
+            "title": "Name the rival explanation",
+            "body": "Say out loud what else could have produced your result. If you cannot rule it out, say that too, instead of hoping your reader will not think of it."
+          },
+          {
+            "step": 4,
+            "title": "Invite the harshest reader",
+            "body": "Give the work to the person most likely to enjoy finding the hole in it. Their objection is far cheaper now than after you have built three years of work on the mistake."
+          }
+        ],
+        "tags": [
+          "integrity",
+          "thinking",
+          "science"
+        ]
+      },
+      {
+        "id": "surely-youre-joking-mr-feynman-s05",
+        "hook": "Measurements of the electron's charge crept toward the truth instead of scattering.",
+        "insight": "After the first careful measurement, later values did not fall randomly either side of the correct figure. They edged toward it, each one a little further along than the last. When researchers got a number far from the accepted one they assumed they had made a mistake and went looking for it. When they got a close one they stopped looking. Nobody cheated. An entire field simply anchored itself to a first answer and took years to climb off it.",
+        "why": "The bias lives in the error checking, not the data. You search harder for faults in results you dislike, so an accepted value pulls on everything measured after it.",
+        "apply": "Next time a number surprises you, spend equal minutes checking a result you liked and one you did not, and write down how long each took.",
+        "format": "single",
+        "tags": [
+          "bias",
+          "science",
+          "measurement"
+        ]
+      },
+      {
+        "id": "surely-youre-joking-mr-feynman-s06",
+        "hook": "The atomic secrets sat behind good locks and terrible habits.",
+        "insight": "At Los Alamos the filing cabinets were expensive, so everyone assumed the documents were safe. He found combinations still set to the number they left the factory with, and colleagues who chose dates and famous constants. He opened cabinets by guessing, and by watching hands. The hardware worked exactly as sold. The security failed anyway, because it depended on busy people doing an inconvenient thing and nobody had ever checked whether they did.",
+        "why": "Protection fails at the habit layer rather than the hardware layer. Some colleagues thought his versions of these stories improved with retelling, but the failure mode is documented anywhere passwords exist.",
+        "apply": "List the three safeguards your team relies on, then check today whether the human step in each one is actually being performed.",
+        "format": "single",
+        "tags": [
+          "security",
+          "systems"
+        ]
+      },
+      {
+        "id": "surely-youre-joking-mr-feynman-s07",
+        "hook": "He turned down a job with no teaching because it looked like a trap.",
+        "insight": "Offered a post where he could think without students, committees or duties, he said no. Research stalls, and it stalls for months at a time. A position that exists purely for your ideas turns every dry spell into evidence that you are a fraud. Teaching gives you something certainly useful to do on the days you produce nothing, and beginners ask the naive questions that drive you back to the foundations. The interruption he was being freed from was part of what kept him working.",
+        "why": "Explaining a subject to a novice exposes the joins in your own understanding, and a fixed obligation keeps you in contact with the field on the days motivation has gone.",
+        "apply": "Take on one small teaching duty this quarter: a lunchtime talk, a mentee, or a written explainer for the newest person on your team.",
+        "format": "single",
+        "tags": [
+          "teaching",
+          "creative-work"
+        ]
+      },
+      {
+        "id": "surely-youre-joking-mr-feynman-s08",
+        "hook": "A Nobel physicist spent a year as the worst artist in the room.",
+        "insight": "He wanted to draw, so he traded lessons with an artist friend and made bad work in front of somebody who could see exactly how bad it was. He did the same with Portuguese, with drumming, and with a stretch in a biology lab where he was the least qualified person present. Each time he took the beginner's seat instead of protecting his standing. That willingness is rarer among accomplished people than talent is, and it is what kept his range widening into his sixties.",
+        "why": "Expertise builds a reputation that you then start defending, and defending it means avoiding the visible incompetence that all learning requires.",
+        "apply": "Book one lesson this month in something you are certainly bad at, with a teacher who will correct you out loud in front of other people.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Choose from want, not use",
+            "body": "Pick something you would enjoy even if it never helped your career. A hobby that has to pay off quietly becomes another performance you can fail at."
+          },
+          {
+            "step": 2,
+            "title": "Find a real teacher",
+            "body": "Get somebody competent to watch you work and tell you what is wrong. Teaching yourself protects your ego and roughly doubles how long everything takes."
+          },
+          {
+            "step": 3,
+            "title": "Let the first work be bad",
+            "body": "Make a quantity of poor attempts on purpose. Beginners who wait until they feel ready never accumulate the repetitions that produce readiness."
+          },
+          {
+            "step": 4,
+            "title": "Keep it off your record",
+            "body": "Do not present it to colleagues as an achievement. Once it becomes part of your reputation you start avoiding the parts you are worst at."
+          }
+        ],
+        "tags": [
+          "learning",
+          "beginners",
+          "humility"
+        ]
+      },
+      {
+        "id": "surely-youre-joking-mr-feynman-s09",
+        "hook": "After the bomb worked, he watched builders and thought the work pointless.",
+        "insight": "Los Alamos was absorbing in the way only a hard problem is: brilliant colleagues, real constraints, genuine urgency, and no spare attention for what the object was for. He describes the celebration after the test and then the flatness that arrived behind it. Sitting in a restaurant in New York he found himself measuring the buildings against a blast radius and concluding that new construction was futile. The technical thrill had been complete, and it had crowded out the question until the work was finished.",
+        "why": "Engrossing work suppresses moral reflection while it runs, because attention is finite and interesting problems are greedy. His account is honest about that delay and largely declines to settle the ethics.",
+        "apply": "For the project absorbing you now, write down who is harmed if it succeeds. Do it while the design can still be changed.",
+        "format": "single",
+        "tags": [
+          "ethics",
+          "work",
+          "science"
+        ]
+      },
+      {
+        "id": "surely-youre-joking-mr-feynman-s10",
+        "hook": "The most charming narrator in science writing is also the only witness.",
+        "insight": "These stories arrive told by the man they flatter, decades after the events, transcribed from evenings of conversation with a drumming partner. He comes out clever in nearly all of them. Colleagues remembered some episodes differently, and the chapters about approaching women in bars have aged into exactly what they are: an account of treating people as a system to be solved. Take the curiosity, which is worth copying. The self-portrait is a performance.",
+        "why": "Memoir is testimony from a single interested party, and a funny narrator disarms the scrutiny you would apply to a dull one. That is a property of the form, not a flaw unique to this book.",
+        "apply": "When a memoir makes you admire its narrator, name one person in it who would tell the same story differently, then imagine their version.",
+        "format": "single",
+        "tags": [
+          "memoir",
+          "skepticism"
+        ]
+      }
+    ],
+    "actions": [
+      "Pick one concept you use professionally and rebuild it from scratch on paper without notes, stopping wherever you find you were repeating remembered words rather than reasoning.",
+      "Keep a notebook of questions with no professional value, and answer one a month with a crude physical experiment instead of a search engine.",
+      "Ask the newest person on your team to interview you for twenty minutes, and treat every question you fumble as a gap in your own understanding.",
+      "Read a critical biography of Feynman alongside his own telling, and note the places where the two versions of the same man disagree."
+    ],
+    "if_you_liked": [
+      "into-thin-air",
+      "the-last-lecture",
+      "educated"
+    ],
+    "not_for_you_if": "You want physics explained or a serious history of the Manhattan Project. This is anecdote, and its treatment of women will grate.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 1985 by W. W. Norton, told to Ralph Leighton from taped conversations and edited by Edward Hutchings. Several anecdotes are disputed or unverifiable; all prose here is original."
+    }
+  },
+  {
+    "id": "the-glass-castle",
+    "title": "The Glass Castle",
+    "subtitle": "A Memoir",
+    "author": "Jeannette Walls",
+    "year": 2005,
+    "category": "biography-memoir",
+    "subcategory": "family-memoir",
+    "tags": [
+      "family",
+      "poverty",
+      "childhood",
+      "resilience",
+      "addiction",
+      "forgiveness"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "It described an American childhood of hunger, fire and neglect without asking you to hate the parents who caused it. That double vision reset what a survivor's story is allowed to sound like, and it made the mechanics of poverty legible to readers who had never been near it.",
+    "crux": {
+      "headline": "You can love a person and still leave them",
+      "body": "Walls grew up hungry and constantly moving, taught remarkable things by parents who would not feed her. Her escape was not a verdict on them. She saved bus fare, worked, and got herself and her siblings out one at a time, while still seeing her father as the man who taught her to read the night sky. Both accounts are true at once, and refusing to collapse them into one is what makes the book honest."
+    },
+    "sparks": [
+      {
+        "id": "the-glass-castle-s01",
+        "hook": "She ducked below the window of a taxi so her mother would not see her.",
+        "insight": "The book opens with a successful journalist in evening clothes spotting her mother going through a rubbish bin on a New York street, and sliding down in the seat. Nothing in her life was as expensive as that reflex. She had built a career and a marriage on a version of her past that would not survive a phone call, which meant nobody in her adult life actually knew her. The shame was not protecting her. It was quietly running her.",
+        "why": "A secret costs continuously, in the attention it takes to maintain and in the closeness it forbids, while the disclosure costs once. People consistently overestimate the second and ignore the first.",
+        "apply": "Name the fact about your life you steer conversations away from. Tell one person you trust this month, plainly, without softening it into a joke.",
+        "format": "single",
+        "tags": [
+          "shame",
+          "honesty"
+        ]
+      },
+      {
+        "id": "the-glass-castle-s02",
+        "hook": "She was cooking her own hot dogs at three, and it set her on fire.",
+        "insight": "Standing on a chair over a gas ring, aged three, because nobody else was going to do it, she caught her dress alight and spent six weeks in hospital. The competence was real. Children in chaotic homes learn to cook, negotiate with landlords, count money and read adult moods years early, and they are often praised for it. That precocity is a scar tissue, not a gift. It grew where something else should have been.",
+        "why": "Early responsibility does build genuine capability, but it is bought with the childhood that would otherwise have been spent unguarded. Capability is not evidence that the arrangement was acceptable.",
+        "apply": "If you were the capable child, list two things you learned early and one thing you never learned, then ask who is teaching you that now.",
+        "format": "single",
+        "tags": [
+          "childhood",
+          "resilience"
+        ]
+      },
+      {
+        "id": "the-glass-castle-s03",
+        "hook": "The house her father designed had drawings, calculations and no foundation.",
+        "insight": "Rex Walls spent years refining plans for a glass house powered by the sun, complete with measurements, while his children slept in cardboard and ate margarine. The drawings were not a lie exactly. He believed in them, and so did they, and the belief did real work: it made the present survivable and it postponed every hard question. Eventually the children were digging the foundation themselves, and the hole filled with rubbish because there was nowhere else to put it.",
+        "why": "A vivid enough plan delivers some of the emotional payoff of the finished thing, which reduces the pressure to build it. Families often collude in that trade because the alternative is grief.",
+        "apply": "Look at the plan you have been refining for over a year. Either put a date and a first physical step on it this week, or say out loud that it is a story.",
+        "format": "single",
+        "tags": [
+          "family",
+          "avoidance",
+          "plans"
+        ]
+      },
+      {
+        "id": "the-glass-castle-s04",
+        "hook": "The same father who let them go hungry gave each child a star for Christmas.",
+        "insight": "With no money one Christmas, Rex took his children outside and let them each choose a star, then explained what they were made of. He taught physics, geology and Morse code, threw them into water to teach swimming, and drank the grocery money. The book refuses to sort him into one column. He was a gifted teacher and a man whose choices starved his kids, and the second fact does not delete the first any more than the first excuses the second.",
+        "why": "People are not consistent enough to be summarised. Insisting on a single verdict for a parent usually means suppressing half of what you actually remember, which is why the memory keeps surfacing.",
+        "apply": "Write two lists for one difficult person in your life: what they gave you, what they cost you. Keep both, and stop trying to net them off.",
+        "format": "single",
+        "tags": [
+          "family",
+          "ambivalence",
+          "forgiveness"
+        ]
+      },
+      {
+        "id": "the-glass-castle-s05",
+        "hook": "Their mother owned land in Texas while her children searched bins for lunch.",
+        "insight": "Rose Mary held property she would not sell and a teaching qualification she would not consistently use, and told her children that being an artist mattered more. Their hunger was not caused by an absence of options. It was caused by how the available options were ranked, by an adult, on their behalf. That is a different fact from bad luck, and it is much harder to say out loud, which is why so many children of scarcity spend decades explaining it away.",
+        "why": "Scarcity inside a household is often a distribution decision rather than a total. Naming that is not cruelty, and it is usually the step that lets someone stop blaming themselves.",
+        "apply": "For a shortage you grew up with, ask what resources actually existed and who decided where they went. Write the answer down once, then leave it.",
+        "format": "single",
+        "tags": [
+          "poverty",
+          "family",
+          "clarity"
+        ]
+      },
+      {
+        "id": "the-glass-castle-s06",
+        "hook": "Her father teaching her to swim meant throwing her in until she stopped sinking.",
+        "insight": "He took her into a sulphur spring and repeatedly carried her out to the deep water and let go, hauling her up each time she went under, until she swam. He believed he was giving her the only thing that would keep her alive later. She learned to swim and she learned that safety was not on offer. Hardship handed to you by someone who bears none of the risk is not training. The difference is who chose it and who could stop it.",
+        "why": "Adversity can build capacity, but only when the person facing it has some control and some recovery afterward. Without those, the same experience mostly teaches vigilance.",
+        "apply": "Before putting someone under pressure to grow them, check two things: did they agree to it, and can they stop it. If not, redesign the task.",
+        "format": "single",
+        "tags": [
+          "resilience",
+          "parenting",
+          "risk"
+        ]
+      },
+      {
+        "id": "the-glass-castle-s07",
+        "hook": "Four children escaped a house one at a time by sending money backwards.",
+        "insight": "The Walls children did not wait for rescue and did not all leave at once. They saved in secret, chose a city, sent the oldest first with the group's money, and then each new arrival worked to fund the next one out. It took years and the fund was raided more than once. What made it work was that leaving was treated as a logistics problem with stages rather than a moment of courage that had to arrive fully formed.",
+        "why": "Exit from a bad situation almost always fails for practical reasons: no money, no address, no first job. Solving those in sequence beats waiting for the resolve to appear.",
+        "apply": "If you need to leave something, open a separate account this week and put the first small amount in. Money is the part that takes longest.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Name the destination",
+            "body": "Vague escape stays a daydream. Pick the actual city, job or course, so every later decision has something concrete to serve rather than a mood to satisfy."
+          },
+          {
+            "step": 2,
+            "title": "Hide the fund",
+            "body": "Keep the money somewhere the people you are leaving cannot reach it. The Walls children lost their savings to their father, which cost them another year."
+          },
+          {
+            "step": 3,
+            "title": "Send one person first",
+            "body": "One person landing gives everyone else an address, a floor to sleep on and proof it is possible. Pooling everything behind the first mover beats everyone waiting."
+          },
+          {
+            "step": 4,
+            "title": "Send the ladder back",
+            "body": "Whoever gets out funds the next one. Escape that ends with you is a smaller achievement than escape designed to be repeated by the people behind you."
+          }
+        ],
+        "tags": [
+          "escape",
+          "planning",
+          "siblings"
+        ]
+      },
+      {
+        "id": "the-glass-castle-s08",
+        "hook": "The job that got her out was a skill she could sell at seventeen.",
+        "insight": "She worked, babysat, sold what she could, and wrote for the school paper, which turned out to be the one thing that transferred. Journalism gave her a portfolio, a reference and a trade she could practise in a city where she knew nobody. Getting out of a bad situation is rarely about deserving better. It is about holding something a stranger will pay for, built quietly while you are still inside the situation you want to leave.",
+        "why": "Independence runs on employability. A skill with visible output and a low entry cost converts faster into rent than qualifications you cannot afford to finish first.",
+        "apply": "Choose one sellable skill you can practise for three hours a week inside your current life, and produce something a stranger could evaluate by next month.",
+        "format": "single",
+        "tags": [
+          "work",
+          "independence",
+          "skills"
+        ]
+      },
+      {
+        "id": "the-glass-castle-s09",
+        "hook": "Her mother read the story of her own neglect and did not take it back.",
+        "insight": "Rose Mary appears in the book defending her choices, unrepentant, still convinced she was right to live as she did. Walls does not correct her or hand herself the last word. That restraint is the book's spine. You do not need the person who hurt you to agree with your account before you are allowed to tell it, and waiting for their agreement hands them a veto over your own memory for as long as they choose to withhold it.",
+        "why": "This is one child's memory of a shared past, and her parents' version differs in the book itself. Two honest accounts of the same household can disagree without either one being a lie.",
+        "apply": "Write your version of a contested family event without adding lines that argue with the other person. Notice how much of the draft was defence.",
+        "format": "single",
+        "tags": [
+          "memory",
+          "family",
+          "truth"
+        ]
+      },
+      {
+        "id": "the-glass-castle-s10",
+        "hook": "She got the life she wanted and still could not say where she came from.",
+        "insight": "By her thirties she had the byline, the apartment and the party invitations, and she was inventing biographies to explain her parents. The success had not resolved the shame, because success was never what shame responds to. What ended it was saying the true thing to people whose opinion mattered, and finding that the sky stayed up. Rewriting where you came from does not cost you your past. It costs you everyone who might have loved the actual version.",
+        "why": "Concealment strengthens the belief that the hidden thing is unacceptable, because you never gather evidence to the contrary. Disclosure to a safe person is what supplies that evidence.",
+        "apply": "Practise a plain, unapologetic two-sentence version of your background. Use it once this month instead of the edited one you usually reach for.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Pick one safe person",
+            "body": "Not the hardest audience and not a stranger. Somebody whose regard you would feel losing, but who has never shown you contempt for a weakness."
+          },
+          {
+            "step": 2,
+            "title": "Say it without decoration",
+            "body": "No comic framing, no rush to explain why it was not so bad. Humour and context are the two most common ways of taking a confession back mid-sentence."
+          },
+          {
+            "step": 3,
+            "title": "Let their reaction be theirs",
+            "body": "Do not manage their face or fill the silence. Your job ended at the full stop, and the discomfort you feel next is old, not new information."
+          },
+          {
+            "step": 4,
+            "title": "Ask what it was guarding",
+            "body": "Afterwards, write down what you feared would happen. Comparing that to what did happen is what actually retires the secret rather than merely airing it."
+          }
+        ],
+        "tags": [
+          "shame",
+          "identity",
+          "disclosure"
+        ]
+      }
+    ],
+    "actions": [
+      "Write one page about a formative person in your life containing only things that happened, with no adjectives assessing them. Read it back and see which verdict survives.",
+      "If you are supporting someone in a chaotic household, offer the specific logistics rather than sympathy: a spare bed, a bus fare, a reference, a locked drawer.",
+      "Identify one story you tell about your own background that is edited for comfort, and rewrite it truthfully in two sentences you could say aloud.",
+      "Read a memoir by someone whose parents failed them differently, and notice how much of your judgement was really about class rather than harm."
+    ],
+    "if_you_liked": [
+      "educated",
+      "wild",
+      "i-know-why-the-caged-bird-sings"
+    ],
+    "not_for_you_if": "You want the parents condemned and the child vindicated. The book withholds that, and readers looking for justice often find it maddening.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2005 by Scribner. A single participant's account of a contested family history; her mother's dissenting view appears inside the book. All prose here is original."
+    }
+  },
+  {
+    "id": "wild",
+    "title": "Wild",
+    "subtitle": "From Lost to Found on the Pacific Crest Trail",
+    "author": "Cheryl Strayed",
+    "year": 2012,
+    "category": "biography-memoir",
+    "subcategory": "recovery-memoir",
+    "tags": [
+      "grief",
+      "hiking",
+      "recovery",
+      "solitude",
+      "self-reliance",
+      "walking"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 10,
+    "why_it_matters": "It took the solitary wilderness quest, which had been a men's genre for a century, and gave it to a broke twenty-six-year-old with no experience and a heroin habit behind her. A generation of people walked long distances because of it.",
+    "crux": {
+      "headline": "Walking will not fix you, but it will hold you still",
+      "body": "Four years after her mother died, Strayed had destroyed her marriage and was using heroin. She walked eleven hundred miles of a trail she was not qualified for, and the walking cured nothing directly. What it did was remove every distraction and every escape route, leave her alone with what she had been outrunning, and give her a problem simple enough to solve each day. That is what a hard, dull, physical task is actually for."
+    },
+    "sparks": [
+      {
+        "id": "wild-s01",
+        "hook": "On the first morning she could not lift her own pack off the motel floor.",
+        "insight": "She had assembled her kit from a catalogue and a guidebook and had never spent a night in the backcountry. The pack was so heavy she had to sit down, strap in, and roll onto her knees to stand. Nothing about that first day suggests you should copy her preparation. What it does show is that the alternative to starting underprepared was not starting well prepared. It was not starting, for another four years, while she got worse.",
+        "why": "Preparation has a real floor below which you get hurt, and above that floor it turns into a socially acceptable form of delay. Knowing which side you are on is the whole skill.",
+        "apply": "For a project you keep researching, name the one thing that would genuinely be dangerous to skip. Do that, then begin badly this week.",
+        "format": "single",
+        "tags": [
+          "starting",
+          "preparation"
+        ]
+      },
+      {
+        "id": "wild-s02",
+        "hook": "She lost her toenails to boots she knew were too small in week one.",
+        "insight": "The boots were a size too tight and she kept walking in them for hundreds of miles, taping her feet, losing nails, until one went over a cliff and she threw the second after it. Every one of those days cost more than the afternoon it would have taken to sort the problem out at the start. Equipment errors do not stay the same size. They compound daily, and they compound quietly, because you adapt just enough to stop noticing.",
+        "why": "Ongoing friction gets normalised fast. You stop registering a small recurring cost precisely because it repeats, which is exactly why it ends up dominating the total.",
+        "apply": "Name the daily annoyance you have worked around for over a month. Cost it out for a year, then spend one afternoon fixing it properly.",
+        "format": "single",
+        "tags": [
+          "friction",
+          "problem-solving"
+        ]
+      },
+      {
+        "id": "wild-s03",
+        "hook": "Her mother died in seven weeks and the wreckage arrived four years later.",
+        "insight": "Bobbi was diagnosed with lung cancer and dead within about seven weeks, at forty-five. Strayed did not fall apart at the funeral. She fell apart slowly and sideways, over years: the family scattering, an affair, the end of a marriage she describes loving, heroin. Grief that has nowhere to go does not stay where you left it. It reappears as behaviour, and the behaviour looks like a character problem to everyone watching, including you.",
+        "why": "Loss does not resolve on a schedule and rarely announces itself as loss. Delayed reactions are common enough that treating late self-destruction as unrelated is usually a mistake.",
+        "apply": "If your behaviour changed after a loss, write the date of the loss beside the date the behaviour started. Take that page to someone qualified.",
+        "format": "single",
+        "tags": [
+          "grief",
+          "self-knowledge"
+        ]
+      },
+      {
+        "id": "wild-s04",
+        "hook": "The trail gave her something rare: a problem simple enough to solve today.",
+        "insight": "Her life at twenty-six was a tangle where nothing could be fixed without fixing something else first. On the trail the question was water, miles, food and where to sleep. That is not a small thing. Solving a solvable problem repeatedly rebuilds the belief that your actions produce results, which is precisely what months of failure take away. The walking was not a metaphor for sorting her life out. It was practice at succeeding at anything at all.",
+        "why": "Repeated small completions restore a sense of agency more reliably than insight does, which is why physical, bounded tasks work when talking has stopped helping.",
+        "apply": "Choose one task with a visible finish line and complete it start to end today, without touching the tangled problem you actually want solved.",
+        "format": "single",
+        "tags": [
+          "agency",
+          "recovery",
+          "simplicity"
+        ]
+      },
+      {
+        "id": "wild-s05",
+        "hook": "Alone was the point, and alone cost her more than it costs a man.",
+        "insight": "Solitude was what she went for and could not have on the same terms as the men she met. She had to weigh whether a stranger at a water source was company or a threat, and she describes the calculation running quietly all day. The book is honest that this is a tax, not a phobia, and honest that she went anyway. Both halves matter. Pretending the risk is imaginary and refusing the whole experience are equally bad answers.",
+        "why": "The vigilance is a rational response to a real difference in exposure. Naming it as a cost rather than a personal weakness is what lets people plan around it and still go.",
+        "apply": "Plan a solo trip with the risk handled explicitly: shared route, check-in times, an exit point each day. Then take it rather than shelving it.",
+        "format": "single",
+        "tags": [
+          "solitude",
+          "women",
+          "risk"
+        ]
+      },
+      {
+        "id": "wild-s06",
+        "hook": "She could have quit at any hour, which is exactly why she did not.",
+        "insight": "Every road crossing was an offer to stop, and she kept noticing that she could take a bus and nobody would ever ask about it. Because the exit stayed open, continuing was a decision she made rather than a trap she was stuck in. That is a different psychological state, and it is more durable. People escape from obligation. They do not usually escape from something they keep actively choosing every morning.",
+        "why": "Chosen difficulty is tolerated far better than imposed difficulty, because control changes how the same discomfort is experienced and remembered.",
+        "apply": "Write down the exit from your current hard commitment, including what it would cost. Then decide once a week to stay, out loud.",
+        "format": "single",
+        "tags": [
+          "commitment",
+          "motivation"
+        ]
+      },
+      {
+        "id": "wild-s07",
+        "hook": "A long walk is not a spiritual act. It is a resupply schedule.",
+        "insight": "The romance of the trail sits on top of unglamorous logistics: boxes posted ahead to towns, twenty dollars tucked into each one, a stove that needs the right fuel, a body that needs more calories than she budgeted. She got several of these wrong and paid in hunger. Any long solo undertaking, physical or not, comes down to whether you set up the supply line before you left. Nobody feels transformed on an empty stomach at mile nine hundred.",
+        "why": "Endurance projects fail on logistics far more often than on will. Supply, checkpoints and an honest calorie or cash budget are the parts that actually determine whether you finish.",
+        "apply": "Before your next long effort, write the supply plan on one page: what arrives when, how it is paid for, and where you can stop safely.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Break it into legs",
+            "body": "Split the whole distance into stretches between resupply points. You do not need to survive the project, only the next leg, which is a question you can actually answer."
+          },
+          {
+            "step": 2,
+            "title": "Post the supplies ahead",
+            "body": "Decide now what future you will need at each point and put it there in advance. Present you is the only version with time, money and judgement to spare."
+          },
+          {
+            "step": 3,
+            "title": "Budget the boring inputs",
+            "body": "Food, cash, sleep, fuel. Strayed underestimated calories and money and spent days hungry, which shaped her decisions far more than any insight did."
+          },
+          {
+            "step": 4,
+            "title": "Mark the exits",
+            "body": "Know where you can stop without disaster. A planned exit removes panic from bad days, and paradoxically makes quitting less likely rather than more."
+          }
+        ],
+        "tags": [
+          "planning",
+          "endurance",
+          "logistics"
+        ]
+      },
+      {
+        "id": "wild-s08",
+        "hook": "She chose her own surname out of a dictionary at her divorce.",
+        "insight": "Filling in paperwork at the end of her marriage, she took a new last name rather than reverting to one she had been given. She picked a word that named what she had actually done: wandered off, lost her way, gone somewhere she was not supposed to be. It is not a denial of the past. It is the opposite, an insistence on carrying it under a name she selected. You rarely get to choose what happened. You do get some say in what you call it.",
+        "why": "Naming your own history shifts you from subject to author of it, which changes what you can do next. The story stays the same and your relationship to it does not.",
+        "apply": "Write the label you have been given for your worst period, then write your own. Use yours the next time somebody asks about it.",
+        "format": "single",
+        "tags": [
+          "identity",
+          "reframing"
+        ]
+      },
+      {
+        "id": "wild-s09",
+        "hook": "The self-reliant hiker was fed, driven and rescued by strangers repeatedly.",
+        "insight": "She is honest about the hitchhikes, the meals, the hikers who reorganised her pack and told her what to throw out, the box of supplies waiting because somebody posted it. The solitude was real and so was the dependence. Every story of a person alone against the wilderness omits the road crossings, and the omission matters because readers then judge their own need for help as weakness rather than as the ordinary condition of the enterprise.",
+        "why": "Self-reliance narratives systematically edit out the infrastructure and the strangers. Once you look for the assistance, you find it in nearly every account of solitary achievement.",
+        "apply": "List the people and systems supporting the thing you consider your own achievement. Thank one of them this week, specifically.",
+        "format": "single",
+        "tags": [
+          "interdependence",
+          "help",
+          "honesty"
+        ]
+      },
+      {
+        "id": "wild-s10",
+        "hook": "The transformation was written seventeen years after the walk.",
+        "insight": "The hike happened in 1995 and the book came out in 2012, assembled from journals and memory into a shape that ends somewhere. Experienced hikers have disputed parts of her account, mostly around competence and how hard those miles really are. Neither objection wrecks the book, but both are worth holding. Lives are not lived as arcs. Arcs are what a writer finds afterwards, by choosing where to stop, and every memoir of recovery is edited backwards from a known ending.",
+        "why": "Retrospective coherence is a property of storytelling, not of experience. Knowing that keeps you from measuring your own unresolved middle against somebody else's finished third act.",
+        "apply": "When a redemption story makes your own progress look shapeless, ask what the author knew when writing that they did not know at the time.",
+        "format": "single",
+        "tags": [
+          "memoir",
+          "skepticism",
+          "narrative"
+        ]
+      }
+    ],
+    "actions": [
+      "Plan one multi-day walk within your means, with a written supply and exit plan, and go before you feel ready enough to enjoy it.",
+      "If you are carrying a loss, write down when it happened and what changed in your behaviour afterwards, and take that page to a therapist rather than a friend.",
+      "Audit your own kit for one recurring activity and remove or fix the single item that has been quietly costing you something every session.",
+      "Read a long-distance account written by someone with more experience alongside this one, and note how differently the same terrain is described."
+    ],
+    "if_you_liked": [
+      "the-glass-castle",
+      "educated",
+      "into-thin-air"
+    ],
+    "not_for_you_if": "You want practical trail craft or a hiking manual, or you have little patience for a narrator who is candid about drug use and infidelity.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2012 by Knopf; the hike took place in 1995. Some experienced hikers dispute details of her account. All prose here is original."
+    }
+  }
+]

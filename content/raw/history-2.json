@@ -1,0 +1,1306 @@
+[
+  {
+    "id": "the-making-of-the-atomic-bomb",
+    "title": "The Making of the Atomic Bomb",
+    "subtitle": null,
+    "author": "Richard Rhodes",
+    "year": 1986,
+    "category": "history",
+    "subcategory": "nuclear-age",
+    "tags": [
+      "nuclear-weapons",
+      "physics",
+      "world-war-two",
+      "science",
+      "manhattan-project"
+    ],
+    "difficulty": "challenging",
+    "read_time_min": 14,
+    "why_it_matters": "It moved a piece of physics from the seminar room to the middle of the twentieth century, and showed the people who chose each step. Almost every later argument about scientific responsibility, secrecy and deterrence starts from the ground it laid.",
+    "crux": {
+      "headline": "Nobody decided to build the bomb; everybody decided the next step",
+      "body": "The weapon was not authorised in a single moment by a single mind. It arrived through a chain of reasonable-looking steps taken by physicists, engineers, generals and politicians, each of whom faced a narrow question and answered it well. By the time the wide question came into view, the plants were running and the deadline was set. That is the shape of most enormous decisions: not a choice, but an accumulation of choices nobody was standing far enough back to see."
+    },
+    "sparks": [
+      {
+        "id": "the-making-of-the-atomic-bomb-s01",
+        "hook": "The chain reaction was imagined in a London street before anyone had split an atom.",
+        "insight": "In 1933 the physicist Leo Szilard was crossing a London road when the whole idea arrived at once. If an element could be found that released two neutrons for every one it absorbed, the reaction would feed itself and pour out energy. No such element was known. Fission had not been discovered and would not be for five more years. Szilard simply followed a physical possibility to its end, then spent years trying to convince other people that the end was real.",
+        "why": "The insight came from reasoning about what nature permits, not from an experiment. That is how a good deal of physics works, and it is why the gap between a theoretical possibility and a working device can close fast.",
+        "apply": "Look for the moment in any discovery story when someone treated a possibility as real before the evidence arrived, then ask what made that leap credible to them.",
+        "format": "single",
+        "tags": [
+          "discovery",
+          "physics",
+          "foresight"
+        ]
+      },
+      {
+        "id": "the-making-of-the-atomic-bomb-s02",
+        "hook": "The chemists produced the evidence for fission and refused to believe it.",
+        "insight": "In late 1938 Otto Hahn and Fritz Strassmann bombarded uranium and kept finding barium, an element roughly half its size. As chemists they trusted their analysis and distrusted its meaning, because the physics of the day said heavy nuclei do not break in two. The reading came from Lise Meitner, who had fled Germany, and her nephew Otto Frisch: the nucleus had split and the missing mass had turned into energy. Experiment and explanation came from different people in different countries.",
+        "why": "Hahn alone received the Nobel Prize that followed, after decades of joint work with Meitner. Discovery is often split between the hands that make a result and the mind that recognises what it is.",
+        "apply": "Treat any discovery credit as a claim to check. Ask who ran the experiment, who interpreted it, and who was in a position to be named at the time.",
+        "format": "single",
+        "tags": [
+          "discovery",
+          "credit",
+          "physics"
+        ]
+      },
+      {
+        "id": "the-making-of-the-atomic-bomb-s03",
+        "hook": "Physicists tried to censor themselves before any government thought of it.",
+        "insight": "Once fission was public, Szilard argued that further results on chain reactions should be kept out of the journals so that German researchers would not read them. Some colleagues agreed. Others refused, on the grounds that open publication is the thing that makes science science. The effort mostly failed until states took the job over and made secrecy compulsory. It is a strange episode: the central norm of a profession suspended voluntarily, because its members had worked out what the next paper would be worth to an army.",
+        "why": "Voluntary secrecy rarely holds. It asks each participant to surrender credit while trusting rivals to do the same. Governments can enforce what colleagues can only request.",
+        "apply": "Notice in any field who gains from openness and who gains from delay, then ask which of the two is paying for the research being published.",
+        "format": "single",
+        "tags": [
+          "secrecy",
+          "science-policy"
+        ]
+      },
+      {
+        "id": "the-making-of-the-atomic-bomb-s04",
+        "hook": "The physics was the easy part. The bomb was a factory problem.",
+        "insight": "Proving a chain reaction works took a graphite pile under a sports stand. Turning it into a weapon meant separating a rare isotope out of natural uranium, or manufacturing a new element in reactors, at industrial scale and in secret. That consumed enormous quantities of electricity, construction and labour. The step from physics to weapon was not conceptual at all. It was engineering and money, which is precisely why only a state could take it.",
+        "why": "Later questions about who can build such a weapon turn on industrial capacity far more than on knowledge. The underlying science is taught in universities; the plants can be seen from orbit.",
+        "apply": "Before asking whether someone could do a difficult thing, ask what buildings and budgets it would need, and whether those can be hidden. Capacity constrains more than knowledge does.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Prove the principle",
+            "body": "A controlled chain reaction was demonstrated under a Chicago sports stand in December 1942. That answered the physics question and settled almost nothing else about whether a weapon could exist."
+          },
+          {
+            "step": 2,
+            "title": "Find the material",
+            "body": "Natural uranium is overwhelmingly the wrong isotope. Separating the rare one, and breeding plutonium in reactors, became the central problem and swallowed most of the project's cost."
+          },
+          {
+            "step": 3,
+            "title": "Build hidden towns",
+            "body": "Whole settlements went up in Tennessee and Washington state to house the plants and their workers, most of whom were never told what the thing they were making was for."
+          },
+          {
+            "step": 4,
+            "title": "Watch the momentum",
+            "body": "Once a system like that exists, with budgets, staff, contractors and deadlines, cancelling it stops being a live option for anyone working inside it."
+          }
+        ],
+        "tags": [
+          "industry",
+          "scale",
+          "engineering"
+        ]
+      },
+      {
+        "id": "the-making-of-the-atomic-bomb-s05",
+        "hook": "Germany surrendered and almost nobody walked away from the project.",
+        "insight": "The whole effort was justified as a race: build it before Hitler does. Germany surrendered in May 1945 and the work continued at full speed towards a weapon that would be used on Japan, which had no comparable programme. One physicist, Joseph Rotblat, left, and he left months earlier, once he learned the German effort was not a threat. The stated purpose and the operating purpose had quietly separated, and almost nobody inside noticed the gap while it was opening.",
+        "why": "Large projects generate their own justification. The goal shifted from prevention to use without any meeting at which someone proposed changing it, which is how such shifts usually happen.",
+        "apply": "Ask of any long project in a history you read: if its stated reason had vanished halfway through, would the work have stopped? Then check whether anyone is recorded asking.",
+        "format": "single",
+        "tags": [
+          "momentum",
+          "institutions",
+          "ethics"
+        ]
+      },
+      {
+        "id": "the-making-of-the-atomic-bomb-s06",
+        "hook": "The German bomb that justified everything was never close.",
+        "insight": "Allied intelligence assumed Germany was ahead, since fission had been discovered in Berlin. In fact the German effort stayed small, poorly coordinated and badly wrong about how much material a weapon would need. Nobody on the Allied side knew this until investigators went in behind the advancing armies and inspected the equipment. The most expensive weapons programme ever attempted was driven for years by a rival that existed mainly in the minds of the people racing it.",
+        "why": "Whether Werner Heisenberg failed or quietly slowed the work is still argued about; the secretly recorded conversations of interned German physicists are read both ways. That they were far behind is not disputed.",
+        "apply": "Separate what people believed at the time from what turned out to be true, and judge their decisions against the first. Then count what being wrong cost them.",
+        "format": "single",
+        "tags": [
+          "intelligence",
+          "uncertainty",
+          "world-war-two"
+        ]
+      },
+      {
+        "id": "the-making-of-the-atomic-bomb-s07",
+        "hook": "A beautiful problem gets solved first and questioned afterwards.",
+        "insight": "The people at Los Alamos were not indifferent to what they were making. They were absorbed by it. A hard technical problem generates its own pull: the implosion geometry, the timing circuits, the initiator are puzzles with elegant answers, and finding them is deeply satisfying. Rhodes holds both facts in view at once and refuses to let the second excuse the first. Moral attention here is not defeated by argument, it is crowded out by interest.",
+        "why": "This is the sharpest psychological observation in the book, and it travels well beyond weapons, to any craft where the interest of a problem quietly outruns the question of what solving it is for.",
+        "apply": "Read technical enthusiasm as evidence rather than as an excuse. When a memoir dwells on how interesting the problem was, ask what question that interest was standing in for.",
+        "format": "single",
+        "tags": [
+          "ethics",
+          "craft",
+          "psychology"
+        ]
+      },
+      {
+        "id": "the-making-of-the-atomic-bomb-s08",
+        "hook": "A city was chosen by committee, against criteria written down in advance.",
+        "insight": "Target selection was a procedural matter, handled by a committee working from a list of requirements: an urban area of a certain size, largely undamaged by earlier bombing so the effect could be measured, with terrain that would concentrate the blast. Kyoto appeared on the list and was struck off by the Secretary of War, who knew the city. Reading those criteria is more disturbing than any later argument about the decision, because they are so ordinary and so administrative.",
+        "why": "Bureaucratic process is how enormous decisions actually get taken. The paperwork survives, and it shows careful deliberation about method sitting beside near-silence on whether to proceed at all.",
+        "apply": "Hunt for the procedural record behind any large decision: the criteria, the minutes, the lists. It usually explains how a thing happened better than the speeches do.",
+        "format": "single",
+        "tags": [
+          "bureaucracy",
+          "decision-making"
+        ]
+      },
+      {
+        "id": "the-making-of-the-atomic-bomb-s09",
+        "hook": "Three off-ramps were built in 1945, and the traffic passed all of them.",
+        "insight": "Scientists inside the project did try to change its course. A group at the Chicago laboratory set out in writing why using the weapon without warning would poison the postwar world. Szilard organised a petition among colleagues. Rotblat resigned. None of it reached the people deciding with any weight behind it. The failure was not that no one objected. It was that objection had no route through a structure designed for secrecy and speed.",
+        "why": "Compartmentalised organisations exist to stop information moving sideways. That same design stops dissent from accumulating into something a decision-maker has to answer.",
+        "apply": "In any organisation you study, trace the path a serious objection would have had to travel. If you cannot draw it, an absence of recorded dissent proves nothing.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "The scientists' report",
+            "body": "Researchers at the Chicago laboratory argued in writing during 1945 that a surprise attack on a city would make postwar control of the weapon impossible. It went up the chain and stopped."
+          },
+          {
+            "step": 2,
+            "title": "The petition",
+            "body": "Szilard circulated a petition asking that Japan be warned and given terms first. Signatures were gathered, and the document did not reach the President before the decision was carried out."
+          },
+          {
+            "step": 3,
+            "title": "The resignation",
+            "body": "Rotblat left Los Alamos once he learned the German programme posed no threat. He was the only scientist of standing to do so, and was regarded with suspicion afterwards."
+          },
+          {
+            "step": 4,
+            "title": "The silence upward",
+            "body": "Compartmentalisation meant few people knew enough to object and fewer could reach anyone who mattered. Secrecy protected the decision as effectively as it protected the work."
+          }
+        ],
+        "tags": [
+          "dissent",
+          "organisations",
+          "ethics"
+        ]
+      },
+      {
+        "id": "the-making-of-the-atomic-bomb-s10",
+        "hook": "You cannot keep a secret that is written into nature.",
+        "insight": "After 1945 American policy assumed a monopoly that classification could preserve. Niels Bohr had argued the opposite before the test: the physics belongs to everyone, so the only durable safety lay in telling the Soviet Union early and building some form of control on that basis. He was brushed aside twice. The Soviet Union tested a device four years later, helped by espionage but never dependent on it, because the one decisive secret, that the thing works, had been given away by Hiroshima.",
+        "why": "The book's central historical claim is that feasibility was the only real secret, and that it was disclosed by use. Some historians think this underrates how much espionage accelerated the Soviet timetable.",
+        "apply": "Distinguish, in any secret you are examining, between knowing that a thing is possible and knowing how it was done. The first leaks the moment you use it.",
+        "format": "single",
+        "tags": [
+          "secrecy",
+          "cold-war",
+          "proliferation"
+        ]
+      }
+    ],
+    "actions": [
+      "Read the Chicago scientists' 1945 report and Szilard's petition, both widely reprinted, and decide for yourself whether they were arguments or gestures.",
+      "Draw a one-page timeline from Szilard's 1933 idea to the Soviet test of 1949, marking every point where a genuinely different choice was still available.",
+      "Pair this with John Hersey's Hiroshima so that the effects are not known to you only from the laboratory side of the story.",
+      "Notice how often your other reading praises a technical achievement without naming what it was for. Rhodes never lets those two things separate."
+    ],
+    "if_you_liked": [
+      "midnight-in-chernobyl",
+      "stalingrad",
+      "the-second-world-war"
+    ],
+    "not_for_you_if": "You want a brisk narrative. The physics runs long and detailed, and the book insists you understand the science before it will tell you what the science did.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 1986; awarded the Pulitzer Prize for General Non-Fiction in 1988. All prose here is original and no wording is reproduced from the book."
+    }
+  },
+  {
+    "id": "genghis-khan-and-the-making-of-the-modern-world",
+    "title": "Genghis Khan and the Making of the Modern World",
+    "subtitle": null,
+    "author": "Jack Weatherford",
+    "year": 2004,
+    "category": "history",
+    "subcategory": "empires",
+    "tags": [
+      "mongols",
+      "empire",
+      "trade",
+      "asia",
+      "medieval",
+      "conquest"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "It shifted the Mongols in popular history from a footnote about destruction to the centre of how the medieval world got connected. Almost every popular retelling since either borrows from its argument or is written against it.",
+    "crux": {
+      "headline": "The steppe did not only conquer the world, it wired it",
+      "body": "Weatherford's case is that the Mongol empire is best understood as a system rather than a rampage: promotion by competence instead of birth, religion left alone as a matter of policy, craftsmen moved rather than killed, and long-distance trade made safe enough to be worth doing. Goods, techniques and diseases then travelled the roads that safety created. The case is pressed hard, and the mass killing sits uneasily beside it, so read the argument and the caveat together."
+    },
+    "sparks": [
+      {
+        "id": "genghis-khan-and-the-making-of-the-modern-world-s01",
+        "hook": "The man who conquered most of Eurasia began as an outcast nobody would feed.",
+        "insight": "Temujin's father was poisoned when he was a boy, and his clan abandoned the family to starve on the steppe. He was a captive at one point, wearing a wooden collar. Nothing about his early life fits the profile of a coming emperor, and that is the interesting part: he built his following out of people the tribal order had also discarded, and he owed them rather than his lineage. The system he later imposed looks like the direct opposite of the one that had thrown him out.",
+        "why": "Much of this comes from The Secret History of the Mongols, a source written by insiders after the fact. It preserves detail nothing else does and it is not a neutral record, so treat its shape as a claim.",
+        "apply": "Ask of any origin story who was in a position to tell it and what it was for. A founder's childhood is the part of a biography most likely to be rebuilt backwards.",
+        "format": "single",
+        "tags": [
+          "biography",
+          "sources",
+          "mongols"
+        ]
+      },
+      {
+        "id": "genghis-khan-and-the-making-of-the-modern-world-s02",
+        "hook": "He broke up the tribes and rebuilt the army out of strangers.",
+        "insight": "Steppe armies had always been organised by clan, which meant every unit carried its own feuds and every commander owed his place to birth. Temujin cut across it. Men were assigned to units of ten and hundred that deliberately mixed lineages, forbidden to leave for another unit, and promoted on what they could do. Captured enemies could rise. The reform destroyed the tribal politics that had kept the steppe divided, and it produced an army that could be commanded rather than negotiated with.",
+        "why": "This is the mechanism behind the conquests that most accounts skip past to reach the battles. Organisation, not horsemanship, is what other steppe confederations lacked.",
+        "apply": "When a group suddenly outperforms rivals with the same tools and terrain, look first at how it is organised and who gets promoted, before you look at tactics.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Dissolve the old units",
+            "body": "Clan formations were broken up and reassigned, so a soldier's future depended on his commander and the whole army rather than on the relatives he grew up with."
+          },
+          {
+            "step": 2,
+            "title": "Promote on performance",
+            "body": "Command went to men who had proved themselves, including former enemies and men of no family. Loyalty was rewarded far more reliably than birth was."
+          },
+          {
+            "step": 3,
+            "title": "Punish desertion absolutely",
+            "body": "Leaving your unit for another was not an option, which removed the constant defection and re-alignment that had kept earlier steppe alliances fragile."
+          },
+          {
+            "step": 4,
+            "title": "Share the spoils by rule",
+            "body": "Plunder was distributed according to a known system, including shares for the families of the dead, which turned campaigns into something men could rely on."
+          }
+        ],
+        "tags": [
+          "organisation",
+          "meritocracy",
+          "military"
+        ]
+      },
+      {
+        "id": "genghis-khan-and-the-making-of-the-modern-world-s03",
+        "hook": "The terror was a policy with a price list, not a loss of control.",
+        "insight": "Cities that submitted when summoned were generally left standing and taxed. Cities that resisted and fell were destroyed in ways designed to be described elsewhere. Survivors were often pushed towards the next target to carry the news. The reputation then did work that armies would otherwise have had to do, because the following city had already been given the calculation. Read that way, the massacres are not the failure of the system. They are the advertisement it ran on.",
+        "why": "The killing was real and vast, whatever function it served. An explanation of why something was done is not a defence of it, and Weatherford's brisk tone sometimes lets the two blur.",
+        "apply": "Hold two questions apart while reading about atrocity: what purpose did it serve for those who ordered it, and what did it do to the people it happened to.",
+        "format": "single",
+        "tags": [
+          "violence",
+          "strategy",
+          "reputation"
+        ]
+      },
+      {
+        "id": "genghis-khan-and-the-making-of-the-modern-world-s04",
+        "hook": "The empire's real invention was the courier who could cross a continent.",
+        "insight": "A relay system of staging posts let messages and officials move across the empire at a speed nobody in the settled world could match. Riders swapped horses rather than resting them, and the stations were supplied by the districts around them. That is an unglamorous piece of infrastructure and it is what made an empire of that size administrable at all. Speed of information, not speed of cavalry, is the thing that keeps a distant province attached to a capital.",
+        "why": "Every large pre-modern state runs into the same limit: orders arrive after the situation has changed. The relay network pushed that limit outward further than anything else of its era.",
+        "apply": "When a state looks impossibly large for its technology, go looking for its communications system. That is usually where the answer to how it held together is hiding.",
+        "format": "single",
+        "tags": [
+          "infrastructure",
+          "administration",
+          "communication"
+        ]
+      },
+      {
+        "id": "genghis-khan-and-the-making-of-the-modern-world-s05",
+        "hook": "Skilled hands were worth more alive, so the craftsmen were deported.",
+        "insight": "When a city fell, its artisans, scribes, engineers and doctors were routinely sorted out and sent somewhere the empire wanted them. That was ruthless rather than kind, and it had an effect nobody planned: techniques that had stayed local for centuries were carried thousands of miles and set down among strangers. Persian craftsmen worked in China, Chinese engineers besieged Persian walls. The mixing of skills across Eurasia was in part the by-product of a policy about loot.",
+        "why": "It explains transmission without requiring anyone to have intended cultural exchange. Forced movement of specialists is one of the most consistent engines of technical spread in history.",
+        "apply": "Trace a technique's spread by asking who physically carried it and under what compulsion, rather than assuming ideas travel on their own merits.",
+        "format": "single",
+        "tags": [
+          "technology",
+          "exchange",
+          "labour"
+        ]
+      },
+      {
+        "id": "genghis-khan-and-the-making-of-the-modern-world-s06",
+        "hook": "Religious tolerance can be a tax policy rather than a virtue.",
+        "insight": "Mongol rulers exempted clergy of many faiths from taxes and labour, protected their buildings, and staged debates between Christian, Muslim and Buddhist representatives at court. A European friar who travelled there left an account of one such contest. None of this came from a belief that all faiths are equal. It came from the discovery that religious specialists are cheaper to co-opt than to fight, and that a ruler above the quarrels is harder to organise against.",
+        "why": "The practical origin makes it more interesting rather than less. Tolerance that pays for itself outlasts tolerance that depends on the convictions of one ruler.",
+        "apply": "Ask of any historic tolerance who was paying for it and what it bought the state. That tells you whether it would survive a change of ruler.",
+        "format": "single",
+        "tags": [
+          "religion",
+          "statecraft",
+          "tolerance"
+        ]
+      },
+      {
+        "id": "genghis-khan-and-the-making-of-the-modern-world-s07",
+        "hook": "The roads that carried silk carried the plague that closed them.",
+        "insight": "A century of relative safety along the overland routes moved goods, coins, techniques and people between China, Persia and Europe on a scale not seen before. The same connection carried the pandemic of the 1340s westward, and the death toll broke the trade that had spread it. Connection is not a one-way good. The infrastructure that lets useful things circulate is the same infrastructure that lets destructive things circulate, and neither can be selected for on its own.",
+        "why": "The exact routes and timing of that pandemic are still debated by historians and increasingly by geneticists, so hold the connection as strongly supported in outline and unsettled in detail.",
+        "apply": "Whenever a book praises a network for what it carried, ask what else could use the same channel. Circulation has no way to filter by intention.",
+        "format": "single",
+        "tags": [
+          "trade",
+          "disease",
+          "networks"
+        ]
+      },
+      {
+        "id": "genghis-khan-and-the-making-of-the-modern-world-s08",
+        "hook": "The steppe army learned siege warfare from the people it had just beaten.",
+        "insight": "Horsemen have no natural answer to a walled city, and the early campaigns showed it. The response was to absorb the capability: captured Chinese and later Persian engineers were put to work building siege engines, and the knowledge travelled with the army from one theatre to the next. Within a generation an army from a region with no cities had become expert at taking them. The learning, not the horses, is what turned raiding range into an empire.",
+        "why": "Conquest states usually fail at the transition from mobility to siege. Recruiting the defeated specialists is the cheapest solution and the one most often refused for reasons of pride.",
+        "apply": "Watch for the moment a rising power starts hiring the expertise of its victims. That is usually the point at which raids turn into permanent conquest.",
+        "format": "single",
+        "tags": [
+          "military",
+          "learning",
+          "siege"
+        ]
+      },
+      {
+        "id": "genghis-khan-and-the-making-of-the-modern-world-s09",
+        "hook": "Everything you were taught about the Mongols was written by their victims.",
+        "insight": "The Mongols left little written history of their own, so the record was largely composed by Persian, Chinese, Russian and European chroniclers, many writing after the fact for rulers with reasons to make the horror complete. The destruction was real. The numbers in those chronicles are frequently impossible, and the framing of the Mongols as a natural disaster rather than a state served everyone who had lost to them. Weatherford corrects the balance and, his critics argue, overcorrects it.",
+        "why": "This is the live dispute around the book. Specialists generally accept the connectivity argument while judging the claim about the making of the modern world to be pushed well past the evidence.",
+        "apply": "Before accepting any figure for medieval dead, ask who counted, how, and what the number was for. Chronicle numbers are rhetoric more often than arithmetic.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Find the surviving voice",
+            "body": "Ask who was literate, who had a patron, and who lived to write. The record of a conquest is mostly produced by the losing side's educated class."
+          },
+          {
+            "step": 2,
+            "title": "Question the arithmetic",
+            "body": "Vast round numbers of dead in medieval chronicles usually exceed the plausible population of the region. Treat them as statements about scale of horror, not counts."
+          },
+          {
+            "step": 3,
+            "title": "Look for physical evidence",
+            "body": "Ruined irrigation, abandoned settlement layers and later tax records constrain the story in a way narrative sources cannot. Archaeology is the check on the chronicle."
+          },
+          {
+            "step": 4,
+            "title": "Watch the correction overshoot",
+            "body": "A revisionist case is often right about the bias it identifies and wrong about how far the correction should go. Take the first part and test the second."
+          }
+        ],
+        "tags": [
+          "historiography",
+          "sources",
+          "bias"
+        ]
+      },
+      {
+        "id": "genghis-khan-and-the-making-of-the-modern-world-s10",
+        "hook": "The empire that could not be beaten had no rule for what happens next.",
+        "insight": "There was no fixed law of succession. A new great khan had to be chosen at an assembly, which meant senior commanders were expected to leave their campaigns and travel back across a continent to attend. Armies deep in Europe turned around. Each succession opened a contest between branches of the family, and the empire eventually settled into separate khanates that fought each other. The design that made expansion fast contained nothing that could make it permanent.",
+        "why": "The claim that the withdrawal from Hungary in 1242 was caused by the death of the great khan is the traditional explanation and is now contested, with some researchers pointing to weather and pasture conditions instead.",
+        "apply": "When an empire stops expanding, check its succession rules before reaching for a battle. Rules about who inherits explain more collapses than defeats do.",
+        "format": "single",
+        "tags": [
+          "succession",
+          "collapse",
+          "empire"
+        ]
+      }
+    ],
+    "actions": [
+      "Read one chronicle account of a Mongol siege from the losing side alongside this book, and mark every place where the two versions cannot both be right.",
+      "Write down the three claims here that would most change your view of the medieval world if true, then find out how specialists rate each one.",
+      "Follow one object or technique across the empire's roads and see how much of its journey rests on evidence rather than plausibility.",
+      "Compare the empire's rise with its succession crises and decide for yourself which of the two the book explains better."
+    ],
+    "if_you_liked": [
+      "the-silk-roads",
+      "the-anarchy",
+      "empire-of-the-summer-moon"
+    ],
+    "not_for_you_if": "You want a cautious academic treatment. The argument is advocacy as much as history, and specialists dispute how far the modern world can be traced to the steppe.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2004. Weatherford is an anthropologist; the book's central thesis about Mongol contributions to the modern world is contested by several historians and that is flagged in the sparks."
+    }
+  },
+  {
+    "id": "empire-of-the-summer-moon",
+    "title": "Empire of the Summer Moon",
+    "subtitle": "Quanah Parker and the Rise and Fall of the Comanches",
+    "author": "S.C. Gwynne",
+    "year": 2010,
+    "category": "history",
+    "subcategory": "frontier-conquest",
+    "tags": [
+      "american-west",
+      "native-american",
+      "frontier",
+      "texas",
+      "conquest"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 11,
+    "why_it_matters": "It put a native power at the centre of the American frontier story rather than at its edge, and made a general audience see the plains as contested ground between empires instead of an empty space being filled.",
+    "crux": {
+      "headline": "The frontier stalled for a century because someone stopped it",
+      "body": "The line of European settlement did not creep steadily westward. On the southern plains it halted, and in places went backwards, because a mounted people had built a military system that Spain, Mexico and then Texas could not beat. Understanding that turns the standard story inside out. The question stops being how the west was settled and becomes why it took so long, and what finally changed: rifles, railways, disease, and the deliberate destruction of the animal the whole society ran on."
+    },
+    "sparks": [
+      {
+        "id": "empire-of-the-summer-moon-s01",
+        "hook": "A borrowed animal turned a marginal people into the power of the plains.",
+        "insight": "Horses arrived in North America with Spanish colonists and spread north through native hands. Most peoples used them. The Comanches reorganised around them completely, becoming perhaps the finest light cavalry of their world within a few generations: riding from childhood, breeding and stealing herds at scale, and turning the buffalo hunt into something that could feed a large mobile population. A technology adopted from an enemy became the basis of a society that then blocked that enemy for a century.",
+        "why": "Adoption is not the same as transformation. Many peoples got horses; the difference lay in rebuilding food supply, warfare, wealth and status around them rather than adding them to an existing way of life.",
+        "apply": "When a new tool arrives in a history you are reading, ask who merely used it and who rebuilt their society around it. That distinction usually predicts what happens next.",
+        "format": "single",
+        "tags": [
+          "horses",
+          "adaptation",
+          "plains"
+        ]
+      },
+      {
+        "id": "empire-of-the-summer-moon-s02",
+        "hook": "Spanish and Mexican expansion northward did not fade out. It was stopped.",
+        "insight": "The northern edge of Spanish and then Mexican settlement sat where it did because pushing further meant fighting a people who could raid hundreds of miles and vanish. Colonial officials wrote about it constantly. Texas was opened to Anglo settlers partly because a government that could not hold that frontier wanted somebody living on it. The shape of the map in that region is a record of military failure, not of where the appetite for land happened to run out.",
+        "why": "Borders are usually read as administrative facts. Often they mark the point at which one side stopped being able to advance, which is a claim about capability rather than intention.",
+        "apply": "Read any long-stable frontier as a question: what force is holding this line? Then look for the power on the other side that the map does not name.",
+        "format": "single",
+        "tags": [
+          "borders",
+          "empire",
+          "texas"
+        ]
+      },
+      {
+        "id": "empire-of-the-summer-moon-s03",
+        "hook": "For decades a bow beat a gun, and the reason is arithmetic.",
+        "insight": "An early muzzle-loading firearm gave one shot, then a long reload that could not be done at speed on horseback. A Comanche archer could put many arrows in the air in the same interval, accurately, from a moving horse, from under the animal's neck. Firearms only became decisive on the plains with repeating weapons, which changed the exchange rate of the fight. Technological superiority is not a property of a device; it is what happens when the device meets a particular way of fighting.",
+        "why": "The story that guns simply beat bows is one of the most persistent errors about this period. Rate of fire and mobility mattered more than range or power for most of the contest.",
+        "apply": "Compare weapons by what they do in a specific fight, not by which sounds more advanced. Ask about reload time, mobility and supply before you conclude anything.",
+        "format": "single",
+        "tags": [
+          "weapons",
+          "warfare",
+          "technology"
+        ]
+      },
+      {
+        "id": "empire-of-the-summer-moon-s04",
+        "hook": "An empire with no capital, no king and no way to sign a treaty.",
+        "insight": "The Comanches were not a state. They were bands that shared language, kinship and a way of life, each with its own leaders whose authority rested on persuasion and reputation. That made them extraordinarily hard to defeat, because there was no centre to capture, and equally hard to make peace with, because no leader could bind anyone else. Every treaty signed was therefore broken almost immediately, and each side read the other's failure to comply as proof of bad faith.",
+        "why": "Much of the frontier's cycle of atrocity comes from this structural mismatch rather than from deceit alone. A state negotiating with a non-state keeps expecting a signature to mean what a signature means at home.",
+        "apply": "Before judging a broken treaty, ask whether the signer had the authority to deliver what was promised, and whether either side understood the other's idea of agreement.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Look for the centre",
+            "body": "Ask who could actually give an order that a whole people would follow. If nobody can, conquest has no target and diplomacy has no counterparty."
+          },
+          {
+            "step": 2,
+            "title": "Check who signed",
+            "body": "A treaty is often signed by whichever leaders were present and willing. Their agreement binds their own followers and nobody else on the plains."
+          },
+          {
+            "step": 3,
+            "title": "Watch the accusation form",
+            "body": "Raids continue, the state calls it treachery, and retaliates against whoever is reachable. That retaliation then makes the peace faction look foolish to its own people."
+          },
+          {
+            "step": 4,
+            "title": "Follow the spiral",
+            "body": "Each round strengthens the hardest voices on both sides. The structure produces escalation without anyone in particular choosing it."
+          }
+        ],
+        "tags": [
+          "diplomacy",
+          "statehood",
+          "treaties"
+        ]
+      },
+      {
+        "id": "empire-of-the-summer-moon-s05",
+        "hook": "She was taken as a child, and rescued back into a life she did not want.",
+        "insight": "Cynthia Ann Parker was captured as a girl in a raid on her family's settlement in Texas in 1836, grew up Comanche, married and had children including a son who would become the last great war leader of his people. Recaptured by Texans as an adult decades later, she was returned to relatives she no longer knew, tried repeatedly to leave, and died among them. The story that made her famous as a victim of one abduction was, from her side, the record of two.",
+        "why": "Captive narratives were the frontier's most powerful propaganda, and hers refused to behave like one. What made it unbearable at the time was that she had not wanted to come back.",
+        "apply": "When a rescue story becomes famous, look for what the rescued person actually said or did afterwards. The gap between the two is where the propaganda sits.",
+        "format": "single",
+        "tags": [
+          "captivity",
+          "identity",
+          "biography"
+        ]
+      },
+      {
+        "id": "empire-of-the-summer-moon-s06",
+        "hook": "The buffalo were killed to defeat a people, and everyone involved knew it.",
+        "insight": "The southern herds went down in a few years once eastern tanneries found a use for the hides and the railways made shipping them profitable. Commercial hunters did the work. Army officers understood perfectly well what removing the herd would do to a people whose food, shelter, tools and trade all came from it, and did not discourage them. The military campaign of the 1870s was decided by that collapse rather than by any battle on the plains.",
+        "why": "Destroying a subsistence base is one of the oldest methods of conquest, and it is usually invisible in histories that organise themselves around campaigns and generals.",
+        "apply": "When a resisting people suddenly collapses, look at their food supply in the preceding five years before you look at the last battle they lost.",
+        "format": "single",
+        "tags": [
+          "buffalo",
+          "conquest",
+          "ecology"
+        ]
+      },
+      {
+        "id": "empire-of-the-summer-moon-s07",
+        "hook": "The last war chief spent his second life as a rancher and a lobbyist.",
+        "insight": "Quanah Parker led the final holdouts and surrendered in the mid-1870s. What he did next is the harder story: he negotiated grazing leases with cattlemen, travelled to Washington to argue for his people, built a house, kept several wives against official disapproval, and took a leading role in a new religious practice. He was accused of collaboration and of obstruction, often for the same acts. Defeat did not end his political career, it changed the arena it took place in.",
+        "why": "Histories tend to stop at surrender, which is where the more difficult questions about survival, compromise and what counts as leadership actually begin.",
+        "apply": "Keep reading past the defeat in any conquest narrative. What the losing leadership does in the next twenty years usually explains more about the present.",
+        "format": "single",
+        "tags": [
+          "quanah-parker",
+          "survival",
+          "leadership"
+        ]
+      },
+      {
+        "id": "empire-of-the-summer-moon-s08",
+        "hook": "The frontier line in Texas moved backwards, not forwards.",
+        "insight": "During the American Civil War, federal troops left the western forts and settlers pulled back from land they had held. Counties emptied. The retreat lasted years and is missing from the story of steady westward advance because it does not fit. Expansion in this region was reversible, contingent on manpower and money that could be pulled away by a war elsewhere. The eventual outcome was not written into the situation; it depended on when the soldiers came back and in what numbers.",
+        "why": "Retreat gets edited out of national narratives because it interrupts a story of inevitability. It is preserved in county records, abandoned claims and the letters of the people who left.",
+        "apply": "Test any claim of inevitable expansion by looking for the years it reversed. Local land and settlement records show retreats that national narratives smooth over.",
+        "format": "single",
+        "tags": [
+          "frontier",
+          "civil-war",
+          "inevitability"
+        ]
+      },
+      {
+        "id": "empire-of-the-summer-moon-s09",
+        "hook": "The violence was appalling on both sides, and that is where readers argue.",
+        "insight": "Gwynne describes Comanche warfare, including the torture and killing of captives, in detail, and he describes what Texans and the army did in the same register. Some readers find the honesty valuable. Historians of native America have criticised the book for leaning on older sources and reviving a framing that treats one side's violence as cultural and the other's as reactive. Both responses are worth carrying while you read, because the underlying dispute is about which comparisons are fair.",
+        "why": "Popular history written by journalists is often strong on narrative and weaker on the scholarship of the last few decades. This book is a live example of that trade-off rather than a settled case.",
+        "apply": "Check the publication dates in a popular history's sources. If the field has moved since, find one recent academic treatment before you settle your view.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Notice the register",
+            "body": "Ask whether both sides' violence is described in the same kind of language. Vocabulary does more moral work in narrative history than argument does."
+          },
+          {
+            "step": 2,
+            "title": "Check the sources",
+            "body": "Frontier memoirs and captivity accounts were written to be sold and to justify. They are evidence of what people wanted believed as much as of what happened."
+          },
+          {
+            "step": 3,
+            "title": "Read one specialist",
+            "body": "Pekka Hämäläinen's academic study of the same people, published two years earlier, treats the Comanches as an empire in its own right. Comparing the two is instructive."
+          },
+          {
+            "step": 4,
+            "title": "Keep the disagreement",
+            "body": "You do not have to resolve it. Holding a strong narrative and a serious criticism of it at once is a normal condition for reading history well."
+          }
+        ],
+        "tags": [
+          "historiography",
+          "violence",
+          "criticism"
+        ]
+      },
+      {
+        "id": "empire-of-the-summer-moon-s10",
+        "hook": "The whole civilisation you are reading about lasted about six generations.",
+        "insight": "The mounted, buffalo-hunting plains society that looks timeless in paintings and films was built on horses that arrived with Europeans and ended with the herds in the 1870s. It rose and fell inside roughly a century and a half. That does not make it less real or less impressive. It does mean the word traditional is doing something misleading, because what it names is usually a recent, creative response to new conditions rather than an inheritance from time out of mind.",
+        "why": "Cultures described as ancient and unchanging are very often adaptations a few generations old. The claim to antiquity tends to be made by outsiders and later by descendants, for different reasons.",
+        "apply": "Date the practice, not the people. Ask when a supposedly immemorial custom actually started and what changed in the world just before it did.",
+        "format": "single",
+        "tags": [
+          "tradition",
+          "change",
+          "anthropology"
+        ]
+      }
+    ],
+    "actions": [
+      "Read a specialist history of the same people alongside this one and list the places where the two accounts explain the same event differently.",
+      "Map the southern plains frontier by decade and mark where the settlement line moved backwards, then work out what was happening elsewhere each time.",
+      "Follow the hide trade from a Texas herd to an eastern factory and decide how much of the conquest was done by a market rather than an army.",
+      "Trace what happened to the Comanche land base after surrender, and treat that as part of the story rather than as an epilogue."
+    ],
+    "if_you_liked": [
+      "1491",
+      "genghis-khan-and-the-making-of-the-modern-world",
+      "king-leopolds-ghost"
+    ],
+    "not_for_you_if": "You want native perspectives at the centre and current scholarship throughout. The narrative is gripping but its framing and sources have been seriously criticised.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2010; a Pulitzer Prize finalist. Gwynne is a journalist and the book's framing has been criticised by academic historians of native America, which is flagged in the sparks."
+    }
+  },
+  {
+    "id": "king-leopolds-ghost",
+    "title": "King Leopold's Ghost",
+    "subtitle": "A Story of Greed, Terror, and Heroism in Colonial Africa",
+    "author": "Adam Hochschild",
+    "year": 1998,
+    "category": "history",
+    "subcategory": "colonialism",
+    "tags": [
+      "colonialism",
+      "africa",
+      "congo",
+      "human-rights",
+      "empire",
+      "atrocity"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It took an atrocity that had been successfully forgotten for most of a century and put it back into general knowledge, along with the campaign that exposed it. It is also a working manual for how evidence of mass violence gets built and buried.",
+    "crux": {
+      "headline": "A country held as one man's private property",
+      "body": "For over twenty years the Congo was not a Belgian colony. It was the personal possession of a European king who never went there, acquired with humanitarian language and run for rubber and ivory through hostage-taking and forced labour. The system was exposed by a shipping clerk who read cargo manifests, a consul who took testimony, and missionaries with cameras. Then most of the evidence was burned, and the story left the record for decades. Both halves matter."
+    },
+    "sparks": [
+      {
+        "id": "king-leopolds-ghost-s01",
+        "hook": "He owned a territory the size of western Europe and never once visited it.",
+        "insight": "Leopold II ruled Belgium as a constitutional monarch with little power, and separately owned the Congo outright as private property, recognised as such by other governments. He directed it by letter and by the men he appointed, extracting a fortune he spent on buildings at home. He never set foot in the place. The distance is not a curiosity, it is part of the mechanism: everything he knew arrived as reports from people whose careers depended on the numbers going up.",
+        "why": "Remote ownership removes the friction that sometimes limits violence. Nobody in the chain had to see the result, and everybody in it was paid according to output.",
+        "apply": "Trace the distance between whoever profits from a system and whoever sees its effects. Long distance plus output targets predicts brutality better than individual cruelty does.",
+        "format": "single",
+        "tags": [
+          "colonialism",
+          "power",
+          "incentives"
+        ]
+      },
+      {
+        "id": "king-leopolds-ghost-s02",
+        "hook": "The conquest was sold to the world as an anti-slavery campaign.",
+        "insight": "Leopold's claim was assembled through diplomacy rather than invasion. He funded exploration, founded a society with a philanthropic name, held conferences, and presented himself to European and American opinion as a humanitarian bringing an end to the Arab slave trade and opening the interior to free commerce. Other powers, with their own reasons, recognised his claim. The vocabulary of rescue was not a later cover story. It was the instrument by which the territory was obtained.",
+        "why": "Humanitarian justification for control is not a modern invention or an occasional hypocrisy. It was the standard diplomatic currency of late nineteenth-century expansion.",
+        "apply": "Read the stated purpose of any intervention as evidence about the audience being persuaded, not about the intention. Then look at what was built and who was paid.",
+        "format": "single",
+        "tags": [
+          "propaganda",
+          "diplomacy",
+          "empire"
+        ]
+      },
+      {
+        "id": "king-leopolds-ghost-s03",
+        "hook": "A shipping clerk proved a slave state existed by reading cargo lists.",
+        "insight": "Edmund Dene Morel worked for a Liverpool shipping line and watched the paperwork for vessels running to the Congo. Ships came back loaded with rubber and ivory of enormous value. They went out carrying guns, ammunition and officers, and almost nothing to trade. Nobody was buying that rubber from anyone. There was no other explanation available: the goods were being taken by force from people who received nothing. He worked out a system of forced labour from a set of manifests.",
+        "why": "The evidence was public, unclassified and boring, sitting in the accounts of a private company. What was missing was somebody willing to ask what the absence of trade goods implied.",
+        "apply": "Look at what is not in the ledger. Missing entries, in a record designed to show exchange, are often the strongest evidence that something other than exchange is happening.",
+        "format": "single",
+        "tags": [
+          "evidence",
+          "investigation",
+          "accounting"
+        ]
+      },
+      {
+        "id": "king-leopolds-ghost-s04",
+        "hook": "Wild rubber cannot be farmed, so the labour had to be compelled.",
+        "insight": "The rubber came from vines in the forest, not plantations, so it could not be produced faster by investment. It could only be produced by sending more people deeper into the forest for longer, and the bicycle and motor-car boom in Europe made every extra kilogram valuable. The quota system that followed had a simple structure and it was applied across a vast territory by armed men who were themselves under quota. Nothing about it required a decision to be cruel.",
+        "why": "The specific character of the commodity shaped the specific character of the atrocity. Extraction of something that cannot be intensified by capital gets intensified by force instead.",
+        "apply": "Ask, of any extractive economy, whether output can be raised by investment or only by more human effort. The answer predicts a great deal about how workers were treated.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Set the quota",
+            "body": "Each district and village was assigned a weight of rubber to deliver on a schedule, set by officials whose pay and promotion depended on the totals they returned."
+          },
+          {
+            "step": 2,
+            "title": "Take the hostages",
+            "body": "Women and children were seized and held in stockades until the men of the village brought in the required rubber. The method was standard practice, not a local excess."
+          },
+          {
+            "step": 3,
+            "title": "Punish the shortfall",
+            "body": "Villages that fell short were burned, flogged with hippopotamus-hide whips, or attacked outright by the state's own armed force, which was largely African and itself coerced."
+          },
+          {
+            "step": 4,
+            "title": "Audit the ammunition",
+            "body": "Soldiers had to account for cartridges issued, and severed hands became the accepted proof that a round had been spent on a person. The accounting produced its own trade in hands."
+          }
+        ],
+        "tags": [
+          "forced-labour",
+          "rubber",
+          "systems"
+        ]
+      },
+      {
+        "id": "king-leopolds-ghost-s05",
+        "hook": "The most infamous atrocity of the Congo began as an audit control.",
+        "insight": "The severed hands that appear in photographs from the period were not primarily a display of terror, though they became one. They started as a bureaucratic requirement: ammunition was expensive and officers suspected soldiers of hunting with issued rounds, so a hand had to be produced for each cartridge fired. Once that rule existed, hands became a currency. Men who had missed a shot or wanted to save ammunition took hands from the living. A control designed to prevent waste generated mutilation at scale.",
+        "why": "Perverse incentives are usually taught with harmless examples. This is the extreme case, fully documented, of a metric that was easier to satisfy directly than by doing the thing it was meant to measure.",
+        "apply": "When you meet a metric in any historical record, ask what the cheapest way to satisfy it was. People find that route, and the route becomes the real policy.",
+        "format": "single",
+        "tags": [
+          "incentives",
+          "bureaucracy",
+          "atrocity"
+        ]
+      },
+      {
+        "id": "king-leopolds-ghost-s06",
+        "hook": "The first great human rights campaign of the modern era was about the Congo.",
+        "insight": "Morel gave up his job and built a movement: a newspaper, mass meetings, pamphlets, alliances with missionaries who had seen the stations, and support from well-known writers who lent their names. A British consul, Roger Casement, travelled the river taking testimony and produced an official report that could not be dismissed. Within a few years a European king lost his private empire to public opinion. The machinery they invented, testimony plus documentation plus organised publicity, is still the machinery.",
+        "why": "It worked, which is rare enough to study. It also shows what such campaigns need: an insider with documents, a witness with official standing, and an existing network willing to distribute the material.",
+        "apply": "When you read about a successful exposure, separate the three roles: who had the documents, who had the standing to be believed, and who had the distribution. Missing any one, it fails.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Find the paper trail",
+            "body": "Morel's shipping records turned rumour into an argument with numbers in it, which meant defenders had to explain the figures rather than dismiss the sources."
+          },
+          {
+            "step": 2,
+            "title": "Get an official witness",
+            "body": "Casement's consular report carried the authority of a government post. Testimony that would be ignored from a missionary was harder to wave away in a state document."
+          },
+          {
+            "step": 3,
+            "title": "Show the photographs",
+            "body": "Missionaries brought back images that were projected at public meetings. Photography made denial expensive in a way written testimony never had."
+          },
+          {
+            "step": 4,
+            "title": "Borrow bigger names",
+            "body": "Established writers and public figures attached their reputations to the campaign, which bought it newspaper space and made its claims respectable to repeat."
+          }
+        ],
+        "tags": [
+          "activism",
+          "campaigns",
+          "human-rights"
+        ]
+      },
+      {
+        "id": "king-leopolds-ghost-s07",
+        "hook": "The photograph changed what a European public could refuse to know.",
+        "insight": "Written testimony about distant atrocity had circulated for decades and been argued away as exaggeration, missionary sentiment or commercial rivalry. Portable cameras reached the Congo mission stations and produced images that audiences in Britain and America saw projected on screens at public meetings. The pictures did not add information so much as remove the option of polite disbelief. The defenders of the regime had to move from denying the facts to explaining them.",
+        "why": "Images shift the cost of denial rather than the weight of evidence. That is a narrower claim than saying they reveal truth, and it holds up better across other cases.",
+        "apply": "Ask what made a public finally accept something it had been told for years. Usually the new element is a change in the form of the evidence, not its content.",
+        "format": "single",
+        "tags": [
+          "photography",
+          "media",
+          "denial"
+        ]
+      },
+      {
+        "id": "king-leopolds-ghost-s08",
+        "hook": "When he handed over the colony, he burned the files for eight days.",
+        "insight": "Leopold gave up the Congo to Belgium in 1908 under pressure, and the state archive of his rule was destroyed on his instruction. Furnaces ran for days. What survives is largely what other people kept: missionary records, consular reports, the campaign's own files, oral testimony gathered later. The story then dropped out of Belgian public memory almost completely for generations, taught as a civilising mission in the country that had profited from it.",
+        "why": "Forgetting is not passive. It requires the destruction of records, the retirement of witnesses and an official story to fill the gap, and all three happened here deliberately.",
+        "apply": "When a period is thinly documented, ask whether the gap was made. Then look for the parallel archives kept by churches, companies, consuls and opponents.",
+        "format": "single",
+        "tags": [
+          "archives",
+          "memory",
+          "erasure"
+        ]
+      },
+      {
+        "id": "king-leopolds-ghost-s09",
+        "hook": "The death toll is an estimate, and the honesty about that matters.",
+        "insight": "The figure most often repeated is that the population of the territory roughly halved during and after Leopold's rule. It rests on a demographer's reconstruction using later counts and comparisons, not on any census, because no census existed. The deaths came from killing, from starvation when villages were emptied for rubber, from exhaustion, from disease spreading through a destabilised and moving population, and from a collapse in births. Deciding which of those counts as caused by the regime is itself a judgement.",
+        "why": "Historians dispute the size of the fall and the share attributable to Leopold's system specifically. The scale of catastrophe is not in doubt; the precise number is unknowable and treating it as settled weakens the case.",
+        "apply": "Whenever a single dramatic figure carries an argument, find out what it was calculated from. A defensible range beats a memorable number you cannot source.",
+        "format": "single",
+        "tags": [
+          "statistics",
+          "demography",
+          "evidence"
+        ]
+      },
+      {
+        "id": "king-leopolds-ghost-s10",
+        "hook": "The campaign won, and the forced labour continued under new management.",
+        "insight": "Most reformers wanted the Congo taken away from Leopold and administered properly, not the end of colonial rule. Very few were arguing against empire itself, and several of the loudest voices were content with their own country's version of it. When Belgium took over, conditions improved in some respects and coercive labour carried on in others for decades. A movement that achieved a real and difficult victory had defined the problem as one bad owner rather than as a structure.",
+        "why": "How a campaign frames a wrong determines what its success can deliver. This one framed an unusually cruel administration, so removing the administrator was, by its own terms, the win.",
+        "apply": "Ask of any reform movement what it defined as the problem, then check what stayed in place after it succeeded. The remainder tells you what the framing excluded.",
+        "format": "single",
+        "tags": [
+          "reform",
+          "empire",
+          "framing"
+        ]
+      }
+    ],
+    "actions": [
+      "Read Casement's consular report on the Congo, which is widely available, and note how much of its force comes from the plainness of the testimony.",
+      "Follow one commodity you use daily back to the point of extraction and ask whether output there can be raised by investment or only by pressure on people.",
+      "Look up how your own country's museums and school curriculum presented its colonial period fifty years ago, and what changed the account.",
+      "Write down the three pieces of evidence here you would want to verify independently, and find out who has done that work."
+    ],
+    "if_you_liked": [
+      "the-anarchy",
+      "empire-of-the-summer-moon",
+      "debt"
+    ],
+    "not_for_you_if": "The subject matter is relentless and detailed, and the book is a moral argument as much as a history. Read something drier if you want the economics of colonial rule.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 1998. The population-loss estimate discussed in spark nine is contested among historians; the sparks say so rather than treating it as settled."
+    }
+  },
+  {
+    "id": "the-sixth-extinction",
+    "title": "The Sixth Extinction",
+    "subtitle": "An Unnatural History",
+    "author": "Elizabeth Kolbert",
+    "year": 2014,
+    "category": "history",
+    "subcategory": "deep-history",
+    "tags": [
+      "extinction",
+      "climate",
+      "evolution",
+      "biodiversity",
+      "earth-history",
+      "oceans"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It put the present moment inside the geological record, where the comparison is not to last century but to five previous global catastrophes. That framing now shapes how the loss of species is argued about almost everywhere.",
+    "crux": {
+      "headline": "The rate is the catastrophe, not the temperature",
+      "body": "Life has survived hot worlds and cold ones. What the fossil record shows going badly is speed: when conditions change faster than populations can move, adapt or evolve, whole groups drop out at once. Human activity is currently changing the chemistry of the atmosphere and oceans, and moving species between continents, at a pace with few parallels in the record. The comparison the book draws is not moral outrage. It is a measurement of how fast."
+    },
+    "sparks": [
+      {
+        "id": "the-sixth-extinction-s01",
+        "hook": "Extinction had to be invented as an idea, and it took a while.",
+        "insight": "For most of history, educated Europeans did not believe species could disappear. A creation that was complete and well made would not lose parts, so strange bones were assumed to belong to animals still alive somewhere unexplored. It took careful anatomical work around 1800, on mastodon and mammoth remains, to establish that some creatures had simply ended. The concept that now organises all of biology is barely two centuries old, and it had to defeat a strong prior assumption first.",
+        "why": "It is a clean example of an observation that cannot be made until a concept exists to hold it. The bones had been in circulation for years and were being explained away.",
+        "apply": "When a field seems to have missed something obvious, check whether the concept needed to see it existed yet. Absence of a category makes evidence invisible.",
+        "format": "single",
+        "tags": [
+          "scientific-history",
+          "concepts",
+          "cuvier"
+        ]
+      },
+      {
+        "id": "the-sixth-extinction-s02",
+        "hook": "Geology spent a century insisting nothing sudden ever happens.",
+        "insight": "Once the discipline settled on slow, uniform processes as its explanatory principle, catastrophe became disreputable. Sudden global events sounded like religion in scientific clothing, so extinctions were read as gradual replacements. That orthodoxy held until a thin layer of unusual sediment at a specific boundary, rich in an element rare in the earth's crust, was traced worldwide and explained by an asteroid impact. The resistance was fierce and lasted years, and then the crater was found.",
+        "why": "The gradualist rule was a useful corrective that hardened into a filter. Evidence for abrupt events kept appearing and was reinterpreted to fit, until an anomaly arrived that could not be.",
+        "apply": "Notice when a discipline's founding correction has become a rule about what can be true. Ask what evidence that rule would make it hard to publish.",
+        "format": "single",
+        "tags": [
+          "paradigms",
+          "catastrophism",
+          "asteroid"
+        ]
+      },
+      {
+        "id": "the-sixth-extinction-s03",
+        "hook": "Five times the planet has lost most of its species in a geological instant.",
+        "insight": "The fossil record shows a background rate of species turnover interrupted by a handful of episodes where diversity collapses across every environment at once. The causes differ: volcanic activity on an enormous scale, changes in ocean chemistry and oxygen, an impact. What they share is speed relative to the ability of life to respond. After each one, the world that recovers is not a restoration. It is a different set of winners expanding into empty space, and it takes millions of years.",
+        "why": "Recovery times are the part that gets lost in summaries. The record shows diversity returning on timescales far longer than the entire history of our species.",
+        "apply": "Read any claim that nature will recover with a question about timescale attached. On geological timescales it always does, which is not the same as any human answer.",
+        "format": "single",
+        "tags": [
+          "mass-extinction",
+          "deep-time",
+          "recovery"
+        ]
+      },
+      {
+        "id": "the-sixth-extinction-s04",
+        "hook": "Carbon dioxide is not only warming the ocean, it is changing its chemistry.",
+        "insight": "A large share of the carbon dioxide released ends up dissolved in seawater, where it forms an acid and lowers the water's pH. That makes building shells and skeletons from calcium carbonate harder, and at low enough levels it dissolves them. Underwater volcanic vents that release carbon dioxide naturally give a preview: approach one and the diversity of life falls away, until only a few tolerant species remain. It is a small-scale, permanently running version of the experiment now being conducted globally.",
+        "why": "Ocean acidification is measurable now, follows directly from well-understood chemistry, and appears in the record alongside several past extinction events. It does not depend on climate modelling to establish.",
+        "apply": "Look for natural laboratories when reading about a large predicted change: places where the condition already exists locally and can be observed rather than simulated.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Follow the carbon",
+            "body": "Much of what is emitted does not stay in the air. It dissolves into the ocean, which has absorbed a great deal of it and is measurably changed as a result."
+          },
+          {
+            "step": 2,
+            "title": "Watch the chemistry",
+            "body": "Dissolved carbon dioxide forms carbonic acid and shifts the balance of carbonate ions that shell-building organisms depend on. The reaction is basic and not in dispute."
+          },
+          {
+            "step": 3,
+            "title": "Visit a vent",
+            "body": "Where volcanic gas bubbles up through shallow water, the local chemistry already resembles the projected future. Species counts drop sharply as you swim closer."
+          },
+          {
+            "step": 4,
+            "title": "Follow it upward",
+            "body": "Organisms that build shells sit near the base of many marine food webs. Damage there propagates up through fisheries and ecosystems rather than staying local."
+          }
+        ],
+        "tags": [
+          "ocean-acidification",
+          "chemistry",
+          "oceans"
+        ]
+      },
+      {
+        "id": "the-sixth-extinction-s05",
+        "hook": "Frogs on separate continents began dying of the same fungus at once.",
+        "insight": "Amphibian populations crashed in places far apart, including protected forests with no logging, pollution or hunting. The cause turned out to be a fungus that attacks amphibian skin, spread around the world in ways that track human transport of animals and equipment. Bats in North America were hit by a different introduced fungus. Neither is habitat destruction in the usual sense. Simply moving organisms between places that evolution had kept apart is enough to remove species that were otherwise doing fine.",
+        "why": "Isolation is itself a protection. Pathogens and hosts that have never met have no shared evolutionary history, so the encounter is far more lethal than anything either faces at home.",
+        "apply": "Add transport to your list of environmental damage alongside emissions and land use. Ask what a project moves, not only what it builds or burns.",
+        "format": "single",
+        "tags": [
+          "disease",
+          "amphibians",
+          "invasive-species"
+        ]
+      },
+      {
+        "id": "the-sixth-extinction-s06",
+        "hook": "We are reassembling a supercontinent by freight, in about two centuries.",
+        "insight": "Continental drift separated the world's biota and let them evolve apart for tens of millions of years, which is where most of the planet's diversity came from. Shipping, aviation and trade are now mixing them back together: ballast water, packing timber, ornamental plants, pets. The long-run effect of mixing is not more species everywhere but fewer overall, because the same tough generalists establish themselves in every port while narrow specialists disappear. Homogenisation looks locally like abundance.",
+        "why": "This is one of the clearest arguments in the book because it does not depend on any projection. The movement is happening, the mechanism is understood, and the pattern of past mixings is in the record.",
+        "apply": "When somebody points out that a local area now has more species than before, ask how many of them are found in every other port city on earth.",
+        "format": "single",
+        "tags": [
+          "globalisation",
+          "invasive-species",
+          "biodiversity"
+        ]
+      },
+      {
+        "id": "the-sixth-extinction-s07",
+        "hook": "Wherever people arrived, the largest animals stopped existing shortly after.",
+        "insight": "Australia, the Americas and many islands each lost most of their very large animals within a geologically short window after humans reached them, and the dates line up in sequence with the arrivals rather than with any single climate event. Large animals breed slowly, so even light, sustained hunting pressure can drive a decline that nobody involved would perceive as overhunting. The pattern does not require a slaughter. It requires only that removal slightly exceeds replacement, for a long time.",
+        "why": "The cause is still argued: climate change at the end of the last glacial period overlaps with human arrival in several cases, and researchers weight the two factors differently. The correlation with arrival is strong on islands where climate cannot explain it.",
+        "apply": "Watch for slow processes that would be invisible to the people inside them. Ask what rate of loss a person could live through without ever noticing a change.",
+        "format": "single",
+        "tags": [
+          "megafauna",
+          "prehistory",
+          "hunting"
+        ]
+      },
+      {
+        "id": "the-sixth-extinction-s08",
+        "hook": "You can wipe out a species without ever touching one of its members.",
+        "insight": "Clearing part of a forest leaves fragments, and a fragment is an island. Small isolated populations lose genetic variety, cannot recolonise after a bad year, and hold fewer species than the same total area connected. Species whose entire range is one mountainside or one valley have nowhere to go when conditions shift, and tropical species are especially narrow in what they tolerate. Nobody hunts them, no bulldozer reaches them, and the population still winds down to nothing.",
+        "why": "Extinction debt is the useful concept here: a habitat can already be committed to losing species that are still present and visible, because the population cannot sustain itself at that size.",
+        "apply": "When reading about conservation, look at connection between habitats as closely as total area protected. A network holds species a set of isolated patches will not.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Cut the connection",
+            "body": "A road, a field or a plantation between two forest patches turns one population into two smaller ones, each now facing the odds of a small population on its own."
+          },
+          {
+            "step": 2,
+            "title": "Lose the buffer",
+            "body": "Small populations are wiped out by ordinary bad luck: a dry year, a disease, a fire. In a connected landscape, neighbours refill the gap afterwards."
+          },
+          {
+            "step": 3,
+            "title": "Run out of room",
+            "body": "Species tied to a narrow band of temperature or altitude can only respond to warming by moving upslope. Eventually there is no upslope left."
+          },
+          {
+            "step": 4,
+            "title": "Count the debt",
+            "body": "Some species still present in a fragment are already committed to disappearing from it. Present-day counts of what lives there overstate what will remain."
+          }
+        ],
+        "tags": [
+          "habitat",
+          "fragmentation",
+          "conservation"
+        ]
+      },
+      {
+        "id": "the-sixth-extinction-s09",
+        "hook": "We are the species that outlasted every other kind of human.",
+        "insight": "There were several human species on earth not very long ago, and now there is one. Genetic work on ancient bone shows our ancestors met at least some of them and interbred, and people outside Africa carry a small fraction of that other ancestry today. Whether the disappearance of the others was violence, competition, absorption or bad luck is not settled. What is clear is that the pattern of one restless, expanding population arriving and others ceasing to exist is very old.",
+        "why": "This is the book's most speculative section and it is presented as speculation. The interbreeding is established by genetics; the reason the other human species ended is not.",
+        "apply": "Distinguish, in any popular science writing, the claims resting on physical evidence from the story woven to connect them. Both can be valuable if you keep them apart.",
+        "format": "single",
+        "tags": [
+          "neanderthals",
+          "human-origins",
+          "genetics"
+        ]
+      },
+      {
+        "id": "the-sixth-extinction-s10",
+        "hook": "Nobody can count what is disappearing, and that is part of the problem.",
+        "insight": "Most species have never been described, so present extinction rates are estimated rather than counted, using models based on habitat loss and on how many species an area of a given size usually holds. Different methods give different answers and the range is wide. That uncertainty is real and it cuts in an uncomfortable direction: the groups we monitor well, such as birds, mammals and amphibians, are the ones with the fewest hidden species. The unmeasured part is not the reassuring part.",
+        "why": "Sceptical arguments often attack the estimates without engaging the mechanism. Wide error bars around a measurement are a reason for caution in both directions, not evidence that the change is small.",
+        "apply": "When a number carries a wide uncertainty, ask what is driving the range and whether the unknown portion is likely to be better or worse than the known one.",
+        "format": "single",
+        "tags": [
+          "uncertainty",
+          "measurement",
+          "biodiversity"
+        ]
+      }
+    ],
+    "actions": [
+      "Learn the five earlier mass extinctions by cause and rough date so that current change has something concrete to be compared against.",
+      "Pick one species that vanished in your own region within the last two centuries and find out what actually removed it.",
+      "Read a serious critic of current extinction-rate estimates and work out precisely which step of the calculation they dispute.",
+      "Visit a natural history collection and look at a specimen of an extinct animal. The physical object does work that statistics do not."
+    ],
+    "if_you_liked": [
+      "the-dawn-of-everything",
+      "the-making-of-the-atomic-bomb",
+      "midnight-in-chernobyl"
+    ],
+    "not_for_you_if": "You want policy answers or a plan. The book diagnoses and reports; it deliberately offers very little in the way of solutions.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2014; awarded the Pulitzer Prize for General Non-Fiction in 2015. The megafauna overkill debate is genuinely unsettled and the sparks say so."
+    }
+  },
+  {
+    "id": "debt",
+    "title": "Debt",
+    "subtitle": "The First 5,000 Years",
+    "author": "David Graeber",
+    "year": 2011,
+    "category": "history",
+    "subcategory": "economic-history",
+    "tags": [
+      "debt",
+      "money",
+      "economics",
+      "anthropology",
+      "credit",
+      "capitalism"
+    ],
+    "difficulty": "challenging",
+    "read_time_min": 13,
+    "why_it_matters": "It attacked the origin story economics tells about itself, using the anthropological and Near Eastern evidence, and forced a public argument about whether debt is a moral fact or a political one. Few history books have shifted a public conversation that fast.",
+    "crux": {
+      "headline": "Credit came first and coins came later",
+      "body": "The story where people barter, find it clumsy, and invent money has no supporting evidence anywhere. What the record actually shows is elaborate credit and accounting long before coined money, with debts recorded, transferred and periodically cancelled. Coins appear later, alongside armies. Once you accept that ordering, debt stops looking like a natural feature of exchange and starts looking like an instrument that states, temples and creditors have designed and redesigned for particular purposes."
+    },
+    "sparks": [
+      {
+        "id": "debt-s01",
+        "hook": "The barter economy in every economics textbook has never been found.",
+        "insight": "The standard account runs: people traded goods directly, hated the inconvenience, and invented money to fix it. Anthropologists have looked for such a society for well over a century and have not found one. Where barter does occur it is typically between strangers or enemies, or between people who normally use money and have temporarily lost access to it. Inside communities, people ran tabs, gave gifts, and kept track of who owed what without needing a medium at all.",
+        "why": "This point is broadly accepted by anthropologists and has been for decades. It survived the criticism the rest of the book attracted, and it is the foundation everything else here rests on.",
+        "apply": "When a discipline's founding story is a thought experiment, ask whether anyone ever checked it against evidence, and what changes if the answer is no.",
+        "format": "single",
+        "tags": [
+          "barter",
+          "money",
+          "anthropology"
+        ]
+      },
+      {
+        "id": "debt-s02",
+        "hook": "Mesopotamia ran a credit economy for centuries before anyone struck a coin.",
+        "insight": "Temple and palace administrators in ancient Mesopotamia kept accounts in weights of silver that mostly stayed in the vault. Farmers ran up tabs at the alehouse and settled at harvest. Rents, wages and obligations were recorded on clay and settled against each other. The unit of account existed and circulated as a number, not as an object passing hand to hand. Physical money is a later, and in some periods optional, addition to a system that already worked by ledger.",
+        "why": "The cuneiform record is enormous and largely administrative, which makes it unusually good evidence about ordinary economic practice rather than about what elites said they believed.",
+        "apply": "Ask of any economy you study whether obligations were settled in objects or written off against each other. The answer changes who holds power over whom.",
+        "format": "single",
+        "tags": [
+          "mesopotamia",
+          "credit",
+          "accounting"
+        ]
+      },
+      {
+        "id": "debt-s03",
+        "hook": "Cancelling everyone's debts was a routine act of ancient government.",
+        "insight": "Mesopotamian rulers periodically declared clean slates: consumer debts wiped, people who had been pledged for debt returned home, land restored. This was not radical or revolutionary. It was maintenance, done because otherwise a growing share of the population ended up bound to creditors and unavailable to the state as soldiers or taxpayers. The practice is recorded in surviving royal proclamations, and it makes the modern intuition that debts must always be honoured look local rather than eternal.",
+        "why": "The documentary evidence for these cancellations is solid. What is argued about is how often they happened, who they covered, and how much relief they actually delivered.",
+        "apply": "Treat any moral rule that feels self-evident as a historical question. Ask when it became obvious, to whom, and whose position it protects now.",
+        "format": "single",
+        "tags": [
+          "jubilee",
+          "debt-relief",
+          "statecraft"
+        ]
+      },
+      {
+        "id": "debt-s04",
+        "hook": "Coins appear at exactly the moment armies need to be paid.",
+        "insight": "Portable metal money spreads across several regions in the same era, and it spreads alongside professional soldiers. A soldier far from home cannot be paid in credit at the village store; he needs something that strangers will accept. States mint coin, pay troops, then demand tax back in the same coin, which forces everyone else to obtain it by selling goods and labour to soldiers. Markets in the modern sense grow up around armies rather than preceding them.",
+        "why": "Graeber's linked argument that coinage, war and slavery formed a single complex is more contested. The timing correlation is real; the causal chain he builds on it is his own case.",
+        "apply": "Follow the tax demand when you want to know why a currency is used. Whatever the state insists on being paid in is what everyone else has to obtain.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Raise the army",
+            "body": "Professional soldiers, often foreign mercenaries, need paying in something they can carry and spend among people who do not know or trust them."
+          },
+          {
+            "step": 2,
+            "title": "Strike the coin",
+            "body": "The state mints metal, often from plunder or mines worked by the enslaved, and puts it into circulation by paying it out to troops rather than by selling it."
+          },
+          {
+            "step": 3,
+            "title": "Demand it back",
+            "body": "Tax is levied in that same coin. Everyone in the territory now needs to acquire it, which means selling food, goods or labour to whoever holds it."
+          },
+          {
+            "step": 4,
+            "title": "Get a market",
+            "body": "Provisioning markets grow around the army, and the whole apparatus of impersonal buying and selling follows from a fiscal arrangement rather than from trade instinct."
+          }
+        ],
+        "tags": [
+          "coinage",
+          "war",
+          "taxation"
+        ]
+      },
+      {
+        "id": "debt-s05",
+        "hook": "Money has swung between metal and pure credit for thousands of years.",
+        "insight": "The long pattern Graeber draws has periods of coin and bullion alternating with periods of virtual credit money. Ages of empire and warfare push towards physical metal that soldiers can carry and that survives a collapse of trust. Calmer, more centralised ages run on ledgers, tallies and paper. When the dollar's tie to gold was cut in 1971 the world returned to a credit system, which by his reckoning is the normal state and the gold standard was the anomaly.",
+        "why": "The broad alternation is a real historical observation. The neatness of the cycles and the dating of the turning points are the parts economic historians push back on hardest.",
+        "apply": "Ask of any monetary arrangement what happens to it in a war. Systems that depend on trust in institutions behave very differently from ones that depend on metal.",
+        "format": "single",
+        "tags": [
+          "money",
+          "cycles",
+          "gold"
+        ]
+      },
+      {
+        "id": "debt-s06",
+        "hook": "Debt talk is moral talk, which is why the argument is never really about numbers.",
+        "insight": "Words for sin, guilt, redemption and settlement run through the vocabulary of debt in many unrelated languages and religious traditions. That is not decoration. It means a debt is never experienced as a neutral contract; it carries an accusation about the character of the person who owes. The moral charge is also selective. It falls heavily on households and small borrowers, and lifts almost entirely when the debtor is a bank, a corporation or a state large enough to renegotiate.",
+        "why": "The linguistic and religious overlap is well attested across traditions. Whether the moral language derives from debt or debt borrowed the language from morality is genuinely open.",
+        "apply": "Separate the arithmetic from the accusation when you read about any debt crisis. Notice which parties are described as failing morally and which as restructuring.",
+        "format": "single",
+        "tags": [
+          "morality",
+          "language",
+          "religion"
+        ]
+      },
+      {
+        "id": "debt-s07",
+        "hook": "Turning a person into a price takes violence, every single time.",
+        "insight": "Graeber distinguishes economies where valuables are used to rearrange relations between people, in marriage, compensation or feud settlement, from economies where a person can be priced and sold. The step between them is never smooth. It requires ripping someone out of the web of relations that defines who they are, and that has historically meant war, raiding or debt bondage. Slavery, in his account, is the extreme case of a general move: making people into things you can calculate with.",
+        "why": "This is anthropology built from ethnographic cases across Africa and elsewhere, and the framework is his own. It illuminates a great deal and it is an interpretive scheme rather than a finding.",
+        "apply": "When something previously unpriced acquires a price, ask what had to be broken for that to become possible, and who did the breaking.",
+        "format": "single",
+        "tags": [
+          "slavery",
+          "value",
+          "anthropology"
+        ]
+      },
+      {
+        "id": "debt-s08",
+        "hook": "A loan that cannot be repaid is often working exactly as designed.",
+        "insight": "Interest compounds and harvests do not. When lending is secured against land, labour or family members, a lender who charges enough is not making a bet on repayment at all: default delivers the collateral, which is what was wanted. The recurring pattern across many agrarian societies is smallholders sliding into permanent obligation, then into bondage, then a political crisis, then either a cancellation from above or a revolt from below. The cycle is one of the most reliable in ancient history.",
+        "why": "Debt crisis and demands for cancellation appear repeatedly across the ancient Mediterranean and Near East, which is why rulers developed responses to them. The mechanism is arithmetic before it is politics.",
+        "apply": "Ask what a lender gets when a loan fails. If the collateral is more valuable than the repayment, default is not a risk being run, it is a possible outcome being priced.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Borrow against the future",
+            "body": "A bad season forces a smallholder to borrow for seed or tax, pledging land, labour or a family member as security against the following harvest."
+          },
+          {
+            "step": 2,
+            "title": "Watch the interest run",
+            "body": "Interest accumulates on a schedule that takes no account of weather or yield. Two poor years in succession are enough to make the balance unreachable."
+          },
+          {
+            "step": 3,
+            "title": "Lose the collateral",
+            "body": "The pledge is taken. Land concentrates in fewer hands and the former owner works it as a dependant, or is bonded outright to the creditor."
+          },
+          {
+            "step": 4,
+            "title": "Reach the crisis",
+            "body": "Enough of the population is bound that the state cannot raise soldiers or taxes. Rulers then cancel debts, or the indebted take the matter into their own hands."
+          }
+        ],
+        "tags": [
+          "interest",
+          "land",
+          "bondage"
+        ]
+      },
+      {
+        "id": "debt-s09",
+        "hook": "The book is wrong in places, and knowing where makes it more useful.",
+        "insight": "Economists and some historians identified real errors after publication, including a mistaken account of a well-known technology company's founding and disputed claims about international lending institutions. Specialists in particular periods have challenged specific readings. None of that touches the central historical claim about credit preceding coinage, which rests on the Near Eastern record. It does mean the book should be read as an argument with evidence attached rather than as a reference work you can quote from safely.",
+        "why": "A large synthesis by one author across five thousand years will contain mistakes, and the honest response is to identify which load-bearing walls they sit in. Here the errors are mostly in modern illustrations, not in the ancient core.",
+        "apply": "When a book you like is attacked, sort the criticisms into ones that touch the main argument and ones that touch its examples. Only the first should change your view.",
+        "format": "single",
+        "tags": [
+          "criticism",
+          "accuracy",
+          "reading"
+        ]
+      },
+      {
+        "id": "debt-s10",
+        "hook": "One must pay one's debts is not a rule that finance itself follows.",
+        "insight": "Lending is supposed to be risky, and interest is the price of that risk. If every debt were certain to be repaid, there would be no justification for charging for the possibility that it is not. Yet the moral demand for repayment is applied hardest to the borrowers with the least power, while sovereign debts are restructured, corporate debts are discharged in bankruptcy, and bank losses have been absorbed by states. The asymmetry is not hypocrisy at the edges. It is how the system routinely operates.",
+        "why": "This is the argument that made the book a public event after the financial crisis. It is a political claim built on a historical case, and readers should be able to see the join.",
+        "apply": "In any debt story, ask who is allowed to renegotiate and who is told repayment is a moral duty. That division usually maps onto power, not onto the terms of the contract.",
+        "format": "single",
+        "tags": [
+          "finance",
+          "power",
+          "crisis"
+        ]
+      }
+    ],
+    "actions": [
+      "Read one economist's detailed critique of this book alongside it, and mark which objections touch the ancient evidence and which touch the modern chapters.",
+      "Look up the actual text of an ancient debt cancellation proclamation and see what it did and did not cover.",
+      "Trace one debt in your own country's news over a year and note who was expected to repay in full and who was allowed to restructure.",
+      "Work out where money came from in a period you already know well, and test whether the credit-first sequence holds there too."
+    ],
+    "if_you_liked": [
+      "the-dawn-of-everything",
+      "the-anarchy",
+      "king-leopolds-ghost"
+    ],
+    "not_for_you_if": "You want careful, narrow scholarship. This is a sweeping argument across five millennia by an author with a politics, and it contains errors he acknowledged.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2011. Several factual errors in the modern sections were identified after publication and are flagged in spark nine; the credit-before-coinage argument is far better supported."
+    }
+  }
+]

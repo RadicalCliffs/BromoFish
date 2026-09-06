@@ -1,0 +1,643 @@
+[
+  {
+    "id": "the-anatomy-of-fascism",
+    "title": "The Anatomy of Fascism",
+    "subtitle": null,
+    "author": "Robert O. Paxton",
+    "year": 2004,
+    "category": "politics-power",
+    "subcategory": "fascism-studies",
+    "tags": [
+      "fascism",
+      "authoritarianism",
+      "european-history",
+      "political-movements",
+      "propaganda"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It replaced a decades-old argument about what fascism believes with a method for watching what it does, stage by stage. Most serious comparison of modern authoritarian movements now starts from that shift.",
+    "crux": {
+      "headline": "Study fascism as a process, not a creed",
+      "body": "Fascism cannot be pinned down by its stated ideas, because it treated ideas as instruments. It can be described by a trajectory: a movement forms in a crisis, roots itself in a party system, is invited into power by frightened conservatives, then either radicalises into permanent emergency or settles into ordinary dictatorship. Each stage has different conditions, so each stage has a different point at which it can be stopped."
+    },
+    "sparks": [
+      {
+        "id": "the-anatomy-of-fascism-s01",
+        "hook": "Fascism never had a settled doctrine. Look at what it did, not what it said.",
+        "insight": "Movements that called themselves fascist wrote programmes and then ignored them. Mussolini's early platform sat close to radical socialism; by the time he governed he had abandoned most of it. So a definition built from stated beliefs collapses on contact with the record. The alternative is to study fascism as a sequence of actions in real political situations: how it recruited, who it allied with, what it did once it held office. Behaviour is the stable thing. The ideas moved to suit it.",
+        "why": "Fascist parties treated doctrine as a tool rather than a constraint, which is why textual definitions keep producing arguments. Critics counter that abandoning ideology makes the label harder to apply consistently.",
+        "apply": "Ask what a movement has actually done, including who it allied with and whom it attacked, before you accept or reject any label placed on it.",
+        "format": "single",
+        "tags": [
+          "definitions",
+          "ideology"
+        ]
+      },
+      {
+        "id": "the-anatomy-of-fascism-s02",
+        "hook": "It ran on feelings, not arguments, and the feelings were the programme.",
+        "insight": "In place of a doctrine, fascism supplied a set of emotional commitments: the group is in decay, the group is a victim, only unity and a leader's instinct can save it, and normal legal limits are a luxury the emergency cannot afford. These feelings do not need internal consistency because they are not propositions to be tested. They are a mood people are invited to live inside, which is why arguing against the written programme so often missed the point entirely.",
+        "why": "Emotional appeals are portable across contexts and survive contradictions that would sink a written platform. That portability is also what makes the category hard to bound, as several critics of this approach point out.",
+        "apply": "List the feelings a movement is selling before you list its policies, then ask honestly which of those feelings you already carry.",
+        "format": "single",
+        "tags": [
+          "propaganda",
+          "emotion"
+        ]
+      },
+      {
+        "id": "the-anatomy-of-fascism-s03",
+        "hook": "There is no single moment a country turns. There are five, and each is different.",
+        "insight": "Fascism is easier to understand as a life cycle than as a label. A movement first appears as a fringe project in a period of crisis, then finds a foothold in an existing party system, then reaches power through a bargain with established elites, then governs, and finally either intensifies into open terror or hardens into a familiar authoritarian regime. Most movements stall early. What matters is that the conditions for each step differ, so the warning signs differ too.",
+        "why": "Treating the whole thing as one condition makes it invisible until late. Splitting it into stages shows why alliances and institutions matter more than rhetoric. Critics note the model is drawn largely from Italy and Germany.",
+        "apply": "Pick a movement you find alarming and place it honestly at one stage. Then ask who at the next stage would have to cooperate for it to advance.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Watch the movement form",
+            "body": "Small groups gather around grievance and national decline during a crisis that existing parties are not solving. At this point almost all such movements simply fail."
+          },
+          {
+            "step": 2,
+            "title": "Watch it take root",
+            "body": "It stops being a sect and becomes a player, winning a bloc of votes and a place in coalition arithmetic. Rooting depends on a weak or deadlocked party system."
+          },
+          {
+            "step": 3,
+            "title": "Watch the invitation",
+            "body": "Power arrives through a bargain. Conservatives who dislike the movement decide it is the lesser risk and hand it office, expecting to keep control of it."
+          },
+          {
+            "step": 4,
+            "title": "Watch the exercise",
+            "body": "In government it shares power with old elites, the party and the state. The competition between them, rather than any plan, drives what the regime does."
+          },
+          {
+            "step": 5,
+            "title": "Watch the fork",
+            "body": "It either escalates into permanent emergency and war, or it slows into an ordinary dictatorship that leaves most of society structurally intact."
+          }
+        ],
+        "tags": [
+          "stages",
+          "warning-signs"
+        ]
+      },
+      {
+        "id": "the-anatomy-of-fascism-s04",
+        "hook": "No fascist party ever took a modern state by storm on its own.",
+        "insight": "The two cases that reached power did not seize it. Both were handed office by conservative leaders who controlled the constitutional levers and thought a noisy street movement could be harnessed against the left and then discarded. The march and the coup are largely retrospective theatre. This is the least comfortable finding in the field, because it means the decisive actors were respectable people making a calculation about their own interests.",
+        "why": "The bargain is documented in Italy in 1922 and Germany in 1933, where established figures chose accommodation over exclusion. It is only two cases, which is a real limit on how far the pattern generalises.",
+        "apply": "Watch the mainstream party nearest a rising movement rather than the movement. Ask what it gains by normalising it and what it fears by refusing.",
+        "format": "single",
+        "tags": [
+          "elites",
+          "coalitions"
+        ]
+      },
+      {
+        "id": "the-anatomy-of-fascism-s05",
+        "hook": "What a movement promises on the way up rarely survives what power requires.",
+        "insight": "Fascist parties promised to sweep away old elites and remake society. In office they mostly did not. They cut deals with industry, the army, the church and the civil service, because governing required all of them. The radical programme survived as rhetoric and as licence for violence against chosen enemies, while the structures of ownership and hierarchy stayed largely in place. Judging a regime by its founding promises will mislead you in both directions.",
+        "why": "Comparing platform with practice is the cleanest test available, and in both major cases the gap is wide. It also explains the instability of these regimes, since nothing ever settled the contest between party and state.",
+        "apply": "Compare a governing movement's founding promises with its first year of appointments and budgets. Write down every place where the two disagree.",
+        "format": "single",
+        "tags": [
+          "regimes",
+          "power"
+        ]
+      },
+      {
+        "id": "the-anatomy-of-fascism-s06",
+        "hook": "The word is thrown so freely that it has almost stopped carrying information.",
+        "insight": "Because fascism became the standard term for political evil, it now gets applied to anything a speaker strongly dislikes, from tax policy to a teacher's classroom rules. That inflation has a cost. When a word means everything it warns about nothing, and the people it accurately describes benefit most from the confusion. A workable definition has to be narrow enough to exclude ordinary authoritarianism, ordinary nationalism and ordinary cruelty, all of which have their own names.",
+        "why": "Concept stretching is a familiar problem in comparative politics: a category that fits every case explains none of them. The process-based solution offered here is itself criticised for being hard to apply cleanly.",
+        "apply": "Before using the label, name one feature of the case that ordinary authoritarianism would not explain. If you cannot, use the more precise word instead.",
+        "format": "single",
+        "tags": [
+          "language",
+          "definitions"
+        ]
+      },
+      {
+        "id": "the-anatomy-of-fascism-s07",
+        "hook": "It is not a throwback. It became possible only once ordinary people could vote.",
+        "insight": "Fascism belongs to the age of mass politics. It needs a large electorate to court, newspapers and radio to reach it, and parties that have already taught people to think of themselves as a national public. Older tyrannies did not mobilise crowds; they asked for obedience and quiet. Fascism asked for participation: rallies, uniforms, enthusiasm, denunciation. That is why it appeared in societies that had recently widened the franchise rather than in surviving absolutist empires.",
+        "why": "The timing is the evidence. The movements emerged after the First World War in states with broad suffrage and mass media, not in the places where nobody had ever been asked to participate.",
+        "apply": "Notice when a movement wants your enthusiasm rather than your obedience, and ask what that participation is being used to legitimate.",
+        "format": "single",
+        "tags": [
+          "mass-politics",
+          "modernity"
+        ]
+      },
+      {
+        "id": "the-anatomy-of-fascism-s08",
+        "hook": "The street fighting was not a side effect. It was doing the recruiting.",
+        "insight": "Squad violence served several purposes at once. It intimidated opponents, it advertised that the state could not keep order, it bonded the men who committed it into a group with a shared secret, and it staged a public performance of decisiveness that made the movement look like the only serious force available. Treating the violence as excess energy misreads it. It was a method, and it was often carried out with the quiet tolerance of police and magistrates.",
+        "why": "That tolerance is the key variable. Where courts and police enforced the law against paramilitaries the movements stayed marginal; where officials looked away, they grew.",
+        "apply": "Track how courts and police treat political violence in a country you follow. Selective enforcement is an earlier signal than any election result.",
+        "format": "single",
+        "tags": [
+          "violence",
+          "policing"
+        ]
+      },
+      {
+        "id": "the-anatomy-of-fascism-s09",
+        "hook": "Everyone who thought they could tame it believed they were being pragmatic.",
+        "insight": "The people who let fascists into government were not fanatics. They were experienced conservatives who reasoned that office would force responsibility, that the constitution constrained everyone, and that the alternative was worse. Each of those beliefs was defensible on its own and wrong together. Once in office the movement controlled the interior ministry, the police and the flow of patronage, and the men who thought they were riding it found no way to get off.",
+        "why": "Constraint depends on institutions being willing to act, and the same actors who granted power had already shown they would not. This is easy to see afterwards and was genuinely hard to see beforehand.",
+        "apply": "Ask of any containment plan who exactly would enforce it, and whether those people have already declined to enforce something smaller.",
+        "format": "single",
+        "tags": [
+          "normalisation",
+          "institutions"
+        ]
+      },
+      {
+        "id": "the-anatomy-of-fascism-s10",
+        "hook": "Uniforms and salutes are the least useful thing to look for today.",
+        "insight": "Copying the aesthetics of the 1930s is not how a movement of this century would work, and fixating on the costume makes it easy to miss the function. The useful questions are structural: whether a movement claims the nation is in humiliating decline, whether it treats an internal enemy as the cause, whether it says legal limits are obstacles to the popular will, and whether respectable parties are starting to deal with it rather than exclude it.",
+        "why": "Functional comparison is standard practice in comparative politics, because forms travel badly across eras. It also invites overreach, which is why the test has to be demanding rather than loose.",
+        "apply": "Run a movement past all four questions and require every answer before reaching for the historical comparison rather than a plainer word.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Check the decline story",
+            "body": "Is the core claim that a once-great nation has been humiliated and is being drained from within? Ordinary nationalism praises the nation; this version insists it is dying."
+          },
+          {
+            "step": 2,
+            "title": "Find the internal enemy",
+            "body": "Look for a named group inside the country blamed for the decline and described as alien to it. The enemy is what turns loose grievance into a programme."
+          },
+          {
+            "step": 3,
+            "title": "Test the attitude to law",
+            "body": "Are courts, elections and procedure treated as tools of the popular will, to be honoured when convenient and overridden when they are not?"
+          },
+          {
+            "step": 4,
+            "title": "Watch the respectable parties",
+            "body": "Are mainstream leaders competing for the movement's voters and offering it seats? Their behaviour, more than the movement's, decides whether it stays marginal."
+          }
+        ],
+        "tags": [
+          "analysis",
+          "checklist"
+        ]
+      }
+    ],
+    "actions": [
+      "Take one interwar case you know only by reputation, read a chapter-length account of how its government was actually formed, and note who signed off on the transfer of power.",
+      "Write your own three-sentence definition of fascism, then test it against Spain under Franco, Japan in the 1930s and Argentina under Peron. Notice which cases it wrongly includes.",
+      "Place a movement in your own country at one of the five stages, writing down the specific evidence you used rather than the impression you started with.",
+      "Read an account that defines fascism by its ideology instead of its behaviour, and decide which method handles the awkward cases better."
+    ],
+    "if_you_liked": [
+      "the-origins-of-totalitarianism",
+      "how-democracies-die",
+      "on-tyranny"
+    ],
+    "not_for_you_if": "You want a settled one-line definition, a moral verdict, or a history of the Holocaust rather than an analysis of how movements take and hold power.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 2004. The stage model draws mainly on Italy and Germany, and scholars who define fascism by its ideological core dispute the approach. All prose original."
+    }
+  },
+  {
+    "id": "rules-for-radicals",
+    "title": "Rules for Radicals",
+    "subtitle": null,
+    "author": "Saul D. Alinsky",
+    "year": 1971,
+    "category": "politics-power",
+    "subcategory": "community-organising",
+    "tags": [
+      "organising",
+      "activism",
+      "power",
+      "tactics",
+      "social-change"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 10,
+    "why_it_matters": "It turned community organising from improvisation into a transmissible craft, and its tactics have since been used by movements across the political spectrum, often by people who dislike everything about its author.",
+    "crux": {
+      "headline": "Power is what your opponent thinks you have",
+      "body": "Organising is not about being right. It is about assembling enough people, attention and nuisance value that someone with authority finds it cheaper to deal with you than to ignore you. That means starting from the world as it is, recruiting through people's own concrete interests rather than your ideals, choosing a specific human target, and applying pressure your opponent has no rehearsed answer for. Every part of that is learnable."
+    },
+    "sparks": [
+      {
+        "id": "rules-for-radicals-s01",
+        "hook": "Start with the world as it is, or spend your life describing the one you want.",
+        "insight": "The most common failure in activism is beginning from the world as it ought to be and treating everyone who has not arrived there yet as an obstacle. Organising starts at the other end. You meet people inside their actual grievances, their actual vocabulary and their actual fears, and you build from there. That is not a compromise of principle. It is the only place from which anything moves, because nobody is recruited by being told their concerns are unserious.",
+        "why": "Movements that recruit on ideological agreement stay small by construction. Movements that recruit on shared grievance can grow, though critics argue this also makes their goals shallow and easier to hijack.",
+        "apply": "Spend an hour asking three people affected by an issue what specifically angers them, and write their words down without improving them.",
+        "format": "single",
+        "tags": [
+          "organising",
+          "listening"
+        ]
+      },
+      {
+        "id": "rules-for-radicals-s02",
+        "hook": "You have the power your opponent believes you have, plus nothing.",
+        "insight": "Numbers, money and legal standing all matter, but only through the estimate an opponent forms. A small group that looks unpredictable and well connected can extract more than a large group that looks tired and divided. So organisers spend effort on the appearance of strength as well as the fact of it: filling the room, arriving together, never revealing how thin the reserves are. This is also why bluffing is dangerous, since a called bluff resets the estimate downward for years.",
+        "why": "Bargaining outcomes depend on each side's belief about the other's willingness to escalate. The framing is realistic about power, though critics say it teaches manipulation in place of persuasion.",
+        "apply": "Before your next meeting with an official, decide the one impression you want them to leave with, and arrange the room to produce it.",
+        "format": "single",
+        "tags": [
+          "power",
+          "negotiation"
+        ]
+      },
+      {
+        "id": "rules-for-radicals-s03",
+        "hook": "People show up for their own reasons. Your job is to ask what those are.",
+        "insight": "Appeals to conscience produce a good turnout once and an empty room afterwards. Durable participation comes from self-interest, understood broadly: the rent, the school, the commute, the dignity of being taken seriously, the pleasure of belonging to something. An organiser's job is to find where a person's real interest touches the campaign and to say so out loud. Treating self-interest as shameful forces people to pretend, and pretending is exhausting.",
+        "why": "Sustained voluntary effort tracks concrete personal stakes far better than abstract commitment. The honest caveat is that interest-based coalitions tend to dissolve the moment the interest is satisfied.",
+        "apply": "For each core member of your group, write one sentence naming what they personally gain from a win. If you cannot write it, ask them.",
+        "format": "single",
+        "tags": [
+          "motivation",
+          "recruitment"
+        ]
+      },
+      {
+        "id": "rules-for-radicals-s04",
+        "hook": "Good tactics are cheap for your side and expensive for the other one.",
+        "insight": "A tactic works when it costs your people little and costs your opponent a lot, and when the opponent has no rehearsed response ready. That usually means acting outside their experience while staying inside your own, so your side feels confident and theirs improvises badly in public. Ridicule is powerful because there is no dignified reply to it. Sustained pressure matters more than any single event, because organisations absorb one shock easily and a rhythm of shocks very badly.",
+        "why": "Institutions are built to handle familiar challenges through procedure, and novelty removes the procedure. Critics note the same logic serves well-funded groups attacking weak public bodies just as well.",
+        "apply": "Design one action your opponent has no standing procedure for, and check that your own members would actually enjoy carrying it out.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Stay inside your experience",
+            "body": "Choose actions your own people find natural and even enjoyable. A tactic your members dread will be performed badly and never repeated."
+          },
+          {
+            "step": 2,
+            "title": "Go outside theirs",
+            "body": "Pick something the target has no script for. Confusion buys time and makes a large organisation look clumsy in front of an audience."
+          },
+          {
+            "step": 3,
+            "title": "Use ridicule carefully",
+            "body": "There is no rehearsed answer to being laughed at. It is also the tactic most likely to harden opponents and alienate bystanders, so aim it at conduct rather than at people."
+          },
+          {
+            "step": 4,
+            "title": "Keep the pressure on",
+            "body": "One event is absorbed. A sequence of them, each slightly different, occupies attention and forces a response. Rhythm is itself a tactic."
+          },
+          {
+            "step": 5,
+            "title": "Have a next step ready",
+            "body": "Never run an action without knowing what you do with a win or a refusal. A victory nobody can build on demoralises a group faster than a loss."
+          }
+        ],
+        "tags": [
+          "tactics",
+          "campaigns"
+        ]
+      },
+      {
+        "id": "rules-for-radicals-s05",
+        "hook": "You cannot pressure a system. You can pressure a person who answers for it.",
+        "insight": "Grievances are usually diffuse: the housing market, the bureaucracy, the industry. None of these can concede anything. So campaigns choose a specific decision-maker who has the authority to give you what you want, and hold them personally responsible even though the problem is bigger than they are. This is deliberately unfair, and the book says so plainly. The alternative is a campaign that is fair, accurate and completely inert.",
+        "why": "Accountability requires a named decision point, and diffuse blame produces no bargaining partner. It is also the most criticised idea here, since personalising conflict corrodes the civic relationships a community later needs.",
+        "apply": "Name the one person who can say yes to your demand. If nobody in your group can name them, your first task is research rather than action.",
+        "format": "single",
+        "tags": [
+          "targeting",
+          "accountability"
+        ]
+      },
+      {
+        "id": "rules-for-radicals-s06",
+        "hook": "Not whether ends justify means, but which ends justify which means.",
+        "insight": "Ethical purity is easiest for people who are not in the fight and have nothing at stake. Once you are in it, the question becomes concrete: this particular tactic, against this particular opponent, at this stake, with these consequences. The argument here is that judging means without naming the stakes is a form of comfort, and that people with power rarely apply the standard to themselves. Whether that reasoning holds is exactly the argument the chapter wants you to have.",
+        "why": "This is the most contested passage in the book. Critics argue it licenses whatever works and erodes the norms movements later depend on; defenders argue abstract ethics reliably favours whoever already holds power.",
+        "apply": "Write down the worst tactic you would refuse to use, and why. Having the line drawn in advance is what stops it moving during a fight.",
+        "format": "single",
+        "tags": [
+          "ethics",
+          "strategy"
+        ]
+      },
+      {
+        "id": "rules-for-radicals-s07",
+        "hook": "The organiser's job is to leave, and to leave leaders behind.",
+        "insight": "An outside organiser who becomes the face of a campaign has built something that dies when they move on. The craft is closer to teaching: find people who already have standing in the neighbourhood, give them tasks slightly beyond what they think they can handle, let them take the credit, and step back. Groups built this way survive the loss of any one person, which is the only real test of whether you organised anything at all.",
+        "why": "Dependence on a charismatic outsider is the standard failure mode of local campaigns. Later organising networks pushed this further by anchoring groups in existing institutions rather than in individuals.",
+        "apply": "Hand one visible task you normally do to a newer member this month, and resist correcting how they do it in front of anyone.",
+        "format": "single",
+        "tags": [
+          "leadership",
+          "sustainability"
+        ]
+      },
+      {
+        "id": "rules-for-radicals-s08",
+        "hook": "A community with no conflict has usually just accepted the current settlement.",
+        "insight": "Nothing organises people like a live fight with a clear opponent, which is why organisers often provoke one rather than wait for it. Conflict clarifies who is on which side, gives newcomers something concrete to do, and converts private complaint into public grievance. The uncomfortable implication is that peace is not automatically a measure of a healthy community. Sometimes it means the losing side has stopped bothering to contest anything.",
+        "why": "Research on mobilisation consistently finds that visible opposition raises participation. The risk is equally real: manufactured conflict can leave a community more divided than the issue ever warranted.",
+        "apply": "Ask whether a quiet issue where you live is quiet because it is solved, or because the people affected concluded nobody would listen.",
+        "format": "single",
+        "tags": [
+          "conflict",
+          "mobilisation"
+        ]
+      },
+      {
+        "id": "rules-for-radicals-s09",
+        "hook": "Small wins are not consolation prizes. They are how people learn they can act.",
+        "insight": "A person who has never seen collective action work assumes it does not. The way to change that belief is not argument but a modest, fast, visible victory: a repaired street light, a meeting an official actually attends, a rule reversed. The win matters less for what it delivers than for what it proves, and it converts an audience into participants. Campaigns that open with a grand demand and lose usually confirm the exact belief they set out to change.",
+        "why": "Belief in your own effectiveness grows through direct experience more than through persuasion. The trade-off is that a diet of small wins can substitute for structural change and leave the underlying arrangement untouched.",
+        "apply": "Choose a first target you are confident of winning within six weeks, and plan in advance how the group will publicly mark the win.",
+        "format": "single",
+        "tags": [
+          "small-wins",
+          "momentum"
+        ]
+      },
+      {
+        "id": "rules-for-radicals-s10",
+        "hook": "Most campaigns fail before the first action, at the planning table.",
+        "insight": "Turning a complaint into a campaign is a sequence, and skipping a step produces the familiar protest that changes nothing. You need a specific winnable demand, a person who can grant it, a realistic count of the people and money you can actually field, an escalating series of actions, and a decision made in advance about what a settlement looks like. Anger supplies the energy. Sequence supplies the result, and the two are regularly confused.",
+        "why": "Each step removes a common failure: vague demands, no decision-maker, overestimated turnout, one-shot actions, and no exit. None of it is clever, which is why the discipline rather than the insight is the hard part.",
+        "apply": "Take one grievance and write all five elements on a single page. Notice which one you cannot fill in, and start your work there.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Name a winnable demand",
+            "body": "Turn the grievance into something specific enough that a person could say yes to it on a Tuesday. If nobody could grant it as written, it is a slogan."
+          },
+          {
+            "step": 2,
+            "title": "Find who can grant it",
+            "body": "Trace the decision to an office and a name. Research here saves months of pressure applied to people with no authority to concede anything."
+          },
+          {
+            "step": 3,
+            "title": "Count what you have",
+            "body": "Be brutal about how many people will really turn up, how much money exists and who will do the unglamorous work. Plans built on hoped-for numbers collapse in public."
+          },
+          {
+            "step": 4,
+            "title": "Escalate in steps",
+            "body": "Sequence actions from cheap and polite to costly and disruptive, so there is always a visible next move. Starting at maximum leaves you nowhere to go."
+          },
+          {
+            "step": 5,
+            "title": "Decide what yes looks like",
+            "body": "Agree in writing what you will accept before negotiations start. Groups that never defined a win have a habit of rejecting one when it arrives."
+          }
+        ],
+        "tags": [
+          "campaigns",
+          "planning"
+        ]
+      }
+    ],
+    "actions": [
+      "Interview five neighbours about one local problem, using their words rather than yours, and identify the single demand most of them would actually turn out for.",
+      "Map the decision: name the official who can grant that demand, their budget cycle, their boss, and the date of the next public meeting they must attend.",
+      "Run one small action with a realistic turnout target, then hold an honest debrief on what the response revealed about the other side's real constraints.",
+      "Read a critique of confrontational organising alongside the book, then write down which of its tactics you would refuse to use and why."
+    ],
+    "if_you_liked": [
+      "the-48-laws-of-power",
+      "how-democracies-die",
+      "the-power-broker"
+    ],
+    "not_for_you_if": "You want a theory of justice or a neutral civics guide. This is a partisan handbook about winning fights, and its chapter on ethics will annoy you.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 1971, after Reveille for Radicals in 1946. Its tactics have been adopted by groups across the political spectrum, including many opposed to Alinsky's own politics. All prose original."
+    }
+  },
+  {
+    "id": "the-communist-manifesto",
+    "title": "The Communist Manifesto",
+    "subtitle": null,
+    "author": "Karl Marx and Friedrich Engels",
+    "year": 1848,
+    "category": "politics-power",
+    "subcategory": "revolutionary-theory",
+    "tags": [
+      "marxism",
+      "class",
+      "capitalism",
+      "revolution",
+      "political-theory"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 10,
+    "why_it_matters": "A forty-page pamphlet written for a tiny club became the founding text of movements that governed a third of the world within a century. You cannot read modern politics, of any persuasion, without meeting arguments that begin here.",
+    "crux": {
+      "headline": "History read as a fight over who owns production",
+      "body": "The claim is that every society is organised around who controls productive property, that this division produces classes with opposed interests, and that politics, law and ideas largely follow from it. Capitalism is treated as genuinely revolutionary, dissolving old hierarchies and building world markets, and also as generating a propertyless majority whose collective interest is to end the arrangement. Whether that last step follows is the argument of the next two centuries."
+    },
+    "sparks": [
+      {
+        "id": "the-communist-manifesto-s01",
+        "hook": "The most famous attack on capitalism opens by admiring what it destroyed.",
+        "insight": "Before any criticism, the pamphlet credits the capitalist class with dismantling feudal obligation, hereditary status and local isolation faster than any force in history. It builds world markets, tears up settled ways of living, and forces every society into competition with every other. That is presented as a real achievement and a real trauma at once. The complaint is not that capitalism is stagnant. It is that constant upheaval serves the owners of capital and is paid for by everyone else.",
+        "why": "Reading the text as simple denunciation misses its structure. The whole argument depends on capitalism being dynamic, because that dynamism is what is supposed to produce its successor.",
+        "apply": "Name one thing in your own life that a market dissolved and one it created. Hold both in view before deciding what you think about it.",
+        "format": "single",
+        "tags": [
+          "capitalism",
+          "history"
+        ]
+      },
+      {
+        "id": "the-communist-manifesto-s02",
+        "hook": "Written in 1848, it describes a world market that took a century to arrive.",
+        "insight": "The argument is that capital cannot stay put. It must find new markets, new inputs and cheaper labour, so it pulls distant societies into a single system of production, replaces local self-sufficiency with dependence on trade, and spreads a common commercial culture wherever it reaches. That description of globalisation was written when most goods were still made and sold within a few hundred miles. It is the passage that critics of the text most often concede.",
+        "why": "Descriptive accuracy about capital's expansion is acknowledged even by economists who reject the political conclusions. Getting a mechanism right is not the same as validating the theory built on top of it.",
+        "apply": "Trace one everyday object back through its supply chain and count the countries involved. Then ask who captured most of its value.",
+        "format": "single",
+        "tags": [
+          "globalisation",
+          "markets"
+        ]
+      },
+      {
+        "id": "the-communist-manifesto-s03",
+        "hook": "The ideas a society calls obvious tend to belong to the people who own it.",
+        "insight": "The argument is that law, morality, religion and common sense are not free-floating. They develop in ways that make the existing distribution of property feel natural, so the ruling arrangement is defended most effectively by people who sincerely believe they are simply describing reality. This is a powerful tool and a dangerous one, because it can be used to dismiss any inconvenient argument as class interest in disguise rather than actually answering it.",
+        "why": "The insight that ideology tracks material position shaped sociology far beyond Marxism. Its weakness is unfalsifiability: applied without limits it explains every belief, including its own.",
+        "apply": "Take one belief you hold about how the economy should work, and ask honestly what your own position would gain if everyone believed it.",
+        "format": "single",
+        "tags": [
+          "ideology",
+          "power"
+        ]
+      },
+      {
+        "id": "the-communist-manifesto-s04",
+        "hook": "The whole case is five moves long. Most arguments about it skip to the last.",
+        "insight": "The reasoning runs in order: societies are organised by who owns productive property; that ownership splits people into classes with opposed interests; capitalism concentrates the propertyless into cities and factories where they can recognise each other; that concentrated majority acquires the capacity to act together; and its interest points toward taking ownership into common hands. Each step can be accepted or rejected separately, and serious criticism mostly targets the last three rather than the first.",
+        "why": "Separating the moves is the fastest way to have a useful argument about the text, because its descriptive claims and its predictive ones have fared very differently over time.",
+        "apply": "Write the five steps out and mark each one accept, reject or unproven. Then defend your marks to someone who disagrees with you.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Property sets the structure",
+            "body": "Who controls land, tools and capital shapes everything downstream: who works for whom, on what terms, and who can afford to refuse an offer."
+          },
+          {
+            "step": 2,
+            "title": "Structure creates classes",
+            "body": "People sharing a position in that structure share interests, whether or not they feel any solidarity or use any political language about it."
+          },
+          {
+            "step": 3,
+            "title": "Capitalism concentrates them",
+            "body": "Factories and cities gather scattered workers into large groups with common conditions, which makes organisation possible for the first time."
+          },
+          {
+            "step": 4,
+            "title": "Numbers become capacity",
+            "body": "A majority that can coordinate has leverage no earlier subordinate class possessed. This is the step where the prediction actually lives."
+          },
+          {
+            "step": 5,
+            "title": "Interest points to common ownership",
+            "body": "If the split is caused by private ownership of production, the remedy is common ownership. This is also the step with the worst historical record."
+          }
+        ],
+        "tags": [
+          "theory",
+          "argument"
+        ]
+      },
+      {
+        "id": "the-communist-manifesto-s05",
+        "hook": "Its clearest predictions are also the ones that did not happen.",
+        "insight": "The text expects society to polarise into two camps as intermediate groups are crushed, and expects revolution in the most advanced industrial economies. Neither followed. Rich economies grew large middle strata, wages rose, unions and welfare states blunted the conflict, and the revolutions that took power in its name happened in largely agrarian Russia and China. That is a serious problem for the theory, whatever you make of the moral argument underneath it.",
+        "why": "The failed predictions are conceded by many later Marxist writers, who revised the theory to account for them. Critics reply that a theory rescued repeatedly by revision has stopped making risky claims at all.",
+        "apply": "Separate the moral claim from the predictive one in any political text you read, and grade the two of them on different scales.",
+        "format": "single",
+        "tags": [
+          "predictions",
+          "critique"
+        ]
+      },
+      {
+        "id": "the-communist-manifesto-s06",
+        "hook": "The concrete programme is shorter and stranger than its reputation suggests.",
+        "insight": "Alongside the theory sits a short list of practical steps for a transitional state: heavy progressive taxation, abolition of inheritance, central control of credit and transport, state-directed industry, free public education, and an end to child factory labour. Several of those became ordinary policy in market democracies within a century. Others describe the machinery of the command economies that followed. Reading the list is a useful corrective to arguing about the pamphlet from memory.",
+        "why": "The overlap with mainstream twentieth-century policy is real and surprises readers on both sides. It also shows how far the list is from a blueprint, since it says almost nothing about how power would be constrained.",
+        "apply": "Read the list of transitional measures itself and mark which items your own country has adopted. Notice how ordinary several of them now look.",
+        "format": "single",
+        "tags": [
+          "policy",
+          "programme"
+        ]
+      },
+      {
+        "id": "the-communist-manifesto-s07",
+        "hook": "It has a theory of who rules and almost no theory of how to stop them.",
+        "insight": "The pamphlet treats government as an instrument of whichever class holds economic power, which is why it spends so little effort on constitutional design. If the state is a tool, capturing it is the task and limiting it is a secondary question for later. That silence is the gap through which the twentieth century drove. Regimes founded on the text had no worked-out account of what should restrain a state claiming to represent the working class.",
+        "why": "This is the strongest structural criticism of the text, made by liberal and by many socialist writers alike. It is a gap in the argument itself, not merely a misapplication by later followers.",
+        "apply": "Ask of any political programme what it would do if its own leaders abused power, and treat a missing answer as a warning rather than an oversight.",
+        "format": "single",
+        "tags": [
+          "state",
+          "critique"
+        ]
+      },
+      {
+        "id": "the-communist-manifesto-s08",
+        "hook": "When your work becomes a price, so does the part of you that does it.",
+        "insight": "The argument is that under wage labour a person's capacity to work becomes something bought and sold like any other input, priced by competition and stripped of craft, judgement and control. The worker is not a partner in what gets made; they are a line in a cost calculation. Whatever you think of the political conclusions, this description of being managed as a resource has kept the text alive among readers who reject nearly everything else in it.",
+        "why": "The phenomenon is now studied under other names in the sociology of work and in management research. The disagreement is over whether it is intrinsic to markets or a fixable feature of how firms are run.",
+        "apply": "Notice where in your own work you have no say over how something gets done, and ask who benefits from that arrangement staying in place.",
+        "format": "single",
+        "tags": [
+          "work",
+          "alienation"
+        ]
+      },
+      {
+        "id": "the-communist-manifesto-s09",
+        "hook": "It is short, urgent and written to be read aloud. That is part of the argument.",
+        "insight": "The pamphlet is a piece of political writing before it is a treatise. It moves fast, states things without qualification, and gives readers a place in a story with a direction and an ending. The serious economics came later, in much longer books almost nobody finishes. Recognising the form matters, because criticising it for lacking evidence is like criticising a speech for lacking footnotes, and accepting it as proof is exactly the mistake it invites.",
+        "why": "Form shapes reception. Brevity and narrative confidence are why this text, rather than the denser later work, became the movement's calling card and its most quoted source.",
+        "apply": "Read any manifesto twice: once for the feeling it produces, and once with every unsupported claim underlined in a different colour.",
+        "format": "single",
+        "tags": [
+          "rhetoric",
+          "reading"
+        ]
+      },
+      {
+        "id": "the-communist-manifesto-s10",
+        "hook": "A theory that explains all of history should be tested like a weather forecast.",
+        "insight": "Grand historical theories are seductive because they turn confusion into a story with a direction. The way to keep your footing is to treat the theory as a set of forecasts and then check them. Ask what it predicted, what would have counted as failure, what actually happened, and what its defenders changed afterwards. The procedure applies to every sweeping account of where the world is heading, not only to this one.",
+        "why": "A theory that cannot fail cannot inform. Applying the test to all sides is what separates scepticism from partisanship, and it costs a favourite theory as often as a rival one.",
+        "apply": "Pick a sweeping political theory you find persuasive and write down what evidence would make you drop it. Then go and look for that evidence.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Extract the forecast",
+            "body": "State what the theory says will happen, with a rough timeframe attached. If nobody can state one, you are holding a mood rather than a theory."
+          },
+          {
+            "step": 2,
+            "title": "Define failure first",
+            "body": "Decide in advance what result would count against it. Doing this afterwards is how every theory has survived every century so far."
+          },
+          {
+            "step": 3,
+            "title": "Check the record",
+            "body": "Compare the forecast with what happened, including the awkward cases the theory's admirers tend not to raise in conversation."
+          },
+          {
+            "step": 4,
+            "title": "Watch the repairs",
+            "body": "Note what defenders added to explain the misses. Repairs are legitimate once. A theory that needs them constantly has stopped predicting anything."
+          }
+        ],
+        "tags": [
+          "critical-thinking",
+          "history"
+        ]
+      }
+    ],
+    "actions": [
+      "Read the pamphlet in one sitting, then write a page separating its descriptive claims from its predictive ones and marking how each has held up.",
+      "Read a serious critic and a serious defender of the same passage, and identify the one factual disagreement between them that you could actually check.",
+      "Compare the list of transitional measures with your own country's current tax, inheritance and education law, item by item.",
+      "Write the strongest one-page case against your own political position using the text's method of asking whose interests a belief happens to serve."
+    ],
+    "if_you_liked": [
+      "the-road-to-serfdom",
+      "why-nations-fail",
+      "development-as-freedom"
+    ],
+    "not_for_you_if": "You want balanced analysis or economic detail. It is a short, deliberately one-sided call to action, and the record of regimes founded on it is not in the text.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published in London in February 1848 for the Communist League. Its predictions of class polarisation and revolution in advanced industrial states did not hold. All prose original."
+    }
+  }
+]

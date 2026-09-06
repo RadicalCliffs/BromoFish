@@ -1,0 +1,862 @@
+[
+  {
+    "id": "a-peoples-history-of-the-united-states",
+    "title": "A People's History of the United States",
+    "subtitle": null,
+    "author": "Howard Zinn",
+    "year": 1980,
+    "category": "history",
+    "subcategory": "american-history",
+    "tags": [
+      "american-history",
+      "historiography",
+      "social-movements",
+      "class",
+      "protest"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It changed who counts as a subject of history for a whole generation of readers, and pushed textbooks, museums and classrooms to include the people on the receiving end of events. It is also the most argued-over popular history in America, which makes it a book to read with your guard up.",
+    "crux": {
+      "headline": "History told from underneath, not from the balcony",
+      "body": "Standard national history is written from the vantage of presidents, generals and treaties. Shift the vantage to the deck hands, the mill girls, the conscripts and the dispossessed, and the same events change shape. Expansion becomes conquest, prosperity becomes extraction, war becomes something arranged by people who will not fight it. The point is not that this angle is neutral. It is that the usual one is not neutral either, and pretends to be."
+    },
+    "sparks": [
+      {
+        "id": "a-peoples-history-of-the-united-states-s01",
+        "hook": "Every history has a vantage point. Most just refuse to name theirs.",
+        "insight": "A voyage described from the deck and the same voyage described from the hold share almost no facts in common. Neither account is the whole truth. But one of them usually gets called simply history, while the other gets called an agenda. Once you notice that a chosen viewpoint sits underneath every account you have ever read, you stop asking whether a book is biased and start asking a better question: whose experience does it centre, and who has been moved offstage?",
+        "why": "The selection of who appears is the strongest editorial act in any history, and it happens before a single claim is made. Zinn's answer is openly partisan, which at least makes the choice visible rather than hidden.",
+        "apply": "Take any history you are reading and list the five people it names most often. Then ask who was in the room, or in the field, that the book never names at all.",
+        "format": "single",
+        "tags": [
+          "historiography",
+          "perspective"
+        ]
+      },
+      {
+        "id": "a-peoples-history-of-the-united-states-s02",
+        "hook": "Columbus kept a journal. The people who met him did not.",
+        "insight": "The story of 1492 is usually told as arrival and discovery, because the surviving written record was produced by the arrivals. The Taino who met the ships left no chronicle of their own. What we know about what happened to them comes largely from Spanish sources, including the Dominican friar Bartolome de las Casas, who catalogued the cruelty in detail because he had watched it. Read the celebration and the catastrophe as the same event, described by whichever side kept paper.",
+        "why": "Documentary survival is not random. Literate, imperial and institutional actors leave archives; the people they act upon usually do not, so the record tilts before any historian touches it.",
+        "apply": "When a source seems one-sided, ask what kind of institution produced and stored it, and what would have had to exist for the other side's version to survive.",
+        "format": "single",
+        "tags": [
+          "colonisation",
+          "sources",
+          "indigenous-history"
+        ]
+      },
+      {
+        "id": "a-peoples-history-of-the-united-states-s03",
+        "hook": "The founders were not a focus group. They were a propertied minority.",
+        "insight": "The men who wrote the American constitution were lawyers, merchants, planters and holders of public debt, and the document they produced protected property with unusual care. Zinn reads that as a settlement designed to contain popular pressure as much as to embody liberty. It does not make the constitution a fraud. It makes it a political act by particular people with particular interests and particular fears, which is what every constitution has ever been.",
+        "why": "An economic reading of the framers goes back to Charles Beard in 1913 and was picked apart in the 1950s and 1960s for over-reading thin data. The narrow version of the claim survives much better than the strong one.",
+        "apply": "Before accepting a founding document as timeless principle, look up who wrote it, what they owned, and what they were frightened of in the year they wrote it.",
+        "format": "single",
+        "tags": [
+          "founding",
+          "constitution",
+          "class"
+        ]
+      },
+      {
+        "id": "a-peoples-history-of-the-united-states-s04",
+        "hook": "A national story is assembled the way a film is edited.",
+        "insight": "Patriotic history is not usually a lie. It is a set of choices: which person to follow, which decade to skip, which cost to mention in a subordinate clause. The result feels like a natural shape because you never see the cutting room. Learning the standard moves lets you watch any national story, American or otherwise, with the edit visible, so you can ask what the uncut footage would have shown and who is missing from the frame.",
+        "why": "These are ordinary narrative techniques rather than conspiracies. They work because compression is unavoidable in any history, which is exactly why the compression choices deserve inspection.",
+        "apply": "Take a paragraph from a school textbook and rewrite it naming every actor in the active voice. Notice which sentences suddenly become hard to write.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Choose a protagonist",
+            "body": "Pick one sympathetic figure and follow them. A story with a face is easier to feel than a system, and the face quietly stands in for millions of people who disagreed with each other."
+          },
+          {
+            "step": 2,
+            "title": "Compress the conflict",
+            "body": "Turn a long and messy struggle into one decisive moment. Decades of pressure from below become a single signature, a single speech, a single afternoon on a battlefield."
+          },
+          {
+            "step": 3,
+            "title": "Move the cost offstage",
+            "body": "Mention the losses briefly, in the passive voice, with no agents attached. Land was acquired. Lives were lost. Nobody in particular appears to have done anything."
+          },
+          {
+            "step": 4,
+            "title": "Call it inevitable",
+            "body": "Frame the outcome as destiny rather than choice. Inevitability quietly retires the question of who chose, who profited and who resisted while it was still being decided."
+          }
+        ],
+        "tags": [
+          "narrative",
+          "national-myth",
+          "reading-critically"
+        ]
+      },
+      {
+        "id": "a-peoples-history-of-the-united-states-s05",
+        "hook": "The eight-hour day was not granted. It was struck for, repeatedly.",
+        "insight": "Conditions in industrial America improved in step with organised refusal to work. Haymarket in 1886, Homestead in 1892, Ludlow in 1914, and hundreds of smaller stoppages that never got a name. Legislation usually arrived after the conflict, codifying what pressure had already forced. Told as a story of enlightened lawmaking, the same century looks like a gift handed down from above. Told from the picket line, it looks like something extracted.",
+        "why": "Reform often follows disruption rather than preceding it, though causation runs both ways here. Courts, business interests and wartime demand for labour also shaped what workers were able to win.",
+        "apply": "Trace one right you enjoy at work back to the decade it first appeared, then find out what people were doing in the streets during that decade.",
+        "format": "single",
+        "tags": [
+          "labour",
+          "strikes",
+          "reform"
+        ]
+      },
+      {
+        "id": "a-peoples-history-of-the-united-states-s06",
+        "hook": "Wartime unity is often manufactured, and the paperwork survives.",
+        "insight": "Governments that describe a war as universally supported tend to have passed laws against saying otherwise. The United States entered the First World War alongside the Espionage Act of 1917 and the Sedition Act that followed it, and Eugene Debs went to prison over an anti-war speech. Consensus that requires prosecution is not consensus. When you read that a nation stood together, check whether dissent was absent or merely illegal.",
+        "why": "Suppression leaves a paper trail of statutes, trials and sentences that is far easier to verify than claims about public mood, so the legal record is usually the better evidence.",
+        "apply": "For any period described as unified, look up the sedition, censorship or emergency laws in force at the time before you accept the description.",
+        "format": "single",
+        "tags": [
+          "war",
+          "dissent",
+          "civil-liberties"
+        ]
+      },
+      {
+        "id": "a-peoples-history-of-the-united-states-s07",
+        "hook": "Rosa Parks was not simply tired. She was trained, and she was not first.",
+        "insight": "The Montgomery bus boycott usually turns on one weary woman and one great orator. Parks was a long-standing local NAACP secretary who had attended organiser training, and other Black women had already been arrested for refusing to give up a seat. The movement chose its moment and its plaintiff deliberately. Losing that detail turns decades of patient organising into a lucky accident, which is both false and useless to anyone hoping to organise anything.",
+        "why": "The organising record of meetings, legal strategy and earlier arrests is well documented. The spontaneous version persists because single-hero stories are much easier to teach than committee work.",
+        "apply": "When a movement appears to start suddenly, look for what its members were doing in the five years before, and who was paying for the meeting rooms.",
+        "format": "single",
+        "tags": [
+          "civil-rights",
+          "organising",
+          "movements"
+        ]
+      },
+      {
+        "id": "a-peoples-history-of-the-united-states-s08",
+        "hook": "The right way to read a one-sided book is not to avoid it.",
+        "insight": "Zinn does not hide his side, and that is more useful than a book which hides it better. A committed account can be read for the evidence it surfaces and the questions it forces, without swallowing its verdicts. The failure mode is treating a polemic as a settled textbook, or throwing it out because it has a position at all. Both moves let you off the actual work, which is judging it claim by claim.",
+        "why": "Professional historians have criticised this book for moralising, for selective evidence, and for a cast in which ordinary people have plenty of virtue but very little agency. Those objections deserve real weight.",
+        "apply": "Pair any strongly argued history with a serious review by a historian who disagrees with it, and read both before you settle on a view of your own.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Separate claim from verdict",
+            "body": "Mark where the book states something you could check and where it delivers a judgement. The first kind of sentence travels; the second belongs to the author, and you may keep or drop it."
+          },
+          {
+            "step": 2,
+            "title": "Ask what is missing",
+            "body": "A history organised around the powerless will thin out on trade, technology and genuine disagreement among elites. Note the gaps instead of assuming the coverage is complete."
+          },
+          {
+            "step": 3,
+            "title": "Read the strongest critic",
+            "body": "Find a historian who thinks the book is wrong and read them properly. The serious objections are about flattened complexity and evidence chosen to fit, not about patriotism."
+          },
+          {
+            "step": 4,
+            "title": "Keep the questions",
+            "body": "Its durable contribution is a habit of asking who paid, who resisted, and who wrote the surviving record. Those questions outlast any particular answer the book gives."
+          }
+        ],
+        "tags": [
+          "reading-critically",
+          "historiography"
+        ]
+      },
+      {
+        "id": "a-peoples-history-of-the-united-states-s09",
+        "hook": "Reconstruction shows that rights can be won and then taken back.",
+        "insight": "After the Civil War, Black Americans voted, held office and built institutions across the South. Within a generation most of that had been dismantled by law, fraud and violence, and the rollback lasted far longer than the gain. Progress narratives handle this badly, because a story of steady improvement has no room for a reversal that held for the better part of a century. Rights behave like a position to be held, not a ratchet that only turns one way.",
+        "why": "The sequence from Reconstruction to Jim Crow is among the best-documented reversals in modern political history, which is why it works as a test case for any theory of inevitable progress.",
+        "apply": "Whenever you hear that a question is settled, find out what happened the last time a comparable gain was made, and who set about undoing it.",
+        "format": "single",
+        "tags": [
+          "reconstruction",
+          "progress",
+          "rights"
+        ]
+      },
+      {
+        "id": "a-peoples-history-of-the-united-states-s10",
+        "hook": "Elections are only one of the ways power has ever been moved.",
+        "insight": "Read across two centuries and the pattern is not that voting is useless, but that it has rarely been the leading edge. Abolition, the shorter working day, women's suffrage and desegregation all had long careers as disruptive minority causes, sometimes illegal ones, before any party would touch them. The ballot ratified changes that pressure had already made unavoidable. That sequence is worth knowing whether or not you share Zinn's politics.",
+        "why": "The pattern is real but not universal. Wartime executive action, court rulings and splits inside elites also drove major change, and this account gives those far less weight than the evidence supports.",
+        "apply": "Pick a change you would like to see and map how the last comparable change actually happened, decade by decade, before assuming any single channel will carry it.",
+        "format": "single",
+        "tags": [
+          "power",
+          "social-change",
+          "politics"
+        ]
+      }
+    ],
+    "actions": [
+      "Read a mainstream survey of American history alongside this one and keep a running list of the events that appear in only one of the two books.",
+      "Pick a single chapter and check three of its factual claims against a reference source, noting where the evidence is stronger or weaker than the framing suggests.",
+      "Find a substantial scholarly criticism of this book and read it in full before you decide what you think of the argument.",
+      "Choose one movement it describes and read a specialist history of that movement, where the organisers are named individually rather than as a crowd."
+    ],
+    "if_you_liked": [
+      "1491",
+      "team-of-rivals",
+      "the-silk-roads"
+    ],
+    "not_for_you_if": "You want a balanced survey with the standard political and economic narrative intact, or you find sustained moral argument in a history book more tiring than clarifying.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 1980; later editions extend the closing chapters. The book's thesis and method are contested by many academic historians. All prose here is original."
+    }
+  },
+  {
+    "id": "spqr",
+    "title": "SPQR",
+    "subtitle": "A History of Ancient Rome",
+    "author": "Mary Beard",
+    "year": 2015,
+    "category": "history",
+    "subcategory": "ancient-history",
+    "tags": [
+      "ancient-rome",
+      "classics",
+      "empire",
+      "citizenship",
+      "archaeology"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It is the modern one-volume Rome for readers who want the evidence handled honestly: what we know, how we know it, and where the famous stories turn out to be later inventions. It replaced a century of confident storytelling with something more careful and more interesting.",
+    "crux": {
+      "headline": "Rome's greatest invention was who counted as Roman",
+      "body": "Rome kept absorbing the people it defeated, extending citizenship outward until an emperor granted it to almost every free inhabitant of the empire in 212 CE. No other ancient power did this at that scale. It explains the durability better than legions or roads do, because a conquered elite with a stake in Rome is far cheaper to hold than one under permanent occupation. Most of the rest of the story sits downstream of that single habit."
+    },
+    "sparks": [
+      {
+        "id": "spqr-s01",
+        "hook": "Rome told itself it began with a murder. That was rather the point.",
+        "insight": "Romans traced their city to twin brothers and a killing, and to an early population padded out with exiles and with women taken from a neighbouring people. This is not a flattering origin, and Romans knew it. They kept telling it anyway, using it to argue about themselves: whether violence sat in their foundations, whether the city was open to outsiders by design. A founding myth is less a record of what happened than a record of what a people found worth arguing about.",
+        "why": "There is no reliable evidence for Romulus as a real person. The value of the story is as evidence for Roman self-understanding during the centuries when Romans kept retelling and revising it.",
+        "apply": "When you meet a founding story, stop asking whether it happened and start asking what dispute the people telling it were trying to settle.",
+        "format": "single",
+        "tags": [
+          "founding-myths",
+          "romulus",
+          "identity"
+        ]
+      },
+      {
+        "id": "spqr-s02",
+        "hook": "The state that saved itself without a trial set a precedent it could not undo.",
+        "insight": "In 63 BCE the consul Cicero had Roman citizens executed without trial on the grounds that the republic faced an emergency. He was celebrated for it, later exiled over it, then recalled. The episode is not a footnote. It is the republic testing whether its own rules bind it when frightened, and answering no. Every later strongman had a precedent to point at. Emergencies are where constitutions get rewritten, and rarely in their own favour.",
+        "why": "The events are unusually well documented because Cicero wrote about them at length and had every reason to justify himself, which makes the record both rich and thoroughly self-serving.",
+        "apply": "Read any emergency measure with two questions in hand: what precedent does it create, and who will inherit the power to invoke it next?",
+        "format": "single",
+        "tags": [
+          "republic",
+          "cicero",
+          "emergency-powers"
+        ]
+      },
+      {
+        "id": "spqr-s03",
+        "hook": "Almost everything you know about Rome came from a few dozen rich men.",
+        "insight": "Roman literature was written by a narrow, wealthy, male slice of the population, often long after the events described and usually with a case to make. That is why the empire's ordinary people reach us mostly through other channels: tombstones, graffiti, account books, rubbish heaps and coins. Knowing which channel a fact arrived through tells you how much weight that fact will bear, and which questions it cannot answer at all.",
+        "why": "Each type of source fails in a different way, so agreement across types is the strongest evidence available for the ancient world. Where only one type speaks, confidence should drop sharply.",
+        "apply": "Next time you read an arresting fact about antiquity, ask which kind of source it rests on, and downgrade anything resting on a single hostile biographer.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Weigh the literary sources",
+            "body": "Histories and biographies supply narrative and motive, but were written by elite men, sometimes generations later, often to build or destroy a reputation. Treat the motive claims as the weakest part."
+          },
+          {
+            "step": 2,
+            "title": "Read the inscriptions",
+            "body": "Tombstones and dedications were commissioned by ordinary people about themselves. They are formulaic, yet they reveal jobs, families, freed slaves and pride that no narrative history records."
+          },
+          {
+            "step": 3,
+            "title": "Dig the material record",
+            "body": "Buildings, pots, bones and rubbish answer questions the texts never thought to ask: what people ate, how long they lived, how crowded they were, what they bought and from how far away."
+          },
+          {
+            "step": 4,
+            "title": "Follow the coins",
+            "body": "Coinage is state messaging that survives in quantity and can be dated and mapped. It shows what rulers wanted believed, and how far those claims physically travelled."
+          }
+        ],
+        "tags": [
+          "evidence",
+          "sources",
+          "archaeology"
+        ]
+      },
+      {
+        "id": "spqr-s04",
+        "hook": "In 212 CE almost every free person in the empire became Roman.",
+        "insight": "Rome widened the category of citizen for centuries, taking in defeated Italians, then freed slaves, then provincial elites, until an emperor extended it to nearly all free inhabitants of the empire. Compare Athens, which guarded citizenship jealously and stayed small. The Roman approach turned conquered populations into stakeholders with property rights, courts and career paths. The motives were mixed and included tax revenue. The effect on cohesion was enormous either way.",
+        "why": "The grant is securely attested, but ancient writers disagreed about the motive and the practical benefits varied a great deal by class. Beard reads it as the culmination of a very old Roman habit rather than sudden generosity.",
+        "apply": "When assessing any long-lived institution, look at how it treats the people it defeats or absorbs, not only at how it treats its own members.",
+        "format": "single",
+        "tags": [
+          "citizenship",
+          "empire",
+          "integration"
+        ]
+      },
+      {
+        "id": "spqr-s05",
+        "hook": "Roman slavery was brutal and unusually porous at the same time.",
+        "insight": "Roman slavery was violent, sexual and total in its claim of ownership, and it also released people in large numbers. Freeing slaves was common enough that former slaves became a visible part of city life, and their children were born citizens. Both facts are true at once. Holding them together is harder than picking one, but it is the only way to understand a society where a former slave might fund a temple and still carry the legal marks of servitude.",
+        "why": "Much of the evidence comes from tombstones and legal texts, which over-represent the successful. The overall scale of manumission is debated, and misery left far fewer monuments than success did.",
+        "apply": "Practise holding two true facts about a past society that pull in opposite directions, without collapsing them into one tidy verdict about that society.",
+        "format": "single",
+        "tags": [
+          "slavery",
+          "freedmen",
+          "social-mobility"
+        ]
+      },
+      {
+        "id": "spqr-s06",
+        "hook": "The empire ran much the same whether the emperor was a monster or a saint.",
+        "insight": "Emperor biographies are largely a genre of scandal, written afterwards by people with reasons to blacken or launder a reputation. Meanwhile the administrative machine kept grinding on with striking continuity: taxes collected, grain shipped, garrisons paid, provinces governed, law applied. Judging an empire by the personality at the top is like judging a company by its founder's hobbies. The better question is what the system did on an ordinary day in a province.",
+        "why": "The surviving accounts of imperial depravity follow recognisable literary formulas, repeating similar accusations against very different emperors. That repetition is a sign of genre rather than of reportage.",
+        "apply": "When a story about a ruler sounds like a familiar type, check whether the same charges were made against their predecessors before you treat it as fact.",
+        "format": "single",
+        "tags": [
+          "emperors",
+          "propaganda",
+          "administration"
+        ]
+      },
+      {
+        "id": "spqr-s07",
+        "hook": "An empire of millions was run with almost no bureaucrats.",
+        "insight": "By modern standards the Roman state was tiny: a handful of senior officials for an empire spanning three continents, no police force in any modern sense, no standing civil service out in the provinces. It worked by outsourcing. Local elites collected the taxes, kept order and received status in return. Power was less a matter of reach than of making cooperation the best available option for the people who already ran each town.",
+        "why": "Comparative evidence from other pre-modern empires shows the same pattern. Without fast communication, direct rule is unaffordable, so empires rent the existing hierarchy rather than replacing it.",
+        "apply": "Look at any large organisation and ask who it has co-opted rather than employed. That usually explains its real reach better than its headcount does.",
+        "format": "single",
+        "tags": [
+          "governance",
+          "empire",
+          "local-elites"
+        ]
+      },
+      {
+        "id": "spqr-s08",
+        "hook": "Roman women appear mostly as somebody's daughter, wife or warning.",
+        "insight": "The surviving texts allow Roman women a narrow set of roles: virtuous matron, scheming empress, cautionary tale. That range tells you more about the men doing the writing than about women's lives. The counter-evidence sits elsewhere, in property records, business dealings, tombstones commissioned by and for women, and letters written from a frontier fort. Absence from the literary record is not absence from the society. It is absence from a genre.",
+        "why": "Historians have reconstructed substantial female economic and legal activity from documentary and inscribed sources precisely because the literary tradition is so unrepresentative of ordinary life.",
+        "apply": "Whenever a group seems missing from a period, ask which sources you are relying on, then go looking for a completely different kind of document.",
+        "format": "single",
+        "tags": [
+          "women",
+          "sources",
+          "gender"
+        ]
+      },
+      {
+        "id": "spqr-s09",
+        "hook": "Every empire in trouble gets compared to Rome. Almost none of it holds.",
+        "insight": "Rome is the default analogy for any anxious present: decadence, migration, overreach, debased money. The comparisons feel powerful because Rome is familiar and lasted long enough to supply an example of anything you might want. Used carelessly, the analogy smuggles in a conclusion rather than supporting one. Rome is far more useful as a genuinely strange society that stretches your sense of what human arrangements are possible.",
+        "why": "Decline-and-fall comparisons have been made continuously for centuries about wildly different situations. That flexibility is itself evidence that the analogy can be made to prove almost anything.",
+        "apply": "The next time you meet a Rome comparison, write down the specific mechanism it claims is operating. If you cannot state one, discard the comparison.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Check the base rate",
+            "body": "Rome supplies an example of nearly every political condition across a thousand years. If a matching period can be found for any thesis at all, finding one proves nothing."
+          },
+          {
+            "step": 2,
+            "title": "Name the mechanism",
+            "body": "A real analogy specifies a cause that operated then and could operate now. Without a stated mechanism you are holding a mood rather than an argument."
+          },
+          {
+            "step": 3,
+            "title": "List the differences",
+            "body": "Mass slavery, subsistence farming, no printing, no germ theory, gods present in every civic act. Ask whether your comparison survives contact with those differences."
+          },
+          {
+            "step": 4,
+            "title": "Use it to defamiliarise",
+            "body": "The best use of Rome is not prediction. It is loosening the assumption that the arrangements of your own society are the natural or obvious ones."
+          }
+        ],
+        "tags": [
+          "analogy",
+          "decline",
+          "thinking-clearly"
+        ]
+      },
+      {
+        "id": "spqr-s10",
+        "hook": "Republics rarely fall in a day. Rome's took about a century.",
+        "insight": "The Roman republic did not end with one coup. Political violence crept in across generations: a murdered reformer, then armed political followings, then generals whose soldiers were loyal to them rather than to the state, then civil wars that each ended in a settlement everybody called a restoration. By the time one ruler was permanent, the old forms were still standing. Waiting for a dramatic ending means missing the entire process.",
+        "why": "The chronology is uncontested even where causes are argued over. Historians disagree about whether the driver was land, army recruitment, wealth from conquest or elite competition, and most think several ran together.",
+        "apply": "Judge institutions by whether their norms still bind the strongest players, rather than by whether the buildings, titles and ceremonies are still in use.",
+        "format": "single",
+        "tags": [
+          "republic",
+          "institutions",
+          "decline"
+        ]
+      }
+    ],
+    "actions": [
+      "Read a chapter of a Roman historian in translation and mark every sentence where the writer states a motive they could not possibly have known.",
+      "Look up a collection of Roman inscriptions and read twenty tombstones, noting the jobs, ages and family relationships that no narrative history mentions.",
+      "Pick one emperor with a terrible reputation and find out who wrote the surviving account of him, how long afterwards, and for whom.",
+      "Write down three ways Roman society was genuinely unlike your own, then check whether any comparison you have made recently still works."
+    ],
+    "if_you_liked": [
+      "a-distant-mirror",
+      "the-silk-roads",
+      "1493"
+    ],
+    "not_for_you_if": "You want battles, emperors and dates delivered as confident storytelling. This is as much about how Roman history is known as about what happened, and it leaves plenty open.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 2015, subtitled A History of Ancient Rome; the main narrative closes with the extension of citizenship in 212 CE. All prose here is original."
+    }
+  },
+  {
+    "id": "the-guns-of-august",
+    "title": "The Guns of August",
+    "subtitle": null,
+    "author": "Barbara W. Tuchman",
+    "year": 1962,
+    "category": "history",
+    "subcategory": "first-world-war",
+    "tags": [
+      "first-world-war",
+      "military-history",
+      "diplomacy",
+      "decision-making",
+      "europe"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It made the outbreak of the First World War legible to general readers and shaped how governments talk about accidental escalation. It is also a case study in how a beautifully written thesis can outlive the evidence that supported it.",
+    "crux": {
+      "headline": "The first month decided the next four years",
+      "body": "The armies of 1914 marched on schedules drawn up years in advance, and the men running them found it easier to execute the plan than to argue for stopping. Within four weeks the war of quick decision had become a stalemate that would kill millions and remake Europe. Tuchman's case is that catastrophe arrived through momentum, miscalculation and pride rather than through anyone's settled intention, a reading later historians have pushed back on hard."
+    },
+    "sparks": [
+      {
+        "id": "the-guns-of-august-s01",
+        "hook": "Nobody wanted the war they got. They all got it anyway.",
+        "insight": "Every capital in the summer of 1914 expected a short, decisive campaign that would settle a diplomatic crisis. What they produced was four years of industrial slaughter, the destruction of four empires and a settlement that seeded the next war. The gap between intention and result is the central fact of the century, and producing it did not require a villain. It required leaders each making locally reasonable choices inside a system that punished hesitation.",
+        "why": "The gap between intention and outcome is not disputed. Whether the leaders were prisoners of the system or deliberate risk-takers is the live argument, and this book leans hard on the first answer.",
+        "apply": "In any account of a disaster, separate what people intended from what the system they were operating made likely, and weigh them as two different questions.",
+        "format": "single",
+        "tags": [
+          "escalation",
+          "unintended-consequences"
+        ]
+      },
+      {
+        "id": "the-guns-of-august-s02",
+        "hook": "Once the trains started moving, nobody knew how to stop them.",
+        "insight": "Mobilisation in 1914 meant millions of men and horses moved by rail on schedules refined over years. Planners had built those plans to be fast, not reversible. So the political question, do we actually want this war, collided with a technical answer: stopping now leaves us defenceless and the timetable cannot be rearranged in a day. When a capability is designed only to run forward, running forward becomes the professional recommendation.",
+        "why": "The timetable argument is real but has been overstated. Later archival work shows more political room to manoeuvre than the mechanical version allows, and German aims in particular look more deliberate than accidental.",
+        "apply": "Ask of any plan you depend on: what does stopping halfway cost, and who has actually rehearsed it? An unrehearsed reversal does not really exist.",
+        "format": "single",
+        "tags": [
+          "mobilisation",
+          "irreversibility",
+          "planning"
+        ]
+      },
+      {
+        "id": "the-guns-of-august-s03",
+        "hook": "An assassination in June. A continental war by August.",
+        "insight": "The path from one killing in Sarajevo to a general European war ran through a chain of decisions, most of them with a deadline attached. Ultimatums carried clocks. Alliances converted a local quarrel into an obligation. Military measures meant as warnings were received as commitments. Very little of it was inevitable in June, and almost none of it was reversible by the first week of August. The interesting part is the middle.",
+        "why": "The sequence is documented in detail from diplomatic archives. Historians still argue about how much room for choice existed at each step, and about how far Berlin and Vienna actively wanted a wider war.",
+        "apply": "When reading about any escalation, mark the last point at which reversal was still cheap. That moment, not the explosion, is where the real decision sat.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Start with a local incident",
+            "body": "The killing of Archduke Franz Ferdinand at Sarajevo in June 1914 was a Balkan crisis of a kind Europe had absorbed several times before without a general war."
+          },
+          {
+            "step": 2,
+            "title": "Attach a deadline",
+            "body": "Vienna's ultimatum to Serbia was written with a short expiry. Deadlines convert a negotiation into a test of nerve and make climbing down look like public surrender."
+          },
+          {
+            "step": 3,
+            "title": "Trigger the alliances",
+            "body": "Commitments made for deterrence turned a two-country quarrel into everyone's war, since backing out would have advertised that all the other guarantees were worthless."
+          },
+          {
+            "step": 4,
+            "title": "Signal with soldiers",
+            "body": "Mobilisation was intended partly as pressure. Seen from the other side it looked like the opening move of an attack, and each response then justified the next one."
+          },
+          {
+            "step": 5,
+            "title": "Run out of exits",
+            "body": "By early August the diplomats were negotiating around military schedules already in motion, and every remaining option was worse than the one refused the week before."
+          }
+        ],
+        "tags": [
+          "july-crisis",
+          "escalation",
+          "diplomacy"
+        ]
+      },
+      {
+        "id": "the-guns-of-august-s04",
+        "hook": "Belgium turned a European quarrel into a war about law.",
+        "insight": "German strategy required crossing neutral Belgium, and that crossing handed Britain both a strategic and a legal reason to fight. German troops burned the library at Louvain and executed civilians. Allied propaganda then embroidered those real events into fantasies. The embroidery carried a long cost: when atrocity reports came out of occupied Europe a generation later, a great many people had already been trained to disbelieve them.",
+        "why": "Both halves are documented, the 1914 reprisals against Belgian civilians and the wartime propaganda that inflated them. The scepticism this bred by the 1940s is a well-attested consequence.",
+        "apply": "Check whether a disputed claim is false or merely exaggerated. Treating those two as the same thing is how genuine evidence gets waved away later.",
+        "format": "single",
+        "tags": [
+          "belgium",
+          "propaganda",
+          "atrocity"
+        ]
+      },
+      {
+        "id": "the-guns-of-august-s05",
+        "hook": "France's plan was to attack where the enemy was strongest.",
+        "insight": "French doctrine before 1914 elevated attacking spirit almost to a moral quality, and Plan XVII sent men in highly visible uniforms straight into modern rifle and artillery fire in Alsace-Lorraine. The losses in those first weeks were catastrophic. The doctrine had not been adopted by fools. It was a considered response to earlier defeat and to a belief that morale beats machinery. Beliefs about human will can survive an enormous amount of contrary evidence.",
+        "why": "The pre-war argument over offensive doctrine is well documented across several armies. Historians dispute how universal that cult of the offensive really was, but the French casualties of August 1914 are not in dispute.",
+        "apply": "When a doctrine is defended on grounds of spirit or character rather than results, ask what specific evidence its holders would allow to count against it.",
+        "format": "single",
+        "tags": [
+          "doctrine",
+          "offensive",
+          "france"
+        ]
+      },
+      {
+        "id": "the-guns-of-august-s06",
+        "hook": "The German plan failed in six weeks. The war lasted four years.",
+        "insight": "The whole German gamble depended on knocking France out quickly and then turning east. On the Marne in September 1914 that gamble failed, and both sides began to dig. Everything afterwards, the trenches, the attrition, the blockade, the revolutions, happened inside a war that no general staff had planned for or wanted. The most consequential feature of a war plan is often what happens the moment it stops working, because that is the part nobody rehearsed.",
+        "why": "The importance of the Marne is broadly agreed. Why the German advance faltered is argued over, with supply exhaustion, poor communications, altered orders and French recovery all appearing in the explanations.",
+        "apply": "For any strategy you are relying on, write the paragraph describing what you will do in week seven if it has plainly not worked by week six.",
+        "format": "single",
+        "tags": [
+          "marne",
+          "strategy",
+          "plans-failing"
+        ]
+      },
+      {
+        "id": "the-guns-of-august-s07",
+        "hook": "The book reads like a novel. That is its strength and its flaw.",
+        "insight": "Tuchman writes people who do not yet know how it ends, which is the only honest way to convey a decision as it was actually made. She also gives them interior lives, adjectives and motives that no document could supply, and the result is so convincing that readers stop asking where a detail came from. Narrative history is the most persuasive kind, and therefore the kind that most needs a reader checking the sourcing.",
+        "why": "Confident narrative closes gaps the evidence leaves open. Tuchman read widely in primary material, but the seamless surface hides exactly where the record is thin, inferred or contested.",
+        "apply": "While reading vivid narrative history, mark every sentence about what someone felt or thought, and ask which surviving document could possibly support it.",
+        "format": "single",
+        "tags": [
+          "narrative-history",
+          "method",
+          "sources"
+        ]
+      },
+      {
+        "id": "the-guns-of-august-s08",
+        "hook": "Nothing about 1914 looked inevitable from inside 1913.",
+        "insight": "Europe had defused several serious crises in the decade before 1914, and sensible people expected the same again. Once the war happened, historians and politicians began arranging that previous decade into a runway leading straight to it. Arms races, alliances and nationalism all became causes largely because they came first. Living through the same decade you would have seen a mixture of tension and ordinary business, with no arrow pointing anywhere in particular.",
+        "why": "Hindsight bias is among the better-replicated findings in psychology, and it works on historians too. Crises that did not produce war get forgotten, which makes the one that did look preordained.",
+        "apply": "Read history in the order the people living it did. Cover the final chapter, then write down what you would honestly have predicted from where they were standing.",
+        "format": "single",
+        "tags": [
+          "hindsight",
+          "inevitability",
+          "causation"
+        ]
+      },
+      {
+        "id": "the-guns-of-august-s09",
+        "hook": "The sleepwalking version of 1914 is no longer the consensus.",
+        "insight": "Tuchman's Europe stumbles into war through miscalculation. From the early 1960s a rival account, argued most forcefully by the German historian Fritz Fischer, put far more weight on deliberate German ambitions for continental dominance and on Berlin's willingness to accept a general war. Sixty years on there is still no settled verdict, and where a historian lands changes the moral of the whole story: accident argues for better crisis management, intention argues for deterrence.",
+        "why": "Fischer's work appeared in 1961 and set off a controversy that reshaped the field. Later scholarship has moderated both extremes, but very few specialists now accept a purely accidental account of 1914.",
+        "apply": "When two histories of one event imply different lessons, work out which factual claim they actually disagree about before you adopt either lesson.",
+        "format": "single",
+        "tags": [
+          "war-guilt",
+          "debate",
+          "historiography"
+        ]
+      },
+      {
+        "id": "the-guns-of-august-s10",
+        "hook": "August 1914 closed a century and nobody sent an announcement.",
+        "insight": "Before that month, emperors ruled in Berlin, Vienna, St Petersburg and Constantinople, passports were unusual for European travel, and the financial arrangements of the previous century looked permanent. Within four years all four of those empires were gone and the states and grievances that produced the next war were in place. The people living through the first weeks thought they were in an emergency, not a hinge. Endings are usually visible only from the far side.",
+        "why": "The collapse of those four empires is a matter of record. Whether 1914 caused what followed or accelerated changes already underway remains a genuine dispute among historians of the period.",
+        "apply": "Resist naming the hinge of your own moment. Instead write a list of what currently looks permanent to you, date it, and revisit the list in ten years.",
+        "format": "single",
+        "tags": [
+          "empires",
+          "turning-points",
+          "change"
+        ]
+      }
+    ],
+    "actions": [
+      "Read a recent account of the July crisis alongside this one and list the points where the two books disagree about motive rather than about facts.",
+      "Follow one week of the crisis day by day in a chronology, writing down what each government actually knew at the time rather than what you know.",
+      "Find out how an earlier European crisis in the years before 1914 was defused, and compare its handling with the handling of July 1914.",
+      "Check three of the book's most vivid details against a reference source and note whether each one is documented, inferred or imagined."
+    ],
+    "if_you_liked": [
+      "a-distant-mirror",
+      "postwar",
+      "the-rise-and-fall-of-the-third-reich"
+    ],
+    "not_for_you_if": "You want current scholarship on the war's causes, or a history of the whole conflict. This covers roughly one month and reflects the state of the debate in the early 1960s.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 1962; awarded the Pulitzer Prize for General Non-Fiction in 1963. Its largely accidental reading of the war's origins is contested by later scholarship. All prose here is original."
+    }
+  },
+  {
+    "id": "a-distant-mirror",
+    "title": "A Distant Mirror",
+    "subtitle": "The Calamitous 14th Century",
+    "author": "Barbara W. Tuchman",
+    "year": 1978,
+    "category": "history",
+    "subcategory": "medieval-europe",
+    "tags": [
+      "middle-ages",
+      "black-death",
+      "hundred-years-war",
+      "france",
+      "plague"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 13,
+    "why_it_matters": "It made the fourteenth century vivid for general readers: plague, schism, endless war, and a nobility that kept behaving as though none of it were happening. It also showed how to write a whole century by following one life all the way through it.",
+    "crux": {
+      "headline": "A century of catastrophe, seen through one man's life",
+      "body": "Plague, a war with no end, a church with rival popes, peasant risings, and a currency of chivalric display that had come loose from any military use. Tuchman follows a single French nobleman across all of it, because a century is unmanageable and a life is not. What emerges is not a dark age but a working society absorbing repeated disasters while its elite doubled down on the rituals that had stopped working."
+    },
+    "sparks": [
+      {
+        "id": "a-distant-mirror-s01",
+        "hook": "Half the people you know die. What does normal mean afterwards?",
+        "insight": "The Black Death reached Europe in the late 1340s and killed a large enough share of the population that labour, land, prices and the church all shifted at once. What did not shift immediately was how people explained the world. The same institutions that had failed to predict or prevent the disaster kept their authority for decades afterwards. Societies change their practices long before they change their beliefs, and a century of unrest lives in that gap.",
+        "why": "Mortality estimates vary widely by region and remain genuinely uncertain, but the economic effects of labour shortage, rising wages and landlord resistance are documented in wage series and manor records.",
+        "apply": "When you read about a disaster, track the institutions afterwards. Note which ones changed practice, which changed doctrine, and how many years apart the two happened.",
+        "format": "single",
+        "tags": [
+          "black-death",
+          "plague",
+          "institutions"
+        ]
+      },
+      {
+        "id": "a-distant-mirror-s02",
+        "hook": "Tuchman held up the fourteenth century as a mirror. Mirrors distort.",
+        "insight": "The book was written with an unspoken twentieth century in the corner of the eye: another era of mass death, failing institutions and a leadership class performing confidence it did not have. Reading the past for resemblance is genuinely useful, because it makes the strangeness of your own present visible. It is also the quickest way to find whatever you set out to find. The discipline is to keep noticing the parts that resemble nothing you know.",
+        "why": "Every generation has read the Middle Ages as a comment on itself, and each reading tells you about as much about the reader's decade as about the period being read.",
+        "apply": "Whenever a historical parallel feels striking, deliberately list three features of the past case with no counterpart today before you let yourself use it.",
+        "format": "single",
+        "tags": [
+          "analogy",
+          "historiography",
+          "reading-critically"
+        ]
+      },
+      {
+        "id": "a-distant-mirror-s03",
+        "hook": "The disasters of that century arrived stacked, not spaced.",
+        "insight": "The fourteenth century did not suffer one catastrophe. Famine came first, then plague, then a war that would not end, then a church with two claimants to the papacy, then risings from below. Each disaster landed while the previous one was still being absorbed, which is why the effects compounded instead of healing. Studying them separately, as most textbooks do, makes each look survivable and makes the century as a whole look inexplicable.",
+        "why": "Historians argue about the weighting, and about whether climate, disease or war did the most damage. The sequencing and the compounding of the shocks are not in dispute.",
+        "apply": "When analysing any crisis, check whether the shocks arrived stacked or spaced. Compounding disasters follow quite different rules from isolated ones.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Cold and hunger first",
+            "body": "Ruinous weather brought famine to northern Europe in the years after 1315, weakening a population that was already living close to the ceiling of its agriculture."
+          },
+          {
+            "step": 2,
+            "title": "Then the plague",
+            "body": "Plague arrived in the late 1340s and returned in waves for generations, so recovery was repeatedly interrupted rather than allowed to run its course."
+          },
+          {
+            "step": 3,
+            "title": "A war with no end",
+            "body": "The conflict between England and France that began in 1337 ran on for more than a century, with unpaid soldiers preying on the countryside between the campaigns."
+          },
+          {
+            "step": 4,
+            "title": "A church divided",
+            "body": "From 1378 rival popes claimed the same office, each backed by kingdoms, damaging the one institution whose job was to explain why any of this suffering made sense."
+          },
+          {
+            "step": 5,
+            "title": "Revolt from below",
+            "body": "Labour shortage raised the value of peasant work, lords legislated to hold wages down, and risings followed in France in 1358 and in England in 1381."
+          }
+        ],
+        "tags": [
+          "black-death",
+          "famine",
+          "schism",
+          "revolt"
+        ]
+      },
+      {
+        "id": "a-distant-mirror-s04",
+        "hook": "The knights kept charging because charging was who they were.",
+        "insight": "French chivalry lost repeatedly to disciplined infantry and archers, at Crecy in 1346 and again at Poitiers ten years later. The lesson was available. Instead the nobility treated battle as an arena for individual honour, quarrelled over who should lead the charge, and did the same thing again at Nicopolis in 1396 against the Ottomans, where the crusading army was destroyed. An identity that doubles as a business model is very hard to update.",
+        "why": "The pattern of defeats is well documented. Historians caution that chivalric writing was partly literary convention and that commanders were often more practical than the chronicles make them sound.",
+        "apply": "When a group keeps repeating a failing method, ask what its members would lose socially by changing. That cost usually explains persistence better than stupidity does.",
+        "format": "single",
+        "tags": [
+          "chivalry",
+          "warfare",
+          "identity"
+        ]
+      },
+      {
+        "id": "a-distant-mirror-s05",
+        "hook": "To write a whole century, Tuchman followed one man through it.",
+        "insight": "Enguerrand de Coucy was a French nobleman well connected enough to touch most of the century's events and obscure enough not to distort them by his presence. Using him as a thread turns an unmanageable sprawl into something a reader can hold. The technique has a price: the century is seen from a saddle, and the peasants, women and townspeople who made up almost everybody appear mainly when they happen to cross his path.",
+        "why": "Building a history around one elite life is a deliberate solution to the problem of scale. It buys coherence and pays for it in coverage, a trade worth spotting in any book organised this way.",
+        "apply": "For any history built around one figure, write down which social groups can only appear when that figure meets them, then go looking for those groups elsewhere.",
+        "format": "single",
+        "tags": [
+          "method",
+          "biography",
+          "narrative"
+        ]
+      },
+      {
+        "id": "a-distant-mirror-s06",
+        "hook": "Peace between kings was often worse than war for everyone else.",
+        "insight": "When campaigns paused, the soldiers did not go home. Unpaid companies lived off the countryside, extorting towns and burning what they could not carry away. For a French village a truce could mean more violence than a battle, because a battle at least concentrated the armies somewhere specific. Formal peace describes relations between governments. It says very little about conditions on the ground where the fighting had been happening.",
+        "why": "The activity of the free companies is recorded in town accounts, ransom agreements and local complaints, which is exactly the sort of evidence that treaties and court chronicles alone would miss.",
+        "apply": "Check any claim of peace against local records rather than treaties. Ask who was still armed, unpaid and unsupervised in the months after the signing.",
+        "format": "single",
+        "tags": [
+          "mercenaries",
+          "war",
+          "civilians"
+        ]
+      },
+      {
+        "id": "a-distant-mirror-s07",
+        "hook": "A captured lord was worth money. A captured archer was worth nothing.",
+        "insight": "Aristocratic warfare ran partly on ransom. A noble prisoner was an asset to be sold back, which is one reason so many commanders survived catastrophes that killed their infantry outright. The rules of chivalry functioned in practice as a set of protections for people who could pay. Once you have seen the price list, the moral language around medieval war looks less like ethics and more like a class arrangement with excellent public relations.",
+        "why": "Ransom values, negotiations and defaults appear across surviving financial records, so this is one of the better-evidenced aspects of medieval warfare rather than an inference from chronicles.",
+        "apply": "When a code of honour is invoked anywhere, work out who it protects and who pays for the protection. The answer is usually in the accounts, not the rhetoric.",
+        "format": "single",
+        "tags": [
+          "ransom",
+          "class",
+          "chivalry"
+        ]
+      },
+      {
+        "id": "a-distant-mirror-s08",
+        "hook": "The plague made survivors richer, and their lords tried to legislate it away.",
+        "insight": "Fewer workers meant more valuable work. Wages rose, tenants moved to find better terms, and arrangements that had bound people to a manor started to fail. Landlords answered with law rather than with money, capping wages and restricting movement. The distance between what the market was offering peasants and what the law permitted them to take is the direct route from a disease to a revolt, and it took about a generation to travel.",
+        "why": "Wage series, manorial court rolls and the labour statutes give unusually good evidence here. Historians still argue over how much of serfdom's decline in the west the plague caused rather than accelerated.",
+        "apply": "When a shock changes what something is worth, watch whether the powerful respond with prices or with rules. That choice tends to predict what happens next.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Labour becomes scarce",
+            "body": "Repeated plague waves cut the working population while the surviving land still needed hands. For the first time in generations, ordinary labour had real bargaining power."
+          },
+          {
+            "step": 2,
+            "title": "Wages and mobility rise",
+            "body": "Workers asked for more and moved to get it. Obligations that had looked immovable turned out to have depended on there being no alternative employer within walking distance."
+          },
+          {
+            "step": 3,
+            "title": "The law pushes back",
+            "body": "Parliament in England capped wages by statute from 1351 and similar measures appeared elsewhere. Elites tried to legislate prices back into the world before the plague."
+          },
+          {
+            "step": 4,
+            "title": "Enforcement breeds grievance",
+            "body": "Fines and prosecutions turned an economic squeeze into a visible injustice with named officials attached to it, which is what gives a grievance somewhere to point."
+          },
+          {
+            "step": 5,
+            "title": "Revolt arrives",
+            "body": "Risings followed in France in 1358 and in England in 1381. Both were crushed, and serfdom in western Europe went on weakening regardless of the outcome."
+          }
+        ],
+        "tags": [
+          "labour",
+          "plague",
+          "revolt",
+          "economics"
+        ]
+      },
+      {
+        "id": "a-distant-mirror-s09",
+        "hook": "An unexplained disaster gets explained by whoever is already disliked.",
+        "insight": "Faced with a plague nobody could account for, communities across Europe accused Jews of poisoning wells and destroyed entire Jewish communities, most intensively in 1348 and 1349. The papacy condemned the accusation and it made very little difference. This is a repeatable pattern rather than a medieval quirk. When the real cause is invisible, the explanation that arrives fastest is the one the population was already prepared to believe.",
+        "why": "The massacres are documented in town records and in papal bulls rejecting the well-poisoning charge. Modern research on rumour under uncertainty finds the same targeting of pre-existing out-groups.",
+        "apply": "During any confusing crisis, notice which explanations require no new information at all. Those are the ones your existing beliefs are quietly supplying.",
+        "format": "single",
+        "tags": [
+          "scapegoating",
+          "rumour",
+          "persecution"
+        ]
+      },
+      {
+        "id": "a-distant-mirror-s10",
+        "hook": "They were not simple. They were working with different information.",
+        "insight": "It is tempting to read the fourteenth century as childish: bleeding patients, buying indulgences, marching in penitential processions during an epidemic. Given a theory of disease based on corrupted air, and a universe governed by divine judgement, most of those responses follow logically. These people were as intelligent as you and reasoning correctly from premises that were wrong. That should be unsettling, because your own premises also came from your own century.",
+        "why": "Intellectual historians consistently find internally coherent reasoning inside past medical and religious practice. Condescension towards the past is usually a failure to reconstruct the premises people were using.",
+        "apply": "When a past practice looks absurd, reconstruct what its users believed about how the world worked until the practice becomes reasonable. Then stop and check your own.",
+        "format": "single",
+        "tags": [
+          "mentalities",
+          "reasoning",
+          "empathy"
+        ]
+      }
+    ],
+    "actions": [
+      "Pick one event in the book and read a specialist medieval historian on it, noting where the scholarship has moved since the late 1970s.",
+      "Draw a timeline of the century with famine, plague waves, war and schism on separate rows, so that the overlaps between them become visible.",
+      "Read a set of manorial or town records in translation and see how differently ordinary life looks when described from below.",
+      "List three fourteenth-century assumptions about how the world worked, then try to name three of your own that a later century may find strange."
+    ],
+    "if_you_liked": [
+      "the-guns-of-august",
+      "spqr",
+      "1493"
+    ],
+    "not_for_you_if": "You want the whole of Europe rather than France and its neighbours, or a scholarly survey. The century here is seen mainly from among the nobility, at considerable length.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 1978, subtitled The Calamitous 14th Century, built around the life of Enguerrand VII de Coucy. Black Death mortality estimates remain uncertain and are described here only in general terms. All prose original."
+    }
+  }
+]

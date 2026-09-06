@@ -1,0 +1,659 @@
+[
+  {
+    "id": "a-brief-history-of-time",
+    "title": "A Brief History of Time",
+    "subtitle": "From the Big Bang to Black Holes",
+    "author": "Stephen Hawking",
+    "year": 1988,
+    "category": "science-nature",
+    "subcategory": "cosmology",
+    "tags": [
+      "cosmology",
+      "black-holes",
+      "big-bang",
+      "relativity",
+      "time",
+      "physics"
+    ],
+    "difficulty": "challenging",
+    "read_time_min": 13,
+    "why_it_matters": "It put the frontier of physics — curved spacetime, black holes, the first instant — in front of readers with no mathematics, and proved a mass audience existed for genuinely hard ideas. Most popular science since works in the space it opened.",
+    "crux": {
+      "headline": "Space and time are players, not the stage",
+      "body": "Gravity is not a force reaching across a fixed backdrop. Mass and energy bend the shape of space and time, and everything moves along the bends. Push that idea hard enough and it predicts regions where the bending closes in on itself, and a moment where the whole geometry runs out of answers. The universe has a history, the laws that describe it break down at both ends, and admitting exactly where they break is the honest starting point for everything still unsolved."
+    },
+    "sparks": [
+      {
+        "id": "a-brief-history-of-time-s01",
+        "hook": "A universe that is getting bigger is a universe that was once a point.",
+        "insight": "Light from distant galaxies arrives stretched toward the red end of the spectrum, and the further away the galaxy sits, the more stretched it is. The simplest reading is that space itself is expanding, carrying galaxies apart like ink dots on an inflating balloon. Run that film backwards and everything piles into one dense, hot state. This is not an explosion happening inside space. It is space and time themselves having a first page.",
+        "why": "Edwin Hubble established the distance-redshift relation in 1929, and the faint microwave glow found in 1965 is exactly the leftover heat a hot dense beginning predicts. Two independent lines pointing at one conclusion.",
+        "apply": "Find an image of the cosmic microwave background and read its temperature scale. Those tiny hot and cold patches are the seeds every galaxy grew from.",
+        "format": "single",
+        "tags": [
+          "big-bang",
+          "expansion",
+          "cosmology"
+        ]
+      },
+      {
+        "id": "a-brief-history-of-time-s02",
+        "hook": "A black hole is not an object. It is a region you have no route out of.",
+        "insight": "Gravity bends the paths that light is able to take. Squeeze enough mass into a small enough volume and every outward path curves back inward, so nothing, light included, has a way to the outside. The boundary where that becomes true is the horizon, and it is not made of anything at all. It is a one-way surface in the geometry. Once you cross it, every possible future leads further in, in the same way every possible future leads forward in time.",
+        "why": "This follows from general relativity rather than from guesswork. Merging black holes were detected through their gravitational waves in 2015, and a horizon-scale image of the hole at the centre of galaxy M87 was published in 2019.",
+        "apply": "Look up that 2019 image and be clear about what you are seeing: not the hole, but hot gas around it, with a dark patch where the escape routes end.",
+        "format": "single",
+        "tags": [
+          "black-holes",
+          "relativity",
+          "gravity"
+        ]
+      },
+      {
+        "id": "a-brief-history-of-time-s03",
+        "hook": "Every star is a slow argument between crushing weight and outward push.",
+        "insight": "A star is a balance. Its own gravity pulls the mass inward, and heat from fusion in the core pushes outward. That balance holds for as long as there is fuel. When the core runs out of anything worth burning, the outward push fails and nothing about the gravity has changed. What happens next depends only on how much mass is left. Modest remnants find a new balance held up by quantum pressure. Above a certain mass, no known pressure is enough, and the collapse simply does not stop.",
+        "why": "Subrahmanyan Chandrasekhar showed in the 1930s that the pressure from packed electrons has a mass ceiling. Neutron pressure has a higher one. Above both, general relativity offers no stable solution at all.",
+        "apply": "Draw a star as two opposing arrows, then rub out the outward one. That single deletion is the entire ending of a massive star, and it explains why mass is the only thing that matters.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Burn through the fuel",
+            "body": "Fusion welds light elements into heavier ones and releases energy. Once the core is iron, the trade stops paying: building anything heavier costs more energy than it gives back."
+          },
+          {
+            "step": 2,
+            "title": "Lose the outward push",
+            "body": "With the heat source gone, the core cannot hold its own weight. It falls inward in a fraction of a second, and the outer layers either follow or are flung off as a supernova."
+          },
+          {
+            "step": 3,
+            "title": "Test the two pressures",
+            "body": "Densely packed electrons can hold up a white dwarf. Packed neutrons can hold up a neutron star. Each support has a mass ceiling fixed by physics, not by circumstance."
+          },
+          {
+            "step": 4,
+            "title": "Pass the point of no return",
+            "body": "Above those ceilings nothing known holds. The mass shrinks inside its own horizon, and the rest of the universe permanently loses contact with whatever happens next."
+          }
+        ],
+        "tags": [
+          "stars",
+          "gravity",
+          "black-holes"
+        ]
+      },
+      {
+        "id": "a-brief-history-of-time-s04",
+        "hook": "Black holes are not perfectly black. They leak, and small ones leak fastest.",
+        "insight": "Empty space is not truly empty; quantum fields fluctuate everywhere. Right at a horizon, that jitter can be split, so part of it escapes as real radiation while the balance is paid out of the hole's own mass. The hole slowly glows and slowly shrinks. The strange part is the direction: the smaller a hole is, the hotter it runs. A hole the mass of the Sun is colder than deep space, so today it absorbs more than it emits, while a hole the mass of a mountain would be fiercely bright.",
+        "why": "Hawking derived this in 1974 by putting quantum fields on curved spacetime, and the result is broadly accepted in theory. It has never been observed. No known astrophysical black hole is small enough to glow detectably.",
+        "apply": "Whenever you meet a claim about black holes evaporating, ask for the mass first. Temperature runs backwards with size, and that one fact settles most of the confusion.",
+        "format": "single",
+        "tags": [
+          "hawking-radiation",
+          "quantum",
+          "black-holes"
+        ]
+      },
+      {
+        "id": "a-brief-history-of-time-s05",
+        "hook": "Hawking bet that black holes destroy information, then conceded the bet in 2004.",
+        "insight": "If a hole radiates nothing but featureless heat and then vanishes, everything that fell in is not hidden but erased. Quantum mechanics forbids that: its evolution runs equally well in both directions, so in principle the past is always recoverable from the present. Hawking argued for years that gravity wins and the information really is lost. He and Kip Thorne bet John Preskill on it in 1997, and in 2004 Hawking publicly conceded, saying the information does find its way out.",
+        "why": "Treat this as a live problem rather than a settled one. A concession is not a proof, and how information escapes a horizon is still argued over by working physicists today.",
+        "apply": "Read the black hole chapters as a snapshot of 1988 thinking, then check Hawking's later position before repeating anything about information being destroyed.",
+        "format": "single",
+        "tags": [
+          "information-paradox",
+          "black-holes",
+          "physics"
+        ]
+      },
+      {
+        "id": "a-brief-history-of-time-s06",
+        "hook": "Asking what came before the beginning may be a badly formed question.",
+        "insight": "In the classical picture the universe starts at a singularity, a point of infinite density where the equations stop producing answers. Hawking and James Hartle proposed a way around that. Treat the earliest moments with a mathematical device that makes time behave like one more direction of space, and the beginning stops being an edge. It becomes a smooth rounding-off, the way the top of a sphere is smooth. There is then no first instant at which the laws fail, because there is no edge for them to fail at.",
+        "why": "This is a proposal, not a result. It has no observational test at present, rival quantum-gravity accounts give different answers, and physicists still disagree about what the mathematical device physically means.",
+        "apply": "Sort every cosmology claim you read into three boxes: measured, derived from accepted theory, or untested proposal. Put this one firmly in the third box and notice how many others belong there.",
+        "format": "single",
+        "tags": [
+          "cosmology",
+          "quantum-gravity",
+          "speculation"
+        ]
+      },
+      {
+        "id": "a-brief-history-of-time-s07",
+        "hook": "You remember yesterday and not tomorrow, and the reason sits in the early universe.",
+        "insight": "The laws of physics look nearly the same run forwards or backwards, yet the world plainly does not. Cups shatter and never reassemble. The asymmetry comes from counting: there are vastly more messy arrangements of a thing than tidy ones, so disorder increases simply because messy states outnumber neat ones. Memory rides on the same effect, because recording anything costs order somewhere else. That pushes the real puzzle back a step. The universe must have started extraordinarily tidy, and nobody knows why.",
+        "why": "Hawking first argued that time's direction would reverse if the universe recollapsed, then withdrew the claim and called it his biggest blunder. Even landmark books contain positions their authors later abandon.",
+        "apply": "Next time something looks irreversible, ask whether it breaks a law or merely runs against overwhelming odds. Almost always it is the odds, and that distinction changes how you argue about it.",
+        "format": "single",
+        "tags": [
+          "time",
+          "entropy",
+          "thermodynamics"
+        ]
+      },
+      {
+        "id": "a-brief-history-of-time-s08",
+        "hook": "Position and speed are not both there to be found. That is the world, not your tools.",
+        "insight": "Nineteenth-century physics carried a promise: know where every particle is and how fast it moves, and the whole future follows. Quantum mechanics removed the premise. A particle does not carry a sharp position and a sharp momentum at the same time, and the sharper one becomes, the vaguer the other must be. This is often taught as clumsy measurement, as though a better instrument would fix it. The limit is built into what a particle is. Prediction becomes a matter of probabilities, permanently.",
+        "why": "The limit follows from wave behaviour. A wave packet narrow in space has to be built from a wide spread of wavelengths, and wavelength is exactly what momentum corresponds to here.",
+        "apply": "Try explaining the limit out loud without mentioning any measuring device. If you cannot manage it, you are still carrying the clumsy-instrument version of the idea.",
+        "format": "single",
+        "tags": [
+          "quantum",
+          "uncertainty",
+          "determinism"
+        ]
+      },
+      {
+        "id": "a-brief-history-of-time-s09",
+        "hook": "Two theories, each fantastically accurate, that cannot both be the last word.",
+        "insight": "General relativity treats gravity as smooth curved geometry and works superbly for stars, galaxies and satellites. Quantum mechanics treats matter and the other forces as jittery probabilistic fields and works superbly for atoms and chips. Almost everywhere only one of them matters, so the conflict stays politely hidden. It surfaces exactly where something is both very heavy and very small: the centre of a black hole, and the universe's first instant. Ask both theories about those and you get nonsense back.",
+        "why": "Quantising gravity directly produces infinities that cannot be tidied away the way they can in other field theories. That technical failure, not fashion or funding, is why the problem has stayed open for decades.",
+        "apply": "Take any physics headline and ask which regime it belongs to: heavy and large, or light and small. Only claims sitting in both at once require a theory nobody has yet.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Heavy and large",
+            "body": "Planets, stars, galaxies, navigation satellites. Curved spacetime handles all of these to extraordinary precision, and quantum effects are far too small to show up."
+          },
+          {
+            "step": 2,
+            "title": "Light and small",
+            "body": "Atoms, molecules, transistors, lasers. Quantum field theory matches experiment to more decimal places than anything else in science, and gravity here is negligible."
+          },
+          {
+            "step": 3,
+            "title": "Both at once",
+            "body": "Black hole interiors and the universe's opening instant. Enormous mass squeezed into a tiny volume, so neither description can be quietly set aside."
+          },
+          {
+            "step": 4,
+            "title": "Where it breaks",
+            "body": "Put the two together in that regime and the equations return infinite answers. That is the open problem, and no candidate solution has yet been tested against nature."
+          }
+        ],
+        "tags": [
+          "quantum-gravity",
+          "unification",
+          "physics"
+        ]
+      },
+      {
+        "id": "a-brief-history-of-time-s10",
+        "hook": "The universe looks tuned for life because tuned ones are the only ones with observers.",
+        "insight": "Several constants of nature look uncomfortably well chosen. Shift the strength of the nuclear force a little and stars make almost no carbon. Shift the early expansion rate and matter never clumps into galaxies at all. One response is selection: a universe with the wrong numbers has nobody inside it to remark on them, so any observer necessarily finds themselves in a rare hospitable case. That dissolves the surprise without explaining the numbers, and keeping those two things apart matters enormously.",
+        "why": "Selection reasoning is legitimate, but it only bites if there really are many universes or many regions carrying different constants. That premise is currently untestable, which is why plenty of physicists find the argument hollow.",
+        "apply": "When a coincidence amazes you, ask what would have had to be true for you to be present to notice it. A good share of statistical astonishment does not survive that question.",
+        "format": "single",
+        "tags": [
+          "fine-tuning",
+          "anthropic-principle",
+          "cosmology"
+        ]
+      }
+    ],
+    "actions": [
+      "Write down in your own words the difference between an explosion inside space and space itself expanding. If that distinction stays fuzzy, every cosmology headline will stay fuzzy too.",
+      "Find out what changed after 1988: accelerating expansion discovered in 1998, gravitational waves detected in 2015, black hole imaging in 2019. Note which chapters those findings age.",
+      "Reread the chapter you found hardest with a pen, writing one sentence per page. The difficulty here is usually density rather than obscurity, and slowing down fixes density.",
+      "Take one physics claim you repeat to other people and split it into measured, derived and speculative parts before you repeat it again."
+    ],
+    "if_you_liked": [
+      "seven-brief-lessons-on-physics",
+      "the-order-of-time",
+      "cosmos"
+    ],
+    "not_for_you_if": "You want equations and derivations, or you need a current account: the cosmology here stops before dark energy, gravitational-wave astronomy and the black hole images.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 1988 by Bantam. Later editions revised. The 2004 concession on information loss and the 1998 discovery of accelerating expansion both postdate the original text and are flagged in the sparks. All prose original."
+    }
+  },
+  {
+    "id": "cosmos",
+    "title": "Cosmos",
+    "subtitle": null,
+    "author": "Carl Sagan",
+    "year": 1980,
+    "category": "science-nature",
+    "subcategory": "astronomy",
+    "tags": [
+      "astronomy",
+      "science-history",
+      "evolution",
+      "space-exploration",
+      "cosmology"
+    ],
+    "difficulty": "moderate",
+    "read_time_min": 12,
+    "why_it_matters": "It made the case that the history of the universe and the history of human curiosity are one story, and it did so in prose people actually wanted to read. It set the template for science on television and in print for forty years.",
+    "crux": {
+      "headline": "You are the universe examining itself",
+      "body": "The atoms in your hands were manufactured inside stars and scattered by their deaths. The same physics that built galaxies built the chemistry that became life, and one branch of that life eventually worked out where it came from. That continuity is not poetry dressed up as science. It is the literal claim, and it is testable: the elements in your body match the elements stars are known to produce."
+    },
+    "sparks": [
+      {
+        "id": "cosmos-s01",
+        "hook": "Compress cosmic history into one year and everything you know happens on the last day.",
+        "insight": "Scale is the hardest thing about astronomy, so map the whole history onto a calendar. Put the beginning on the first of January and now at midnight on the thirty-first of December. On that scale our galaxy forms in spring, the Sun and Earth in late summer, the first complex animals in mid-December. Every dinosaur lives and dies between Christmas and Boxing Day. All recorded human history, from the first cities to this sentence, occupies the final few seconds of the year.",
+        "why": "The calendar is a device for making ratios visible, not a discovery. Note that the original used an age of about fifteen billion years; better measurements have since settled near 13.8 billion, which shifts the dates slightly and the lesson not at all.",
+        "apply": "Rebuild the calendar yourself with 13.8 billion years and your own birthday marked on it. Doing the division by hand lands the scale far harder than reading someone else's version.",
+        "format": "single",
+        "tags": [
+          "deep-time",
+          "cosmology",
+          "scale"
+        ]
+      },
+      {
+        "id": "cosmos-s02",
+        "hook": "The calcium in your bones was manufactured in a star that had to die first.",
+        "insight": "The early universe made hydrogen and helium and almost nothing else. Every heavier atom in you was assembled later, inside stars, by fusion pressing small nuclei into bigger ones. Carbon, oxygen, nitrogen, calcium and iron all have that origin. Those atoms stayed locked in the star until it died and threw its outer layers into space, where they mixed into the cloud that later collapsed into the Sun, the Earth and eventually you. Your body is processed stellar debris.",
+        "why": "This is measurable, not metaphorical. The chemical fingerprints of stars match the elements they are calculated to produce, and older stars are measurably poorer in heavy elements than younger ones, exactly as the story requires.",
+        "apply": "Pick one element you know is in you, such as the iron in your blood, and trace its route: fusion, stellar death, dust cloud, planet, food, you.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Start with hydrogen",
+            "body": "The young universe cooled into hydrogen and helium with a trace of lithium. No carbon, no oxygen, no metals. On that menu, chemistry as you know it is impossible."
+          },
+          {
+            "step": 2,
+            "title": "Squeeze it in a star",
+            "body": "Gravity pulls gas into a hot dense core where nuclei fuse. Hydrogen becomes helium, helium becomes carbon and oxygen, and heavier elements build up in shells."
+          },
+          {
+            "step": 3,
+            "title": "Blow the star apart",
+            "body": "Massive stars end by collapsing and exploding, scattering the manufactured elements across light years. Without that violent delivery step, the atoms stay locked away forever."
+          },
+          {
+            "step": 4,
+            "title": "Recycle into planets",
+            "body": "Enriched gas and dust collapse into a new star with rocky leftovers around it. Those leftovers are planets, and their chemistry is inherited from stars that died first."
+          }
+        ],
+        "tags": [
+          "nucleosynthesis",
+          "stars",
+          "chemistry"
+        ]
+      },
+      {
+        "id": "cosmos-s03",
+        "hook": "Two shadows and a long walk were enough to measure the whole planet.",
+        "insight": "Around 240 BCE, Eratosthenes knew that at midsummer noon in one Egyptian city the Sun stood directly overhead and cast no shadow down a well. On the same day, in Alexandria to the north, a vertical stick did cast a shadow. On a flat Earth both should behave identically. On a curved one, the angle of that shadow tells you what fraction of a full circle separates the two cities. Measure the distance between them, scale up, and you have the size of the world.",
+        "why": "His answer was close to the modern figure, though the size of his distance unit is uncertain enough that historians debate exactly how close. The method is the point: one assumption, two observations, and arithmetic.",
+        "apply": "On a sunny day, measure a vertical stick and its shadow, then work out the Sun's angle. That is half of what Eratosthenes had, and it costs you five minutes.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Find a no-shadow moment",
+            "body": "At midsummer noon at a particular latitude the Sun sits directly overhead and vertical objects cast no shadow at all. That is your reference point, and it needs no instruments."
+          },
+          {
+            "step": 2,
+            "title": "Measure a shadow elsewhere",
+            "body": "At the same moment further north, a vertical stick casts a clear shadow. The ratio of shadow length to stick height gives you the Sun's angle from vertical."
+          },
+          {
+            "step": 3,
+            "title": "Turn the angle into a fraction",
+            "body": "If the Sun is off vertical by roughly a fiftieth of a full turn, the two cities are separated by a fiftieth of the planet's circumference. The curvature does all the work."
+          },
+          {
+            "step": 4,
+            "title": "Scale up the distance",
+            "body": "Multiply the measured distance between the cities by that same factor and you have the size of the Earth, without leaving the country or building anything."
+          }
+        ],
+        "tags": [
+          "ancient-science",
+          "measurement",
+          "geometry"
+        ]
+      },
+      {
+        "id": "cosmos-s04",
+        "hook": "A gap of eight minutes of arc was small enough to ignore and big enough to end an era.",
+        "insight": "Kepler inherited Tycho Brahe's observations of Mars, the most precise ever taken without a telescope. He fitted circular orbits to them, as everyone had for two thousand years, and got a fit that was almost perfect. The leftover disagreement was about eight minutes of arc, a fraction of the width of the full Moon. Any earlier astronomer would have blamed the observer. Kepler trusted Tycho's precision more than he trusted circles, chased the discrepancy, and ended up with elliptical orbits.",
+        "why": "The mechanism here is instrumentation. Once measurement error drops below the size of a theory's flaw, the flaw stops being deniable. Progress often waits on precision rather than on genius.",
+        "apply": "In your own work, identify the residual you routinely round away. Ask what would have to be true for that leftover to be real data rather than noise.",
+        "format": "single",
+        "tags": [
+          "kepler",
+          "measurement",
+          "scientific-method"
+        ]
+      },
+      {
+        "id": "cosmos-s05",
+        "hook": "The famous equation for counting alien civilisations mostly counts our own ignorance.",
+        "insight": "Frank Drake's equation multiplies a chain of factors: how many stars form, how many have planets, how many planets are habitable, on how many does life start, how often does it get intelligent, how often does that build a technology that signals, and how long does such a civilisation last. Multiply them and you get a number of contactable civilisations. The structure is honest and useful, because it shows precisely which unknowns matter, but multiplying guesses produces a guess.",
+        "why": "Since 1995, when the first planet orbiting a sun-like star was confirmed, thousands of exoplanets have been found, so two early factors are now measured rather than assumed. The biological and social terms remain unconstrained by any data at all.",
+        "apply": "Write out the equation and mark each factor as measured, estimated or unknown. Then notice that your final answer is determined almost entirely by the unknowns.",
+        "format": "single",
+        "tags": [
+          "seti",
+          "exoplanets",
+          "probability"
+        ]
+      },
+      {
+        "id": "cosmos-s06",
+        "hook": "Venus is the same size as Earth and hot enough to melt lead.",
+        "insight": "Venus is our near twin in size and mass, and it sits closer to the Sun but not enough closer to explain its surface. The atmosphere does that. It is overwhelmingly carbon dioxide, thick and heavy, and carbon dioxide is transparent to incoming sunlight but opaque to the infrared that a warm surface radiates back. Heat gets in easily and leaves slowly. The surface sits above four hundred degrees Celsius, hot enough to melt lead, under crushing pressure.",
+        "why": "Sagan worked on the Venus greenhouse himself, and spacecraft measurements have confirmed the surface conditions repeatedly since. The same infrared-trapping physics is what makes carbon dioxide matter in Earth's atmosphere, at a very different scale.",
+        "apply": "Learn the one-sentence mechanism, that carbon dioxide lets sunlight in and slows infrared out, and you can follow almost any climate argument without needing a model.",
+        "format": "single",
+        "tags": [
+          "venus",
+          "greenhouse-effect",
+          "planetary-science"
+        ]
+      },
+      {
+        "id": "cosmos-s07",
+        "hook": "Every pigeon breed is a rock dove people selected. Nature does the same, slower.",
+        "insight": "Selective breeding is the shortcut into evolution because you can watch it happen. Choose which animals or plants reproduce, repeat for enough generations, and you get shapes that look nothing like the ancestor: greyhounds and bulldogs from wolves, broccoli and cabbage from one wild mustard. Nothing mystical happens in the process. Variation exists, some variants leave more offspring, and the effect accumulates. Natural selection is the same procedure with the environment rather than a breeder doing the choosing.",
+        "why": "One caution. The book illustrates this with Japanese crabs supposedly shaped by fishermen returning ones that looked like samurai faces. Biologists have since argued the resemblance is coincidence and the selection story is unsupported, so treat that particular example as folklore.",
+        "apply": "Find two breeds of the same species that look wildly different, then look up their shared wild ancestor. That gap was produced in centuries, not aeons.",
+        "format": "single",
+        "tags": [
+          "evolution",
+          "selection",
+          "biology"
+        ]
+      },
+      {
+        "id": "cosmos-s08",
+        "hook": "The story that one library burned and knowledge stopped for a thousand years is too tidy.",
+        "insight": "Alexandria held the ancient world's great research collection, and its loss is genuinely a loss. But the popular telling, in which a single fire destroys a civilisation's knowledge and delays science by a millennium, does not survive contact with the sources. The collection declined over centuries through funding cuts, political purges, war damage and neglect, with several destructive episodes and no single villain. The murder of the mathematician Hypatia was as much factional politics as hostility to learning.",
+        "why": "Historians dispute both the scale of the loss and the clean causal line to later stagnation. The honest version is less dramatic and more useful: institutions rot slowly when the money and the politics turn against them.",
+        "apply": "When a history you love has exactly one cause and one villain, go looking for the second cause. It is nearly always there and it is usually budgetary.",
+        "format": "single",
+        "tags": [
+          "science-history",
+          "myths",
+          "alexandria"
+        ]
+      },
+      {
+        "id": "cosmos-s09",
+        "hook": "The planets stopped being lights and became places within a single human lifetime.",
+        "insight": "For all of history the planets were moving points of light, and their surfaces were guesswork. Then a handful of small robots flew past them and sent back pictures: volcanoes erupting on a moon of Jupiter, cracked ice on another, rings made of countless separate particles. In a couple of decades every one of those worlds acquired geography, weather and a history. Robotic spacecraft are not a substitute for human senses so much as an extension of them into places bodies cannot go.",
+        "why": "The Voyager missions exploited a rare alignment of the outer planets that allowed one craft to be flung from world to world by gravity. Such an arrangement recurs roughly every 175 years, so the opportunity was genuinely once in several lifetimes.",
+        "apply": "Pull up raw images from a current planetary mission rather than press-release renderings. Looking at real data changes what you think exploration actually produces.",
+        "format": "single",
+        "tags": [
+          "space-exploration",
+          "voyager",
+          "planets"
+        ]
+      },
+      {
+        "id": "cosmos-s10",
+        "hook": "The scariest unknown in the alien equation is how long a technological species survives.",
+        "insight": "In the chain of factors, every term before the last is about how often civilisations arise. The final one asks how long they persist once they can broadcast. If technological societies routinely destroy themselves shortly after developing the means to, then the galaxy could produce them steadily and still be nearly empty at any given moment, because they never overlap in time. That converts a question about aliens into a question about us, and it is the only term we can affect.",
+        "why": "The argument was written under the shadow of nuclear war and it generalises to any self-inflicted risk. It is reasoning, not evidence: we have exactly one example of a technological species and no idea whether it is typical.",
+        "apply": "Next time you assess a global risk, ask how it would look on a timescale of centuries rather than election cycles. That is the timescale the question is actually posed on.",
+        "format": "single",
+        "tags": [
+          "seti",
+          "existential-risk",
+          "civilisation"
+        ]
+      }
+    ],
+    "actions": [
+      "Rebuild the cosmic calendar using the current age of 13.8 billion years, and mark on it the origin of life, the first animals, and your own lifetime.",
+      "Learn the night sky well enough to identify five objects without an app, including one that is not a star. Naked-eye familiarity is what the whole history of astronomy was built on.",
+      "Pick one historical episode described here and read a modern historian on it. Notice how much of the drama survives and how much was narrative compression.",
+      "Follow a live planetary mission for a month and look at the raw images as they arrive rather than the polished summaries."
+    ],
+    "if_you_liked": [
+      "the-demon-haunted-world",
+      "a-brief-history-of-time",
+      "seven-brief-lessons-on-physics"
+    ],
+    "not_for_you_if": "You want current astronomy: the exoplanet era, dark energy and modern cosmology all arrived after this was written, and some of its history is romanticised.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "Published 1980 by Random House alongside the television series. The universe age used in the original is superseded, and the crab selection example is disputed by biologists; both flagged in the sparks. All prose original."
+    }
+  },
+  {
+    "id": "the-demon-haunted-world",
+    "title": "The Demon-Haunted World",
+    "subtitle": "Science as a Candle in the Dark",
+    "author": "Carl Sagan",
+    "year": 1995,
+    "category": "science-nature",
+    "subcategory": "critical-thinking",
+    "tags": [
+      "critical-thinking",
+      "scepticism",
+      "pseudoscience",
+      "scientific-method",
+      "evidence"
+    ],
+    "difficulty": "easy",
+    "read_time_min": 12,
+    "why_it_matters": "It argues that scientific thinking is a civic skill rather than a professional one, and hands over the actual tools. It has been the standard gift for anyone learning to test claims for themselves for thirty years.",
+    "crux": {
+      "headline": "Wonder and scepticism are one skill, not two",
+      "body": "Believe nothing and you never discover anything. Believe everything and you cannot tell the discoveries from the noise. The useful stance holds both at once: real openness to strange ideas, plus a demand that any idea earn its place by making predictions that could have failed. Scepticism is not a mood of dismissal. It is the quality-control step that makes wonder trustworthy."
+    },
+    "sparks": [
+      {
+        "id": "the-demon-haunted-world-s01",
+        "hook": "A claim that can survive any possible test is not strong. It is empty.",
+        "insight": "Imagine someone tells you a creature lives in their garage. You look and see nothing, so they explain it is invisible. You suggest scattering flour to catch footprints, and they say it floats. You reach for an infrared camera, and they say it gives off no heat. Every test you propose is answered with a new exemption. At that point the claim has been stripped of every consequence. There is now no difference between the invisible creature and no creature at all.",
+        "why": "A claim earns credibility by ruling things out. If it forbids nothing, no observation can support it either, because support only means the world could have contradicted you and did not.",
+        "apply": "Take a belief you hold and finish this sentence: I would abandon this if I observed ____. If nothing fills the blank, you are holding a preference rather than a claim.",
+        "format": "single",
+        "tags": [
+          "falsifiability",
+          "evidence",
+          "reasoning"
+        ]
+      },
+      {
+        "id": "the-demon-haunted-world-s02",
+        "hook": "Anyone can check a claim. The trick is knowing which questions to ask in order.",
+        "insight": "Weighing an unfamiliar claim is a procedure, not a talent. Ask whether anyone independent has confirmed it, whether knowledgeable people are allowed to argue about it, whether the argument has an unbroken chain of steps rather than one strong link and a leap, whether the claim can be quantified, and whether the person making it has told you what evidence would change their mind. Most nonsense fails at least two of those before you need any specialist knowledge at all.",
+        "why": "These checks work because they test the process rather than the content. You do not need to be a physician to notice that a treatment has never been compared against anything.",
+        "apply": "Run the next surprising claim you see through these questions in writing, in order. Writing forces you to answer them rather than to feel that you have.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Ask who else found it",
+            "body": "Independent confirmation matters more than the strength of the original claim. One group's result is a hypothesis; several groups getting it separately is evidence."
+          },
+          {
+            "step": 2,
+            "title": "Check the chain",
+            "body": "Follow the argument step by step and find the weakest link. A conclusion is only as sound as its shakiest step, no matter how strong the others are."
+          },
+          {
+            "step": 3,
+            "title": "Insist on numbers",
+            "body": "Vague claims survive anything. Anything measurable can be wrong in a specific way, which is exactly what makes measurement worth demanding."
+          },
+          {
+            "step": 4,
+            "title": "Look for the alternatives",
+            "body": "Ask what else could produce this result, then check whether those were tested and ruled out. If only one explanation was ever considered, nothing has been shown."
+          },
+          {
+            "step": 5,
+            "title": "Find the exit condition",
+            "body": "Ask the claimant what observation would make them drop it. An answer means you are dealing with a hypothesis. No answer means you are dealing with a commitment."
+          }
+        ],
+        "tags": [
+          "critical-thinking",
+          "checklist",
+          "evidence"
+        ]
+      },
+      {
+        "id": "the-demon-haunted-world-s03",
+        "hook": "Most bad arguments are a handful of moves you can learn to spot in seconds.",
+        "insight": "Faulty reasoning is far less varied than it looks. Attack the person instead of the claim. Cite an authority instead of the evidence. Offer two options when there are twelve. Treat absence of proof against as proof for. Pick the cases that fit and quietly drop the rest. Once you know the shapes, you stop having to evaluate every argument from scratch, because you recognise the move being made before you have finished reading the sentence.",
+        "why": "Naming a fallacy is a compression tool, not a victory. A badly argued claim can still be true, so the correct response is to ask for a better argument rather than to declare the matter closed.",
+        "apply": "Pick one fallacy and hunt only for that one for a week, including in your own arguments. Narrow attention finds far more than a general resolve to think clearly.",
+        "format": "carousel",
+        "carousel": [
+          {
+            "step": 1,
+            "title": "Person, not position",
+            "body": "The speaker's motives, employer or character are attacked instead of the claim. Sometimes motives are relevant to trust, but they never settle whether a statement is true."
+          },
+          {
+            "step": 2,
+            "title": "Authority instead of evidence",
+            "body": "Someone eminent said it, so it stands. Expertise is a reasonable guide to where to look, but it is not itself the reason a claim is correct."
+          },
+          {
+            "step": 3,
+            "title": "Two doors only",
+            "body": "A messy question is presented as a choice between two options, usually one absurd. Ask what the third and fourth options were, and why they vanished."
+          },
+          {
+            "step": 4,
+            "title": "Ignorance as proof",
+            "body": "Nobody has disproved it, therefore it stands. Absence of a refutation is not support, or every unexamined idea would be well evidenced."
+          }
+        ],
+        "tags": [
+          "fallacies",
+          "argument",
+          "reasoning"
+        ]
+      },
+      {
+        "id": "the-demon-haunted-world-s04",
+        "hook": "A vivid memory of something impossible is still a real memory. That is the problem.",
+        "insight": "Reports of night-time abductions are strikingly consistent: you wake unable to move, you sense a presence, you feel pressure on your chest, there is light and terror. That combination is also the well-documented experience of sleep paralysis, where the body's normal muscle shutdown during dreaming persists briefly into waking and dream imagery bleeds into the room. The experience is genuine and terrifying. What differs across cultures and eras is only the identity assigned to the figure at the bedside.",
+        "why": "This explains why sincere people report impossible events without lying. It does not prove any individual case false, and hypnosis makes matters worse rather than better, since it reliably produces confident memories of things that did not happen.",
+        "apply": "Separate two questions whenever you hear an extraordinary account: did something happen to this person, and is their explanation of it correct. They have different answers surprisingly often.",
+        "format": "single",
+        "tags": [
+          "memory",
+          "sleep-paralysis",
+          "pseudoscience"
+        ]
+      },
+      {
+        "id": "the-demon-haunted-world-s05",
+        "hook": "Science works by catching its own mistakes, not because scientists are careful people.",
+        "insight": "Individual scientists are as biased, competitive and stubborn as anyone else. The reliability does not live in their characters, it lives in the arrangement: results have to be published in enough detail to be repeated, rivals are rewarded for demolishing each other's work, and error bars are stated up front. Error correction is delegated to people who would enjoy proving you wrong. That is why the output is more trustworthy than any of the individuals producing it.",
+        "why": "The design is sound but imperfect in practice. Replication is often not attempted, negative results are hard to publish, and whole fields have discovered that widely cited findings do not hold up when someone finally checks.",
+        "apply": "Before trusting a striking result, spend two minutes finding out whether anyone independent has repeated it. That single habit filters out most of what later gets retracted.",
+        "format": "single",
+        "tags": [
+          "scientific-method",
+          "replication",
+          "self-correction"
+        ]
+      },
+      {
+        "id": "the-demon-haunted-world-s06",
+        "hook": "Torture produced perfect evidence for witchcraft, which is exactly what made it worthless.",
+        "insight": "Early modern witch trials generated mountains of confirming testimony: confessions, named accomplices, detailed accounts of impossible events. The system that produced this evidence guaranteed it. Confession under torture ended the pain, denial did not, and each confession required naming others, which produced fresh suspects. Every input was converted to a positive result. A procedure that cannot return a negative answer tells you nothing about the world, however much data it generates.",
+        "why": "This is a permanent structural lesson rather than a historical curiosity. Any process that only records hits, whether an interrogation, an audit or an algorithm, will accumulate overwhelming evidence for whatever it was set up to find.",
+        "apply": "For any process you rely on, ask what a negative result would look like and how often it actually occurs. If the answer is never, stop treating its outputs as evidence.",
+        "format": "single",
+        "tags": [
+          "history",
+          "evidence",
+          "bias"
+        ]
+      },
+      {
+        "id": "the-demon-haunted-world-s07",
+        "hook": "A society that runs on science while almost nobody understands it is not stable.",
+        "insight": "Nearly every serious public decision now has a technical core: energy, medicine, food, surveillance, climate, artificial intelligence. Voters and the politicians they choose have to weigh those questions. If almost no one can tell a well-supported claim from a confident one, the decisions do not disappear, they simply get made on other grounds, by whoever tells the most satisfying story. Scientific literacy is not about knowing facts. It is about being hard to fool.",
+        "why": "The concern was raised in the mid-1990s and the underlying arrangement has only deepened since. Note it is an argument about risk rather than a measured prediction of any particular outcome.",
+        "apply": "Choose one technical issue you vote on and learn its basic mechanism well enough to explain it in three sentences to someone who disagrees with you.",
+        "format": "single",
+        "tags": [
+          "scientific-literacy",
+          "democracy",
+          "society"
+        ]
+      },
+      {
+        "id": "the-demon-haunted-world-s08",
+        "hook": "People believe strange things because those beliefs pay them something real.",
+        "insight": "Dismissing a belief as stupid explains nothing, because the people holding it are not stupid. Beliefs about spirits, cures and conspiracies deliver goods: comfort about death, an explanation for undeserved suffering, a sense of control, community, and the flattering position of knowing what others miss. Any argument that removes the belief without supplying those goods elsewhere will fail, and will usually make the holder defend it harder. Contempt is the least effective response available.",
+        "why": "This is a claim about motivation rather than a measured finding. It sits well with what is known about how people resist information that threatens identity, and it explains why factual correction alone so often backfires.",
+        "apply": "Next time you want to argue someone out of a belief, first work out what it is doing for them. Then decide whether you have anything to offer in its place.",
+        "format": "single",
+        "tags": [
+          "psychology",
+          "persuasion",
+          "belief"
+        ]
+      },
+      {
+        "id": "the-demon-haunted-world-s09",
+        "hook": "Almost anything looks like it works if you try it when you feel worst.",
+        "insight": "People try a remedy at their lowest point, because that is when they are motivated. Most conditions fluctuate, and after an unusually bad day the likely next move is toward average. Improvement follows the remedy and gets credited to it. Add the genuine effect of expecting to feel better, plus the fact that people who improve tell the story and people who do not go quiet, and you can manufacture a convincing pile of testimonials for something completely inert.",
+        "why": "This is why controls exist. A comparison group, allocated at random and unaware of which treatment they got, is the only way to separate the remedy from the drift back to normal.",
+        "apply": "When something worked for you, ask what would have happened had you done nothing. If you cannot answer, you have an anecdote and not a result.",
+        "format": "single",
+        "tags": [
+          "regression-to-the-mean",
+          "placebo",
+          "evidence"
+        ]
+      },
+      {
+        "id": "the-demon-haunted-world-s10",
+        "hook": "The line between science and nonsense is real but blurrier than any slogan admits.",
+        "insight": "It is tempting to want a single test that sorts genuine science from imitation. Philosophers have looked hard for one and not found a clean rule. Real science includes long stretches of untestable speculation, and some rejected ideas were once respectable and testable. What holds up better is a family of habits: making risky predictions, publishing methods, seeking disconfirmation, revising in the face of evidence. Judge on the balance of those habits rather than on a single decisive marker.",
+        "why": "Attempts to define science by falsifiability alone have been heavily criticised by philosophers of science, and the boundary is argued over to this day. Treating it as a spectrum of practice is both more honest and more usable.",
+        "apply": "Rate a contested field on four habits: risky predictions, open methods, active attempts to disprove, visible revision. A low score on all four tells you more than any label.",
+        "format": "single",
+        "tags": [
+          "philosophy-of-science",
+          "demarcation",
+          "scepticism"
+        ]
+      }
+    ],
+    "actions": [
+      "Write your claim-checking questions on a card and keep it where you read news. Applying a checklist deliberately for a month is what turns it into an instinct.",
+      "Take one belief you hold strongly and write down the evidence that would change it. If you cannot produce any, investigate why you hold it.",
+      "Trace one viral claim back to its original source rather than the article about it. The gap between the two is usually where the real story is.",
+      "Teach the sleep paralysis explanation, or any similar mechanism, to someone younger. Explaining a mechanism out loud is the fastest way to find the holes in your own version."
+    ],
+    "if_you_liked": [
+      "cosmos",
+      "the-structure-of-scientific-revolutions",
+      "silent-spring"
+    ],
+    "not_for_you_if": "You want a systematic philosophy of science rather than an argument for public scepticism, or you find the mid-1990s American examples dated.",
+    "verification": {
+      "author_verified": true,
+      "year_verified": true,
+      "confidence": "high",
+      "notes": "First published 1995 by Random House, written with Ann Druyan's collaboration. The demarcation caveat reflects mainstream philosophy of science rather than the book's own position. All prose original."
+    }
+  }
+]
