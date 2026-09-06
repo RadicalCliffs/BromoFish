@@ -49,7 +49,7 @@ export default function Saved() {
       <SafeAreaView style={[styles.empty, { backgroundColor: theme.bg }]}>
         <Text style={[type.title, { color: theme.text, textAlign: 'center' }]}>Your saves live here</Text>
         <Text style={[type.small, { color: theme.textMuted, textAlign: 'center' }]}>
-          Create an account and every insight you dogear is kept, grouped and searchable.
+          Create an account and every insight you save is kept, grouped and searchable.
         </Text>
         <Button label="Create an account" onPress={() => router.push('/(auth)/sign-up')} full={false} />
       </SafeAreaView>
