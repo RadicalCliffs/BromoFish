@@ -93,12 +93,12 @@ export default function ProfileTab() {
         </View>
 
         <View style={styles.section}>
-          <Text style={[type.overline, { color: theme.textMuted }]}>APPEARANCE</Text>
+          <Text style={[type.overline, { color: theme.textMuted }]}>THEME</Text>
           <View style={styles.chips}>
-            {(['system', 'light', 'dark'] as const).map((p) => (
+            {(['dark'] as const).map((p) => (
               <Chip
                 key={p}
-                label={p === 'system' ? 'Match device' : p === 'light' ? 'Light' : 'Dark'}
+                label="Dark"
                 selected={preference === p}
                 onPress={() => setPreference(p)}
                 small
